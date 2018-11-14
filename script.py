@@ -29,7 +29,10 @@ def write_austen_prop(train_list, archive_name):
             line = original_file.readline()
             while line:
                 if "trainFile" in line:
-                    line = "trainFileList = " + train_list + "\n"
+                    if len(train_list) == 1:
+                        line = "trainFile = " + train_list + "\n"
+                    else:
+                        line = "trainFileList = " + train_list + "\n"
                     new_file.write(line)
                 elif "serializeTo" in line:
                     line = "serializeTo = " + archive_name + "\n"
@@ -49,7 +52,7 @@ def test_model(archive_name, test_list):
     else:
         test = " -testFile "
     with open("test_model.sh", "w") as file:
-        command = "java -mx8g -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier " +  archive_name + test + test_list
+        command = "java -Xms4g -Xmx16g -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier " +  archive_name + test + test_list
         file.write(command)
 
 def main():
@@ -58,8 +61,13 @@ def main():
     train_model()
     test_model(gz_name, test_list)
 
+def main_final_conl():
+    train_list = os.path.join("jo","final_conl.tsv")
+    write_austen_prop(train_list, "ner-model.final_conl.gz")
+    train_model()
+
 if __name__ == "__main__":
-    main()
+    main_final_conl()
     print("\n\n.......... BUILD MODEL ..........\n\n")
     os.system("sh train_model.sh")
     #print("\n\n.......... TEST MODEL ..........\n\n")
