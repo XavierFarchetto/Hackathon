@@ -1,0 +1,107 @@
+Ouvrier	position
+paysagiste	position
+Dumond	company
+Espace	company
+Vert	company
+-	O
+Luzarches	city
+-LRB-	O
+95	postal code
+-RRB-	O
+900	salary
+$	salary
+-	
+1	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Entreprise	O
+realisant	O
+tous	O
+travaux	O
+paysager	O
+Élagage	O
+,	O
+clôture	O
+,	O
+terrassement	O
+,	O
+création	O
+et	O
+entretien	O
+Et	O
+autre	O
+activité	O
+...	O
+.	O
+recherche	O
+personne	soft skills
+motivé	soft skills
+Minimum	experience
+de	experience
+connaissance	experience
+en	experience
+espaces	experience
+vert	experience
+et	experience
+en	experience
+utilisation	experience
+du	experience
+matériel	experience
+.	O
+-LRB-	O
+taille	experience
+haie	experience
+,	O
+tronconneuse	experience
+-RRB-	O
+.	O
+Personne	soft skills
+autonome	soft skills
+sur	soft skills
+un	soft skills
+chantier	soft skills
+Contact	soft skills
+clientèle	soft skills
+Travail	O
+difficile	O
+en	O
+condition	O
+climatique	O
+Permis	hard skills
+vl	hard skills
+obligatoire	hard skills
+Possibilité	hard skills
+de	hard skills
+formation	hard skills
+d	hard skills
+Elagage	hard skills
+Contrat	hard skills
+2	hard skills
+semaines	hard skills
+par	hard skills
+mois	hard skills
+a	hard skills
+35	hard skills
+h	hard skills
+par	hard skills
+semaines	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+900	salary
+$	salary
+à	O
+1	salary
+0	salary
+$	salary
+/	O
+mois	salary

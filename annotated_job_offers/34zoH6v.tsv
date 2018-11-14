@@ -1,0 +1,219 @@
+Assistant	posistion
+-LRB-	O
+e	posistion
+-RRB-	O
+Comptable	posistion
+h/f	O
+Paris	company
+ILMG	company
+-	O
+Paris	city
+17e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+Stage	contrat_type
+Au	O
+sein	O
+du	O
+siège	O
+social	O
+de	O
+ILMG	company
+-LRB-	O
+Paris	city
+17ème	city
+-RRB-	O
+,	O
+vous	hard skills
+venez	hard skills
+en	hard skills
+support	hard skills
+pour	hard skills
+l'équipe	hard skills
+COMPTABILITÉ	hard skills
+.	O
+En	hard skills
+binôme	hard skills
+,	
+vous	hard skills
+participez	hard skills
+à	hard skills
+:	
+-	O
+Réception	hard skills
+,	
+vérification	hard skills
+des	hard skills
+informations	hard skills
+écrites	hard skills
+-LRB-	O
+bordereaux	hard skills
+,	O
+factures	hard skills
+,	O
+bons	hard skills
+de	hard skills
+commandes	hard skills
+-RRB-	O
+-	O
+La	hard skills
+préparation	hard skills
+,	
+le	hard skills
+contrôle	hard skills
+et	hard skills
+la	hard skills
+saisie	hard skills
+des	hard skills
+notes	hard skills
+de	hard skills
+frais	hard skills
+-	O
+Le	hard skills
+traitement	hard skills
+des	hard skills
+factures	hard skills
+fournisseurs	hard skills
+-LRB-	O
+saisie	hard skills
+,	O
+suivi	hard skills
+et	hard skills
+relance	hard skills
+-RRB-	O
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+comptabilité	hard skills
+client	hard skills
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+comptabilité	hard skills
+fournisseurs	hard skills
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+comptabilité	hard skills
+générale	
+Etudiant	experience
+-LRB-	O
+e	experience
+-RRB-	O
+en	experience
+BAC	experience
+PRO	experience
+/	O
+BTS	experience
+Comptabilité	experience
+,	O
+vous	experience
+êtes	experience
+à	experience
+la	experience
+recherche	experience
+d'une	experience
+première	experience
+expérience	experience
+en	experience
+comptabilité	experience
+de	experience
+4	experience
+à	experience
+8	experience
+semaines.Dynamique	experience
+et	experience
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+pour	soft skills
+votre	soft skills
+rigueur	soft skills
+,	O
+votre	soft skills
+bonne	soft skills
+organisation	soft skills
+et	soft skills
+sens	soft skills
+de	soft skills
+la	soft skills
+confidentialité.Vous	soft skills
+maîtrisez	hard skills
+le	hard skills
+Pack	hard skills
+Office	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+-RRB-	O
+.	O
+La	O
+période	O
+de	O
+stage	O
+est	O
+à	O
+définir	O
+avec	O
+votre	O
+établissement	O
+pour	O
+une	O
+durée	O
+de	O
+35	O
+heures	O
+par	O
+semaine	O
+et	O
+doit	O
+faire	O
+l'objet	O
+d'une	O
+convention	O
+de	O
+stage	O
+.	O
+Esprit	soft skills
+d'équipe	soft skills
+Rigueur	soft skills
+Discrétion	soft skills
+Dynamique	soft skills
+Débutant	
+accepté	O
+Disponible	O
+dès	O
+que	O
+possible	O
+Type	O
+d'emploi	O
+:	O
+Stage	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

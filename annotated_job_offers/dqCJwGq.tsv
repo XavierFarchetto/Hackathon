@@ -1,0 +1,152 @@
+Estheticienne	position
+Esthetic	position
+Center	company
+CUGNAUX	company
+-	O
+Cugnaux	city
+-LRB-	O
+31	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+ESTHETIC	company
+CENTER	company
+CUGNAUX	city
+Grande	O
+enseigne	O
+nationale	O
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Estheticien	position
+-LRB-	O
+ne	position
+-RRB-	O
+H/F	O
+,	O
+passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+avec	experience
+une	experience
+expérience	experience
+suffisante	experience
+dans	experience
+le	experience
+``	
+SANS	O
+RENDEZ-VOUS	O
+''	O
+pour	hard skills
+pouvoir	hard skills
+acceuillir	hard skills
+les	hard skills
+clients	hard skills
+,	
+identifier	hard skills
+leurs	hard skills
+besoins	hard skills
+et	hard skills
+les	hard skills
+conseiller	hard skills
+sur	hard skills
+les	hard skills
+produits	hard skills
+et	hard skills
+services	hard skills
+.	
+Vous	hard skills
+réaliserez	hard skills
+les	hard skills
+prestations	hard skills
+suivantes	hard skills
+:	O
+-	O
+Les	hard skills
+épilations	hard skills
+-	hard skills
+Les	hard skills
+soins	hard skills
+visages	hard skills
+et	hard skills
+corps	hard skills
+classique	hard skills
+et	hard skills
+High-tech	hard skills
+-	hard skills
+La	hard skills
+manucurie	hard skills
+et	hard skills
+l'onglerie	hard skills
+-	hard skills
+La	hard skills
+dépilation	hard skills
+-LRB-	O
+serait	hard skills
+un	hard skills
+plus	hard skills
+si	hard skills
+vous	hard skills
+avez	hard skills
+la	hard skills
+formation	hard skills
+-RRB-	
+Poste	O
+évolutif	O
+vers	O
+des	O
+responsabilités	O
+rapidement	O
+suivant	O
+votre	O
+profil	O
+.	O
+Salaire	O
+:	O
+1500	salary
+$	salary
+brut	salary
++	O
+Primes	O
+très	O
+intéressantes	O
+sur	O
+CA	O
+et	O
+ventes	O
+produits	O
+Pour	O
+plus	O
+d'informations	O
+,	O
+merci	O
+de	O
+me	O
+contacter	O
+au	O
+06.80.68.81.02	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Esthétique	experience
+:	O
+1	experience
+an	experience

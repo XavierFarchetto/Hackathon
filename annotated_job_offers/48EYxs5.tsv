@@ -1,0 +1,879 @@
+Agent	position
+de	position
+nettoyage	position
+industriel	position
+CORALLIS	company
+-	O
+Saint-Quentin-Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Agrologis	company
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	position
+futur	position
+agent	position
+de	position
+nettoyage	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	
+de	
+professionnalisation	c
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint-Quentin	city
+Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-Alimentaire	O
+,	O
+vous	hard skills
+serez	hard skills
+formé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+aux	hard skills
+techniques	hard skills
+de	hard skills
+nettoyage	hard skills
+industriel	hard skills
+.	hard skills
+A	hard skills
+l'aide	hard skills
+d'un	hard skills
+nettoyeur	hard skills
+haute	hard skills
+pression	hard skills
+,	O
+vous	hard skills
+serez	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+propreté	hard skills
+des	hard skills
+lignes	hard skills
+de	hard skills
+fabrication	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+,	hard skills
+également	hard skills
+,	
+en	hard skills
+charge	hard skills
+du	hard skills
+tri	hard skills
+des	hard skills
+déchets	hard skills
+en	hard skills
+respectant	hard skills
+un	hard skills
+process	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+HACCP	hard skills
+.	
+Dans	
+le	
+cadre	
+de	
+votre	
+parcours	
+de	
+formation	
+,	
+le	
+groupement	
+d'employeurs	
+vous	
+fiancera	
+les	
+caces	
+1	
+3	
+5	
+.	
+Vous	
+souhaitez	
+vous	
+investir	
+sur	
+une	
+formation	
+en	O
+alternance	O
+avec	O
+de	O
+réelles	O
+opportunités	O
+d'emploi	O
+durables	O
+.	O
+Cette	O
+formation	O
+rémunérée	O
+s	O
+`	O
+adresse	O
+aux	O
+personnes	O
+qui	O
+souhaitent	O
+s	O
+`	O
+orienter	O
+sur	O
+un	O
+poste	O
+dans	O
+l'industrie	O
+Agro-Alimentaire	O
+.	O
+Votre	soft skills
+état	soft skills
+d'esprit	soft skills
+d'équipe	soft skills
+ainsi	soft skills
+que	soft skills
+votre	soft skills
+flexibilité	soft skills
+seront	
+des	O
+atouts	O
+pour	O
+réussir	O
+dans	O
+le	O
+cadre	O
+de	O
+ce	O
+parcours	O
+de	O
+formation	O
+.	O
+AGROLOGIS	company
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	position
+futur	position
+Hygiéniste	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	O
+de	O
+professionnalisation	O
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint	city
+Quentin	city
+Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-alimentaire	O
+,	O
+vous	hard skills
+serez	hard skills
+formé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+aux	hard skills
+techniques	hard skills
+de	hard skills
+nettoyage	hard skills
+industriel	hard skills
+.	
+A	hard skills
+l'aide	hard skills
+d'un	hard skills
+nettoyeur	hard skills
+haute	hard skills
+pression	hard skills
+,	
+vous	hard skills
+serez	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+propreté	hard skills
+des	hard skills
+lignes	hard skills
+de	hard skills
+fabrication	hard skills
+.	O
+Vous	hard skills
+serez	hard skills
+,	
+également	hard skills
+,	O
+en	hard skills
+charge	hard skills
+du	hard skills
+tri	hard skills
+des	hard skills
+déchets	hard skills
+en	hard skills
+respectant	hard skills
+un	hard skills
+process	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+HACCP	hard skills
+.	O
+Dans	
+le	
+cadre	
+de	
+votre	
+parcours	
+de	
+formation	O
+,	O
+le	O
+groupement	O
+d'employeurs	O
+vous	O
+financera	O
+les	O
+CACES	
+1	O
+3	O
+5	O
+.	O
+AGROLOGIS	O
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	position
+futur	position
+Hygiéniste	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	O
+de	O
+professionnalisation	O
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint	city
+Quentin	city
+Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-alimentaire	O
+,	O
+vous	hard skills
+serez	hard skills
+formé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+aux	hard skills
+techniques	hard skills
+de	hard skills
+nettoyage	hard skills
+industriel	hard skills
+.	
+A	hard skills
+l'aide	hard skills
+d'un	hard skills
+nettoyeur	hard skills
+haute	hard skills
+pression	hard skills
+,	
+vous	hard skills
+serez	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+propreté	hard skills
+des	hard skills
+lignes	hard skills
+de	hard skills
+fabrication	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+,	
+également	hard skills
+,	O
+en	hard skills
+charge	hard skills
+du	hard skills
+tri	hard skills
+des	hard skills
+déchets	hard skills
+en	hard skills
+respectant	hard skills
+un	hard skills
+process	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+HACCP	hard skills
+.	
+Dans	
+le	
+cadre	
+de	
+votre	
+parcours	
+de	
+formation	
+,	
+le	O
+groupement	O
+d'employeurs	O
+vous	O
+financera	O
+les	O
+CACES	O
+1	O
+3	O
+5	O
+.	O
+AGROLOGIS	company
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	position
+futur	position
+Hygiéniste	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	O
+de	O
+professionnalisation	O
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint	city
+Quentin	city
+Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-alimentaire	O
+,	O
+vous	hard skills
+serez	hard skills
+formé	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+aux	hard skills
+techniques	hard skills
+de	hard skills
+nettoyage	hard skills
+industriel	hard skills
+.	
+A	hard skills
+l'aide	hard skills
+d'un	hard skills
+nettoyeur	hard skills
+haute	hard skills
+pression	hard skills
+,	
+vous	hard skills
+serez	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+propreté	hard skills
+des	hard skills
+lignes	hard skills
+de	hard skills
+fabrication	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+,	O
+également	hard skills
+,	
+en	hard skills
+charge	hard skills
+du	hard skills
+tri	hard skills
+des	hard skills
+déchets	hard skills
+en	hard skills
+respectant	hard skills
+un	hard skills
+process	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+HACCP	hard skills
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+votre	O
+parcours	O
+de	O
+formation	O
+,	O
+le	O
+groupement	O
+d'employeurs	O
+vous	O
+financera	O
+les	O
+CACES	O
+1	O
+3	O
+5	O
+.	O
+AGROLOGIS	company
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	position
+futur	position
+Hygiéniste	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	O
+de	O
+professionnalisation	O
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint	city
+Quentin	city
+Fallavier	city
+-LRB-	O
+38	code postal
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-alimentaire	O
+,	O
+vous	hard skills
+serez	hard skills
+formé	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+aux	hard skills
+techniques	hard skills
+de	hard skills
+nettoyage	hard skills
+industriel	hard skills
+.	O
+A	hard skills
+l'aide	hard skills
+d'un	hard skills
+nettoyeur	hard skills
+haute	hard skills
+pression	hard skills
+,	
+vous	hard skills
+serez	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+propreté	hard skills
+des	hard skills
+lignes	hard skills
+de	hard skills
+fabrication	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+,	
+également	hard skills
+,	O
+en	hard skills
+charge	hard skills
+du	hard skills
+tri	hard skills
+des	hard skills
+déchets	hard skills
+en	hard skills
+respectant	hard skills
+un	hard skills
+process	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+HACCP	hard skills
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+votre	O
+parcours	O
+de	O
+formation	O
+,	O
+le	O
+groupement	O
+d'employeurs	O
+vous	O
+financera	O
+les	O
+CACES	O
+1	O
+3	O
+5	O
+.	O
+AGROLOGIS	O
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+la	O
+formation	O
+aux	O
+métiers	O
+de	O
+l'industrie	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+un	O
+futur	O
+Hygiéniste	O
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	O
+de	O
+professionnalisation	O
+de	O
+12	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+basé	O
+à	O
+Saint	O
+Quentin	O
+Fallavier	O
+-LRB-	O
+38	O
+-RRB-	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+chez	O
+un	O
+acteur	O
+de	O
+renom	O
+de	O
+l'Industrie	O
+Agro-alimentaire	O
+,	O
+vous	O
+serez	O
+formé	O
+-LRB-	O
+e	O
+-RRB-	O
+aux	O
+techniques	O
+de	O
+nettoyage	O
+industriel	O
+.	O
+A	O
+l'aide	O
+d'un	O
+nettoyeur	O
+haute	O
+pression	O
+,	O
+vous	O
+serez	O
+le	O
+garant	O
+de	O
+la	O
+bonne	O
+propreté	O
+des	O
+lignes	O
+de	O
+fabrication	O
+.	O
+Vous	O
+serez	O
+,	O
+également	O
+,	O
+en	O
+charge	O
+du	O
+tri	O
+des	O
+déchets	O
+en	O
+respectant	O
+un	O
+process	O
+qualité	O
+et	O
+les	O
+règles	O
+HACCP	O
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+votre	O
+parcours	O
+de	O
+formation	O
+,	O
+le	O
+groupement	O
+d'employeurs	O
+vous	O
+financera	O
+les	O
+CACES	O
+1	O
+3	O
+5	O
+.	O
+Type	O
+d'emploi	O
+:	
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary

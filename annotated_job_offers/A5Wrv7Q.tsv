@@ -1,0 +1,130 @@
+Employé	position
+polyvalent	position
+de	position
+restauration	position
+Veng	company
+Hour	company
+-	O
+Villeneuve-la-Garenne	city
+-LRB-	O
+92	postal code
+-RRB-	O
+Pionnier	O
+du	O
+traiteur	O
+asiatique	O
+en	O
+France	O
+,	O
+nous	O
+sommes	O
+une	O
+chaîne	O
+avec	O
+une	O
+vingtaine	O
+de	O
+points	O
+de	O
+vente	O
+,	O
+principalement	O
+implantée	O
+dans	O
+des	O
+centres	O
+commerciaux	O
+.	O
+Nous	O
+recherchons	O
+un	position
+employé	position
+polyvalent	position
+de	position
+restauration	position
+-LRB-	O
+H/F	O
+-RRB-	O
+à	O
+plein	contrat_type
+temps	contrat_type
+pour	O
+notre	O
+boutique	O
+dans	O
+le	O
+centre	O
+commercial	O
+Qwartz	O
+à	O
+Villeneuve	city
+la	O
+Garenne	O
+.	O
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+à	hard skills
+conseiller	hard skills
+,	O
+servir	hard skills
+les	hard skills
+clients	hard skills
+,	O
+effectuer	hard skills
+des	hard skills
+préparations	hard skills
+.	O
+La	hard skills
+connaissance	hard skills
+des	hard skills
+normes	hard skills
+hygiène	hard skills
+est	hard skills
+nécessaire	hard skills
+et	hard skills
+une	hard skills
+connaissance	hard skills
+des	hard skills
+produits	hard skills
+asiatiques	hard skills
+est	hard skills
+un	hard skills
+VRAI	hard skills
+plus	hard skills
+.	
+Nous	O
+recherchons	O
+une	soft skills
+personne	soft skills
+dynamique	soft skills
+,	O
+souriante	soft skills
+,	O
+rigoureuse	soft skills
+,	O
+qui	soft skills
+aime	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+avec	soft skills
+une	soft skills
+vraie	soft skills
+envie	soft skills
+d'apprendre	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+restauration	experience
+:	O
+1	experience
+an	experience

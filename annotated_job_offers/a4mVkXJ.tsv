@@ -1,0 +1,122 @@
+AGENT	position
+DE	position
+CONDITIONNEMENT	position
+H/F	O
+Presta	company
+Breizh	company
+-	O
+Villers-Bocage	city
+-LRB-	O
+14	postal code
+-RRB-	O
+CDI	contrat_type
+Nous	O
+recrutons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Agent	position
+de	position
+conditionnement	position
+H/F	O
+Bœuf	O
+,	O
+secteur	O
+de	O
+Villers	city
+Bocage	city
+-LRB-	O
+14	postal code
+-RRB-	O
+-RRB-	O
+.	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+responsable	O
+de	O
+ligne/de	O
+site	O
+Presta	company
+Breizh	company
+,	O
+vous	hard skills
+êtes	hard skills
+positionné	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+sur	hard skills
+la	hard skills
+ligne	hard skills
+de	hard skills
+production	hard skills
+,	O
+et	hard skills
+aurez	hard skills
+notamment	hard skills
+pour	hard skills
+missions	hard skills
+de	hard skills
+:	O
+acheminer	hard skills
+les	hard skills
+pièces	hard skills
+et	hard skills
+peser	hard skills
+les	hard skills
+pièces	hard skills
+préparée	hard skills
+conditionner	hard skills
+et	hard skills
+étiqueter	hard skills
+les	hard skills
+pièces	hard skills
+préparées	hard skills
+ranger	hard skills
+sur	hard skills
+caddies	hard skills
+ou	hard skills
+bacs	hard skills
+les	hard skills
+pièces	hard skills
+conditionnées	hard skills
+suivre	hard skills
+les	hard skills
+règles	hard skills
+d'hygiène	hard skills
+,	
+qualité	hard skills
+et	hard skills
+sécurité	hard skills
+sur	hard skills
+son	hard skills
+poste	hard skills
+Profil	
+:	O
+Débutant	O
+-LRB-	O
+e	O
+-RRB-	O
+accepté	O
+-LRB-	O
+e	O
+-RRB-	O
+Moyen	O
+de	O
+transport	O
+indispensable	O
+Poste	O
+en	O
+CDI	contrat_type
+Fixe	O
++	O
+avantages	O
+sociaux	O
+Type	O
+d'emploi	O
+:	
+CDI	contrat_type

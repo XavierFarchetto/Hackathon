@@ -1,0 +1,478 @@
+Médecin	position
+coordinateur	position
+H/F	O
+Résidence	company
+Jeanne	company
+de	company
+Chantal	company
+-	O
+Crémieu	city
+-LRB-	O
+38	code postal
+-RRB-	O
+4	salary
+0	salary
+$	salary
+-	
+6	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Type	O
+d'offre	O
+:	O
+CDI	contrat_type
+temps	O
+plein	O
+ou	O
+partiel	O
+Temps	O
+de	O
+travail	O
+:	O
+Temps	O
+plein	O
+ou	O
+temps	O
+partiel	O
+Localisation	O
+:	O
+Crémieu	city
+Isère	city
+--	O
+30	O
+minutes	O
+de	O
+Lyon	O
+.	O
+Diplôme	experience
+-LRB-	O
+s	experience
+-RRB-	O
+requis	experience
+/	O
+s	experience
+pé	experience
+cialit	experience
+é	experience
+*	O
+*	
+-LRB-	
+s	O
+-RRB-	O
+:	O
+Vous	experience
+êtes	experience
+un	experience
+Médecin	experience
+diplômé	experience
+avec	experience
+idéalement	experience
+une	experience
+spécialisation	experience
+DESC	experience
+de	experience
+gériatrie	experience
+,	experience
+capacité	experience
+en	experience
+gérontologie	experience
+ou	experience
+DU	experience
+médecin	experience
+coordonnateur	experience
+,	experience
+obtenue	experience
+ou	experience
+en	experience
+cours	experience
+,	experience
+ou	experience
+,	experience
+à	experience
+défaut	experience
+,	experience
+d'une	experience
+attestation	experience
+de	experience
+formation	experience
+continue	experience
+.	experience
+A	experience
+préciser	experience
+lors	experience
+de	experience
+votre	experience
+réponse	experience
+.	experience
+L'	experience
+é	experience
+*	experience
+*	experience
+tablissement	experience
+:	
+vous	
+souhaitez	
+donner	
+du	
+sens	
+à	
+votre	
+carrière	
+et	O
+évoluer	O
+au	O
+sein	O
+d'une	O
+structure	O
+à	O
+taille	O
+humaine	O
+?	O
+Rejoignez-nous	O
+.	O
+Pr	O
+é	O
+*	O
+*	O
+sentation	O
+de	O
+l'	O
+é	O
+*	O
+*	O
+tablissement	O
+:	O
+Au	O
+coeur	O
+d'une	O
+ville	O
+de	O
+plus	O
+de	O
+3	O
+500	O
+habitants	O
+,	O
+la	O
+Résidence	O
+Jeanne	O
+de	O
+Chantal	O
+bénéficie	O
+d'un	O
+cadre	O
+exceptionnel	O
+et	O
+de	O
+la	O
+proximité	O
+des	O
+commerces	O
+et	O
+des	O
+transports	O
+en	O
+communs	O
+.	O
+La	O
+résidence	O
+dispose	O
+d'une	O
+capacité	O
+totale	O
+93	O
+lits	O
+pouvant	O
+accueillir	O
+en	O
+hébergement	O
+permanent	O
+ou	O
+temporaire	O
+des	O
+personnes	O
+autonomes	O
+,	O
+dépendantes	O
+ou	O
+désorientées	O
+-LRB-	O
+Alzheimer	O
+-RRB-	O
+.	O
+Elle	O
+dispose	O
+d'un	O
+PASA	O
+.	O
+L'équipe	O
+paramédicale	O
+est	O
+particulièrement	O
+bien	O
+étoffée	O
+:	O
+Un	O
+cadre	O
+de	O
+santé	O
+supérieur	O
+,	O
+un	O
+faisant	O
+de	O
+fonction	O
+cadre	O
+de	O
+santé	O
+,	O
+sept	O
+infirmière	O
+,	O
+une	O
+ergothérapeute	O
+une	O
+psychologue	O
+à	O
+temps	O
+plein	O
+,	O
+d'une	O
+trentaine	O
+d'aide	O
+soignantes	O
+.	O
+Le	O
+poste	O
+:	O
+L'	O
+é	O
+*	O
+*	O
+quipe	O
+mé	O
+dicale	O
+est	O
+compos	O
+é	O
+*	O
+*	O
+e	O
+de	O
+deux	O
+m	O
+é	O
+*	O
+*	O
+decins	O
+-LRB-	O
+dont	O
+le	O
+poste	O
+à	O
+*	O
+*	O
+pourvoir	O
+-RRB-	O
+qui	O
+assurent	O
+le	O
+suivi	O
+de	O
+l'ensemble	O
+des	O
+r	O
+é	O
+*	O
+*	O
+sidents	O
+de	O
+l'	O
+établissement	O
+.	O
+Rattaché	O
+au	O
+Directeur	O
+de	O
+l'établissement	O
+,	O
+vous	hard skills
+êtes	hard skills
+responsable	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+soins	hard skills
+de	hard skills
+l'établissement	hard skills
+et	hard skills
+participez	hard skills
+à	hard skills
+l'élaboration	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+l'établissement	hard skills
+:	hard skills
+-	hard skills
+Garant	hard skills
+de	hard skills
+la	hard skills
+continuité	hard skills
+des	hard skills
+soins	hard skills
+,	hard skills
+vous	hard skills
+organisez	hard skills
+leur	hard skills
+permanence	hard skills
+et	hard skills
+la	hard skills
+coordination	hard skills
+des	hard skills
+professionnels	hard skills
+de	hard skills
+santé	hard skills
+salariés	hard skills
+ou	hard skills
+libéraux	hard skills
+.	hard skills
+-	hard skills
+En	hard skills
+cohérence	hard skills
+avec	hard skills
+le	hard skills
+projet	hard skills
+de	hard skills
+soins	hard skills
+,	hard skills
+vous	hard skills
+assurez	hard skills
+une	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+adaptée	hard skills
+à	hard skills
+chaque	hard skills
+résidant	hard skills
+de	hard skills
+l'établissement	hard skills
+-LRB-	
+évaluation	hard skills
+formalisée	hard skills
+,	O
+avis	hard skills
+sur	hard skills
+les	hard skills
+admissions	hard skills
+des	hard skills
+résidents	hard skills
+,	hard skills
+définition	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+soins	hard skills
+individuels	hard skills
+...	hard skills
+-RRB-	
+.	O
+-	hard skills
+Responsable	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+de	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+,	hard skills
+vous	hard skills
+participez	hard skills
+aux	hard skills
+démarches	hard skills
+qualité	hard skills
+,	hard skills
+gestion	hard skills
+des	hard skills
+risques	hard skills
+,	hard skills
+et	hard skills
+au	hard skills
+développement	hard skills
+des	hard skills
+bonnes	hard skills
+pratiques	hard skills
+professionnelles	hard skills
+.	
+A	hard skills
+ce	hard skills
+titre	hard skills
+,	hard skills
+vous	hard skills
+participez	hard skills
+à	hard skills
+la	hard skills
+formation	hard skills
+du	hard skills
+personnel	hard skills
+.	
+Niveau	
+d'exp	O
+é	O
+*	O
+*	O
+rience	O
+:	O
+Vous	experience
+avez	experience
+un	experience
+minium	experience
+d'expérience	experience
+de	experience
+médecin	experience
+salarié	experience
+et/ou	experience
+libéral	experience
+et	
+l'envie	
+de	
+vous	O
+investir	O
+au	O
+sein	O
+d'un	O
+établissement	O
+soucieux	O
+de	O
+la	O
+qualité	O
+de	O
+ses	O
+services	O
+.	O
+Moins	O
+de	O
+5	O
+ans	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+4	salary
+0	salary
+$	salary
+à	O
+6	salary
+0	salary
+$	salary
+/	
+mois	salary

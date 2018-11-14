@@ -1,0 +1,189 @@
+Esthéticien	position
+-	O
+Masseur	position
+qualifié	position
+H/F	O
+CDI	contrat_type
+RINKA	company
+-	O
+Paris	city
+6e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Dans	O
+le	O
+cadre	O
+du	O
+développement	O
+de	O
+notre	O
+institut	O
+masculin	O
+situé	O
+à	O
+Paris	city
+6ème	city
+,	O
+nous	O
+recrutons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+esthéticien	position
+-LRB-	O
+e	position
+-RRB-	O
+/	O
+qualifié	position
+-LRB-	O
+e	position
+-RRB-	O
+en	O
+CDI	contrat_type
+,	O
+rémunération	O
+à	O
+négocier	O
+.	O
+Vos	hard skills
+missions	hard skills
+seront	hard skills
+de	hard skills
+réaliser	hard skills
+les	hard skills
+soins	hard skills
+proposés	hard skills
+par	hard skills
+l'institut	hard skills
+:	O
+--	O
+Les	hard skills
+épilations	hard skills
+--	O
+Les	hard skills
+soins	hard skills
+visage	hard skills
+--	O
+Les	hard skills
+soins	hard skills
+corps	hard skills
+&	hard skills
+Massages	hard skills
+--	O
+Manucure	hard skills
+--	
+Beauté	hard skills
+des	hard skills
+pieds	hard skills
+--	O
+Conseils	hard skills
+et	hard skills
+vente	hard skills
+sur	hard skills
+notre	hard skills
+gamme	hard skills
+de	hard skills
+produits	hard skills
+.	O
+Une	hard skills
+maîtrise	hard skills
+Coiffure	hard skills
+et	hard skills
+Barbier	hard skills
+serait	
+un	O
+plus	O
+!	O
+Profil	O
+:	O
+--	O
+Une	O
+expérience	O
+de	O
+2	experience
+ans	experience
+minimum	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+serait	
+appréciée	
+.	O
+Poste	O
+à	O
+pouvoir	O
+rapidement	O
+!!!	O
+Notre	O
+Institut	O
+:	O
+Comptoir	O
+de	O
+l'Homme	O
+est	O
+un	O
+institut	O
+de	O
+beauté	O
+exclusivement	O
+dédié	O
+à	O
+l'homme	O
+,	O
+situé	O
+dans	O
+le	O
+6ème	city
+arrondissement	city
+de	city
+Paris	city
+,	O
+en	O
+plein	O
+cœur	O
+de	O
+Saint-Germain-des-Prés	O
+,	O
+à	O
+quelques	O
+pas	O
+du	O
+métro	O
+Odéon	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+1	salary
+800	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Esthétique	experience
+:	O
+1	experience
+an	experience

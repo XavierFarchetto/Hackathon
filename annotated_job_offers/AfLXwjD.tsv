@@ -1,0 +1,197 @@
+CDI	contrat_type
+Conseiller	position
+de	position
+Vente	position
+H/F	O
+-	O
+temps	contrat_type
+partiel	contrat_type
+weekend	company
+MISAKO	company
+-	O
+Nice	city
+-LRB-	O
+6	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+,	O
+CDI	contrat_type
+POSTE	O
+Assurer	hard skills
+le	hard skills
+développement	hard skills
+de	hard skills
+la	hard skills
+boutique	hard skills
+en	hard skills
+atteignant	hard skills
+les	hard skills
+objectifs	hard skills
+de	hard skills
+vente	hard skills
+-	hard skills
+Accueillir	hard skills
+,	
+conseiller	hard skills
+,	
+accompagner	hard skills
+et	hard skills
+fidéliser	hard skills
+notre	hard skills
+clientèle	hard skills
+-	O
+Participer	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+stocks	hard skills
+et	hard skills
+aider	hard skills
+aux	hard skills
+réassorts	hard skills
+-	hard skills
+Participer	hard skills
+aux	hard skills
+inventaires	hard skills
+et	hard skills
+aux	hard skills
+opérations	hard skills
+commerciales	hard skills
+-	hard skills
+Prendre	hard skills
+en	hard skills
+compte	hard skills
+la	hard skills
+présentation	hard skills
+et	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+avant	hard skills
+des	hard skills
+produits	hard skills
+-	hard skills
+Respecter	hard skills
+la	hard skills
+tenue	hard skills
+de	hard skills
+l'espace	hard skills
+de	hard skills
+vente	hard skills
+*	
+PROFIL	
+*	O
+-	O
+Vous	experience
+possédez	experience
+une	experience
+première	experience
+expérience	experience
+dans	experience
+un	experience
+environnement	experience
+retail	experience
+-	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+goût	soft skills
+du	soft skills
+challenge	soft skills
+et	soft skills
+de	soft skills
+l'atteinte	soft skills
+des	soft skills
+objectifs	soft skills
+.	
+-	O
+Vous	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+qualités	soft skills
+relationnelles	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+impliqué	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+.	O
+Vous	
+cherchez	
+un	
+contrat	O
+étudiant	O
+d'une	O
+durée	O
+de	O
+10	O
+heures	O
+hebdomadaires	O
+-LRB-	O
+vendredi/samedi	O
+-RRB-	O
+INFORMATION	O
+A	O
+L'ATTENTION	O
+DES	O
+CANDIDATS	O
+Type	O
+de	O
+contrat	O
+:	O
+contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+indéterminée	contrat_type
+à	O
+temps	O
+partiel	O
+-LRB-	O
+10	O
+heures	O
+hebdomadaires	O
+-RRB-	O
+Localisation	O
+:	O
+NICE	city
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+6000	postal code
+Nice	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Langue	O
+exigée	O
+:	O
+Français	hard skills

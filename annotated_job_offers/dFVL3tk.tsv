@@ -1,0 +1,121 @@
+Chauffeur	position
+accompagnateur	position
+TPMR	position
+h/f	O
+Ailes	company
+vous	company
+transporte	company
+-	O
+Goussainville	city
+-LRB-	O
+95	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+de	hard skills
+transporter	hard skills
+jusqu	hard skills
+'	hard skills
+à	hard skills
+leur	hard skills
+domicile/lieu	hard skills
+d'accueil	hard skills
+des	hard skills
+personnes	hard skills
+en	hard skills
+situation	hard skills
+de	hard skills
+handicap	hard skills
+à	hard skills
+bord	hard skills
+de	hard skills
+véhicules	hard skills
+légers	hard skills
+-LRB-	
+y	hard skills
+compris	hard skills
+mini	hard skills
+bus	hard skills
+-RRB-	
+.	O
+Permis	hard skills
+B	hard skills
+exigé	hard skills
+.	
+Formation	experience
+continue	experience
+des	experience
+conducteurs	experience
+accompagnateurs	experience
+TPMR	experience
+exigé	experience
++	experience
+Breuvet	experience
+de	experience
+secourisme	experience
+Contrat	
+temps	contrat_type
+partiel	contrat_type
+-LRB-	O
+10	O
+heures	O
+hebdomadaires	O
+,	O
+rémunération	O
+397.53	salary
+$	salary
+brut/mois	salary
+-RRB-	O
+Le	O
+lundi	O
+de	O
+06h00	O
+à	O
+10h00	O
+et	O
+le	O
+vendredi	O
+de	O
+15h00	O
+à	O
+20h00	O
+.	O
+CDD	contrat_type
+d'un	contrat_type
+an	contrat_type
+,	O
+possibilité	O
+de	O
+renouvellement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+95190	postal code
+Goussainville	city
+Expérience	O
+exigée	O
+:	O
+Chauffeur	experience
+Accompagnateur	experience
+:	O
+1	experience
+an	experience
+Certificat	
+ou	O
+accréditation	O
+exigés	O
+:	O
+APSC	experience
+niveau	experience
+1	experience

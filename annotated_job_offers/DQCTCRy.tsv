@@ -1,0 +1,270 @@
+Assistante	position
+commerciale	position
+SAfe	company
+Diagnostics	company
+-	O
+Créteil	city
+-LRB-	O
+94	postal code
+-RRB-	O
+1	salary
+200	salary
+$	salary
+-	O
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+SAfe	company
+Diagnostics	company
+est	O
+une	O
+entreprise	O
+réalisant	O
+des	O
+diagnostics	O
+immobilier	O
+dans	O
+le	O
+cadre	O
+de	O
+vente	O
+,	O
+location	O
+,	O
+travaux	O
+ou	O
+démolition	O
+.	O
+c'est	O
+un	O
+société	O
+à	O
+taille	O
+humaine	O
+.	O
+Intitulé	O
+du	O
+poste	O
+Assistante	position
+commerciale	position
+H/F	O
+Contrat	O
+CDI	contrat_type
+Temps	
+de	
+travail	O
+Temps	O
+complet	O
+Description	O
+de	O
+la	O
+mission	O
+-	O
+Réponse	hard skills
+aux	hard skills
+appels	hard skills
+d'offres	hard skills
+tous	hard skills
+secteurs	hard skills
+confondus	hard skills
+-LRB-	O
+Administratif	hard skills
+-RRB-	O
+-	O
+Assurer	hard skills
+le	hard skills
+secrétariat	hard skills
+de	hard skills
+l'équipe	hard skills
+sur	hard skills
+son	hard skills
+secteur	hard skills
+.	O
+Superviser	hard skills
+les	hard skills
+plannings	hard skills
+-LRB-	O
+RDV	hard skills
+et	hard skills
+congés	hard skills
+-RRB-	
+,	O
+organiser	hard skills
+les	hard skills
+rendez-vous/d	hard skills
+éplacements	hard skills
+,	O
+recevoir	hard skills
+et	hard skills
+filtrer	hard skills
+les	hard skills
+appels	hard skills
+téléphoniques	hard skills
+-LRB-	O
+Prise	hard skills
+de	hard skills
+rendez	hard skills
+vous	hard skills
+à	hard skills
+optimiser	hard skills
+entre	hard skills
+les	hard skills
+différents	hard skills
+techniciens	hard skills
+-RRB-	O
+-	
+Participer	hard skills
+à	hard skills
+la	hard skills
+rédaction	hard skills
+et	hard skills
+mise	hard skills
+en	hard skills
+forme	hard skills
+des	hard skills
+propositions	hard skills
+commerciales	hard skills
+-LRB-	O
+appels	hard skills
+d'offres	hard skills
+,	
+courriers	hard skills
+divers	hard skills
+-RRB-	
+Nombre	
+de	
+postes	
+à	
+pourvoir	O
+1	O
+Localisation	O
+du	O
+poste	O
+Ile-de-France	O
+,	O
+Val	O
+de	O
+Marne	O
+-LRB-	O
+94	postal code
+-RRB-	O
+Lieu	O
+Créteil	city
+Critères	O
+candidat	O
+Niveau	O
+d'études	O
+min	O
+.	O
+requis	experience
+Bac	experience
+2	experience
+ou	experience
+équivalent	experience
+Niveau	experience
+d'expérience	experience
+min	experience
+.	O
+requis	experience
+3	experience
+ans	experience
+de	experience
+relations	experience
+clients	experience
+Profil	experience
+De	experience
+formation	experience
+bac/bac	experience
+2	experience
+ou	experience
+équivalent	experience
+,	
+vous	experience
+possédez	experience
+une	experience
+expérience	experience
+significative	experience
+-LRB-	O
+plus	experience
+de	experience
+3	experience
+ans	experience
+-RRB-	O
+sur	experience
+un	experience
+poste	experience
+similaire.Vous	soft skills
+êtes	soft skills
+force	soft skills
+de	soft skills
+propositions	soft skills
+.	
+Esprit	soft skills
+d'analyse	soft skills
+et	soft skills
+de	soft skills
+synthèse	soft skills
+,	O
+réactivité	soft skills
+,	
+autonomie	soft skills
+,	O
+rigueur	soft skills
+et	soft skills
+confidentialité	soft skills
+sont	soft skills
+des	soft skills
+atouts	soft skills
+indispensables	soft skills
+pour	soft skills
+réussir	soft skills
+dans	soft skills
+cette	soft skills
+fonction	soft skills
+.	O
+Des	hard skills
+connaissances	hard skills
+en	hard skills
+bureautique	hard skills
+sont	hard skills
+indispensables	hard skills
+-LRB-	
+Word	hard skills
+,	O
+excel	hard skills
+,	O
+outllook	hard skills
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+200	salary
+$	salary
+à	
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+94000	postal code
+Créteil	city
+Expérience	O
+exigée	O
+:	O
+relation	experience
+client	experience
+:	O
+3	experience
+ans	experience

@@ -1,0 +1,331 @@
+Assistant	position
+de	position
+gestion	position
+PME-PMI	position
+-LRB-	O
+H/F	O
+-RRB-	O
+FREE	company
+DOM	company
+STRASBOURG	company
+-	O
+Strasbourg	city
+-LRB-	O
+67	code postal
+-RRB-	O
+1	salary
+511	salary
+$	salary
+par	salary
+mois	salary
+Free	company
+'	O
+dom	company
+recrute	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+gestion	position
+sur	
+STRASBOURG	city
+.	O
+Rejoignez	O
+une	O
+enseigne	O
+de	O
+proximité	O
+composée	O
+de	O
+plus	O
+de	O
+70	O
+agences	O
+en	O
+France	O
+.	O
+Vous	experience
+avez	experience
+de	experience
+l'expérience	experience
+en	experience
+gestion	experience
+management	experience
+.	O
+Vous	experience
+êtes	experience
+diplômé	experience
+-LRB-	O
+e	experience
+-RRB-	O
+BTS	experience
+ASSISTANT	experience
+DE	experience
+GESTION	experience
+de	
+préférence	
+ou	
+bien	
+vous	experience
+possédez	experience
+un	experience
+diplôme	experience
+de	experience
+technicien	experience
+supérieur	experience
+voire	experience
+BAC	experience
+3	experience
+.	
+Ce	experience
+poste	experience
+est	experience
+ouvert	experience
+aux	experience
+débutants	experience
+ayant	experience
+une	experience
+première	experience
+expérience	experience
+en	experience
+BTS	experience
+effectué	experience
+par	experience
+la	experience
+voie	experience
+de	experience
+l'alternance	experience
+Vous	soft skills
+possédez	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+,	O
+une	soft skills
+forte	soft skills
+disponibilité	soft skills
+et	soft skills
+un	soft skills
+esprit	soft skills
+d'analyse	soft skills
+et	soft skills
+de	soft skills
+synthèse	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+organisé	soft skills
+et	soft skills
+rigoureux	soft skills
+,	O
+et	soft skills
+polyvalent	soft skills
+.	O
+Description	
+:	O
+-	O
+Accueil	hard skills
+clientèle	hard skills
+et	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+téléphonique	hard skills
+,	
+conseiller	hard skills
+le	hard skills
+client	hard skills
+,	
+prise	hard skills
+de	hard skills
+commande	hard skills
+et	hard skills
+des	hard skills
+demandes	hard skills
+particulières	hard skills
+.	
+-	
+Prise	hard skills
+de	hard skills
+RDV	hard skills
+d'analyse	hard skills
+clients	hard skills
+-	
+Accueil	hard skills
+et	hard skills
+management	hard skills
+du	hard skills
+personnel	hard skills
+,	
+-	
+Gestion	hard skills
+de	hard skills
+la	hard skills
+planification	hard skills
+,	O
+gestion	hard skills
+des	hard skills
+absences	hard skills
+et	hard skills
+des	hard skills
+remplacements	hard skills
+-	
+Réceptions	hard skills
+des	hard skills
+CV	hard skills
+et	hard skills
+suivi	hard skills
+des	hard skills
+candidatures	hard skills
+-	
+Entretiens	hard skills
+de	hard skills
+recrutement	hard skills
+téléphoniques	hard skills
+et	hard skills
+physiques	hard skills
+-	O
+Suivi	hard skills
+qualité	hard skills
+auprès	hard skills
+des	hard skills
+clients	hard skills
+-	O
+Suivi	hard skills
+administratif	hard skills
+des	hard skills
+dossiers	hard skills
+du	hard skills
+personnel	hard skills
+et	hard skills
+des	hard skills
+clients	hard skills
+-	O
+Facturation	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+règlements	hard skills
+Compétences	hard skills
+requises	hard skills
+:	O
+-	O
+Assimiler	hard skills
+et	hard skills
+respecter	hard skills
+les	hard skills
+demandes	hard skills
+-	O
+Adapter	hard skills
+un	hard skills
+planning	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+délais	hard skills
+ou	hard skills
+des	hard skills
+aléas	hard skills
+-	O
+Gérer	hard skills
+des	hard skills
+délais	hard skills
+ou	hard skills
+des	hard skills
+priorités	hard skills
+multiples	hard skills
+-	O
+Savoir	hard skills
+encadrer	hard skills
+et	hard skills
+manager	hard skills
+le	hard skills
+personnel	hard skills
+-	
+Créer	hard skills
+et	hard skills
+développer	hard skills
+une	hard skills
+relation	hard skills
+de	hard skills
+confiance	hard skills
+avec	hard skills
+les	hard skills
+clients	hard skills
+.	O
+-	soft skills
+Très	soft skills
+bonnes	soft skills
+capacités	soft skills
+relationnelles	soft skills
+et	soft skills
+organisationnelles	soft skills
+-	
+Être	soft skills
+autonome	soft skills
+et	soft skills
+responsable	soft skills
+Contrat	
+:	O
+CDI	contrat_type
+Rémunération	O
+:	O
+à	O
+partir	O
+de	O
+1510,64	salary
+$	salary
+brut	salary
+/	O
+mois	salary
++	O
+participation	O
+déplacements	O
++	O
+Mutuelle	O
++	O
+avantages	O
+CE	O
+billetterie	O
+.	O
+Envoyez	O
+votre	O
+CV	O
+avec	O
+votre	O
+lettre	O
+de	O
+motivation	O
+en	O
+y	O
+décrivant	O
+votre	O
+expérience	O
+.	O
+Vous	O
+pouvez	O
+nous	O
+transmettre	O
+ces	O
+documents	O
+par	O
+courrier	O
+ou	O
+par	O
+mail	O
+en	O
+répondant	O
+à	O
+cette	O
+annonce	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O

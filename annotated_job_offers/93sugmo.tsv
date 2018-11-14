@@ -1,0 +1,64 @@
+tuyauteur	position
+soudeur	position
+ASSISTANCE	company
+THERMI	company
+PETROLE	company
+-	O
+Bourgoin-Jallieu	city
+-LRB-	O
+38	code postal
+-RRB-	O
+2	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+Recherche	O
+un	
+H/F	O
+avec	O
+une	O
+grande	O
+motivation	O
+et	O
+une	O
+expérience	experience
+de	experience
+5	experience
+ans	experience
+dans	experience
+la	experience
+tuyauterie/serrurerie	experience
+.	O
+Il	hard skills
+aura	hard skills
+pour	hard skills
+mission	hard skills
+de	hard skills
+travailler	hard skills
+avec	hard skills
+un	hard skills
+véhicule	hard skills
+atelier	hard skills
+sur	hard skills
+la	hard skills
+région	hard skills
+Rhône	hard skills
+Alpes	hard skills
+et	hard skills
+accepte	hard skills
+le	hard skills
+déplacement	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+2	salary
+400	salary
+$	salary
+/	O
+mois	salary

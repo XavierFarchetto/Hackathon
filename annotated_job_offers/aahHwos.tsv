@@ -1,0 +1,219 @@
+CHAUFFEUR	position
+PORTE-VOITURES	position
+CDI	contrat_type
+H/F	O
+HERTZ	company
+BPA	company
+-	O
+Montélimar	city
+-LRB-	O
+26	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+1	salary
+850	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Société	O
+de	O
+location	O
+de	O
+véhicules	O
+recherche	O
+pour	O
+son	O
+agence	O
+de	O
+Montélimar	city
+-LRB-	O
+Drôme	position
+-RRB-	O
+un	position
+chauffeur-préparateur	position
+/	O
+préparatrice	position
+en	O
+CDI	contrat_type
+pour	hard skills
+transport	hard skills
+et	hard skills
+livraison	hard skills
+en	hard skills
+régional	hard skills
+.	
+Rattaché	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+l'agence	hard skills
+de	hard skills
+location	hard skills
+votre	hard skills
+mission	hard skills
+sera	hard skills
+de	hard skills
+contrôler	hard skills
+,	
+préparer	hard skills
+et	hard skills
+livrer	hard skills
+les	hard skills
+véhicules	hard skills
+sur	hard skills
+le	hard skills
+secteur	hard skills
+.	
+Description	hard skills
+des	hard skills
+tâches	hard skills
+:	O
+Assurer	hard skills
+la	hard skills
+propreté	hard skills
+intérieure	hard skills
+et	hard skills
+extérieure	hard skills
+des	hard skills
+véhicules	hard skills
+Vérifier	hard skills
+l'état	hard skills
+et	hard skills
+le	hard skills
+bon	hard skills
+fonctionnement	hard skills
+des	hard skills
+véhicules	hard skills
+,	
+contrôler	hard skills
+la	hard skills
+présence	hard skills
+des	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+et	hard skills
+des	hard skills
+équipements	hard skills
+de	hard skills
+sécurité	hard skills
+Etablir	hard skills
+les	hard skills
+fiches	hard skills
+d'état	hard skills
+des	hard skills
+véhicules	hard skills
+et	hard skills
+notifier	hard skills
+les	hard skills
+dégâts	hard skills
+éventuels	hard skills
+Assurer	hard skills
+le	hard skills
+suivi	hard skills
+et	hard skills
+l'entretien	hard skills
+courant	hard skills
+du	hard skills
+porte-voitures	hard skills
+Livrer	hard skills
+et	hard skills
+récupérer	hard skills
+les	hard skills
+véhicules	hard skills
+sur	hard skills
+les	hard skills
+sites	hard skills
+des	hard skills
+entreprises	hard skills
+clientes	hard skills
+Déplacer	hard skills
+les	hard skills
+véhicules	hard skills
+pour	hard skills
+répondre	hard skills
+aux	hard skills
+besoins	hard skills
+opérationnels	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+Profil	
+:	O
+Rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	
+dynamique	soft skills
+,	O
+disponible	soft skills
+et	soft skills
+autonome	soft skills
+Organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+doté	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+d'un	soft skills
+fort	soft skills
+esprit	soft skills
+d'équipe	soft skills
+Permis	hard skills
+obligatoire	hard skills
+C	hard skills
+/	O
+FCO/FIMO	hard skills
+Horaires	O
+de	O
+travail	O
+:	O
+35h	O
++	O
+heures	O
+supplémentaires	O
+Primes	O
++	O
+tickets	O
+repas	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+1	salary
+850	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Chauffeur	experience
+poids-lourds	experience
+permis	experience
+C	experience
+:	O
+1	experience
+an	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+FIMO	hard skills

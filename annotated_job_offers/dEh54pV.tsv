@@ -1,0 +1,285 @@
+Pharmacien	position
+remplaçant	position
+CENTRE	company
+DE	company
+GERONTOLOGIE	company
+ST	company
+THOMAS	company
+DE	company
+VILLENEUVE	company
+-	O
+Aix-en-Provence	city
+-LRB-	O
+13	postal code
+-RRB-	O
+4	salary
+150	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Clinique	O
+Gériatrique	O
+de	O
+114	O
+lits	O
+,	O
+située	O
+à	O
+Aix	city
+en	city
+Provence	city
+,	O
+dans	O
+un	O
+cadre	O
+privilégié	O
+,	O
+recherche	O
+1	position
+*	O
+*	O
+Pharmacien	position
+H/F	O
+afin	hard skills
+d'assurer	hard skills
+le	hard skills
+remplacement	hard skills
+de	hard skills
+son	hard skills
+pharmacien	hard skills
+gérant	hard skills
+.	
+Remplacements	
+à	
+pourvoir	
+:	O
+21	O
+au	O
+24	O
+novembre	O
+2017	O
+5	O
+et	O
+6	O
+décembre	O
+2017	O
+11	O
+au	O
+15	O
+décembre	O
+2017	O
+26	O
+au	O
+30	O
+décembre	O
+2017	O
+Autres	O
+remplacements	O
+sur	O
+2018	O
+afin	O
+d'assurer	O
+le	O
+remplacement	O
+de	O
+notre	O
+pharmacien	O
+gérant	O
+pendant	O
+ses	O
+congés	O
+-LRB-	O
+5	O
+semaines	O
+de	O
+remplacement	O
+/	O
+an	O
+-RRB-	O
+Missions	hard skills
+Le	hard skills
+pharmacien	hard skills
+remplaçant	hard skills
+:	O
+gère	hard skills
+pendant	hard skills
+la	hard skills
+durée	hard skills
+de	hard skills
+son	hard skills
+remplacement	hard skills
+,	hard skills
+la	hard skills
+pharmacie	hard skills
+à	hard skills
+usage	hard skills
+intérieur	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+législation	hard skills
+";"	hard skills
+assure	hard skills
+ou	hard skills
+fait	hard skills
+assurer	hard skills
+,	hard skills
+sous	hard skills
+sa	hard skills
+responsabilité	hard skills
+,	hard skills
+l'exécution	hard skills
+des	hard skills
+prescriptions	hard skills
+médicales	hard skills
+,	hard skills
+la	hard skills
+dispensation	hard skills
+,	hard skills
+le	hard skills
+contrôle	hard skills
+des	hard skills
+médicaments	hard skills
+et	hard skills
+autres	hard skills
+produits	hard skills
+pharmaceutiques	hard skills
+,	hard skills
+la	hard skills
+garde	hard skills
+des	hard skills
+produits	hard skills
+toxiques	hard skills
+";"	hard skills
+est	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+sécurisation	hard skills
+des	hard skills
+circuits	hard skills
+du	hard skills
+médicament	hard skills
+et	hard skills
+des	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+continuité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+dans	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+pharmaceutique	hard skills
+du	hard skills
+patient	hard skills
+.	hard skills
+management	hard skills
+de	hard skills
+deux	hard skills
+préparatrices	hard skills
+en	hard skills
+pharmacie	hard skills
+Poste	hard skills
+à	hard skills
+80	hard skills
+%	hard skills
+,	hard skills
+avec	hard skills
+répartition	hard skills
+du	hard skills
+travail	hard skills
+LUNDI	hard skills
+13:30	hard skills
+-18:00	hard skills
+,	hard skills
+MARDI	hard skills
+et	hard skills
+VENDREDI	hard skills
+09:00	hard skills
+-18:00	hard skills
+,	hard skills
+MERCREDI	hard skills
+et	hard skills
+JEUDI	hard skills
+14:00	hard skills
+-18:00	hard skills
+Statut	
+cadre	
+,	
+convention	
+collective	
+FEHAP	
+51	
+Recherche	
+Pharmacien	
+répondant	
+aux	
+critères	
+du	
+décret	
+n	
+°	
+2017-883	
+du	
+9	O
+mai	O
+2017	O
+-LRB-	O
+DES	O
+pharmacie	O
+hospitalière	O
+et	O
+collectivités	O
+-RRB-	O
+ou	O
+ayant	O
+une	O
+dérogation	O
+de	O
+l'ordre	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+4	salary
+150	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Doctorat	experience
+Expérience	experience
+exigée	experience
+:	O
+PUI	experience
+:	O
+3	experience
+ans	experience

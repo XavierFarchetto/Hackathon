@@ -1,0 +1,152 @@
+Réceptionniste	position
+de	position
+nuit	position
+CDD	contrat_type
+hôtel	company
+5	company
+*	company
+Aix	company
+en	company
+Provence	company
+RESO	company
+PACA	company
+-	O
+Aix-en-Provence	city
+-LRB-	O
+13	code postal
+-RRB-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+RESO	company
+PACA	company
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+les	O
+métiers	O
+de	O
+l'hôtellerie	O
+recherche	O
+RÉCEPTIONNISTE	position
+DE	position
+NUIT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+un	O
+de	O
+ses	O
+adhérents	O
+,	O
+hôtel-restaurant	O
+5	O
+étoiles	O
+situé	O
+à	O
+Aix	city
+en	city
+Provence	city
+.	O
+L'hôtel	O
+avec	O
+un	O
+décor	O
+contemporain	O
+,	O
+propose	O
+à	O
+sa	O
+clientèle	O
+des	O
+chambres	O
+modernes	O
+,	O
+une	O
+restaurant	O
+,	O
+un	O
+bar	O
+,	O
+piscine	O
+et	O
+des	O
+salles	O
+de	O
+séminaire	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+au	O
+plus	O
+vite	O
+jusqu	O
+'	O
+à	O
+fin	O
+décembre	O
+.	O
+Vos	hard skills
+activités	hard skills
+principales	hard skills
+seront	hard skills
+:	O
+Effectuer	hard skills
+les	hard skills
+réservations	hard skills
+,	O
+check	hard skills
+in	hard skills
+et	hard skills
+check	hard skills
+out	hard skills
+Veiller	hard skills
+à	hard skills
+la	hard skills
+sécurité	hard skills
+et	hard skills
+bien	hard skills
+être	hard skills
+des	hard skills
+clients	hard skills
+Vous	experience
+avez	experience
+une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+et	hard skills
+maîtrisez	hard skills
+l'anglais	hard skills
+,	O
+envoyez-nous	O
+votre	O
+candidature	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

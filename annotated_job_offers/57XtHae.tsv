@@ -1,0 +1,200 @@
+Educatrice	position
+spécialisé	position
+en	position
+internat	position
+OEUVRE	company
+DE	company
+SECOURS	company
+AUX	company
+ENFANTS	company
+-	O
+La	city
+Courneuve	city
+-LRB-	O
+93	code postal
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	
+2	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+L'Oeuvre	company
+de	company
+Secours	company
+aux	company
+enfants	company
+recrute	O
+,	O
+pour	O
+sa	O
+maison	O
+d'enfants	O
+accueillant	O
+des	O
+jeunes	O
+de	O
+9	O
+à	O
+18	O
+ans	O
+,	O
+en	O
+souffrance	O
+psychique	O
+et/ou	O
+manifestant	O
+des	O
+troubles	O
+du	O
+comportement	O
+d'une	O
+certaine	O
+gravité	O
+confiés	O
+à	O
+l'ASE	O
+,	O
+un	position
+Éducateur	position
+Spécialisé	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Missions	O
+:	O
+Dans	hard skills
+le	hard skills
+cadre	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+l'établissement	hard skills
+,	O
+du	hard skills
+service	hard skills
+et	hard skills
+du	hard skills
+groupe	hard skills
+:	O
+-	
+Veiller	hard skills
+au	hard skills
+maintien	hard skills
+de	hard skills
+l'axe	hard skills
+éducatif	hard skills
+dans	hard skills
+tous	hard skills
+les	hard skills
+instants	hard skills
+du	hard skills
+quotidien	hard skills
+,	
+aussi	hard skills
+bien	hard skills
+à	hard skills
+l'intérieur	hard skills
+de	hard skills
+l'établissement	hard skills
+qu	hard skills
+'	hard skills
+à	hard skills
+l'extérieur	hard skills
+et	hard skills
+dans	hard skills
+les	hard skills
+relations	hard skills
+en	hard skills
+partenariat	hard skills
+.	O
+-	
+Préparer	hard skills
+,	O
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+l'équipe	hard skills
+éducative	hard skills
+,	O
+un	hard skills
+projet	hard skills
+de	hard skills
+vie	hard skills
+pour	hard skills
+chacun	hard skills
+des	hard skills
+usagers	hard skills
+et	hard skills
+mettre	hard skills
+à	hard skills
+jour	hard skills
+celui-ci	hard skills
+afin	hard skills
+de	hard skills
+suivre	hard skills
+le	hard skills
+développement	hard skills
+et	hard skills
+le	hard skills
+maintien	hard skills
+des	hard skills
+acquisitions	hard skills
+de	hard skills
+ces	hard skills
+derniers	hard skills
+.	
+-	O
+Rédiger	hard skills
+les	hard skills
+écrits	hard skills
+correspondants	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+à	O
+2	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	O
+secondaires	O
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+educateur	experience
+specialise	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+francais	hard skills

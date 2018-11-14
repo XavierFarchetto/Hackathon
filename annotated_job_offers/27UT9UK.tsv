@@ -1,0 +1,122 @@
+Chauffeur	position
+Livreur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Logistica-idf	company
+-	O
+Gennevilliers	city
+-LRB-	O
+92	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+Chauffeur	position
+livreur	position
+en	O
+messagerie	O
+.	O
+Site	O
+:	O
+Gennevilliers	city
+-LRB-	O
+92	code postal
+-RRB-	O
+ou	O
+Vémars	city
+-LRB-	O
+95	code postal
+-RRB-	O
+Description	O
+:	O
+Prise	hard skills
+de	hard skills
+poste	hard skills
+6H	hard skills
+-LRB-	O
+début	hard skills
+de	hard skills
+chaîne	hard skills
+-RRB-	O
+Tri	hard skills
+et	hard skills
+scannage	hard skills
+des	hard skills
+colis	hard skills
+Chargement	hard skills
+du	hard skills
+camion	hard skills
+Livraisons	hard skills
+et	hard skills
+ramassages	hard skills
+Paris	hard skills
+ou	hard skills
+banlieue	hard skills
+Retours	hard skills
+au	hard skills
+dépôt	hard skills
+Respect	hard skills
+des	hard skills
+consignes	hard skills
+du	hard skills
+responsable	hard skills
+Respect	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+Entretien	hard skills
+du	hard skills
+véhicule	hard skills
+-LRB-	O
+stationnement	hard skills
+au	hard skills
+dépôt	hard skills
+-RRB-	O
+Port	hard skills
+de	hard skills
+la	hard skills
+tenue	hard skills
+de	hard skills
+travail	hard skills
+Type	
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Transport/Logistique	O
+Fonction	O
+Logistique/Achat/Transport	experience
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Niveau	experience
+d'études	experience
+Sans	experience
+diplôme	experience
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

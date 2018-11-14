@@ -1,0 +1,327 @@
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+administratif	position
+-LRB-	
+ve	position
+-RRB-	O
+H/F	O
+Groupama	company
+Protection	company
+Juridique	company
+-	O
+Puteaux	city
+-LRB-	O
+92	postal code
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	O
+23	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+Dans	O
+le	O
+cadre	O
+d'un	O
+accroissement	O
+temporaire	O
+d'activité	O
+nous	O
+proposons	O
+un	O
+CDD	contrat_type
+jusqu'au	O
+31/01/2018	O
+en	O
+tant	O
+qu	O
+'	O
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+administratif	position
+-LRB-	O
+ve	position
+-RRB-	O
+,	O
+pour	O
+notre	O
+service	O
+Premier	O
+Contact	O
+.	O
+La	hard skills
+gestion	hard skills
+des	hard skills
+litiges	hard skills
+de	hard skills
+nos	hard skills
+assurés	hard skills
+est	hard skills
+totalement	hard skills
+dématérialisée	hard skills
+.	
+La	hard skills
+mission	hard skills
+principale	hard skills
+du	hard skills
+Service	hard skills
+Premier	hard skills
+Contact	hard skills
+consiste	hard skills
+à	hard skills
+identifier	hard skills
+,	
+orienter	hard skills
+les	hard skills
+courriers	hard skills
+et	hard skills
+les	hard skills
+dossiers	hard skills
+juridique	hard skills
+de	hard skills
+l'assuré	hard skills
+dans	hard skills
+notre	hard skills
+système	hard skills
+informatique	hard skills
+tout	hard skills
+en	hard skills
+examinant	hard skills
+les	hard skills
+documents	hard skills
+reçus	hard skills
+.	
+Votre	hard skills
+mission	hard skills
+consistent	hard skills
+principalement	hard skills
+à	hard skills
+:	
+-	O
+Identifier	hard skills
+et	hard skills
+orienter	hard skills
+les	hard skills
+courriers	hard skills
+des	hard skills
+gestionnaires	hard skills
+de	hard skills
+dossiers	hard skills
+.	
+-	O
+Examiner	hard skills
+les	hard skills
+différents	hard skills
+types	hard skills
+de	hard skills
+courriers	hard skills
+de	hard skills
+nos	hard skills
+assurés	hard skills
+,	
+avocats	hard skills
+courtiers	hard skills
+...	
+-	O
+Identifier	hard skills
+les	hard skills
+courriers	hard skills
+reçues	hard skills
+-LRB-	
+émetteurs	hard skills
+,	O
+urgences	hard skills
+,	O
+factures	hard skills
+...	O
+-RRB-	
+-	O
+Intégrer	hard skills
+le	hard skills
+courrier	hard skills
+dans	hard skills
+son	hard skills
+dossier	hard skills
+-	O
+Répondre	hard skills
+à	hard skills
+toutes	hard skills
+les	hard skills
+sollicitations	hard skills
+et	hard skills
+questions	hard skills
+des	hard skills
+juristes	hard skills
+concernant	hard skills
+les	hard skills
+courriers	hard skills
+.	O
+-	O
+Prendre	hard skills
+contact	hard skills
+avec	hard skills
+l'assuré	hard skills
+et	hard skills
+les	hard skills
+différents	hard skills
+intermédiaires	hard skills
+-LRB-	O
+avocats	hard skills
+,	O
+courtiers	hard skills
+,	O
+agents	hard skills
+-RRB-	
+en	hard skills
+cas	hard skills
+de	hard skills
+besoin	hard skills
+-	
+Renvoyer	hard skills
+le	hard skills
+courrier	hard skills
+à	hard skills
+l'expéditeur	hard skills
+si	hard skills
+celui-ci	hard skills
+n'est	hard skills
+pas	hard skills
+identifiable	hard skills
+.	
+-	O
+Contacter	hard skills
+l'assuré	hard skills
+pour	hard skills
+obtenir	hard skills
+les	hard skills
+informations	hard skills
+nécessaires	hard skills
+à	hard skills
+l'identification	hard skills
+de	hard skills
+son	hard skills
+dossier	hard skills
+.	
+Profil	O
+Formation	O
+:	O
+-	O
+BAC	experience
+2	experience
+Compétences	experience
+:	
+-	O
+Aisance	hard skills
+avec	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	O
+savoir	hard skills
+identifier	hard skills
+un	hard skills
+contrat	hard skills
+à	hard skills
+l'aide	hard skills
+des	hard skills
+outils	hard skills
+spécifiques	hard skills
+.	
+Savoir	hard skills
+utiliser	hard skills
+les	hard skills
+outils	hard skills
+de	hard skills
+numérisation	hard skills
+-RRB-	
+.	O
+Maîtrise	hard skills
+des	hard skills
+outils	hard skills
+bureautiques	hard skills
+-LRB-	O
+Word	hard skills
+et	hard skills
+Excel	hard skills
+-RRB-	O
+-	O
+Aisance	soft skills
+au	soft skills
+téléphone	soft skills
+.	
+-	O
+Avoir	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+-	
+Avoir	soft skills
+de	soft skills
+bonnes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+,	
+rédactionnelles	soft skills
+,	O
+être	soft skills
+réactif	soft skills
+,	
+autonome	soft skills
+,	O
+rigoureux	soft skills
+et	soft skills
+organisé	soft skills
+.	O
+-	O
+Etre	soft skills
+à	soft skills
+l'écoute	soft skills
+de	soft skills
+ses	soft skills
+interlocuteurs	soft skills
+et	soft skills
+disponible	soft skills
+.	O
+-	O
+Réactivité	soft skills
+-	
+Avoir	hard skills
+quelques	hard skills
+notions	hard skills
+juridiques	hard skills
+constitue	hard skills
+un	hard skills
+plus	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	
+23	salary
+0	salary
+$	salary
+/	
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+92800	postal code
+Puteaux	city

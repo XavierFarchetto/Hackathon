@@ -1,0 +1,211 @@
+Serrurier	position
+Métallier	position
+TECH	company
+ELEC	company
+INDUSTRIES	company
+-	O
+Le	city
+Plessis-Trévise	city
+-LRB-	O
+94	postal code
+-RRB-	O
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+L'entreprise	O
+:	O
+TECH	company
+ELEC	company
+INDUSTRIES	company
+Société	O
+spécialisée	O
+dans	O
+l'installation	O
+,	O
+la	O
+maintenance	O
+,	O
+et	O
+le	O
+dépannage	O
+de	O
+systèmes	O
+d'automatisations	O
+de	O
+fermetures	O
+du	O
+bâtiment	O
+,	O
+agissant	O
+dans	O
+le	O
+domaine	O
+résidentiel	O
+et	O
+tertiaire	O
+.	O
+Description	O
+du	O
+poste	O
+TECH	company
+ELEC	company
+INDUSTRIES	company
+recherche	O
+un	position
+technicien/d	position
+épanneur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+la	O
+région	O
+ile	O
+de	O
+France	O
+.	O
+Votre	hard skills
+mission	hard skills
+:	O
+Au	hard skills
+sein	hard skills
+d'une	hard skills
+équipe	hard skills
+jeune	hard skills
+et	hard skills
+dynamique	hard skills
+,	
+vous	hard skills
+interviendrez	hard skills
+sur	hard skills
+des	hard skills
+chantiers	hard skills
+d'installations	hard skills
+,	
+du	hard skills
+SAV	hard skills
+et	hard skills
+du	hard skills
+dépannage	hard skills
+dans	hard skills
+les	hard skills
+domaines	hard skills
+des	hard skills
+portails	hard skills
+/	O
+fermetures	hard skills
+automatiques	hard skills
+/	O
+automatismes	hard skills
+de	hard skills
+portails	hard skills
+et	hard skills
+des	hard skills
+équipements	hard skills
+qui	hard skills
+concernent	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+bâtiments	hard skills
+de	hard skills
+manière	hard skills
+plus	hard skills
+générale	hard skills
+.	O
+Votre	O
+profil	O
+:	O
+Vous	experience
+êtes	experience
+technicien	experience
+/	O
+électromécanicien	experience
+/	O
+électrotechnicien	experience
+,	O
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+de	experience
+minimum	experience
+3	experience
+ans	experience
+dans	experience
+le	experience
+domaine	experience
+,	O
+vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+vous	hard skills
+représentez	hard skills
+l'image	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+lors	hard skills
+de	hard skills
+vos	hard skills
+interventions	hard skills
+sur	hard skills
+les	hard skills
+sites	hard skills
+clients	hard skills
+.	O
+Vous	hard skills
+possédez	hard skills
+le	hard skills
+permis	hard skills
+B	hard skills
+et	hard skills
+vos	hard skills
+habilitations	hard skills
+électriques	hard skills
+sont	hard skills
+à	hard skills
+jour	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+de	O
+25k	salary
+$	salary
+à	
+36k	salary
+$	salary
+selon	O
+expériences	O
+.	O
+Personne	O
+à	O
+contacter	O
+:	O
+Mme	O
+BATISTA	O
+au	O
+01.49.62.20.30	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+25	salary
+0	salary
+$	salary
+/	O
+an	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

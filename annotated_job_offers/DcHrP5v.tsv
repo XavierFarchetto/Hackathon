@@ -1,0 +1,270 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+gestion	position
+PME	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Institut	company
+des	company
+Educateurs	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+CDI	contrat_type
+Mission	O
+:	O
+Gérer	hard skills
+les	hard skills
+dossiers	hard skills
+administratifs	hard skills
+nécessaires	hard skills
+au	hard skills
+bon	hard skills
+fonctionnement	hard skills
+de	hard skills
+l'entreprise	hard skills
+L'assistant	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+gestion	hard skills
+PME	hard skills
+est	hard skills
+un	hard skills
+collaborateur	hard skills
+-LRB-	
+trice	hard skills
+-RRB-	
+polyvalent	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+et	hard skills
+a	hard skills
+pour	hard skills
+responsabilités	hard skills
+:	hard skills
+La	hard skills
+gestion	hard skills
+administrative	hard skills
+du	hard skills
+personnel	hard skills
+:	hard skills
+Administrer	hard skills
+les	hard skills
+dossiers	hard skills
+du	hard skills
+personnel	hard skills
+-LRB-	
+embauches	hard skills
+,	O
+absences	hard skills
+,	
+fins	hard skills
+de	hard skills
+contrat	hard skills
+-RRB-	
+Etablir	hard skills
+la	hard skills
+paie	hard skills
+du	hard skills
+personnel	hard skills
+";"	O
+déclarer	hard skills
+les	hard skills
+cotisations	hard skills
+sociales	hard skills
+Actualiser	hard skills
+les	hard skills
+processus	hard skills
+La	hard skills
+gestion	hard skills
+financière	hard skills
+et	hard skills
+analytique	hard skills
+:	
+Préparer	hard skills
+les	hard skills
+prélèvements	hard skills
+clients	hard skills
+et	hard skills
+virements	hard skills
+salariés	hard skills
+Suivre	hard skills
+les	hard skills
+mouvements	hard skills
+de	hard skills
+trésorerie	hard skills
+Etablir	hard skills
+le	hard skills
+reporting	hard skills
+mensuel	hard skills
+d'activité	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+budgétaire	hard skills
+La	hard skills
+préparation	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+des	hard skills
+dossiers	hard skills
+:	
+Monter	hard skills
+les	hard skills
+dossiers	hard skills
+de	hard skills
+formations	hard skills
+-LRB-	
+demande	hard skills
+de	hard skills
+financement	hard skills
+,	
+suivi	hard skills
+,	O
+facturation	hard skills
+-RRB-	O
+Réaliser	hard skills
+les	hard skills
+commandes	hard skills
+de	hard skills
+matériel	hard skills
+,	O
+de	hard skills
+fournitures	hard skills
+,	
+de	hard skills
+consommables	hard skills
+Maintenir	hard skills
+l'ERP	hard skills
+en	hard skills
+conditions	hard skills
+opérationnelles	hard skills
+Poste	
+évolutif	
+Rémunération	
+:	O
+à	O
+partir	O
+de	O
+20K	salary
+annuel	salary
+brut	salary
+,	
+fonction	O
+de	O
+l'expérience	O
+Contrat	O
+35h/semaine	O
+Expérience	O
+/	O
+Formation	O
+Minimum	experience
+Bac	experience
+2	experience
+-LRB-	
+type	experience
+BTS	experience
+assistante	experience
+de	experience
+gestion	experience
+PME/PMI	experience
+,	O
+BTS	experience
+CGO	experience
+,	O
+DUT	experience
+GEA	experience
+-RRB-	O
+,	O
+avec	experience
+ou	experience
+sans	experience
+expérience	experience
+.	
+Compétences	O
+Être	soft skills
+très	soft skills
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+logique	soft skills
+,	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+Savoir	soft skills
+travailler	soft skills
+dans	soft skills
+la	soft skills
+confidentialité	soft skills
+,	O
+faire	soft skills
+preuve	soft skills
+d'autonomie	soft skills
+,	O
+d'initiative	soft skills
+Maîtriser	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	O
+Office	hard skills
+,	O
+Internet	hard skills
+...	O
+-RRB-	
+Toujours	soft skills
+faire	soft skills
+preuve	soft skills
+d'ouverture	soft skills
+d'esprit	soft skills
+Être	soft skills
+flexible	soft skills
+et	soft skills
+savoir	soft skills
+s	soft skills
+'	soft skills
+adapter	soft skills
+Tous	soft skills
+nos	soft skills
+métiers	soft skills
+sont	soft skills
+ouverts	soft skills
+aux	soft skills
+personnes	soft skills
+en	soft skills
+situation	soft skills
+de	soft skills
+handicap	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

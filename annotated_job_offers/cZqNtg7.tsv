@@ -1,0 +1,248 @@
+Technicien	position
+fibre	position
+optique	position
+d2	position
+et	position
+d3	position
+France	company
+Réseaux	company
+-	O
+Chambéry	city
+-LRB-	O
+73	postal code
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Au	O
+sein	O
+de	O
+notre	O
+service	O
+support	O
+clients	O
+,	O
+vous	hard skills
+êtes	hard skills
+chargé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+la	hard skills
+qualification	hard skills
+fonctionnelle	hard skills
+d'équipements	hard skills
+de	hard skills
+télécommunication	hard skills
+,	hard skills
+de	hard skills
+leurs	hard skills
+configuration	hard skills
+,	hard skills
+d'installation	hard skills
+sur	hard skills
+site	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+formation	hard skills
+et	hard skills
+de	hard skills
+l'assistance	hard skills
+technique	hard skills
+à	hard skills
+nos	hard skills
+clients	hard skills
+.	hard skills
+Vous	hard skills
+êtes	hard skills
+chargé	hard skills
+de	hard skills
+raccordé	hard skills
+les	hard skills
+clients	hard skills
+sous	hard skills
+trois	hard skills
+types	hard skills
+:	O
+-	hard skills
+D2	hard skills
+raccordement	hard skills
+PMZ-PA	hard skills
+,	hard skills
+raccordement	hard skills
+PA	hard skills
+--	
+BE	hard skills
+,	hard skills
+contrôle	hard skills
+du	hard skills
+signal	hard skills
+de	hard skills
+la	hard skills
+PMZ	hard skills
+au	hard skills
+BE	hard skills
+Adduction	hard skills
+et	hard skills
+verticalité	hard skills
+-	O
+D3	hard skills
+Raccordement	hard skills
+Abonnés	hard skills
+pour	hard skills
+les	hard skills
+opérateursRaccordement	hard skills
+Client	hard skills
+,	
+installation	hard skills
+de	hard skills
+la	hard skills
+prise	hard skills
+optique	hard skills
+,	O
+installation	hard skills
+du	hard skills
+boitier	hard skills
+fibre	hard skills
+optique	hard skills
+,	
+test	hard skills
+De	experience
+formation	experience
+technique	experience
+Bac	experience
+,	
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+significative	experience
+à	experience
+un	experience
+poste	experience
+similaire	experience
+de	experience
+technicien	experience
+-LRB-	
+h/f	O
+-RRB-	O
+dans	O
+le	experience
+secteur	experience
+des	experience
+télécoms	experience
+.	O
+Vous	hard skills
+maîtrisez	hard skills
+impérativement	hard skills
+:	O
+l'architecture	hard skills
+des	hard skills
+réseaux	hard skills
+LAN	hard skills
+/	O
+WAN	hard skills
+,	O
+le	hard skills
+protocole	hard skills
+IP	hard skills
+,	O
+la	hard skills
+configuration	hard skills
+des	hard skills
+routeurs	hard skills
+et	hard skills
+des	hard skills
+switchs	hard skills
+.	O
+Vous	hard skills
+avez	hard skills
+des	hard skills
+connaissances	hard skills
+sur	hard skills
+les	hard skills
+technologies	hard skills
+de	hard skills
+transmission	hard skills
+sur	hard skills
+cuivre	hard skills
+,	
+fibre	hard skills
+optique	hard skills
+ou	hard skills
+sans	hard skills
+fil.Vous	hard skills
+maîtrisez	hard skills
+également	hard skills
+l'anglais	hard skills
+et	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+.	O
+Rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+curieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+autonome	soft skills
+,	O
+votre	soft skills
+dynamisme	soft skills
+et	soft skills
+vos	soft skills
+capacités	soft skills
+rédactionnelles	soft skills
+vous	soft skills
+permettront	soft skills
+de	soft skills
+réussir	soft skills
+à	soft skills
+ce	soft skills
+poste	soft skills
+de	O
+technicien	O
+réseaux	O
+télécom	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+à	O
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+fttb/ftth/cablage	experience
+:	O
+1	experience
+an	experience

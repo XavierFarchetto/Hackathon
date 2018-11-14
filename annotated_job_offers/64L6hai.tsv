@@ -1,0 +1,172 @@
+Conducteur	position
+de	position
+travaux	position
+TCE	position
+second	position
+œuvre	position
+-LRB-	O
+H/F	O
+-RRB-	O
+BEI	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Intérim	contrat_type
+Description	O
+:	O
+Entreprise	O
+spécialisée	O
+dans	O
+la	O
+rénovation	O
+de	O
+biens	O
+immobiliers	O
+haut	O
+de	O
+gamme	O
+,	O
+notre	O
+client	O
+existant	O
+depuis	O
+plus	O
+de	O
+20	O
+ans	O
+est	O
+caractérisé	O
+par	O
+leur	O
+éclectisme	O
+et	O
+la	O
+qualité	O
+de	O
+leur	O
+coordination	O
+d'exécution	O
+.	O
+Poste	O
+et	O
+mission	O
+:	O
+-	O
+Etablir	hard skills
+les	hard skills
+devis	hard skills
+-	
+Préparer	hard skills
+l'exécution	hard skills
+du	hard skills
+travail	hard skills
+sur	hard skills
+le	hard skills
+chantier	hard skills
+-	O
+Piloter	hard skills
+et	hard skills
+suivre	hard skills
+le	hard skills
+chantier	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+-	O
+Assurer	hard skills
+la	hard skills
+réception	hard skills
+des	hard skills
+travaux	hard skills
+en	hard skills
+fin	hard skills
+de	hard skills
+chantier	hard skills
+-	O
+Faire	hard skills
+un	hard skills
+rapport	hard skills
+écrit	hard skills
+régulièrement	hard skills
+sur	hard skills
+l'activité	hard skills
+de	hard skills
+chaque	hard skills
+chantier	hard skills
+-	
+Etablir	hard skills
+la	hard skills
+facturation	hard skills
+-	O
+Passer	hard skills
+les	hard skills
+commandes	hard skills
+Profil	
+:	O
+Vous	experience
+êtes	experience
+conducteur	experience
+de	experience
+travaux	experience
+en	experience
+TCE	experience
+second	experience
+œuvre	experience
+.	
+Vous	experience
+avez	experience
+minimum	experience
+4	experience
+ans	experience
+d'expérience	experience
+dans	experience
+un	experience
+métier	experience
+similaire	experience
+.	O
+Connaissances	hard skills
+des	hard skills
+fournisseurs	hard skills
+Logiciel	hard skills
+maîtrisé	hard skills
+:	O
+-	O
+CAO	hard skills
+sur	hard skills
+AUTOCAD	hard skills
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+30	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+Conducteur	experience
+de	experience
+travaux	experience
+TCE	experience
+second	experience
+oeuvre	experience
+-LRB-	O
+H/F	O
+-RRB-	O
+:	O
+4	experience
+ans	experience

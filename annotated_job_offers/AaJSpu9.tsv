@@ -1,0 +1,232 @@
+Animateur	position
+/	O
+Animatrice	position
+périscolaire	position
+La	company
+Ronde	company
+des	company
+Bambins	company
+-	O
+Caen	city
+-LRB-	O
+14	postal code
+-RRB-	O
+9,76	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Nous	O
+recherchons	O
+actuellement	O
+un	position
+poste	position
+d'animateur	position
+petite	position
+enfance	position
+H/F	O
+en	O
+garderie	O
+périscolaire	O
+à	O
+Caen	city
+,	O
+pour	O
+un	O
+CDD	contrat_type
+temps	O
+partiel	O
+de	O
+8	O
+H	O
+par	O
+semaine	O
+,	O
+afin	hard skills
+d'encadrer	hard skills
+un	hard skills
+groupe	hard skills
+d'enfant	hard skills
+âgé	hard skills
+de	hard skills
+3	hard skills
+à	hard skills
+12	hard skills
+ans	hard skills
+.	
+Les	
+horaires	
+de	O
+travail	O
+seront	O
+les	O
+suivants	O
+:	O
+Les	O
+Lundis	O
+,	O
+Mardis	O
+,	O
+Jeudis	O
+et	O
+Vendredis	O
+de	O
+16h15	O
+à	O
+18h15	O
+ou	O
+de	O
+16h30	O
+à	O
+18h30	O
+en	O
+période	O
+scolaire	O
+Contrat	O
+CDD	contrat_type
+temps	O
+partiel	O
+du	O
+1	O
+septembre	O
+2017	O
+au	O
+31	O
+août	O
+2018	O
+Smic	O
+horaire	O
+de	O
+-LRB-	O
+9.76	salary
+$	salary
+brut	salary
+-RRB-	O
+Annualisation	O
+du	O
+temps	O
+de	O
+travail	O
+sur	O
+les	O
+vacances	O
+scolaires	O
+.	O
+PROFIL	O
+:	O
+Avoir	experience
+le	experience
+BAFA	experience
+-LRB-	O
+ou	experience
+en	experience
+cours	experience
+de	experience
+validation	experience
+-RRB-	O
+Avoir	experience
+minimum	experience
+6	experience
+an	experience
+d'expérience	experience
+dans	experience
+le	experience
+milieu	experience
+de	experience
+l'animation	experience
+Avoir	soft skills
+une	soft skills
+bonne	soft skills
+connaissance	soft skills
+du	soft skills
+public	soft skills
+accueilli	soft skills
+et	soft skills
+un	soft skills
+bon	soft skills
+contact	soft skills
+Savoir	soft skills
+préparer	soft skills
+,	O
+organiser	soft skills
+et	soft skills
+animer	soft skills
+des	soft skills
+activités	soft skills
+manuelles	soft skills
+avoir	experience
+une	experience
+expérience	experience
+et	experience
+connaissance	experience
+de	experience
+la	experience
+jeunesse	experience
+,	O
+ainsi	experience
+que	experience
+dans	experience
+l'animation	experience
+d'ateliers	experience
+à	experience
+destination	experience
+d'enfants	experience
+.	O
+Avoir	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+de	soft skills
+l'organisation	soft skills
+Etre	soft skills
+force	soft skills
+de	soft skills
+proposition	soft skills
+et	soft skills
+prise	soft skills
+d'initiative	soft skills
+Avoir	soft skills
+la	soft skills
+capacité	soft skills
+à	soft skills
+s	soft skills
+`	soft skills
+auto	soft skills
+évaluer	soft skills
+Permis	hard skills
+B	hard skills
+souhaité	O
+AVANTAGES	O
+:	O
+Participation	O
+aux	O
+frais	O
+de	O
+transport	O
+-LRB-	O
+si	O
+abonnement	O
+mensuel	O
+ou	O
+annuel	O
+-RRB-	O
+Mutuelle	O
+et	O
+prévoyance	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+9,76	salary
+$	salary
+/	O
+heure	salary

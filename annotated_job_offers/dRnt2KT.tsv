@@ -1,0 +1,221 @@
+femme	position
+de	position
+chambre	position
+CHR	company
+Nettoyage	company
+-	O
+Tignes	city
+-LRB-	O
+73	postal code
+-RRB-	O
+10,21	salary
+$	salary
+-	O
+10,32	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+A	O
+Tignes	city
+-LRB-	O
+73	postal code
+-RRB-	O
+Pour	O
+le	O
+compte	O
+d'un	O
+hôtel	O
+2	O
+*	O
+-LRB-	O
+service	O
+3	O
+*	O
+-RRB-	O
+de	O
+18	O
+chambres	O
+et	O
+d'un	O
+chalet	O
+de	O
+155	O
+m	O
+²	O
+juste	O
+à	O
+côté	O
+,	O
+nous	O
+recherchons	O
+:	O
+3	position
+Femmes	position
+de	position
+chambre	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+une	hard skills
+prise	hard skills
+de	hard skills
+poste	hard skills
+le	hard skills
+1er	hard skills
+décembre	hard skills
+2017	hard skills
+Le	hard skills
+nettoyage	hard skills
+du	hard skills
+chalet	hard skills
+se	hard skills
+fera	hard skills
+exclusivement	hard skills
+le	hard skills
+samedi	hard skills
+,	hard skills
+sauf	hard skills
+demande	hard skills
+particulière	hard skills
+.	
+A	O
+l'hôtel	O
+,	O
+vous	hard skills
+aurez	hard skills
+la	hard skills
+responsabilité	hard skills
+de	hard skills
+nettoyer	hard skills
+et	hard skills
+de	hard skills
+ranger	hard skills
+les	hard skills
+chambres	hard skills
+au	hard skills
+quotidien	hard skills
+après	hard skills
+l'utilisation	hard skills
+par	hard skills
+le	hard skills
+client	hard skills
+,	hard skills
+ainsi	hard skills
+que	hard skills
+de	hard skills
+nettoyer	hard skills
+les	hard skills
+parties	hard skills
+communes	hard skills
+des	hard skills
+étages	hard skills
+.	
+Chaque	hard skills
+matin	hard skills
+,	
+vous	hard skills
+recevrez	hard skills
+votre	hard skills
+planning	hard skills
+indiquant	hard skills
+les	hard skills
+chambres	hard skills
+que	hard skills
+vous	hard skills
+devez	hard skills
+nettoyer	hard skills
+et	hard skills
+ranger	hard skills
+,	
+avec	hard skills
+efficacité	hard skills
+et	hard skills
+rapidité	hard skills
+.	
+Vos	O
+qualités	O
+:	O
+-	O
+Sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+de	soft skills
+la	soft skills
+propreté	soft skills
+-	soft skills
+Efficacité	soft skills
+et	soft skills
+rapidité	soft skills
+d'exécution	soft skills
+-	soft skills
+Discrétion	soft skills
+et	soft skills
+honnêteté	soft skills
+Expérience	experience
+minimum	experience
+de	experience
+2	experience
+ans	experience
+impérative	experience
+-	
+Véhicule	hard skills
+OBLIGATOIRE	hard skills
+Poste	
+non	O
+logé	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Saisonnier	O
+Temps	contrat_type
+partiel	contrat_type
+24h/semaine	O
+Salaire	O
+:	O
+10,21	salary
+$	salary
+à	
+10,32	salary
+$	salary
+/	O
+heure	salary
+Mutuelle	O
+-	O
+Indemnité	O
+de	O
+transport	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+10,21	salary
+$	salary
+à	O
+10,32	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Tignes	city
+-LRB-	O
+73	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+femme	experience
+de	experience
+chambre	experience
+:	O
+2	experience
+ans	experience

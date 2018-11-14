@@ -1,0 +1,302 @@
+Comptable	position
+recouvrement	position
+client	position
+Alfyma	company
+-	O
+Bailly-Romainvilliers	city
+-LRB-	O
+77	postal code
+-RRB-	O
+CDI	contrat_type
+Nous	O
+recrutons	O
+pour	O
+notre	O
+Société	O
+située	O
+à	O
+Bailly	city
+Romainvilliers	city
+-LRB-	O
+77	postal code
+-RRB-	O
+,	O
+un	position
+comptable	position
+-LRB-	O
+H/F	O
+-RRB-	O
+,	O
+expérimenté	position
+-LRB-	O
+e	position
+-RRB-	O
+.	O
+Au	O
+sein	O
+de	O
+la	O
+Direction	O
+Administrative	O
+et	O
+Financière	O
+de	O
+notre	O
+Société	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+de	hard skills
+prendre	hard skills
+en	hard skills
+charge	hard skills
+,	O
+de	hard skills
+façon	hard skills
+autonome	hard skills
+la	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+comptabilité	hard skills
+client	hard skills
+ainsi	hard skills
+que	hard skills
+le	hard skills
+suivi	hard skills
+des	hard skills
+règlements	hard skills
+clients	hard skills
+et	hard skills
+les	hard skills
+relances	hard skills
+nécessaires	hard skills
+.	O
+Vous	hard skills
+serez	hard skills
+notamment	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+:	
+Rapprochement	hard skills
+des	hard skills
+factures	hard skills
+émises	hard skills
+et	hard skills
+des	hard skills
+règlements	hard skills
+reçus	hard skills
+,	
+Etablissement	hard skills
+des	hard skills
+avoirs	hard skills
+liées	hard skills
+aux	hard skills
+accords	hard skills
+commerciaux	hard skills
+,	
+Recouvrement	hard skills
+des	hard skills
+factures	hard skills
+,	
+Mise	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+suivi	hard skills
+d'actions	hard skills
+de	hard skills
+relance	hard skills
+par	hard skills
+courriel	hard skills
+et/ou	hard skills
+par	hard skills
+téléphone	hard skills
+,	
+Suivi	hard skills
+et	hard skills
+analyse	hard skills
+de	hard skills
+la	hard skills
+balance	hard skills
+âgée	hard skills
+,	
+Détermination	hard skills
+et	hard skills
+respect	hard skills
+des	hard skills
+encours	hard skills
+accordées	hard skills
+aux	hard skills
+clients	hard skills
+,	O
+Mise	hard skills
+en	hard skills
+place	hard skills
+d'un	hard skills
+reporting	hard skills
+à	hard skills
+destination	hard skills
+de	hard skills
+la	hard skills
+direction	hard skills
+commerciale	hard skills
+afin	hard skills
+de	hard skills
+suivre	hard skills
+les	hard skills
+incidents	hard skills
+de	hard skills
+paiement	hard skills
+et	hard skills
+de	hard skills
+mesurer	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+conditions	hard skills
+commerciales	hard skills
+,	
+Suivi	hard skills
+des	hard skills
+encaissements	hard skills
+reçus	hard skills
+sur	hard skills
+les	hard skills
+ventes	hard skills
+faites	hard skills
+sur	hard skills
+par	hard skills
+le	hard skills
+biais	hard skills
+d'internet	hard skills
+et	hard skills
+gestion	hard skills
+du	hard skills
+risque	hard skills
+de	hard skills
+fraude	hard skills
+liés	hard skills
+à	hard skills
+ces	hard skills
+ventes	hard skills
+:	O
+validation	hard skills
+des	hard skills
+commandes	hard skills
+à	hard skills
+risque	hard skills
+,	O
+suivi	hard skills
+des	hard skills
+contestations	hard skills
+,	O
+Remboursements	hard skills
+des	hard skills
+clients	hard skills
+suite	hard skills
+à	hard skills
+des	hard skills
+annulations	hard skills
+de	hard skills
+commande	hard skills
+.	O
+Vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+,	O
+autonome	soft skills
+,	O
+impliqué	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+diplomate	soft skills
+et	soft skills
+disposez	soft skills
+de	soft skills
+bonnes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+.	O
+Vous	soft skills
+appréciez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	
+maitrisez	hard skills
+l'informatique	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+Selon	O
+votre	O
+expérience	O
+Disponibilité	O
+:	O
+Immédiate	O
+Localisation	O
+du	O
+poste	O
+:	O
+Bailly	city
+Romainvilliers	city
+-LRB-	O
+77	postal code
+-RRB-	O
+Formation	O
+exigée	O
+:	O
+Licence	O
+,	O
+Master	experience
+Expérience	experience
+professionnelle	experience
+exigée	experience
+:	O
+04-mai	experience
+ans	experience
+minimum	experience
+d'expérience	experience
+réussie	experience
+en	experience
+cabinet	experience
+d'expertise	experience
+comptable	experience
+ou	experience
+au	experience
+sein	experience
+d'une	experience
+entreprise	experience
+à	experience
+un	experience
+poste	experience
+similaire	experience
+.	O
+Langue	O
+:	O
+la	hard skills
+maîtrise	hard skills
+du	hard skills
+portugais	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

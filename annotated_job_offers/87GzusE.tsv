@@ -1,0 +1,156 @@
+Hôte	position
+Hôtesse	position
+distribution	position
+de	position
+clémentines	position
+L'Agence	company
+Unique	company
+-	O
+Cesson-Sévigné	city
+-LRB-	O
+35	code postal
+-RRB-	O
+9,7	salary
+$	salary
+-	O
+9,8	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Dans	O
+le	O
+cadre	O
+d'une	O
+animation	O
+commerciale	O
+,	O
+nous	O
+recherchons	O
+1	position
+hôte	position
+H/F	
+pour	
+de	
+la	
+distribution	
+de	
+fruits	
+dans	O
+une	O
+zone	O
+de	O
+chalandise	O
+définie	O
+:	O
+2	O
+jours	O
+de	O
+travail	O
+:	O
+-	O
+22	O
+&	O
+24	O
+novembre	O
+:	O
+Distribution	O
+de	O
+fruits	O
+dans	O
+une	O
+zone	O
+de	O
+chalandise	O
+définie	O
+accompagné	O
+-LRB-	O
+e	O
+-RRB-	O
+de	O
+votre	O
+chef	O
+hôte	O
+-LRB-	O
+6h/jour	O
+-RRB-	O
+Missions	O
+:	O
+-	O
+Distribution	hard skills
+de	hard skills
+clémentines	hard skills
+-	O
+Echantillonnage	hard skills
+-	O
+Profil	
+:	O
+-	O
+A	soft skills
+l'aise	soft skills
+en	soft skills
+public	soft skills
+-	O
+Dynamique	soft skills
+-	O
+Fiable	soft skills
+-	O
+Ponctuel	soft skills
+-	O
+Pro-actif	soft skills
+-	O
+Planning	
+:	O
+-	O
+A	O
+CESSON	O
+-LRB-	O
+35	O
+-RRB-	O
+-	O
+Horaires	O
+à	O
+définir	O
+Vous	O
+devez	O
+être	O
+disponible	O
+à	O
+toutes	O
+les	O
+dates	O
+Contrat	O
+:	O
+-	O
+CIDD	contrat_type
+-	O
+Smic	O
+horaire	O
++	O
+10	O
+%	O
+de	O
+congés	O
+payés	O
++	O
+10	O
+%	O
+d'indemnités	O
+de	O
+fin	O
+de	O
+contrat	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+9,7	salary
+$	salary
+à	O
+9,8	salary
+$	salary
+/	O
+heure	salary

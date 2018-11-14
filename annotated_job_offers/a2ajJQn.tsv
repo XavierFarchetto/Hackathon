@@ -1,0 +1,187 @@
+Agent	position
+de	position
+voyages	position
+,	O
+conseiller	position
+voyages	position
+ANTONY	company
+M	company
+VOYAGES	company
+-	O
+Antony	city
+-LRB-	O
+92	code postal
+-RRB-	O
+CDI	contrat_type
+CONSEILLER	position
+VOYAGES	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	O
+*	O
+CDI	contrat_type
+Poste	O
+à	O
+temps	O
+plein	O
+à	O
+pourvoir	O
+de	O
+suite	O
+Vous	experience
+êtes	experience
+titulaire	experience
+d'un	experience
+BTS	experience
+Tourisme	experience
+,	O
+n'êtes	O
+plus	O
+un	O
+-LRB-	O
+e	O
+-RRB-	O
+débutant	O
+-LRB-	O
+e	O
+-RRB-	O
+-LRB-	O
+minimum	experience
+1	experience
+an	experience
+d'expérience	experience
+en	experience
+agence	experience
+-RRB-	O
+et	O
+connaissez	O
+bien	O
+de	O
+nombreuses	O
+destinations	O
+?	O
+Vous	soft skills
+êtes	soft skills
+curieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+ordonné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+ponctuel	soft skills
+-LRB-	O
+le	soft skills
+-RRB-	O
+et	soft skills
+aimez	soft skills
+le	soft skills
+contact	soft skills
+client	soft skills
+?	O
+Vous	O
+ne	O
+souhaitez	O
+plus	O
+vendre	O
+la	O
+page	O
+34	O
+de	O
+la	O
+brochure	O
+X.	O
+.	O
+.	O
+et	O
+avez	O
+envie	O
+de	O
+construire	O
+des	O
+voyages	O
+''	O
+à	O
+la	O
+carte	O
+''	O
+?	O
+Vous	hard skills
+maîtrisez	hard skills
+Amadeus	hard skills
+,	O
+les	hard skills
+sites	hard skills
+BtoB	hard skills
+,	O
+le	hard skills
+Pack	hard skills
+Office	hard skills
+et	hard skills
+savez	hard skills
+rédiger	hard skills
+en	hard skills
+français	hard skills
+?	O
+Alors	O
+,	O
+rejoignez	O
+une	O
+petite	O
+équipe	O
+de	O
+couturiers	O
+du	O
+voyage	O
+,	O
+passionnée	O
+par	O
+son	O
+métier	O
+!	O
+Agence	O
+affiliée	O
+Tourcom	O
+.	O
+Tourisme	O
+loisir	O
+principalement	O
+.	O
+Une	O
+connaissance	O
+de	O
+Modo	O
+Gestion	O
+serait	O
+un	O
+plus	O
+.	O
+Possibilité	O
+de	O
+CDD	contrat_type
+sur	O
+plusieurs	O
+mois	O
+également	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+agence	experience
+de	experience
+voyages	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills

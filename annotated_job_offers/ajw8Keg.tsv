@@ -1,0 +1,199 @@
+INFIRMIER	position
+H/F	O
+EN	position
+ENTREPRISE	position
+MORGAN	company
+SERVICES	company
+Jean	company
+Jaurès	company
+-	O
+Toulouse	city
+-LRB-	O
+31	postal code
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Intérim	contrat_type
+L'agence	company
+Groupe	company
+Morgan	company
+Services	company
+recherche	
+un	position
+infirmier	position
+H/F	O
+en	position
+Entreprise	position
+.	O
+Au	O
+sein	O
+de	O
+la	O
+Direction	O
+des	O
+Ressources	O
+Humaines	O
+,	O
+et	O
+du	O
+service	O
+santé	O
+au	O
+travail	O
+en	O
+équipe	O
+avec	O
+une	O
+infirmière	O
+et	O
+en	O
+lien	O
+avec	O
+les	O
+médecins	O
+du	O
+travail	O
+de	O
+différents	O
+sites	O
+,	O
+vous	hard skills
+participerez	hard skills
+à	hard skills
+l'élaboration	hard skills
+et	hard skills
+assurerez	hard skills
+des	hard skills
+actions	hard skills
+de	hard skills
+prévention	hard skills
+en	hard skills
+santé	hard skills
+au	hard skills
+travail	hard skills
+.	
+Vous	hard skills
+prendrez	hard skills
+en	hard skills
+charge	hard skills
+l'accueil	hard skills
+des	hard skills
+personnels	hard skills
+à	hard skills
+l'infirmerie	hard skills
+,	
+et	hard skills
+assurerez	hard skills
+secours	hard skills
+et	hard skills
+soins	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+en	hard skills
+charge	hard skills
+:	
+Assurer	hard skills
+l'accueil	hard skills
+à	hard skills
+l'infirmerie	hard skills
+et	hard skills
+les	hard skills
+soins	hard skills
+";"	
+Gérer	hard skills
+les	hard skills
+urgences	hard skills
+santé	hard skills
+selon	hard skills
+les	hard skills
+protocoles	hard skills
+,	O
+information	hard skills
+et	hard skills
+suivi	hard skills
+";"	O
+Gérer	hard skills
+les	hard skills
+accidents	hard skills
+du	hard skills
+travail	hard skills
+";"	O
+les	hard skills
+soins	hard skills
+,	
+les	hard skills
+démarches	hard skills
+administrative	hard skills
+";"	
+participer	hard skills
+aux	hard skills
+en	hard skills
+quêtes	hard skills
+CHSCT	hard skills
+,	O
+analyses	hard skills
+des	hard skills
+accidents	hard skills
+/	O
+arbre	hard skills
+des	hard skills
+causes	hard skills
+";"	O
+Participer	hard skills
+aux	hard skills
+choix	hard skills
+des	hard skills
+équipements	hard skills
+de	hard skills
+protection	hard skills
+individuels	hard skills
+-LRB-	O
+EPI	hard skills
+-RRB-	O
+et	hard skills
+assurer	hard skills
+la	hard skills
+mise	hard skills
+à	hard skills
+disposition	hard skills
+";"	O
+Préparer	hard skills
+et	hard skills
+suivre	hard skills
+le	hard skills
+budget	hard skills
+annuel	hard skills
+de	hard skills
+l'infirmerie	hard skills
+Type	
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	O
+25	salary
+0	salary
+$	salary
+/	
+an	salary
+Expérience	O
+exigée	O
+:	O
+infirmier	experience
+d'entreprise	experience
+:	O
+3	experience
+ans	experience

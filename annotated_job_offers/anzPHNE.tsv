@@ -1,0 +1,159 @@
+Agent	position
+de	position
+sécurité	position
+H/F	O
+GORON	company
+S.A	company
+-	O
+Vélizy-Villacoublay	city
+-LRB-	O
+78	postal code
+-RRB-	O
+1	salary
+502	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Prestataire	O
+de	O
+service	O
+en	O
+sécurité	O
+privée	O
+,	O
+nous	O
+sommes	O
+l'un	O
+des	O
+acteurs	O
+leader	O
+de	O
+notre	O
+secteur	O
+d'activité	O
+.	O
+Nous	O
+travaillons	O
+essentiellement	O
+pour	O
+de	O
+grandes	O
+entreprises	O
+françaises	O
+et	O
+internationales	O
+ainsi	O
+que	O
+pour	O
+des	O
+organisations	O
+institutionnelles	O
+.	O
+Notre	O
+entreprise	O
+se	O
+prévaut	O
+d'une	O
+solide	O
+réputation	O
+de	O
+qualité	O
+de	O
+services	O
+et	O
+de	O
+politique	O
+managériale	O
+.	O
+Nous	O
+recherchons	O
+dans	O
+le	O
+cadre	O
+d'un	O
+CDI	contrat_type
+à	O
+temps	O
+complet	O
+un	position
+Agent	position
+de	position
+sécurité	position
+H/F	O
+.	O
+Vous	hard skills
+assurez	hard skills
+la	hard skills
+prévention	hard skills
+et	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+personnes	hard skills
+et	hard skills
+des	hard skills
+biens	hard skills
+pour	hard skills
+un	hard skills
+immeuble	hard skills
+de	hard skills
+bureaux	hard skills
+d'une	hard skills
+entreprise	hard skills
+de	hard skills
+renommée	hard skills
+internationale	hard skills
+.	O
+Vous	experience
+êtes	experience
+titulaire	experience
+de	experience
+votre	experience
+carte	experience
+professionnelle	experience
+surveillance	experience
+humaine	experience
+et	experience
+à	experience
+jour	experience
+de	experience
+vos	experience
+recyclages	experience
+en	experience
+secourisme	experience
+-LRB-	
+SST	experience
+-RRB-	O
+.	O
+Vous	soft skills
+possédez	soft skills
+les	soft skills
+capacités	soft skills
+rédactionnelles	soft skills
+nécessaires	soft skills
+à	soft skills
+l'établissement	soft skills
+de	soft skills
+rapports	soft skills
+circonstanciés	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1501,94	salary
+euros	salary
+bruts	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

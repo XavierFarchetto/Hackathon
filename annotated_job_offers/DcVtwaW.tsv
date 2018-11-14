@@ -1,0 +1,241 @@
+Vendeur	position
+sur	O
+les	O
+marchés	company
+TIA	company
+TRAITEUR	company
+-	O
+Alfortville	city
+-LRB-	O
+94	postal code
+-RRB-	O
+10	salary
+$	salary
+-	
+20	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+développement	O
+commercial	O
+,	O
+nous	O
+recherchons	O
+,	O
+un	position
+vendeur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+produit	O
+alimentaire	O
+pour	O
+les	O
+marchés	O
+du	O
+vendredi	O
+,	O
+samedi	O
+et	O
+dimanche	O
+pour	O
+les	O
+communes	O
+de	O
+Massy	city
+-LRB-	O
+91	postal code
+-RRB-	O
+et	O
+Montigny	city
+le	city
+Bretonneux	city
+-LRB-	O
+78	postal code
+-RRB-	O
+Votre	hard skills
+mission	hard skills
+sera	hard skills
+de	hard skills
+promouvoir	hard skills
+et	hard skills
+de	hard skills
+mettre	hard skills
+en	hard skills
+avant	hard skills
+à	hard skills
+la	hard skills
+clientèle	hard skills
+des	hard skills
+produits	hard skills
+exceptionnels	hard skills
+et	hard skills
+d'une	hard skills
+qualité	hard skills
+maîtrisée	hard skills
+,	hard skills
+pérennisant	hard skills
+un	hard skills
+savoir	hard skills
+faire	hard skills
+et	hard skills
+la	hard skills
+notoriété	hard skills
+d'une	hard skills
+grande	hard skills
+enseigne	hard skills
+Parisienne	hard skills
+:	
+accueil	hard skills
+physique	hard skills
+des	hard skills
+clients	hard skills
+,	hard skills
+conseil	hard skills
+et	hard skills
+vente	hard skills
+des	hard skills
+produits	hard skills
+,	hard skills
+saisie	hard skills
+et	hard skills
+encaissement	hard skills
+des	hard skills
+ventes	hard skills
+,	hard skills
+nettoyage	hard skills
+et	hard skills
+rangement	hard skills
+du	hard skills
+camion	hard skills
+.	hard skills
+Conditions	
+:	
+CDD	contrat_type
+à	O
+pourvoir	O
+début	O
+octobre	O
+pouvant	O
+débouché	O
+sur	O
+CDI	contrat_type
+.	O
+Temps	contrat_type
+partiel	contrat_type
+:	O
+15H/semaine	O
+-LRB-	O
+travail	O
+du	O
+jeudi	O
+au	O
+samedi	O
+-RRB-	O
+Idéal	O
+pour	O
+complément	O
+de	O
+revenu	O
+Rémunération	O
+à	O
+négocier	O
+selon	O
+expérience	O
+,	O
+commission	O
+intéressante	O
+possible	O
+Idéalement	O
+,	O
+vous	O
+êtes	O
+:	O
+titulaire	experience
+d'un	experience
+CAP	experience
+ou	experience
+d'un	experience
+CQP	experience
+vente	experience
+,	
+passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+gourmand	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+de	soft skills
+restauration	soft skills
+Libanaise	soft skills
+expérience	experience
+réussie	experience
+en	experience
+vente	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+titulaire	experience
+du	experience
+permis	experience
+de	experience
+conduire	experience
+impératif	experience
+Si	
+vous	
+vous	
+reconnaissez	
+dans	
+ces	O
+valeurs	O
+,	O
+merci	O
+de	O
+nous	O
+faire	O
+parvenir	O
+par	O
+mail	O
+un	O
+CV	O
+et	O
+L.M	O
+en	O
+réponse	O
+à	O
+cette	O
+annonce	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+à	
+20	salary
+$	salary
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+Vente	experience
+:	O
+1	experience
+an	experience

@@ -1,0 +1,66 @@
+Chauffeur	position
+livreur	position
+VL	position
+AGENCE	company
+DHL	company
+-	O
+Brest	city
+-LRB-	O
+29	code postal
+-RRB-	O
+L'AGENCE	company
+DHL	company
+de	O
+Brest	city
+et	O
+Quimper	O
+,	O
+recrute	O
+Chauffeur/Livreur	position
+H/F	O
+véhicule	hard skills
+léger	hard skills
+-LRB-	O
+-	O
+de	hard skills
+3,5	hard skills
+T	hard skills
+-RRB-	O
+.	O
+Profil	O
+souhaité	O
+:	O
+-	O
+Bon	soft skills
+relationnel	soft skills
+-	O
+Dynamique	soft skills
+et	soft skills
+autonome	soft skills
+-	O
+Expérience	experience
+appréciée	experience
+Poste	O
+à	O
+pourvoir	O
+:	O
+2	O
+sur	O
+l'agence	O
+de	O
+Quimper	O
+3	O
+sur	O
+l'agence	O
+de	O
+Brest	city
+.	O
+Envoyer	O
+CV	O
+par	O
+mail	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

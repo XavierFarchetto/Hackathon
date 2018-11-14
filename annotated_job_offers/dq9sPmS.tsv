@@ -1,0 +1,204 @@
+Commis	position
+de	position
+cuisine	position
+H/F	O
+Le	company
+Pain	company
+Quotidien	company
+France	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+511	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Le	company
+Pain	company
+Quotidien	company
+recherche	O
+des	position
+commis	position
+de	position
+cuisine	position
+en	O
+CDI	contrat_type
+35h	O
+pour	O
+ses	O
+restaurants	O
+situés	O
+sur	O
+Paris	city
+.	O
+Enseigne	O
+internationale	O
+de	O
+restauration	O
+,	O
+comptant	O
+plus	O
+de	O
+230	O
+restaurants	O
+dans	O
+le	O
+monde	O
+avec	O
+13	O
+restaurants	O
+sur	O
+Paris	O
+,	O
+Le	company
+Pain	company
+Quotidien	company
+propose	O
+des	O
+produits	O
+frais	O
+et	O
+biologiques	O
+pour	O
+petits-déjeuners	O
+,	O
+brunchs	O
+,	O
+déjeuners	O
+et	O
+goûters	O
+tout	O
+au	O
+long	O
+de	O
+la	O
+journée	O
+.	O
+Nos	hard skills
+cuisiniers/cuisini	hard skills
+ères	hard skills
+préparent	hard skills
+soigneusement	hard skills
+et	hard skills
+rapidement	hard skills
+nos	hard skills
+plats	hard skills
+à	hard skills
+partir	hard skills
+de	hard skills
+produits	hard skills
+frais	hard skills
+et	hard skills
+biologiques	hard skills
+,	
+en	hard skills
+respectant	hard skills
+nos	hard skills
+fiches	hard skills
+techniques	hard skills
+.	O
+Nous	
+recrutons	
+des	soft skills
+collaborateurs	soft skills
+enthousiastes	soft skills
+,	O
+dynamiques	soft skills
+et	soft skills
+chaleureux	soft skills
+,	
+qui	soft skills
+ont	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Nos	
+restaurants	O
+sont	O
+ouverts	O
+7	O
+jours	O
+sur	O
+7	O
+,	O
+de	O
+8	O
+heures	O
+à	O
+20	O
+ou	O
+22	O
+heures	O
+.	O
+Les	O
+journées	O
+de	O
+travail	O
+sont	O
+continues	O
+-LRB-	O
+sans	O
+coupure	O
+-RRB-	O
+.	O
+Salaire	O
+:	O
+1510,63	salary
+euros	salary
+brut	salary
+pour	O
+35	O
+heures	O
+Possibilités	O
+d'évolution	O
+vers	O
+le	O
+poste	O
+d'assistant	O
+responsable	O
+de	O
+production	O
+.	O
+N'hésitez	O
+pas	O
+à	O
+nous	O
+transmettre	O
+votre	O
+CV	O
+!	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+Cuisine	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+Français	hard skills

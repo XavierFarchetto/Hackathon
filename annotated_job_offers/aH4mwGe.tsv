@@ -1,0 +1,252 @@
+ergotherapeute	position
+ADIMC	company
+74	code postal
+-	O
+Héry-sur-Alby	city
+-LRB-	O
+74	code postal
+-RRB-	O
+1	salary
+766	salary
+$	salary
+par	salary
+mois	salary
+OFFRE	O
+D'EMPLOI	O
+Poste	O
+à	O
+pourvoir	O
+du	O
+01/01/2018	O
+au	O
+31/12/2018	O
+L'Association	O
+Départementale	O
+pour	O
+Infirmes	O
+Moteurs	O
+Cérébraux	O
+de	O
+Haute-Savoie	O
+a	O
+ouvert	O
+en	O
+octobre	O
+2013	O
+un	O
+Foyer	O
+d'Accueil	O
+Médicalisé	O
+-LRB-	O
+FAM	O
+-RRB-	O
+situé	O
+à	O
+Héry	city
+sur	O
+Alby	O
+-LRB-	O
+74	code postal
+-RRB-	O
+.	O
+Cet	O
+établissement	O
+héberge	O
+37	O
+adultes	O
+handicapés	O
+répartis	O
+sur	O
+3	O
+unités	O
+de	O
+vie	O
+,	O
+dont	O
+une	O
+plus	O
+spécifiquement	O
+adaptée	O
+aux	O
+adultes	O
+polyhandicapés	O
+.	O
+Cet	O
+établissement	O
+recherche	O
+:	O
+1	position
+ERGOTHÉRAPEUTE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CDD	contrat_type
+Temps	O
+complet	O
+-	O
+possibilité	O
+de	O
+logement	O
+partagé	O
+.	O
+Pour	O
+une	O
+durée	O
+de	O
+12	O
+mois	O
+Vos	O
+missions	O
+principales	O
+sont	O
+:	O
+Évaluer	hard skills
+les	hard skills
+déficiences	hard skills
+,	
+les	hard skills
+capacités	hard skills
+et	hard skills
+les	hard skills
+performances	hard skills
+motrices	hard skills
+,	O
+sensitives	hard skills
+,	
+sensorielles	hard skills
+,	
+cognitives	hard skills
+du	hard skills
+résident	hard skills
+et	hard skills
+faire	hard skills
+des	hard skills
+préconisations	hard skills
+suivant	hard skills
+ses	hard skills
+besoins	hard skills
+.	O
+Mettre	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+soins	hard skills
+et	hard skills
+des	hard skills
+interventions	hard skills
+de	hard skills
+rééducation	hard skills
+,	O
+de	hard skills
+réadaptation	hard skills
+,	
+de	hard skills
+réinsertion	hard skills
+,	O
+de	hard skills
+réhabilitation	hard skills
+psychosociale	hard skills
+visant	hard skills
+à	hard skills
+réduire	hard skills
+et	hard skills
+compenser	hard skills
+les	hard skills
+altérations	hard skills
+et	hard skills
+les	hard skills
+limitations	hard skills
+d'activités	hard skills
+,	O
+développer	hard skills
+,	O
+restaurer	hard skills
+et	hard skills
+maintenir	hard skills
+l'indépendance	hard skills
+,	
+l'autonomie	hard skills
+et	hard skills
+la	hard skills
+participation	hard skills
+sociale	hard skills
+du	hard skills
+résident	hard skills
+.	O
+Etre	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+la	hard skills
+famille	hard skills
+et	hard skills
+les	hard skills
+différents	soft skills
+intervenants	hard skills
+auprès	hard skills
+du	hard skills
+résident	hard skills
+Diplôme	experience
+d'Etat	experience
+exigé	experience
+Salaire	
+de	
+base	O
+selon	O
+CCNT	O
+du	O
+15	O
+mars	O
+1966	O
+et	O
+ancienneté	O
+:	O
+1	salary
+765.81	salary
+$	salary
+bruts	salary
++	O
+indemnités	O
+dimanches	O
+et	O
+jours	O
+fériés	O
+.	O
+Permis	hard skills
+B	hard skills
+exigé	hard skills
+.	O
+Lieu	O
+de	O
+travail	O
+:	O
+Héry	city
+sur	O
+Alby	O
+Envoyer	O
+CV	O
++	O
+lettre	O
+de	O
+motivation	O
+sous	O
+référence	O
+:	O
+ERGO	O
+HERY	O
+CDD	contrat_type
+1	salary
+18	salary
+:	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+1	salary
+765,81	salary
+$	salary
+/	O
+mois	salary

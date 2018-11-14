@@ -1,0 +1,90 @@
+Peintre	position
+en	position
+bâtiment	position
+VISSE	company
+-	O
+Sens	city
+-LRB-	O
+89	postal code
+-RRB-	O
+CDI	contrat_type
+Entreprise	O
+du	O
+bâtiment	O
+à	O
+SENS	city
+dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+recherche	O
+:	O
+1	position
+Peintre	position
+H/F	O
+pour	O
+un	O
+CDI	contrat_type
+Il	experience
+vous	experience
+sera	experience
+demandé	experience
+un	experience
+minimum	experience
+de	experience
+3	experience
+ans	experience
+d'expérience	experience
+.	
+Vous	O
+intégrerez	O
+une	O
+équipe	O
+jeune	O
+et	O
+dynamique	O
+.	O
+Vous	hard skills
+travaillerez	hard skills
+en	hard skills
+autonomie	hard skills
+ou	hard skills
+en	hard skills
+équipe	hard skills
+.	
+Permis	hard skills
+B	hard skills
+exigé	hard skills
+.	
+Votre	O
+rémunération	O
+sera	O
+en	O
+respect	O
+avec	O
+vos	O
+qualifications	O
+et	O
+vos	O
+prétentions	O
+.	O
+Si	O
+l'offre	O
+vous	O
+intéresse	O
+,	O
+veuillez	O
+nous	O
+contacter	O
+au	O
+3	O
+86	O
+95	O
+44	O
+72	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

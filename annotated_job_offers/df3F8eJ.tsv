@@ -1,0 +1,279 @@
+Chauffeur	position
+livreur	position
+VL	position
+Carré	company
+Bio	company
+-	O
+Rungis	city
+-LRB-	O
+94	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Chauffeur	position
+livreur	position
+VL	position
+H/F	O
+Carré	company
+Bio	company
+-	O
+Rungis	city
+-LRB-	O
+94	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+--	O
+CDI	contrat_type
+La	O
+société	O
+Carré	company
+Bio	company
+fournit	O
+les	O
+grands	O
+hôtels	O
+et	O
+restaurants	O
+parisiens	O
+depuis	O
+plus	O
+de	O
+10	O
+ans	O
+en	O
+viande	O
+d'extrême	O
+qualité	O
+.	O
+Vous	O
+intégrez	O
+l'équipe	O
+logistique	O
+de	O
+Carré	company
+Bio	company
+-LRB-	O
+Rungis	city
+--	O
+94	postal code
+-RRB-	O
+en	O
+qualité	O
+de	O
+CHAUFFEUR-LIVREUR	position
+VL	position
+H/F	O
+.	O
+Poste	O
+basé	O
+sur	O
+le	O
+MIN	O
+de	O
+Rungis	city
+.	O
+Après	O
+une	O
+période	O
+d'intégration	O
+pendant	O
+laquelle	O
+vous	O
+vous	O
+familiarisez	O
+avec	O
+nos	O
+produits	O
+,	O
+méthodes	O
+et	O
+tournées	O
+,	O
+vous	hard skills
+êtes	hard skills
+notamment	hard skills
+responsable	hard skills
+des	hard skills
+missions	hard skills
+suivantes	hard skills
+:	O
+-	O
+le	hard skills
+chargement	hard skills
+des	hard skills
+marchandises	hard skills
+dans	hard skills
+le	hard skills
+camion	hard skills
+,	hard skills
+-	hard skills
+les	hard skills
+livraisons	hard skills
+des	hard skills
+commandes	hard skills
+chez	hard skills
+nos	hard skills
+clients	hard skills
+via	hard skills
+le	hard skills
+dépotage	hard skills
+des	hard skills
+marchandises	hard skills
+chez	hard skills
+ceux-ci	hard skills
+,	hard skills
+sur	hard skills
+un	hard skills
+secteur	hard skills
+géographique	hard skills
+défini	hard skills
+et	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+chaîne	hard skills
+du	hard skills
+froid	hard skills
+,	hard skills
+-	hard skills
+le	hard skills
+contrôle	hard skills
+des	hard skills
+bons	hard skills
+de	hard skills
+livraison	hard skills
+,	hard skills
+-	hard skills
+la	hard skills
+remontée	hard skills
+des	hard skills
+informations	hard skills
+clients	hard skills
+.	hard skills
+Horaires	hard skills
+de	hard skills
+travail	hard skills
+:	O
+5h-12h00	hard skills
+,	O
+du	hard skills
+lundi	hard skills
+au	hard skills
+samedi	hard skills
+.	O
+Vous	hard skills
+possédez	hard skills
+le	hard skills
+permis	hard skills
+B.	hard skills
+Vous	soft skills
+êtes	soft skills
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+rigoureux	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+consciencieux	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	
+,	O
+autonome	soft skills
+et	soft skills
+disposez	soft skills
+de	soft skills
+qualités	soft skills
+relationnelles	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+par	soft skills
+ailleurs	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+et	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Rémunération	O
+:	O
+-	O
+prime	O
+de	O
+bonne	O
+conduite	O
+-	O
+mutuelle	O
+obligatoire	O
++	O
+prévoyance	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+7000	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+livraison	experience
+de	experience
+produits	experience
+alimentaires	experience
+:	
+1	experience
+an	experience
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+livraison	experience
+de	experience
+produits	experience
+alimentaires	experience
+:	O
+1	experience
+an	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

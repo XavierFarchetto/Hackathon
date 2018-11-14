@@ -1,0 +1,333 @@
+ASSISTANT	position
+COMMERCIAL	position
+POLYVALENT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+FORMATION	company
+LANGUES	company
+-	O
+Orléans	city
+-LRB-	O
+45	code postal
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	O
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Nous	O
+sommes	O
+un	O
+Organisme	O
+de	O
+Formation	O
+,	O
+expert	O
+en	O
+formation	O
+linguistique	O
+et	O
+certifié	O
+Qualité	O
+ISQ-OPQF	O
+.	O
+Nous	O
+accompagnons	O
+,	O
+depuis	O
+plus	O
+de	O
+25	O
+ans	O
+,	O
+les	O
+acteurs	O
+professionnels	O
+de	O
+la	O
+Région	O
+Centre	O
+Val	O
+de	O
+Loire	O
+telles	O
+que	O
+:	O
+Amazon	O
+,	O
+CHRO	O
+,	O
+Crédit	O
+Agricole	O
+,	O
+St	O
+Gobain	O
+,	O
+EDF	O
+,	O
+Nokia	O
+,	O
+dans	O
+la	O
+concrétisation	O
+de	O
+leurs	O
+projets	O
+en	O
+langues	O
+.	O
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+de	O
+nouvelles	O
+compétences	O
+pour	O
+renforcer	O
+notre	O
+équipe	O
+d'une	O
+dizaine	O
+de	O
+personnes	O
+et	O
+contribuer	O
+à	O
+son	O
+développement	O
+.	O
+Nous	O
+recrutons	O
+un	position
+assistant	position
+commercial	position
+polyvalent	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Si	O
+notre	O
+projet	O
+vous	O
+intéresse	O
+,	O
+vos	hard skills
+missions	hard skills
+seront	hard skills
+principalement	hard skills
+orientées	hard skills
+sur	hard skills
+2	hard skills
+axes	hard skills
+:	O
+assister	hard skills
+la	hard skills
+Direction	hard skills
+dans	hard skills
+la	hard skills
+gestion	hard skills
+administrative	hard skills
+et	hard skills
+informatique	hard skills
+de	hard skills
+la	hard skills
+formation	hard skills
+,	O
+le	hard skills
+suivi	hard skills
+des	hard skills
+plannings	hard skills
+et	hard skills
+la	hard skills
+rédaction	hard skills
+de	hard skills
+courriers	hard skills
+et	hard skills
+de	hard skills
+procédures	hard skills
+";"	O
+seconder	hard skills
+le	hard skills
+service	hard skills
+Clientèle	hard skills
+dans	hard skills
+la	hard skills
+commercialisation	hard skills
+de	hard skills
+nos	hard skills
+actions	hard skills
+de	hard skills
+formation	hard skills
+-LRB-	
+phoning	hard skills
+,	O
+relance	hard skills
+,	O
+devis	hard skills
+-RRB-	O
+,	O
+le	hard skills
+développement	hard skills
+de	hard skills
+notre	hard skills
+clientèle	hard skills
+-LRB-	
+portefeuille	hard skills
+-RRB-	O
+.	O
+Vous	
+avez	
+mis	
+à	
+profit	
+votre	
+formation	O
+,	O
+Bac	experience
+2	experience
+gestion	experience
+administrative	experience
+et	experience
+commerciale	experience
+orientée	experience
+de	experience
+préférence	experience
+secteur	experience
+tertiaire	experience
+,	O
+au	experience
+travers	experience
+d'une	experience
+expérience	experience
+d'assistanat	experience
+commerciale	experience
+.	
+De	O
+par	O
+notre	O
+activité	O
+,	O
+la	hard skills
+langue	hard skills
+française	hard skills
+-LRB-	
+grammaire	hard skills
+et	hard skills
+orthographe	hard skills
+-RRB-	O
+et	hard skills
+le	hard skills
+Pack	hard skills
+Office	hard skills
+sont	hard skills
+des	hard skills
+outils	hard skills
+que	hard skills
+vous	hard skills
+maîtrisez	hard skills
+.	O
+Votre	O
+poste	O
+est	O
+basé	O
+à	O
+Orléans	city
+-LRB-	O
+proche	O
+Pont	O
+de	O
+l'Europe	O
+,	O
+tram	O
+et	O
+parking	O
+gratuit	O
+à	O
+proximité	O
+-RRB-	O
+,	O
+en	O
+CDI	contrat_type
+de	O
+35h	O
+par	O
+semaine	O
+avec	O
+un	O
+salaire	O
+de	O
+20	O
+à	O
+25	O
+0	O
+euros	O
+brut	O
+par	O
+an	O
+.	O
+Si	O
+vous	O
+voulez	O
+vivre	O
+une	O
+expérience	O
+professionnelle	O
+enrichissante	O
+et	O
+nous	O
+apporter	O
+vos	O
+compétences	O
+,	O
+envoyez-nous	O
+votre	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+ou	O
+contactez-nous	O
+au	O
+06.66.95.43.16	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Expérience	O
+exigée	O
+:	O
+assistanat	experience
+commercial	experience
+:	O
+2	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+BAC	experience
++	experience
+2	experience

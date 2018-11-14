@@ -1,0 +1,297 @@
+ASSISTANT	position
+AU	position
+RESPONSABLE	position
+COMPTABLE	position
+H	O
+/	O
+F	O
+LALLIARD	company
+BOIS	company
+ET	company
+DERIVES	company
+-	O
+Saint-Pierre-en-Faucigny	city
+-LRB-	O
+74	code postal
+-RRB-	O
+Entreprise	O
+familiale	O
+basée	O
+en	O
+Haute-Savoie	O
+depuis	O
+1921	O
+,	O
+le	O
+GROUPE	company
+LALLIARD	company
+est	O
+présent	O
+sur	O
+le	O
+marché	O
+de	O
+la	O
+distribution	O
+des	O
+matériaux	O
+bois	O
+et	O
+dérivés	O
+dédiés	O
+de	O
+construction	O
+et	O
+d'aménagement	O
+ainsi	O
+que	O
+sur	O
+le	O
+secteur	O
+de	O
+la	O
+raboterie	O
+et	O
+de	O
+la	O
+finition	O
+.	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+responsable	O
+comptable	O
+,	O
+vous	hard skills
+travaillerez	hard skills
+au	hard skills
+sein	hard skills
+d'un	hard skills
+service	hard skills
+composé	hard skills
+de	hard skills
+10	hard skills
+personnes	hard skills
+.	O
+Vos	hard skills
+missions	hard skills
+seront	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+-	O
+Gestion	hard skills
+des	hard skills
+factures	hard skills
+de	hard skills
+frais	hard skills
+généraux	hard skills
+-LRB-	
+ouverture	hard skills
+des	hard skills
+comptes	hard skills
+fournisseurs	hard skills
+,	O
+règlements	hard skills
+et	hard skills
+saisie	hard skills
+-RRB-	
+,	
+-	O
+Suivi	hard skills
+des	hard skills
+avoirs	hard skills
+et	hard skills
+factures	hard skills
+à	hard skills
+recevoir	hard skills
+des	hard skills
+frais	hard skills
+généraux	hard skills
+,	
+-	O
+Contrôle	hard skills
+des	hard skills
+comptes	hard skills
+fournisseurs	hard skills
+du	hard skills
+négoce	hard skills
+et	hard skills
+des	hard skills
+frais	hard skills
+généraux	hard skills
+?	O
+-	O
+Contrôle	hard skills
+de	hard skills
+la	hard skills
+TVA	hard skills
+intracommunautaire	hard skills
+,	O
+-	O
+Contrôle	hard skills
+des	hard skills
+factures	hard skills
+et	hard skills
+des	hard skills
+règlements	hard skills
+,	
+-	O
+Polyvalence	hard skills
+avec	hard skills
+le	hard skills
+service	hard skills
+fournisseurs	hard skills
+négoce	hard skills
+.	
+Vous	hard skills
+travaillerez	hard skills
+en	hard skills
+étroite	hard skills
+collaboration	hard skills
+avec	hard skills
+le	hard skills
+responsable	hard skills
+comptable	hard skills
+et	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	
+e	hard skills
+-RRB-	
+à	hard skills
+le	hard skills
+suppléer	hard skills
+et	hard skills
+le	hard skills
+remplacer	hard skills
+dans	hard skills
+ses	hard skills
+principales	hard skills
+missions	hard skills
+.	O
+Votre	
+profil	O
+:	O
+-	O
+BTS	experience
+COMPTABILITE	experience
+EXIGE	experience
+,	O
+-	O
+Expérience	experience
+minimum	experience
+5	experience
+ans	experience
+,	
+-	O
+Maîtrise	hard skills
+de	hard skills
+l'outil	hard skills
+informatique	hard skills
+.	O
+Vos	O
+qualités	O
+:	O
+-	O
+Organisation	soft skills
+,	O
+rigueur	soft skills
+et	soft skills
+autonomie	soft skills
+,	O
+-	O
+Discrétion	soft skills
+et	soft skills
+confidentialité	soft skills
+absolues	soft skills
+,	O
+-	
+Capacité	soft skills
+à	soft skills
+travailler	soft skills
+simultanément	soft skills
+sur	soft skills
+plusieurs	soft skills
+dossiers	soft skills
+,	
+-	O
+Gestion	soft skills
+des	soft skills
+priorités	soft skills
+,	O
+-	
+Bon	soft skills
+relationnel	soft skills
+,	
+-	O
+Travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Informations	
+complémentaires	
+:	O
+-	O
+Poste	
+à	O
+pourvoir	O
+au	O
+plus	O
+tôt	O
+.	O
+-	O
+Rémunération	O
+selon	O
+profil	O
+.	O
+-	O
+Participation	O
+aux	O
+bénéfices	O
+.	O
+-	O
+Prime	O
+annuelle	O
+soumise	O
+à	O
+critères	O
+d'attribution	O
+après	O
+un	O
+an	O
+d'ancienneté	O
+.	O
+-	O
+Mutuelle	O
+et	O
+prévoyance	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+Comptabilité	experience
+:	O
+3	experience
+ans	experience

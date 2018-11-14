@@ -1,0 +1,214 @@
+Comptable/Assistant	position
+comptable	position
+H/F	O
+SELEXIUM	company
+-	O
+Paris	city
+1er	city
+-LRB-	O
+75	postal code
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	O
+28	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Chef	O
+de	O
+Mission	O
+,	O
+vous	hard skills
+occupez	hard skills
+un	hard skills
+poste	hard skills
+de	hard skills
+comptable	hard skills
+dans	hard skills
+lequel	hard skills
+vous	hard skills
+assurez	hard skills
+le	hard skills
+suivi	hard skills
+comptable	hard skills
+et	hard skills
+fiscal	hard skills
+d'un	hard skills
+portefeuille	hard skills
+client	hard skills
+-LRB-	
+TPE	hard skills
+,	O
+PME	hard skills
+,	O
+SCI	hard skills
+,	O
+BNC	hard skills
+,	O
+LMNP	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+Vos	hard skills
+missions	hard skills
+principales	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Saisie	hard skills
+des	hard skills
+banques	hard skills
+,	
+de	hard skills
+la	hard skills
+caisse	hard skills
+,	
+des	hard skills
+factures	hard skills
+d'achat	hard skills
+et	hard skills
+de	hard skills
+vente	hard skills
+Etablissement	hard skills
+des	hard skills
+états	hard skills
+de	hard skills
+rapprochements	hard skills
+bancaires	hard skills
+Elaboration	hard skills
+des	hard skills
+déclarations	hard skills
+fiscales	hard skills
+-LRB-	
+TVA	hard skills
+,	O
+IS	hard skills
+,	O
+CVAE	hard skills
+,	O
+...	
+-RRB-	O
+Relations	hard skills
+clients	hard skills
+La	hard skills
+liste	hard skills
+des	hard skills
+missions	hard skills
+n'est	hard skills
+pas	hard skills
+limitative	hard skills
+,	O
+et	hard skills
+d'autres	hard skills
+missions	hard skills
+peuvent	hard skills
+intervenir	hard skills
+par	hard skills
+la	hard skills
+suite	hard skills
+Une	experience
+expérience	experience
+au	experience
+sein	experience
+d'un	experience
+cabinet	experience
+d'expertise	experience
+comptable	experience
+est	experience
+fortement	experience
+conseillée	experience
+.	O
+Profil	O
+:	O
+Rigoureux	soft skills
+,	O
+curieux	soft skills
+,	O
+méthodique	soft skills
+,	O
+organisé	soft skills
+et	soft skills
+investi	soft skills
+,	O
+vous	hard skills
+évoluerez	hard skills
+au	hard skills
+sein	hard skills
+d'un	hard skills
+cabinet	hard skills
+en	hard skills
+croissance	hard skills
+offrant	hard skills
+de	hard skills
+réelles	hard skills
+possibilités	hard skills
+d'évolution	hard skills
+.	O
+Autonome	soft skills
+,	O
+vous	soft skills
+savez	soft skills
+prendre	soft skills
+du	soft skills
+recul	soft skills
+sur	soft skills
+votre	soft skills
+travail	soft skills
+et	soft skills
+être	soft skills
+force	soft skills
+de	soft skills
+proposition	soft skills
+.	
+Utilisation	hard skills
+des	hard skills
+logiciels	hard skills
+AGIRIS/EIC	hard skills
+-LRB-	
+ISACOMPTA	hard skills
+,	O
+ISA	hard skills
+GI	hard skills
+,	
+COT	hard skills
+TNS	hard skills
+,	O
+DR	hard skills
++	hard skills
+-RRB-	
+appréciée	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	O
+28	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+Comptabilité	experience
+:	O
+3	experience
+ans	experience

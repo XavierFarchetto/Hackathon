@@ -1,0 +1,239 @@
+Assistante	position
+administrative	position
+La	company
+petite	company
+bretonne	company
+-	O
+Paris	city
+14e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+400	salary
+$	salary
+-	O
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+/	O
+Secrétaire	position
+H/F	O
+La	O
+société	O
+DEMAT	company
+,	O
+est	O
+une	O
+entreprise	O
+familiale	O
+qui	O
+dispose	O
+d'une	O
+chaine	O
+de	O
+crêperies	O
+Bretonnes	O
+situées	O
+à	O
+Paris	city
+.	O
+ASSISTANT	position
+-LRB-	O
+E	position
+-RRB-	O
+/	O
+SECRÉTAIRE	position
+H/F	O
+Votre	O
+Mission	O
+:	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Directeur	O
+général	O
+,	O
+vous	O
+aurez	
+comme	
+principales	
+missions	
+de	O
+:	O
+-	O
+Tâches	hard skills
+courantes	hard skills
+de	hard skills
+secrétariat	hard skills
+-	
+Traitement	hard skills
+administratif	hard skills
+de	hard skills
+dossiers	hard skills
+-LRB-	O
+frappe	hard skills
+de	hard skills
+courrier	hard skills
+,	O
+mise	hard skills
+en	hard skills
+forme	hard skills
+de	hard skills
+document	hard skills
+,	O
+mise	hard skills
+en	hard skills
+forme	hard skills
+des	hard skills
+suggestions	hard skills
+des	hard skills
+menus	hard skills
+...	O
+-RRB-	O
+-	O
+Faire	hard skills
+suivre	hard skills
+les	hard skills
+informations	hard skills
+-LRB-	O
+e-mail	hard skills
+,	O
+notes	hard skills
+,	
+fax	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+-	O
+En	hard skills
+charge	hard skills
+du	hard skills
+suivi	hard skills
+complet	hard skills
+des	hard skills
+dossiers	hard skills
+-LRB-	
+Dossiers	hard skills
+en	hard skills
+cours	hard skills
+-RRB-	O
+-	O
+Vérifier	hard skills
+les	hard skills
+heures	hard skills
+avec	hard skills
+les	hard skills
+feuilles	hard skills
+d'émargements	hard skills
+-	O
+Gérer	hard skills
+les	hard skills
+annonces	hard skills
+de	hard skills
+recrutements	hard skills
+-	O
+Effectuer	hard skills
+le	hard skills
+journal	hard skills
+de	hard skills
+caisse	hard skills
+Votre	
+Profil	O
+:	O
+Vous	O
+avez	O
+plus	O
+de	O
+5	experience
+ans	experience
+d'expériences	experience
+dans	experience
+le	experience
+domaine	experience
+!	
+Compétences	experience
+:	O
+-	O
+A	experience
+l'aise	experience
+avec	experience
+les	experience
+outils	experience
+bureautiques	experience
+-LRB-	
+Word	experience
+,	O
+Excel	experience
+,	O
+Powerpoint	experience
+-RRB-	O
+-	O
+Notions	experience
+comptables	experience
+-	O
+Bonne	experience
+capacité	experience
+rédactionnelles	experience
+Conditions	experience
+d'emploi	O
+:	O
+Contrat	O
+:	O
+CDD	contrat_type
+de	O
+6	O
+mois	O
+pouvant	O
+déboucher	O
+sur	O
+un	
+CDI	contrat_type
+Durée	O
+:	O
+30	O
+heures	O
+par	O
+semaine	O
+Salaire	O
+:	O
+à	O
+négocier	O
+Poste	O
+basé	O
+à	O
+Paris	city
+75004	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+400	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+secrétariat	experience
+:	O
+5	experience
+ans	experience

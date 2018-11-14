@@ -1,0 +1,211 @@
+Femme	position
+de	position
+chambres	position
+GE	company
+RH	company
+Expert	company
+-	O
+Mérignac	city
+-LRB-	O
+33	code postal
+-RRB-	O
+9,96	salary
+$	salary
+-	O
+10,02	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+GE	company
+RH	company
+Expert	company
+,	O
+groupement	O
+d'employeurs	O
+spécialisé	O
+dans	O
+l'hôtellerie	O
+et	O
+la	O
+restauration	O
+recrute	O
+un	position
+Valet	position
+/	O
+Femme	position
+de	position
+chambre	position
+H/F	
+.	O
+Vous	experience
+justifiez	experience
+impérativement	experience
+d'une	experience
+expérience	experience
+réussie	experience
+de	experience
+trois	experience
+ans	experience
+minimum	experience
+sur	experience
+le	experience
+poste	experience
+.	
+Vous	soft skills
+respectez	soft skills
+les	soft skills
+consignes	soft skills
+et	soft skills
+les	soft skills
+règles	soft skills
+de	soft skills
+sécurité	soft skills
+.	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+,	O
+de	soft skills
+la	soft skills
+propreté	soft skills
+.	O
+-LRB-	O
+port	hard skills
+de	hard skills
+charges	hard skills
+lourdes	hard skills
+,	
+station	hard skills
+debout	hard skills
+permanente	hard skills
+-RRB-	O
+Vos	hard skills
+missions	hard skills
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+de	hard skills
+la	hard skills
+gouvernante	hard skills
+:	O
+Vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+le	hard skills
+nettoyage	hard skills
+et	hard skills
+le	hard skills
+rangement	hard skills
+des	hard skills
+chambres	hard skills
+-LRB-	
+faire	hard skills
+un	hard skills
+lit	hard skills
+au	hard skills
+carré	hard skills
+,	
+installer	hard skills
+une	hard skills
+housse	hard skills
+de	hard skills
+couette	hard skills
+,	O
+nettoyer	hard skills
+les	hard skills
+sanitaires	hard skills
+et	hard skills
+remplacer	hard skills
+le	hard skills
+linge	hard skills
+de	hard skills
+toilette	hard skills
+...	O
+-RRB-	
+,	O
+Vous	hard skills
+entretenez	hard skills
+les	hard skills
+parties	hard skills
+communes	hard skills
+de	hard skills
+l'établissement	hard skills
+,	
+Vous	hard skills
+réapprovisionnez	hard skills
+si	hard skills
+nécessaire	hard skills
+les	hard skills
+chambres	hard skills
+en	hard skills
+produits	hard skills
+consommables	hard skills
+-LRB-	
+savon	hard skills
+,	O
+shampoing	hard skills
+,	O
+mini	hard skills
+bar	hard skills
+-RRB-	O
+.	O
+Contrats	
+CDD	
+,	O
+Extra	O
+sur	O
+Mérignac	O
+et	O
+Talence	O
+.	O
+Merci	O
+de	O
+faire	O
+parvenir	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+9,96	salary
+$	salary
+à	
+10,02	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Mérignac	city
+-LRB-	O
+33	code postal
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+hôtellerie	experience
+:	O
+3	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

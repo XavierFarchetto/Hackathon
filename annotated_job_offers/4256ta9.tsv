@@ -1,0 +1,168 @@
+Professeur	position
+d'anglais	position
+à	
+Tourcoing	
+Language	company
+Connexion	company
+-	O
+Tourcoing	city
+-LRB-	O
+59	code postal
+-RRB-	O
+17	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+LANGUAGE	company
+CONNEXION	company
+,	O
+école	O
+de	O
+langues	O
+et	O
+partenaire	O
+d'une	O
+école	O
+privée	O
+à	O
+Tourcoing	city
+recherche	O
+un	position
+enseignant	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+dispenser	hard skills
+des	hard skills
+cours	hard skills
+d'anglais	hard skills
+ludiques	hard skills
+aux	hard skills
+élèves	hard skills
+de	hard skills
+maternelle	hard skills
+-LRB-	O
+PS-GS	hard skills
+-RRB-	O
+et	hard skills
+de	hard skills
+primaire	hard skills
+-LRB-	
+CP-CM2	hard skills
+-RRB-	O
+.	O
+Les	O
+cours	O
+auront	O
+lieu	O
+le	O
+mardi	O
+et	O
+jeudi	O
+,	O
+de	O
+11h45	O
+à	O
+13h00	O
+,	O
+soit	O
+pour	O
+un	O
+volume	O
+horaire	O
+de	O
+2h30	O
+par	O
+semaine	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Une	O
+courte	O
+formation	O
+est	O
+dispensée	O
+et	O
+tous	O
+les	O
+supports	O
+de	O
+cours	O
+sont	O
+fournis	O
+.	O
+Vous	soft skills
+êtes	soft skills
+une	soft skills
+personne	soft skills
+dynamique	soft skills
+,	O
+avec	hard skills
+un	hard skills
+bon	hard skills
+niveau	hard skills
+d'anglais	hard skills
+et	O
+une	experience
+expérience	experience
+dans	experience
+l'enseignement	experience
+de	experience
+l'anglais	experience
+auprès	experience
+des	experience
+enfants	experience
+.	O
+Contrat	O
+type	O
+:	O
+CDDU	contrat_type
+de	O
+10	O
+mois	O
+-	O
+jusqu	O
+'	O
+à	O
+la	O
+fin	O
+de	O
+l'année	O
+scolaire	O
+en	O
+2018	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+17	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Tourcoing	city
+-LRB-	O
+59	code postal
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+enseignement	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

@@ -1,0 +1,210 @@
+Opérateur	position
+de	position
+production	position
+en	O
+blanchisserie	position
+CDD	contrat_type
+H/F	O
+-	O
+95	postal code
+Elis	company
+-	O
+Saint-Ouen-l'Aumône	city
+-LRB-	O
+95	postal code
+-RRB-	O
+1	salary
+485	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+s	O
+directement	O
+à	O
+un	O
+chef	O
+de	O
+production	O
+accompagné	O
+de	O
+chefs	O
+d'équipe	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+principales	hard skills
+:	O
+D'assurer	hard skills
+le	hard skills
+déroulement	hard skills
+des	hard skills
+bobines	hard skills
+``	
+tissu	hard skills
+''	O
+qui	hard skills
+reviennent	hard skills
+de	hard skills
+chez	hard skills
+nos	hard skills
+clients	hard skills
+afin	hard skills
+qu'elles	hard skills
+soient	hard skills
+cerclées	hard skills
+et	hard skills
+prêtes	hard skills
+à	hard skills
+être	hard skills
+lavées	hard skills
+De	hard skills
+contrôler	hard skills
+les	hard skills
+bobines	hard skills
+lavées	hard skills
+et	hard skills
+identifier	hard skills
+les	hard skills
+anomalies	hard skills
+-LRB-	
+couture	hard skills
+,	O
+relavage	hard skills
+,	O
+réforme	hard skills
+-RRB-	O
+D'engager	hard skills
+les	hard skills
+bobines	hard skills
+lavées	hard skills
+afin	hard skills
+qu'elles	hard skills
+soient	hard skills
+séchées	hard skills
+et	hard skills
+repassées	hard skills
+De	hard skills
+réceptionner	hard skills
+les	hard skills
+bobines	hard skills
+propres	hard skills
+,	O
+les	hard skills
+conditionner	hard skills
+en	hard skills
+chariot	hard skills
+,	
+prêtes	hard skills
+à	hard skills
+repartir	hard skills
+soit	hard skills
+chez	hard skills
+le	hard skills
+client	hard skills
+ou	hard skills
+vers	hard skills
+l'atelier	hard skills
+couture	hard skills
+ou	hard skills
+vers	hard skills
+un	hard skills
+nouveau	hard skills
+lavage	hard skills
+ou	hard skills
+être	hard skills
+réformées	hard skills
+D'assurer	hard skills
+la	hard skills
+réception	hard skills
+des	hard skills
+tapis	hard skills
+sales	hard skills
+,	
+leur	hard skills
+lavage	hard skills
+et	hard skills
+leur	hard skills
+conditionnement	hard skills
+pour	hard skills
+départ	hard skills
+vers	hard skills
+le	hard skills
+clienT	hard skills
+*	
+ETRE	hard skills
+VEHICULE	hard skills
+Alternance	
+des	
+horaires	
+une	O
+semaine	O
+sur	O
+2	O
+Equipe	O
+1	O
+:	O
+5H00	O
+-	O
+12H20	O
+-LRB-	O
+7h	O
+par	O
+jour	O
+du	O
+lundi	O
+au	O
+vendredi	O
+-RRB-	O
+Contrainte	O
+horaire	O
+équipe	O
+1	O
+:	O
+pouvoir	O
+se	O
+rendre	O
+sur	O
+notre	O
+site	O
+de	O
+production	O
+à	O
+5h00	O
+sans	O
+transports	O
+en	O
+commun	O
+Equipe	O
+2	O
+:	O
+12H20	O
+-	O
+19H40	O
+-LRB-	O
+7h	O
+par	O
+jour	O
+du	O
+lundi	O
+au	O
+vendredi	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	salary
+1	salary
+485	salary
+$	salary
+/	O
+mois	salary

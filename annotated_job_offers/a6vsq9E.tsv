@@ -1,0 +1,164 @@
+Poseur	position
+de	position
+cheminées	position
+et	position
+poêles	position
+H/F	O
+Delmas	company
+Diffusion	company
+-	O
+Saint-Pierre-du-Mont	city
+-LRB-	O
+40	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+d'un	position
+poseur	position
+de	position
+cheminées	position
+et	position
+de	position
+poêles	position
+H/F	O
+pour	O
+notre	O
+structure	O
+située	O
+à	O
+St	O
+Pierre	O
+du	O
+Mont.	O
+.	O
+Vous	hard skills
+intervenez	hard skills
+chez	hard skills
+des	hard skills
+clients	hard skills
+particuliers	hard skills
+afin	hard skills
+de	hard skills
+réaliser	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+cheminées	hard skills
+et	hard skills
+poêles	hard skills
+,	
+le	hard skills
+tubage	hard skills
+et	hard skills
+le	hard skills
+montage	hard skills
+des	hard skills
+conduits	hard skills
+isolés	hard skills
+,	O
+la	hard skills
+sortie	hard skills
+en	hard skills
+toiture	hard skills
+ainsi	hard skills
+que	hard skills
+le	hard skills
+raccordement	hard skills
+des	hard skills
+fumées	hard skills
+.	
+Vous	experience
+avez	experience
+une	experience
+solide	experience
+expérience	experience
+dans	experience
+le	experience
+bâtiment	experience
+,	O
+et	hard skills
+vous	hard skills
+maitrisez	hard skills
+indispensablement	hard skills
+l'utilisation	hard skills
+des	hard skills
+plaques	hard skills
+de	hard skills
+plâtres	hard skills
+et	hard skills
+du	hard skills
+Promat	hard skills
+.	O
+Nous	O
+recherchons	O
+une	soft skills
+personne	soft skills
+ayant	soft skills
+de	soft skills
+très	soft skills
+bonnes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+et	soft skills
+capable	soft skills
+de	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+motivé	soft skills
+,	
+rigoureux	soft skills
+et	soft skills
+minutieux	soft skills
+";"	O
+et	soft skills
+vous	soft skills
+assurerez	soft skills
+la	soft skills
+bonne	soft skills
+tenue	soft skills
+et	soft skills
+la	soft skills
+propreté	soft skills
+du	soft skills
+chantier	soft skills
+.	O
+Formation	O
+assurée	O
+,	O
+salaire	O
+négociable	O
+suivant	O
+le	O
+profil	O
+.	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+indispensables	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary

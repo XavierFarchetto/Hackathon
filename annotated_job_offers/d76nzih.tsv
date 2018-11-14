@@ -1,0 +1,309 @@
+Magasinier	position
+EARL	company
+OF	company
+SANDWICH	company
+-	O
+DISNEY	company
+VILLAGE	company
+-	O
+Chessy	city
+-LRB-	O
+77	postal code
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+EARL	company
+OF	company
+SANDWICH	company
+®	O
+DISNEYLAND	O
+PARIS	city
+RECRUTE	O
+URGENT	O
+Nous	O
+recherchons	O
+afin	O
+de	O
+renforcer	O
+les	O
+équipes	O
+de	O
+notre	O
+établissement	O
+du	O
+Disney	city
+®	city
+Village	city
+-LRB-	O
+à	O
+côté	O
+de	O
+la	O
+Montgolfière	city
+-RRB-	O
+des	O
+:	O
+>>	O
+>	O
+MAGASINIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+--	O
+RECEPTION	hard skills
+DES	hard skills
+MARCHANDISES	hard skills
+<	O
+CDI	contrat_type
+Temps	contrat_type
+plein	contrat_type
+-	O
+35h	O
+par	O
+semaine	O
+--	O
+Débutant	O
+-LRB-	O
+e	O
+-RRB-	O
+accepté	O
+-LRB-	O
+e	O
+-RRB-	O
+La	hard skills
+mission	hard skills
+principale	hard skills
+qui	hard skills
+vous	hard skills
+sera	hard skills
+donnée	hard skills
+sur	hard skills
+ce	hard skills
+poste	hard skills
+sera	hard skills
+de	hard skills
+réceptionner	hard skills
+quotidiennement	hard skills
+nos	hard skills
+marchandises	hard skills
+Notre	hard skills
+enseigne	hard skills
+EARL	hard skills
+OF	hard skills
+SANDWICH	hard skills
+®	hard skills
+a	hard skills
+été	hard skills
+imaginée	hard skills
+par	hard skills
+un	hard skills
+descendant	hard skills
+direct	hard skills
+du	hard skills
+navigateur	hard skills
+et	hard skills
+inventeur	hard skills
+du	hard skills
+sandwich	hard skills
+,	
+John	
+Montagu	
+,	
+en	
+collaboration	
+avec	
+le	
+fondateur	
+des	
+restaurants	
+à	
+thèmes	
+Planet	
+Hollywood	
+®	
+.	
+Ils	
+ont	
+choisi	
+de	
+baser	
+notre	
+restaurant	
+au	
+sein	
+du	O
+Disney	O
+Village	O
+à	O
+proximité	O
+immédiate	O
+des	O
+parcs	O
+Disneyland	O
+Paris	city
+®	O
+.	O
+Profil	O
+recherché	O
+:	O
+Autonome	soft skills
+Rapide	soft skills
+Esprit	soft skills
+d'équipe	soft skills
+Connaissance	soft skills
+des	soft skills
+règles	soft skills
+d'hygiènes	soft skills
+et	soft skills
+de	soft skills
+sécurité	soft skills
+Savoir	soft skills
+travailler	soft skills
+en	soft skills
+utilisant	soft skills
+les	soft skills
+bons	soft skills
+gestes	soft skills
+et	soft skills
+postures	soft skills
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+à	hard skills
+débuter	hard skills
+votre	hard skills
+travail	hard skills
+dans	hard skills
+l'entreprise	hard skills
+à	hard skills
+partir	hard skills
+de	hard skills
+06h00	hard skills
+du	hard skills
+matin	hard skills
+et	hard skills
+devrez	hard skills
+donc	hard skills
+être	hard skills
+en	hard skills
+capacité	hard skills
+de	hard skills
+vous	hard skills
+déplacer	hard skills
+vers	hard skills
+notre	hard skills
+restaurant	hard skills
+en	hard skills
+toute	hard skills
+autonomie	hard skills
+pour	
+pouvoir	
+être	soft skills
+ponctuel	soft skills
+.	
+Envoyez-nous	O
+votre	O
+CV	O
+et	O
+votre	O
+lettre	O
+de	O
+motivation	O
+et	O
+venez	O
+participer	O
+avec	O
+nous	O
+à	O
+la	O
+création	O
+du	O
+meilleur	O
+sandwich	O
+chaud	O
+du	O
+monde	O
+!!!	O
+Vous	O
+pouvez	O
+aussi	O
+passez	O
+nous	O
+voir	O
+directement	O
+au	O
+restaurant	O
+.	O
+Dans	O
+ce	O
+cas	O
+,	O
+demandez	O
+à	O
+rencontrer	O
+un	O
+Manager	O
+.	O
+Stock	O
+marchandise	O
+cariste	O
+transpalette	O
+chariot	O
+rangement	O
+bon	O
+de	O
+livraison	O
+bl	O
+réception	O
+matière	O
+première	O
+produits	O
+frais	O
+chambre	O
+froide	O
+respect	O
+de	O
+la	O
+chaîne	O
+du	O
+froid	O
+Equipière	O
+polyvalente	O
+Equipier	O
+polyvalent	O
+Cuisine	O
+Préparation	O
+Homme	O
+Femme	O
+Fast	O
+food	O
+creation	O
+production	O
+cuisinier	O
+cuisinière	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+480,27	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Chessy	city
+-LRB-	O
+77	postal code
+-RRB-	O

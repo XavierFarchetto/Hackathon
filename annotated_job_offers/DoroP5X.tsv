@@ -1,0 +1,263 @@
+GARDIEN	position
+DE	position
+POLICE	position
+MUNICIPALE	position
+mairie	company
+de	company
+Montigny	company
+le	company
+bretonneux	company
+-	O
+Montigny-le-Bretonneux	city
+-LRB-	O
+78	postal code
+-RRB-	O
+La	O
+ville	O
+de	O
+Montigny	city
+le	city
+Bretonneux	city
+-LRB-	O
+Yvelines	city
+-	O
+35	O
+0	O
+habitants	O
+--	O
+1	O
+0	O
+agents	O
+--	O
+Ville	O
+centre	O
+de	O
+St	O
+Quentin	O
+en	O
+Yvelines	O
+-RRB-	O
+,	O
+recrute	O
+Des	position
+gardiens	position
+de	position
+Police	position
+Municipale	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+chef	O
+du	O
+service	O
+de	O
+Police	O
+Municipale	O
+,	O
+vous	hard skills
+intégrez	hard skills
+une	hard skills
+équipe	hard skills
+de	hard skills
+18	hard skills
+policiers	hard skills
+constituant	hard skills
+les	hard skills
+4	hard skills
+brigades	hard skills
+de	hard skills
+roulement	hard skills
+dont	hard skills
+la	hard skills
+mission	hard skills
+est	hard skills
+de	hard skills
+participer	hard skills
+au	hard skills
+respect	hard skills
+du	hard skills
+bon	hard skills
+ordre	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+tranquillité	hard skills
+de	hard skills
+la	hard skills
+salubrité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+publique	hard skills
+sur	hard skills
+la	hard skills
+commune	hard skills
+.
+Vous	hard skills
+appliquez	hard skills
+les	hard skills
+pouvoirs	hard skills
+de	hard skills
+Police	hard skills
+du	hard skills
+Maire	hard skills
+et	hard skills
+assurer	hard skills
+les	hard skills
+missions	hard skills
+dévolues	hard skills
+à	hard skills
+la	hard skills
+Police	hard skills
+Municipale	hard skills
+.	O
+Titulaire	experience
+du	experience
+concours	experience
+de	experience
+gardien	experience
+de	experience
+Police	experience
+Municipale	experience
+et	experience
+formation	experience
+initiale	experience
+effectuée	experience
+,
+vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+rigoureux	soft skills
+et	soft skills
+disponible	soft skills
+,	O
+vous	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+bonnes	soft skills
+dispositions	soft skills
+pour	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+public	soft skills
+.	O
+Permis	hard skills
+de	hard skills
+conduire	hard skills
+pour	hard skills
+la	hard skills
+catégorie	hard skills
+B	hard skills
+exigé	hard skills
+Poste	hard skills
+à	hard skills
+temps	hard skills
+complet	hard skills
+en	hard skills
+brigade	hard skills
+de	hard skills
+jour	hard skills
+suivant	hard skills
+des	hard skills
+horaires	hard skills
+variables	hard skills
+selon	hard skills
+un	hard skills
+cycle	hard skills
+comprenant	hard skills
+les	hard skills
+WE	hard skills
+et	hard skills
+jours	hard skills
+fériés	hard skills
+,	O
+établi	hard skills
+par	hard skills
+planning	hard skills
+mensuel	hard skills
+.
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Rémunération	O
+statutaire	O
++	O
+régime	O
+indemnitaire	O
++	O
+13	O
+mois	O
+01-févr	O
+et	O
+PLURELYA	O
+Veuillez	O
+adresser	O
+votre	O
+candidature	O
+-LRB-	O
+lettre	O
+manuscrite	O
+et	O
+CV	O
+-RRB-	O
+à	O
+M.	O
+le	O
+Maire	O
+,	O
+Direction	O
+des	O
+Relations	O
+Humaines	O
+,	O
+Hôtel	O
+de	O
+Ville	O
+,	O
+66	O
+,	O
+rue	O
+de	O
+la	O
+Mare	O
+aux	O
+Carats	O
+,	O
+78180	postal code
+Montigny	city
+le	city
+Bretonneux	city
+ou	O
+par	O
+mail	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+de	hard skills
+conduire	hard skills
+B	hard skills

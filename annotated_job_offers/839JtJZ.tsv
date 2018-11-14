@@ -1,0 +1,327 @@
+LIVREUR	position
+COLIS	position
+-LRB-	O
+H/F	O
+-RRB-	O
+LA	company
+POSTE	company
+-	O
+Lyon	city
+8e	city
+-LRB-	O
+69	code postal
+-RRB-	O
+Contexte	O
+:	O
+La	company
+Poste	company
+LYON	city
+8	city
+PPDC	O
+-LRB-	O
+Lyon	city
+8	city
+,	O
+Lyon	O
+7	O
+,	O
+Vénissieux	O
+,	O
+Saint	O
+Fons	O
+,	O
+Oullins	O
+,	O
+Ste	O
+Foy	O
+les	O
+Lyon	O
+-RRB-	O
+recrute	O
+des	position
+opérateurs	position
+/	O
+livreurs	position
+colis	position
+dans	O
+le	O
+cadre	O
+des	O
+fêtes	O
+de	O
+fin	O
+d'année	O
+.	O
+Vous	O
+rejoindrez	O
+la	O
+branche	O
+Services-Courrier-Colis	O
+du	O
+groupe	O
+La	O
+Poste	O
+.	O
+La	O
+plateforme	O
+de	O
+courrier	O
+est	O
+située	O
+au	O
+167	O
+Rue	O
+Professeur	O
+Beauvisage	O
+dans	O
+le	O
+8ème	O
+arrondissement	O
+.	O
+Mission	O
+:	O
+L'Opérateur	position
+Colis	position
+est	hard skills
+chargé	hard skills
+d'effectuer	hard skills
+le	hard skills
+tri	hard skills
+et	hard skills
+la	hard skills
+livraison	hard skills
+de	hard skills
+colis	hard skills
+,	
+afin	hard skills
+de	hard skills
+permettre	hard skills
+leur	hard skills
+acheminement	hard skills
+dans	hard skills
+la	hard skills
+rigueur	hard skills
+,	O
+le	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+,	O
+des	hard skills
+procédures	hard skills
+qualité	hard skills
+sûreté	hard skills
+,	O
+et	hard skills
+des	hard skills
+procédures	hard skills
+liées	hard skills
+aux	hard skills
+différents	hard skills
+produits	hard skills
+et	hard skills
+services	hard skills
+de	hard skills
+la	hard skills
+gamme	hard skills
+Coliposte	hard skills
+.	O
+Vous	hard skills
+contribuerez	hard skills
+à	hard skills
+améliorer	hard skills
+la	hard skills
+qualité	hard skills
+de	hard skills
+service	hard skills
+Client	hard skills
+ce	hard skills
+qui	hard skills
+vous	soft skills
+demandera	soft skills
+de	soft skills
+la	soft skills
+rigueur	soft skills
+et	soft skills
+de	soft skills
+très	soft skills
+bonnes	soft skills
+compétences	soft skills
+relationnelles	soft skills
+.	O
+Vous	hard skills
+exercerez	hard skills
+la	hard skills
+majeure	hard skills
+partie	hard skills
+de	hard skills
+votre	hard skills
+métier	hard skills
+à	hard skills
+l'extérieur	hard skills
+.	O
+Rattaché	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+votre	hard skills
+Encadrant	hard skills
+,	
+vous	hard skills
+travaillerez	hard skills
+en	hard skills
+équipe	hard skills
+lors	hard skills
+des	hard skills
+phases	hard skills
+de	hard skills
+tri	hard skills
+puis	hard skills
+en	hard skills
+autonomie	hard skills
+lors	hard skills
+de	hard skills
+la	hard skills
+livraison	hard skills
+.	O
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+travailler	hard skills
+en	hard skills
+véhicule	hard skills
+utilitaire	hard skills
+.	O
+Le	
+contrat	O
+proposé	O
+est	O
+un	O
+CDD	contrat_type
+de	O
+35H	O
+par	O
+semaine	O
+,	O
+avec	O
+comme	O
+horaires	O
+15H10/21H45	O
+ou	O
+des	O
+poste	O
+en	O
+mixte	O
+du	O
+type	O
+:	O
+9H-12H30	O
+-	O
+13H15-16h45	O
+,	O
+à	O
+partir	O
+du	O
+20	O
+novembre	O
+.	O
+Profil	O
+:	O
+-	O
+Permis	hard skills
+B	hard skills
+exigé	O
+.	O
+-	O
+Expérience	O
+minimum	O
+exigée	O
+de	O
+6	experience
+mois	experience
+sur	experience
+un	experience
+poste	experience
+de	experience
+chauffeur-livreur	experience
+.	O
+-	O
+Savoir	hard skills
+lire	hard skills
+,	O
+écrire	hard skills
+et	hard skills
+compter	hard skills
+.	O
+-	O
+Vos	O
+qualités	O
+:	O
+rigueur	soft skills
+,	O
+autonomie	soft skills
+,	O
+ponctualité	soft skills
+,	O
+faculté	soft skills
+d'adaptation	soft skills
+et	soft skills
+de	soft skills
+mémorisation	soft skills
+,	O
+qualités	soft skills
+relationnelles	soft skills
+,	O
+recherche	soft skills
+de	soft skills
+la	soft skills
+satisfaction	soft skills
+du	soft skills
+besoin	soft skills
+des	soft skills
+clients	soft skills
+.	O
+-	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+bon	soft skills
+esprit	soft skills
+d'équipe	soft skills
+et	soft skills
+d'entraide	soft skills
+.	O
+-	O
+Votre	soft skills
+probité	soft skills
+est	soft skills
+irréprochable	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Expérience	O
+exigée	O
+:	O
+chauffeur	experience
+-	O
+livreur	experience
+:	O
+1	experience
+an	experience

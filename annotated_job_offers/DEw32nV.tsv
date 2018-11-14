@@ -1,0 +1,306 @@
+Secrétaire	position
+médicale	position
+CYPATH	company
+-	O
+Dijon	city
+-LRB-	O
+21	postal code
+-RRB-	O
+1	salary
+779	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+CYPATH	company
+,	O
+Cabinet	O
+Médical	O
+de	O
+Pathologi	O
+e	O
+spécialisé	O
+dans	O
+l'anatomie	O
+et	O
+cytologie	O
+pathologique	O
+,	O
+est	O
+au	O
+carrefour	O
+de	O
+la	O
+clinique	O
+,	O
+de	O
+la	O
+radiologie	O
+et	O
+de	O
+la	O
+biologie	O
+.	O
+En	O
+développement	O
+,	O
+CYPATH	company
+est	O
+aujourd	O
+`	O
+hui	O
+à	O
+la	O
+recherche	O
+d'un	position
+-LRB-	O
+e	position
+-RRB-	O
+Secrétaire	position
+Médical	position
+-LRB-	O
+e	position
+-RRB-	O
+H/F	O
+en	O
+CDD	contrat_type
+pour	O
+une	O
+durée	O
+de	O
+6	O
+mois	O
+.	O
+Le	O
+poste	O
+est	O
+à	O
+pouvoir	
+immédiatement	O
+.	O
+Le/la	position
+secrétaire	position
+médical	position
+-LRB-	O
+e	position
+-RRB-	O
+a	hard skills
+un	hard skills
+rôle	hard skills
+essentiel	hard skills
+.	
+Il/elle	hard skills
+assure	hard skills
+l'interface	hard skills
+entre	hard skills
+les	hard skills
+patients	hard skills
+,	hard skills
+les	hard skills
+médecins	hard skills
+correspondants	hard skills
+et	hard skills
+les	hard skills
+médecins	hard skills
+pathologistes	hard skills
+.	hard skills
+Placé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+du	hard skills
+Responsable	hard skills
+secrétariat	hard skills
+,	hard skills
+vous	hard skills
+serez	hard skills
+chargé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+l'accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+,	O
+de	hard skills
+l'enregistrement	hard skills
+des	hard skills
+dossiers	hard skills
+patients	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+saisie	hard skills
+des	hard skills
+comptes	hard skills
+rendus	hard skills
+.	O
+Missions	hard skills
+Accueil	hard skills
+téléphonique	hard skills
+.	O
+Prise	hard skills
+de	hard skills
+rendez-vous	hard skills
+d'examens	hard skills
+extemporanés	hard skills
+et	hard skills
+RCP	hard skills
+.	O
+Gestion	hard skills
+du	hard skills
+retour	hard skills
+de	hard skills
+blocs	hard skills
+et	hard skills
+des	hard skills
+NPAI	hard skills
+.	
+Edition	hard skills
+des	hard skills
+comptes	hard skills
+rendu	hard skills
+.	
+Mise	hard skills
+sous-pli	hard skills
+du	hard skills
+courrier	hard skills
+Enregistrement	hard skills
+des	hard skills
+dossiers	hard skills
+patients	hard skills
+:	
+identité	hard skills
+,	O
+coordonnées	hard skills
+,	O
+nature	hard skills
+du	hard skills
+prélèvement	hard skills
+à	hard skills
+l'aide	hard skills
+du	hard skills
+catalogue	hard skills
+des	hard skills
+examens	hard skills
+.	
+Saisie	hard skills
+des	hard skills
+comptes	hard skills
+rendus	hard skills
+dictés	hard skills
+par	hard skills
+reconnaissance	hard skills
+vocale	hard skills
+.	
+Rédaction	hard skills
+de	hard skills
+différents	hard skills
+courriers	hard skills
+.	
+Profil	O
+Formation	O
+:	O
+diplôme	experience
+Bac	experience
+ST2S	experience
++	experience
+Formation	experience
+spécialisée	experience
+de	experience
+secrétaire	experience
+médicale	experience
+-LRB-	
+certificat	O
+-RRB-	O
+Expérience	experience
+:	O
+2	experience
+à	experience
+3	experience
+ans	experience
+minimum	experience
+Compétences	
+:	
+Très	hard skills
+bonne	hard skills
+maitrise	hard skills
+de	hard skills
+la	hard skills
+terminologie	hard skills
+médicale	hard skills
+et	hard skills
+de	hard skills
+l'orthographe	hard skills
+Bonne	hard skills
+maitrise	hard skills
+de	hard skills
+la	hard skills
+dactylographie	hard skills
+Connaissance	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	
+word	hard skills
+,	O
+excel	hard skills
+-RRB-	
+La	hard skills
+connaissance	hard skills
+de	hard skills
+l'utilisation	hard skills
+du	hard skills
+logiciel	hard skills
+DIAMIC	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	
+Qualités	O
+:	O
+Aisance	soft skills
+relationnelle	soft skills
+Discrétion	soft skills
+Respect	soft skills
+du	soft skills
+secret	soft skills
+médical	soft skills
+Rigueur	soft skills
+Esprit	soft skills
+d'équipe	soft skills
+Type	
+de	O
+contrat	O
+:	O
+CDI	contrat_type
+,	O
+35h	O
+Rémunération	O
+:	O
+1	salary
+779	salary
+$	salary
++	O
+tickets	
+restaurants	O
++	O
+mutuelle	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+,	O
+possibilité	O
+de	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

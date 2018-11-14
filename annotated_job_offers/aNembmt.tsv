@@ -1,0 +1,295 @@
+NEGOCIATEURS	position
+EN	position
+IMMOBILIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Groupe	company
+Mentor	company
+-	O
+Toul	city
+-LRB-	O
+54	code postal
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+5	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Le	O
+Groupe	company
+MENTOR	company
+-LRB-	O
+600	O
+collaborateurs	O
+,	O
+www.groupementor.com	O
+-RRB-	O
+et	O
+partenaire	O
+du	O
+site	O
+www.bienloger.com	O
+-LRB-	O
+plus	O
+de	O
+3	O
+0	O
+biens	O
+à	O
+la	O
+vente	O
+-RRB-	O
+,	O
+propose	O
+plusieurs	O
+postes	O
+de	O
+:	O
+NEGOCIATEURS	position
+EN	position
+IMMOBILIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Meurthe-et	O
+Moselle	O
+,	O
+Moselle	O
+et	O
+Vosges	O
+Notre	O
+réseau	O
+d'agences	O
+immobilières	O
+se	O
+compose	O
+de	O
+quatre	O
+enseignes	O
+:	O
+LOGIA	O
+,	O
+XL	O
+IMMOBILIER	O
+,	O
+PYRAMIDE	O
+,	O
+GLAUDEL	O
+IMMOBILIER	O
+et	O
+MEDIANE	O
+.	O
+Vous	soft skills
+êtes	soft skills
+disponible	soft skills
+,	
+motivé	soft skills
+,	O
+enthousiaste	soft skills
+et	soft skills
+possédez	soft skills
+une	soft skills
+forte	soft skills
+capacité	soft skills
+relationnelle	soft skills
+et	soft skills
+d'écoute	soft skills
+.	O
+Une	
+expérience	
+dans	
+le	
+secteur	
+de	
+l'immobilier	
+n'est	
+pas	
+indispensable	
+car	
+nous	
+assurons	
+une	O
+formation	O
+de	O
+qualité	O
+.	O
+Junior	O
+ou	O
+senior	O
+-LRB-	O
+motivés	O
+par	O
+une	O
+reconversion	O
+professionnelle	O
+-RRB-	O
+sont	O
+les	O
+bienvenus	O
+.	O
+Ce	O
+sont	O
+avant	O
+tout	O
+les	O
+qualités	O
+et	O
+les	O
+compétences	O
+des	O
+négociateurs	O
+qui	O
+font	O
+la	O
+différence	O
+et	O
+la	O
+richesse	O
+de	O
+nos	O
+agences	O
+.	O
+En	hard skills
+charge	hard skills
+de	hard skills
+la	hard skills
+commercialisation	hard skills
+de	hard skills
+biens	hard skills
+neufs	hard skills
+et	hard skills
+anciens	hard skills
+auprès	hard skills
+d'une	hard skills
+clientèle	hard skills
+de	hard skills
+particuliers	hard skills
+,	
+vous	hard skills
+aurez	hard skills
+la	hard skills
+responsabilité	hard skills
+d'un	hard skills
+portefeuille	hard skills
+de	hard skills
+vendeurs	hard skills
+et	hard skills
+d'acquéreurs	hard skills
+.	O
+Après	hard skills
+une	hard skills
+formation	hard skills
+à	hard skills
+nos	hard skills
+outils	hard skills
+et	hard skills
+nos	hard skills
+méthodes	hard skills
+et	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+politique	hard skills
+commerciale	hard skills
+définie	hard skills
+,	O
+vos	hard skills
+missions	hard skills
+principales	hard skills
+consisteront	hard skills
+à	hard skills
+:	O
+-	O
+Prospecter	hard skills
+,	
+développer	hard skills
+et	hard skills
+animer	hard skills
+votre	hard skills
+portefeuille	hard skills
+,	O
+-	
+Visiter	hard skills
+et	hard skills
+estimer	hard skills
+les	hard skills
+biens	hard skills
+,	
+-	
+Accompagner	hard skills
+les	hard skills
+clients	hard skills
+dans	hard skills
+leurs	hard skills
+projets	hard skills
+et	hard skills
+dans	hard skills
+la	hard skills
+définition	hard skills
+de	hard skills
+leurs	hard skills
+besoins	hard skills
+,	O
+-	O
+Négocier	hard skills
+et	hard skills
+finaliser	hard skills
+les	hard skills
+ventes	hard skills
+.	
+Vous	
+avez	
+envie	
+de	
+vous	
+investir	
+et	
+être	
+récompensés	
+de	
+vos	
+efforts	
+?	
+Rejoignez-nous	O
+!	O
+Vous	O
+bénéficierez	O
+d'un	O
+statut	O
+salarié	O
+-LRB-	O
+convention	O
+collective	O
+de	O
+l'immobilier	O
+-RRB-	O
+et	O
+d'une	O
+rémunération	O
+variable	O
+motivante	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+à	O
+5	salary
+0	salary
+$	salary
+/	O
+mois	salary

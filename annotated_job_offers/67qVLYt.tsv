@@ -1,0 +1,146 @@
+Chauffeur	position
+Livreur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Hyperburo	company
+-	O
+Clermont-Ferrand	city
+-LRB-	O
+63	code postal
+-RRB-	O
+CDI	contrat_type
+Entreprise	O
+spécialisée	O
+dans	O
+la	O
+commercialisation	O
+de	O
+fournitures	O
+de	O
+bureau	O
+aux	O
+professionnels	O
+,	O
+vous	hard skills
+travaillerez	hard skills
+au	hard skills
+sein	hard skills
+du	hard skills
+département	hard skills
+logistique	hard skills
+de	hard skills
+notre	hard skills
+entreprise	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+la	hard skills
+livraison	hard skills
+des	hard skills
+fournitures	hard skills
+de	hard skills
+bureau	hard skills
+à	hard skills
+nos	hard skills
+clients	hard skills
+professionnels	hard skills
+.	
+La	hard skills
+tournée	hard skills
+est	hard skills
+organisée	hard skills
+de	hard skills
+manière	hard skills
+géographique	hard skills
+,	hard skills
+sur	hard skills
+la	hard skills
+journée	hard skills
+,	hard skills
+pour	hard skills
+desservir	hard skills
+le	hard skills
+département	hard skills
+63	hard skills
+et	hard skills
+les	hard skills
+départements	hard skills
+limitrophes	hard skills
+.	
+Attention	hard skills
+,	O
+des	hard skills
+charges	hard skills
+lourdes	hard skills
+sont	hard skills
+à	hard skills
+prévoir	hard skills
+.	
+Une	experience
+expérience	experience
+de	experience
+1	experience
+an	experience
+minimum	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+,	O
+est	experience
+nécessaire	experience
+afin	
+de	soft skills
+savoir	soft skills
+travailler	soft skills
+en	soft skills
+autonomie	soft skills
+et	soft skills
+de	soft skills
+manière	soft skills
+organisée	soft skills
+.	O
+CDI	contrat_type
+Temps	O
+complet	O
+Disponible	O
+rapidement	O
+Rémunération	O
+en	O
+fonction	O
+du	O
+profil	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	experience
+exigée	experience
+.	O
+Certificat	
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+de	hard skills
+Conduire	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Livreur	experience
+:	O
+1	experience
+an	experience

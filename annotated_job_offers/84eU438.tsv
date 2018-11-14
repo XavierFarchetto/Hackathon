@@ -1,0 +1,248 @@
+Assistant	position
+technique	position
+automatismes	position
+ind.	O
+.	O
+H/F	O
+OMRON	company
+ELECTRONICS	company
+-	O
+Rosny-sous-Bois	city
+-LRB-	O
+93	code postal
+-RRB-	O
+28	salary
+0	salary
+$	salary
+-	O
+33	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Au	O
+sein	O
+du	O
+Service	O
+clients	O
+,	O
+vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+les	hard skills
+appels	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+industriels	hard skills
+et	hard skills
+de	hard skills
+nos	hard skills
+distributeurs	hard skills
+spécialisés	hard skills
+et	hard skills
+assurez	hard skills
+l'assistance	hard skills
+technique	hard skills
+de	hard skills
+1er	hard skills
+niveau	hard skills
+.	O
+Vos	O
+principales	O
+responsabilités	O
+:	O
+Votre	hard skills
+connaissance	hard skills
+de	hard skills
+nos	hard skills
+produits	hard skills
+-LRB-	
+automates	hard skills
+programmables	hard skills
+,	O
+terminaux	hard skills
+de	hard skills
+dialogue	hard skills
+,	O
+contrôleurs	hard skills
+d'axes	hard skills
+,	O
+servomoteurs	hard skills
+,	
+variateurs	hard skills
+de	hard skills
+fréquence	hard skills
+,	O
+capteurs	hard skills
+,	O
+etc.	
+-RRB-	O
+et	hard skills
+de	hard skills
+leurs	hard skills
+applications	hard skills
+industrielles	hard skills
+vous	hard skills
+permet	hard skills
+d'apporter	hard skills
+un	hard skills
+soutien	hard skills
+technique	hard skills
+de	hard skills
+1er	hard skills
+niveau	hard skills
+à	hard skills
+la	hard skills
+force	hard skills
+de	hard skills
+vente	hard skills
+.	O
+Vous	hard skills
+répondez	hard skills
+aux	hard skills
+demandes	hard skills
+des	hard skills
+clients	hard skills
+par	hard skills
+mail	hard skills
+ou	hard skills
+par	hard skills
+téléphone	hard skills
+après	hard skills
+avoir	hard skills
+identifié	hard skills
+le	hard skills
+besoin	hard skills
+et	hard skills
+cherché	hard skills
+l'explication	hard skills
+technique	hard skills
+";"	O
+Vous	hard skills
+déclenchez	hard skills
+et	hard skills
+coordonnez	hard skills
+,	O
+en	hard skills
+partenariat	hard skills
+avec	hard skills
+nos	hard skills
+prestataires	hard skills
+internes	hard skills
+ou	hard skills
+externes	hard skills
+,	O
+les	hard skills
+assistances	hard skills
+techniques	hard skills
+chez	hard skills
+les	hard skills
+clients	hard skills
+";"	
+Vous	hard skills
+coordonnez	hard skills
+la	hard skills
+remontée	hard skills
+des	hard skills
+demandes	hard skills
+au	hard skills
+niveau	hard skills
+2	hard skills
+et	hard skills
+vous	hard skills
+vous	hard skills
+assurez	hard skills
+que	hard skills
+la	hard skills
+réponse	hard skills
+a	hard skills
+été	hard skills
+apportée	hard skills
+au	hard skills
+client	hard skills
+";"	O
+Vous	hard skills
+avez	hard skills
+un	hard skills
+rôle	hard skills
+d'interface	hard skills
+et	hard skills
+de	hard skills
+communication	hard skills
+avec	hard skills
+les	hard skills
+Ingénieurs	hard skills
+applications	hard skills
+";"	O
+Grâce	hard skills
+à	hard skills
+votre	hard skills
+questionnement	hard skills
+,	O
+vous	hard skills
+détectez	hard skills
+les	hard skills
+opportunités	hard skills
+commerciales	hard skills
+que	hard skills
+vous	hard skills
+relayez	hard skills
+à	hard skills
+la	hard skills
+force	hard skills
+de	hard skills
+vente	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+-	O
+Poste	O
+ouvert	O
+aux	O
+bénéficiaires	O
+de	O
+l'obligation	O
+d'emploi	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+à	O
+33	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Expérience	experience
+exigée	O
+:	O
+automatismes	experience
+industriels	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

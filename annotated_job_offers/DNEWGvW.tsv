@@ -1,0 +1,274 @@
+Animateur	position
+en	position
+centre	position
+de	position
+loisirs	position
+ENS	company
+centre	company
+social	company
+espace	company
+Torcy	company
+-	O
+Paris	city
+18e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+L'École	company
+normale	company
+Sociale	company
+recrute	O
+pour	O
+son	O
+Centre	O
+social	O
+Espace	O
+Torcy	O
+:	O
+Des	position
+animateurs	position
+-LRB-	O
+H/F	O
+-RRB-	O
+disponibles	hard skills
+pour	hard skills
+des	hard skills
+vacations	hard skills
+sur	hard skills
+les	hard skills
+créneaux	hard skills
+suivants	hard skills
+:	
+Mardi	hard skills
+17h	hard skills
+à	hard skills
+19h	hard skills
+-LRB-	O
+accompagnement	hard skills
+à	hard skills
+la	hard skills
+scolarité	hard skills
+-RRB-	
+Mercredi	hard skills
+13h30	hard skills
+à	hard skills
+17h30	hard skills
+-LRB-	
+accueil	hard skills
+de	hard skills
+loisirs	hard skills
+collégiens	hard skills
+-RRB-	O
+Samedi	hard skills
+10h	hard skills
+à	hard skills
+12h30	hard skills
+et	hard skills
+14h	hard skills
+à	hard skills
+17h	hard skills
+-LRB-	O
+accueil	hard skills
+jeune	hard skills
+et	hard skills
+animation	hard skills
+ludothèque	hard skills
+-RRB-	
+Et	hard skills
+pendant	hard skills
+les	hard skills
+vacances	hard skills
+scolaires	hard skills
+pour	hard skills
+l'accueil	hard skills
+de	hard skills
+loisirs	hard skills
+collégiens	hard skills
+du	hard skills
+mardi	hard skills
+au	hard skills
+samedi	hard skills
+de	hard skills
+10h	hard skills
+à	hard skills
+18h	hard skills
+Missions	hard skills
+:	
+La	hard skills
+personne	hard skills
+rejoignant	hard skills
+l'équipe	hard skills
+du	hard skills
+centre	hard skills
+social	hard skills
+sera	hard skills
+chargée	hard skills
+,	hard skills
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+hiérarchique	hard skills
+de	hard skills
+la	hard skills
+coordinatrice	hard skills
+enfance	hard skills
+jeunesse	hard skills
+,	hard skills
+d'exercer	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:	hard skills
+Mettre	hard skills
+en	hard skills
+œuvre	hard skills
+les	hard skills
+temps	hard skills
+d'animations	hard skills
+du	hard skills
+centre	hard skills
+social	hard skills
+en	hard skills
+direction	hard skills
+des	hard skills
+jeunes	hard skills
+sur	hard skills
+les	hard skills
+temps	hard skills
+péri	hard skills
+et	hard skills
+extrascolaires	hard skills
+Etre	hard skills
+force	hard skills
+de	hard skills
+proposition	hard skills
+en	hard skills
+matière	hard skills
+d'animations	hard skills
+et	hard skills
+de	hard skills
+projets	hard skills
+Assurer	hard skills
+l'organisation	hard skills
+et	hard skills
+gérer	hard skills
+les	hard skills
+moyens	hard skills
+matériels	hard skills
+-LRB-	
+anticipation	hard skills
+,	O
+disponibilité	hard skills
+-RRB-	
+nécessaire	hard skills
+aux	hard skills
+actions	hard skills
+-LRB-	
+réservation	hard skills
+,	O
+achat	hard skills
+-RRB-	
+qu'il	hard skills
+/	O
+elle	hard skills
+met	hard skills
+en	hard skills
+place	hard skills
+Mettre	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+espaces	hard skills
+d'activités	hard skills
+en	hard skills
+conformité	hard skills
+avec	hard skills
+la	hard skills
+réglementation	hard skills
+DDCS	hard skills
+Participer	hard skills
+à	hard skills
+l'animation	hard skills
+du	hard skills
+territoire	hard skills
+et	hard skills
+favoriser	hard skills
+l'implication	hard skills
+des	hard skills
+habitants	hard skills
+Encadrer	hard skills
+les	hard skills
+temps	hard skills
+d'accompagnement	hard skills
+à	hard skills
+la	hard skills
+scolarité	hard skills
+Accueillir	hard skills
+les	hard skills
+différents	hard skills
+types	hard skills
+de	hard skills
+public	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+la	hard skills
+ludothèque	hard skills
+Compétences	
+requises	
+:	O
+Diplôme	experience
+BAFA	experience
+Expérience	experience
+dans	experience
+l'animation	experience
+Vous	soft skills
+aimez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+transmettre	soft skills
+des	soft skills
+valeurs	soft skills
+Période	
+:	O
+Année	O
+scolaire	O
+2017/2018	O
+Type	O
+d'emploi	O
+:	O
+temps	contrat_type
+partiel	contrat_type
+11,8	salary
+brut/heure	salary
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+75018	postal code
+Paris	city
+18e	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

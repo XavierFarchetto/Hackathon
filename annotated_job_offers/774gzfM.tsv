@@ -1,0 +1,138 @@
+HOTE	position
+/	O
+HOTESSE	position
+D	position
+ACCUEIL	position
+STANDARDISTE	company
+CONFIANCE	company
+IMMOBILIER	company
+-	O
+Lyon	city
+7e	city
+-LRB-	O
+69	code postal
+-RRB-	O
+CDI	contrat_type
+Le	O
+ou	O
+la	O
+candidat	O
+-LRB-	O
+e	O
+-RRB-	O
+aura	O
+à	O
+sa	O
+charge	O
+l'accueil	O
+et	O
+le	O
+standard	O
+d'une	O
+agence	O
+immobilière	O
+basée	O
+à	O
+LYON	city
+7	city
+ainsi	O
+que	O
+de	O
+l'administratif	O
+.	O
+Descriptif	O
+du	O
+poste	O
+:	O
+-	O
+Accueil	hard skills
+du	hard skills
+public	hard skills
+à	hard skills
+l'agence	hard skills
+-	O
+Gestion	hard skills
+du	hard skills
+Standard	hard skills
+-	O
+Gestion	hard skills
+du	hard skills
+courrier	hard skills
+:	O
+tri	hard skills
+,	O
+affranchissement	hard skills
+-	O
+Gestion	hard skills
+des	hard skills
+mails	hard skills
+-	O
+Gestion	hard skills
+des	hard skills
+fournitures	hard skills
+-	O
+Classement	hard skills
+-	O
+Tenue	hard skills
+des	hard skills
+registres	hard skills
+de	hard skills
+mandats	hard skills
+.	O
+Qualités	
+requises	
+:	O
+-	O
+Organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+-	O
+Bon	soft skills
+sens	soft skills
+du	soft skills
+relationnel	soft skills
+-	O
+Très	soft skills
+grande	soft skills
+rigueur	soft skills
+Une	soft skills
+expérience	experience
+dans	experience
+l'immobilier	experience
+serait	O
+un	O
+plus	O
+.	O
+Niveau	O
+d'études	O
+:	O
+BAC	experience
+minimum	experience
+ou	O
+expérience	experience
+similaire	experience
+Poste	experience
+à	O
+pourvoir	O
+rapidement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	O
+secondaires	O
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	

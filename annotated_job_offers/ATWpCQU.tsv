@@ -1,0 +1,175 @@
+Maitre	position
+Nageur	position
+Sauveteur	position
+Complexe	company
+Alain	company
+Bernard	company
+des	company
+2	company
+Vallées	company
+-	O
+Milly-la-Forêt	city
+-LRB-	O
+91	code postal
+-RRB-	O
+1	salary
+934	salary
+$	salary
+-	O
+1	salary
+972	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+de	O
+1	
+BEESAN	O
+-LRB-	O
+brevet	experience
+d	experience
+'	O
+état	experience
+d	experience
+éducateur	experience
+sportif	experience
+des	experience
+activités	experience
+de	experience
+la	experience
+natation	experience
+-RRB-	O
+ou	experience
+de	experience
+1	experience
+BPJEPS	experience
+AAN	experience
+à	
+partir	
+du	
+13	O
+novembre	O
+2017	O
+.	O
+Pour	O
+un	O
+contrat	O
+en	O
+CDD	contrat_type
+de	O
+35	O
+heures	O
+semaines	O
+-LRB-	O
+1	O
+week-end	O
+sur	O
+4	O
+travaillé	O
+-RRB-	O
+.	O
+Tâches	O
+:	O
+surveillance	hard skills
+des	hard skills
+bassins	hard skills
+,	
+renseignement	hard skills
+et	hard skills
+prévention	hard skills
+des	hard skills
+dangers	hard skills
+,	O
+animations	hard skills
+des	hard skills
+cours	hard skills
+d'apprentissage	hard skills
+enfants	hard skills
+et	hard skills
+adultes	hard skills
+-LRB-	O
+à	hard skills
+partir	hard skills
+de	hard skills
+3	hard skills
+ans	hard skills
+-RRB-	O
+,	O
+animation	hard skills
+des	hard skills
+cours	hard skills
+d'aquagym	hard skills
+,	O
+de	hard skills
+lagon	hard skills
+tonic	hard skills
+et	hard skills
+de	hard skills
+cycling	hard skills
+.	O
+Pédagogie	hard skills
+scolaire	hard skills
+du	hard skills
+lundi	hard skills
+au	hard skills
+vendredi	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+la	hard skills
+possibilité	hard skills
+de	hard skills
+donner	hard skills
+des	hard skills
+cours	hard skills
+particuliers	hard skills
+en	hard skills
+tant	hard skills
+qu'auto	hard skills
+entrepreneur.Adresse	hard skills
+du	hard skills
+centre	hard skills
+aquatique	hard skills
+:	O
+Centre	
+Aquatique	
+Alain	
+Bernard	
+23	
+rue	O
+de	O
+la	O
+Chapelle	O
+Saint	O
+Blaise	O
+91490	code postal
+Milly	city
+la	O
+Forêt	O
+Salaire	O
+:	O
+1933.79	salary
+$	salary
+brut/mois	salary
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+933,79	salary
+$	salary
+à	O
+1	salary
+971,71	salary
+$	salary
+/	O
+mois	salary

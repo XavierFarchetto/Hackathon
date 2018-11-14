@@ -1,0 +1,248 @@
+Employé	position
+de	position
+Ménage	position
+Rennes	city
+SUD	city
+free	company
+dom	company
+-	O
+Rennes	city
+-LRB-	O
+35	postal code
+-RRB-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Ménager	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+la	O
+commune	O
+de	O
+Rennes	city
+SUD	city
+.	O
+Vos	hard skills
+missions	hard skills
+Vous	hard skills
+interviendrez	hard skills
+au	hard skills
+domicile	hard skills
+des	hard skills
+clients	hard skills
+afin	hard skills
+de	hard skills
+réaliser	hard skills
+l'entretien	hard skills
+du	hard skills
+logement	hard skills
+,	hard skills
+en	hard skills
+respectant	hard skills
+les	hard skills
+spécificités	hard skills
+éventuelles	hard skills
+:	
+Nettoyer	hard skills
+,	O
+entretenir	hard skills
+,	O
+désinfecter	hard skills
+les	hard skills
+pièces	hard skills
+,	O
+le	hard skills
+mobilier	hard skills
+et	hard skills
+les	hard skills
+appareils	hard skills
+ménagers	hard skills
+divers	hard skills
+Repasser	hard skills
+,	O
+plier	hard skills
+et	hard skills
+ranger	hard skills
+le	hard skills
+linge	hard skills
+Conditions	O
+du	O
+poste	O
+Rémunération	O
+:	O
+à	O
+partir	O
+de	O
+9,76	salary
+à	O
+10,76	salary
+Brut	salary
++	
+primes	O
+suivant	O
+profil	O
+Nos	O
+avantages	O
+Mutuelle	O
+d'entreprise	O
+Remboursement	O
+des	O
+indemnités	O
+de	O
+transport	O
+50	O
+%	O
+ou	O
+des	O
+frais	O
+kilométriques	O
+Prise	O
+en	O
+charge	O
+des	O
+inter	O
+missions	O
+Les	O
+plus	O
+Free	company
+Dom	company
+Une	O
+formation	O
+d'embauche	O
++	O
+formation	O
+continue	O
+en	O
+fonction	O
+des	O
+besoins	O
+du	O
+salarié	O
+ainsi	O
+que	O
+de	O
+son	O
+projet	O
+professionnel	O
+Présentation	O
+de	O
+nos	O
+salariés	O
+aux	O
+clients	O
+affectés	O
+Entreprise	O
+à	O
+taille	O
+humaine	O
+Profil	O
+recherché	O
+Vous	experience
+bénéficiez	experience
+d'une	experience
+expérience	experience
+de	experience
+6	experience
+mois	experience
+minimum	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+et	O
+êtes	soft skills
+capable	soft skills
+d'assurer	soft skills
+,	
+en	soft skills
+parfaite	soft skills
+autonomie	soft skills
+,	O
+les	soft skills
+prestations	soft skills
+au	soft skills
+domicile	soft skills
+des	soft skills
+clients	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+polyvalent	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+``	O
+avez	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+ou/et	soft skills
+gestions	soft skills
+des	soft skills
+priorités	soft skills
+,	O
+rigoureuse	soft skills
+''	
+.	O
+Vous	soft skills
+savez	soft skills
+vous	soft skills
+adapter	soft skills
+aux	soft skills
+changements	soft skills
+de	soft skills
+situations	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+par	soft skills
+ailleurs	soft skills
+,	soft skills
+reconnu	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+s	soft skills
+pour	soft skills
+vos	soft skills
+qualités	soft skills
+de	soft skills
+discrétion	soft skills
+,	
+d'écoute	soft skills
+et	soft skills
+de	soft skills
+diplomatie	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	O
+1	experience
+an	experience

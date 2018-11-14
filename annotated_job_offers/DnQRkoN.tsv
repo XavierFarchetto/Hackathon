@@ -1,0 +1,262 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Administration	position
+des	position
+ventes	position
+-LRB-	
+H/F	O
+-RRB-	O
+BLUESTAR	company
+EUROPE	company
+DISTRIBUTION	company
+-	O
+Bourg-de-Péage	city
+-LRB-	O
+26	postal code
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	
+22	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Votre	hard skills
+principale	hard skills
+activité	hard skills
+consiste	hard skills
+à	hard skills
+enregistrer	hard skills
+dans	hard skills
+notre	hard skills
+ERP	hard skills
+-LRB-	
+Microsoft	hard skills
+Dynamics	hard skills
+NAV	hard skills
+-RRB-	
+les	hard skills
+commandes	hard skills
+des	hard skills
+clients	hard skills
+et	hard skills
+suivre	hard skills
+le	hard skills
+bon	hard skills
+déroulement	hard skills
+de	hard skills
+leur	hard skills
+exécution	hard skills
+jusqu	hard skills
+'	hard skills
+à	hard skills
+l'expédition	hard skills
+.	
+Vous	hard skills
+répondrez	hard skills
+aux	hard skills
+appels	hard skills
+entrants	hard skills
+des	hard skills
+clients	hard skills
+concernant	hard skills
+leurs	hard skills
+demandes	hard skills
+sur	hard skills
+leurs	hard skills
+commandes	hard skills
+en	hard skills
+cours	hard skills
+ou	hard skills
+à	hard skills
+venir	hard skills
+.	
+Vous	hard skills
+avez	hard skills
+la	hard skills
+responsabilité	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+exécution	hard skills
+des	hard skills
+commandes	hard skills
+en	hard skills
+termes	hard skills
+de	hard skills
+délai	hard skills
+de	hard skills
+livraison	hard skills
+,	hard skills
+de	hard skills
+l'application	hard skills
+des	hard skills
+conditions	hard skills
+spéciales	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+vérification	hard skills
+des	hard skills
+marges	hard skills
+,	hard skills
+des	hard skills
+conditions	hard skills
+de	hard skills
+règlement	hard skills
+et	hard skills
+de	hard skills
+l'encours	hard skills
+.	
+Votre	hard skills
+travail	hard skills
+se	hard skills
+déroule	hard skills
+dans	hard skills
+un	hard skills
+bureau	hard skills
+collectif	hard skills
+de	hard skills
+4	hard skills
+personnes	hard skills
+,	hard skills
+et	hard skills
+vous	hard skills
+utilisez	hard skills
+de	hard skills
+manière	hard skills
+quasi	hard skills
+permanente	hard skills
+l'ordinateur	hard skills
+et	hard skills
+le	hard skills
+téléphone	hard skills
+.	
+Vous	hard skills
+êtes	hard skills
+intégré	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+une	hard skills
+équipe	hard skills
+commerciale	hard skills
+de	hard skills
+11	hard skills
+personnes	hard skills
+.	O
+Vous	hard skills
+avez	hard skills
+la	hard skills
+maitrise	hard skills
+des	hard skills
+logiciels	hard skills
+de	hard skills
+gestion	hard skills
+commerciale	hard skills
+/	hard skills
+ERP	hard skills
+et	hard skills
+des	hard skills
+procédures	hard skills
+spécifiques	hard skills
+à	hard skills
+l'administration	hard skills
+des	hard skills
+ventes	hard skills
+.	
+Votre	soft skills
+sens	soft skills
+relationnel	soft skills
+et	soft skills
+votre	soft skills
+rigueur	soft skills
+de	soft skills
+travail	soft skills
+sont	soft skills
+primordiaux	soft skills
+pour	soft skills
+l'exercice	soft skills
+de	soft skills
+vos	soft skills
+tâches	soft skills
+quotidiennes	soft skills
+.	O
+L'anglais	hard skills
+professionnel	hard skills
+vous	hard skills
+permettra	hard skills
+de	hard skills
+pouvoir	hard skills
+communiquer	hard skills
+en	hard skills
+interne	hard skills
+avec	hard skills
+les	hard skills
+autres	hard skills
+services	hard skills
+de	hard skills
+l'entreprise	hard skills
+-LRB-	O
+logistique	hard skills
+,	O
+achats	hard skills
+,	O
+opérations	hard skills
+-RRB-	O
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+20	salary
+0	salary
+$	salary
+à	O
+22	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+26300	postal code
+Bourg-de-Péage	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+administration	experience
+des	experience
+ventes	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

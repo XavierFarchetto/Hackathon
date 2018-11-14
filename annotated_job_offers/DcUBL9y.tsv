@@ -1,0 +1,127 @@
+Esthéticienne	position
+/	O
+prothesiste	position
+ongulaire	position
+Institut	company
+Dydyna	company
+-	O
+Dombasle-sur-Meurthe	city
+-LRB-	O
+54	postal code
+-RRB-	O
+CDD	contrat_type
+Urgent	O
+!	O
+Salon	O
+de	O
+beauté	O
+spécialisé	O
+dans	O
+l'onglerie	O
+situé	O
+à	O
+Dombasle	city
+sur	O
+Meurthe	O
+-LRB-	O
+20	O
+km	O
+de	O
+Nancy	O
+-RRB-	O
+recherche	O
+:	O
+une	position
+esthéticienne	position
+-LRB-	O
+h/f	O
+-RRB-	O
+/	O
+prothésiste	position
+ongulaire	position
+polyvalente	position
+pour	O
+un	O
+remplacement	O
+Compétences	O
+:	O
+Maitrise	hard skills
+des	hard skills
+différents	hard skills
+types	hard skills
+de	hard skills
+soins	hard skills
+:	O
+épilation	hard skills
+,	O
+et	hard skills
+onglerie	hard skills
+:	
+gel	hard skills
+,	O
+vernis	hard skills
+semi-permanent	hard skills
+Missions	O
+:	O
+Accueillir	hard skills
+les	hard skills
+clients	hard skills
+Effectuer	hard skills
+différents	hard skills
+types	hard skills
+de	hard skills
+prestations	hard skills
+Profils	
+:	
+CAP	experience
+,	O
+BAC	experience
+PRO	experience
+ou	experience
+BTS	experience
+Esthétique	experience
+/	O
+Cosmétique	experience
+Personnes	soft skills
+motivée	soft skills
+,	O
+méticuleuse	soft skills
+,	O
+sens	soft skills
+du	soft skills
+détail	soft skills
+et	soft skills
+souriante	soft skills
+Un	experience
+minimum	experience
+d'expérience	experience
+dans	experience
+la	experience
+fonction	experience
+est	experience
+exigée	experience
+Disponible	experience
+de	experience
+suite	experience
+Type	
+d'emploi	O
+:	O
+CDD	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Dombasle-sur-Meurthe	city
+-LRB-	O
+54	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+onglerie	experience
+,	O
+prothésiste	experience
+ongulaire	experience
+:	O
+1	experience
+an	experience

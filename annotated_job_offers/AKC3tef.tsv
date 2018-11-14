@@ -1,0 +1,180 @@
+Professeur	position
+de	position
+français	position
+Complexe	company
+Educatif	company
+-	O
+Garges-lès-Gonesse	city
+-LRB-	O
+95	postal code
+-RRB-	O
+12	salary
+$	salary
+-	O
+15	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Le	company
+complexe	company
+éducatif	company
+dispense	O
+des	O
+cours	O
+de	O
+langue	O
+et	O
+de	O
+soutien	O
+scolaire	O
+.	O
+Compte	O
+tenu	O
+de	O
+son	O
+accroissement	O
+,	O
+le	O
+complexe	O
+souhaite	O
+renforcer	O
+son	O
+équipe	O
+pédagogique	O
+pour	O
+la	O
+rentrée	O
+2017/2018	O
+.	O
+Pour	O
+cela	O
+il	O
+recrute	O
+des	position
+professeurs	position
+de	position
+français	position
+Profil	O
+:	O
+Le	company
+complexe	company
+éducatif	company
+recherche	O
+un	position
+enseignant	position
+H/F	O
+:	O
+Maîtrisant	experience
+parfaitement	experience
+la	experience
+matière	experience
+enseignée	experience
+.	O
+Ayant	experience
+une	experience
+expérience	experience
+dans	experience
+l'enseignement	experience
+.	
+Diplômée	experience
+d'un	experience
+bac	experience
+3	experience
+minimum	experience
+dans	experience
+la	experience
+matière	experience
+enseignée	experience
+.	O
+Pédagogue	soft skills
+:	O
+sachant	soft skills
+organiser	soft skills
+ses	soft skills
+cours	soft skills
+et	soft skills
+transmettre	soft skills
+son	soft skills
+savoir	soft skills
+de	soft skills
+manière	soft skills
+méthodique	soft skills
+et	soft skills
+en	soft skills
+s	soft skills
+`	soft skills
+adaptant	soft skills
+au	soft skills
+public	soft skills
+à	soft skills
+qui	soft skills
+il	soft skills
+enseigne	soft skills
+et	soft skills
+sachant	soft skills
+communiquer	soft skills
+devant	soft skills
+un	soft skills
+groupe	soft skills
+.	O
+Créatif	soft skills
+:	O
+utilisant	hard skills
+des	hard skills
+supports	hard skills
+de	hard skills
+cours	hard skills
+vivants	hard skills
+,	
+innovants	soft skills
+et	soft skills
+attrayants	soft skills
+.	O
+Passionné	soft skills
+par	soft skills
+l'enseignement	soft skills
+et	soft skills
+aimant	soft skills
+aller	soft skills
+de	soft skills
+l'avant	soft skills
+.	O
+Rigoureux	soft skills
+et	soft skills
+ponctuel	soft skills
+.	
+Les	O
+cours	O
+se	O
+déroulent	O
+à	O
+Garges-Lès-Gonesse	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+12	salary
+$	salary
+à	
+15	salary
+$	salary
+/	O
+heure	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills

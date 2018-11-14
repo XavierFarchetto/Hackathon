@@ -1,0 +1,105 @@
+Paysagiste	position
+-LRB-	O
+h/f	O
+-RRB-	O
+ATRIA	company
+Conseil	company
+-	O
+Vienne	city
+-LRB-	O
+38	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Vous	hard skills
+travaillerez	hard skills
+dans	hard skills
+une	hard skills
+société	hard skills
+familiale	hard skills
+et	hard skills
+très	hard skills
+dynamique	hard skills
+de	hard skills
+23	hard skills
+salariés	hard skills
+ayant	hard skills
+des	hard skills
+double	hard skills
+ou	hard skills
+triple	hard skills
+compétence	hard skills
+-LRB-	
+maçonnerie	hard skills
+paysagère	hard skills
++	hard skills
+horticulture	hard skills
++	hard skills
+entretien	hard skills
+espace	hard skills
+vert	hard skills
+-RRB-	
+Vous	hard skills
+serez	hard skills
+sélectionné	hard skills
+même	hard skills
+si	hard skills
+vous	hard skills
+n'avez	hard skills
+qu'une	hard skills
+seule	hard skills
+de	hard skills
+ces	hard skills
+3	hard skills
+compétences	hard skills
+.	O
+Ce	O
+qui	O
+fera	O
+votre	O
+force	O
+sera	O
+votre	soft skills
+motivation	soft skills
+et	soft skills
+votre	soft skills
+capacité	soft skills
+à	soft skills
+apprendre	soft skills
+des	soft skills
+autres	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Taille	experience
+tonte	experience
+ou	experience
+création	experience
+:	O
+4	experience
+ans	experience

@@ -1,0 +1,239 @@
+GESTIONNAIRE	position
+DE	position
+RAYON	position
+PAPETERIE	company
+BUREAU	company
+VALLEE	company
+GRANVILLE	company
+-	O
+Granville	city
+-LRB-	O
+50	postal code
+-RRB-	O
+Vendeur	position
+/	O
+Gestionnaire	position
+Rayon	position
+PAPETERIE	company
+H/F	O
+Bureau	O
+Vallée	O
+GRANVILLE	city
+--	O
+50400	postal code
+GRANVILLE	city
+Activités	O
+Principales	O
+:	O
+Au	hard skills
+sein	hard skills
+de	hard skills
+l'un	hard skills
+de	hard skills
+nos	hard skills
+magasins	hard skills
+vous	hard skills
+accueillez	hard skills
+et	hard skills
+conseillez	hard skills
+la	hard skills
+clientèle	hard skills
+en	hard skills
+garantissant	hard skills
+un	hard skills
+service	hard skills
+clients	hard skills
+irréprochable	hard skills
+.	O
+Vous	hard skills
+êtes	hard skills
+en	hard skills
+charge	hard skills
+d'accueillir	hard skills
+le	hard skills
+client	hard skills
+,	
+d'identifier	hard skills
+ses	hard skills
+besoins	hard skills
+,	
+de	hard skills
+le	hard skills
+guider	hard skills
+et	hard skills
+de	hard skills
+lui	hard skills
+apporter	hard skills
+une	hard skills
+expertise	hard skills
+et	hard skills
+un	hard skills
+conseil	hard skills
+pertinent	hard skills
+sur	hard skills
+les	hard skills
+produits	hard skills
+de	hard skills
+Papeterie	hard skills
+.	O
+Sur	hard skills
+votre	hard skills
+périmètre	hard skills
+,	
+vous	hard skills
+:	
+-	O
+Gérez	hard skills
+les	hard skills
+stocks	hard skills
+-LRB-	
+ruptures	hard skills
+,	O
+commandes	hard skills
+-RRB-	O
+-	O
+Réceptionnez	hard skills
+les	hard skills
+marchandises	hard skills
+-	hard skills
+Respectez	hard skills
+les	hard skills
+basiques	hard skills
+de	hard skills
+tenues	hard skills
+d'un	hard skills
+rayon	hard skills
+-LRB-	
+balisage	hard skills
+,	O
+propreté	hard skills
+,	O
+facing	hard skills
+-RRB-	O
+-	O
+Pilotez	hard skills
+et	hard skills
+assurez	hard skills
+la	hard skills
+rentabilité	hard skills
+de	hard skills
+votre	hard skills
+rayon	hard skills
+.	O
+-	O
+Vous	hard skills
+développez	hard skills
+l'attractivité	hard skills
+commerciale	hard skills
+avec	hard skills
+des	hard skills
+opérations	hard skills
+promotionnelles	hard skills
+puissantes	hard skills
+en	hard skills
+veillant	hard skills
+à	hard skills
+la	hard skills
+conformité	hard skills
+du	hard skills
+concept	hard skills
+Bureau	hard skills
+Vallée	hard skills
+.	O
+Pour	hard skills
+ce	hard skills
+faire	hard skills
+,	
+vous	hard skills
+recevez	hard skills
+les	hard skills
+fournisseurs	hard skills
+et	hard skills
+vous	hard skills
+négociez	hard skills
+avec	hard skills
+eux	hard skills
+les	hard skills
+opérations	hard skills
+.	
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+,	
+la	soft skills
+vente	soft skills
+,	O
+le	soft skills
+conseil	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+motivés	soft skills
+par	soft skills
+l'atteinte	soft skills
+et	soft skills
+le	soft skills
+dépassement	soft skills
+des	soft skills
+résultats	soft skills
+.	O
+Expérience	experience
+en	experience
+grande	experience
+distribution	experience
+souhaitée	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+50400	postal code
+GRANVILLE	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+GRANDE	experience
+DISTRIBUTION	experience
+:	O
+2	experience
+ans	experience

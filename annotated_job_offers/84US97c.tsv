@@ -1,0 +1,347 @@
+ADMINISTRATEUR	position
+SYSTEME	position
+et	position
+RESEAUX	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ONE	company
+SYSTEM	company
+-	O
+Miribel	city
+-LRB-	O
+1	code postal
+-RRB-	O
+CDI	contrat_type
+Créée	O
+en	O
+2008	O
+,	O
+One	company
+System	company
+est	O
+un	O
+fournisseur	O
+IT	O
+-LRB-	O
+Information	O
+Technologie	O
+-RRB-	O
+global	O
+à	O
+même	O
+d'assister	O
+ses	O
+clients	O
+dans	O
+les	O
+différents	O
+domaines	O
+de	O
+l'infrastructure	O
+:	O
+AUDIT	O
+-	O
+CONSEIL	O
+--	O
+FORMATION	O
+INGENIERIE	O
+--	O
+INTEGRATION	O
+INFOGERANCE	O
+--	O
+DELEGATION	O
+DATACENTER	O
+propriétaire	O
+de	O
+son	O
+Datacenter	O
+en	O
+région	O
+lyonnaise	O
+afin	O
+de	O
+fournir	O
+différents	O
+services	O
+hébergés	O
+One	company
+System	company
+affiche	O
+une	O
+présence	O
+forte	O
+sur	O
+toute	O
+la	O
+région	O
+Rhône-Alpes	O
+.	O
+Nous	O
+offrons	O
+un	O
+service	O
+de	O
+proximité	O
+tout	O
+en	O
+bénéficiant	O
+d'une	O
+large	O
+expertise	O
+technique	O
+.	O
+One	company
+System	company
+recherche	O
+pour	O
+intégrer	O
+l'équipe	O
+technique	O
+,	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+ADMINISTRATEUR	position
+SYSTEME	position
+et	position
+RESEAUX	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vos	O
+missions	O
+:	O
+Support	hard skills
+Analyse	hard skills
+de	hard skills
+problèmes	hard skills
+complexes	hard skills
+et/ou	hard skills
+non	hard skills
+récurrents	hard skills
+d'infrastructure	hard skills
+,	O
+de	hard skills
+système	hard skills
+,	
+de	hard skills
+réseau	hard skills
+,	O
+de	hard skills
+messagerie	hard skills
+et	hard skills
+poste	hard skills
+de	hard skills
+travail	hard skills
+.	O
+Réalisation	hard skills
+du	hard skills
+support	hard skills
+niveau	hard skills
+2	hard skills
+et	hard skills
+3	hard skills
+sur	hard skills
+les	hard skills
+incidents	hard skills
+techniques	hard skills
+et	hard skills
+leur	hard skills
+résolution	hard skills
+Maintien	hard skills
+du	hard skills
+bon	hard skills
+fonctionnement	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+disponibilité	hard skills
+des	hard skills
+environnements	hard skills
+clients	hard skills
+Rédaction	hard skills
+de	hard skills
+documents	hard skills
+d'exploitation	hard skills
+Intégration	hard skills
+et	hard skills
+installation	hard skills
+de	hard skills
+solutions	hard skills
+d'infrastructure	hard skills
+locales	hard skills
+ou	hard skills
+hébergées	hard skills
+Délégation	hard skills
+et	hard skills
+maintenance	hard skills
+préventive	hard skills
+en	hard skills
+clientèle	hard skills
+Environnements	hard skills
+techniques	hard skills
+:	O
+Systèmes	hard skills
+d'exploitation	hard skills
+Windows	hard skills
+2008	hard skills
+à	hard skills
+2016	hard skills
+,	
+Active	hard skills
+Directory	hard skills
+/	O
+GPO	hard skills
+Administration	hard skills
+de	hard skills
+serveurs	hard skills
+TSE	hard skills
+,	O
+RDS	hard skills
+2008-2016	hard skills
+Administration	hard skills
+de	hard skills
+serveurs	hard skills
+Exchange	hard skills
+-LRB-	
+2007	hard skills
+à	
+2016	hard skills
+-RRB-	O
+Mise	hard skills
+en	hard skills
+place	hard skills
+de	hard skills
+borne	hard skills
+wifi	hard skills
+Virtualisation	hard skills
+-LRB-	O
+VMware	hard skills
+-RRB-	O
+Sauvegarde	hard skills
+-LRB-	O
+Veeam	hard skills
+-RRB-	O
+Système	hard skills
+de	hard skills
+téléphonie	hard skills
+VOIP	hard skills
+-LRB-	
+3CX	hard skills
+-RRB-	O
+Administration	hard skills
+réseau	hard skills
+:	O
+protocole	hard skills
+TCP/IP	hard skills
+,	O
+LAN	hard skills
+,	O
+WAN	hard skills
+,	O
+VLAN	hard skills
+,	O
+NAT	hard skills
+,	O
+Firewall	hard skills
+...	O
+Expérience	O
+appréciée	O
+chez	O
+un	O
+Intégrateur	O
+ou	O
+en	O
+SSII	O
+Profil	O
+:	O
+De	O
+formation	experience
+Bac	experience
+2	experience
+minimum	experience
+en	experience
+informatique	experience
+,	O
+vous	O
+justifiez	experience
+impérativement	experience
+d'une	experience
+expérience	experience
+d'au	experience
+moins	experience
+5	experience
+ans	experience
+dans	experience
+une	experience
+fonction	experience
+similaire	experience
+.	O
+Autonome	soft skills
+et	soft skills
+rigoureux	soft skills
+,	O
+vous	soft skills
+faites	soft skills
+preuve	soft skills
+d'excellentes	soft skills
+capacités	soft skills
+d'analyse	soft skills
+et	soft skills
+d'un	soft skills
+bon	soft skills
+relationnel	soft skills
+.	O
+Salaire	
+:	
+selon	O
+profil	O
+et	O
+expérience	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+Permis	hard skills
+de	hard skills
+conduire	hard skills
+indispensable	hard skills
+--	O
+déplacements	O
+à	O
+prévoir	O
+Lieu	O
+:	O
+LES	O
+ECHETS	O
+-LRB-	O
+1	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Chez	experience
+un	experience
+Intégrateur	experience
+ou	experience
+en	experience
+SSII	experience
+:	O
+5	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+PERMIS	hard skills
+DE	hard skills
+CONDUIRE	hard skills

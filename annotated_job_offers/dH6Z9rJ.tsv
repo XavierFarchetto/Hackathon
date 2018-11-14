@@ -1,0 +1,73 @@
+Ouvrier	position
+viticole	position
+H/F	O
+VITIS	company
+OPS	company
+PRESTATION	company
+-	O
+Poilly-sur-Serein	city
+-LRB-	O
+89	postal code
+-RRB-	O
+1	salary
+200	salary
+$	salary
+-	O
+1	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Nous	O
+recherchons	O
+des	hard skills
+personnes	hard skills
+,	O
+hommes	hard skills
+et	hard skills
+femmes	hard skills
+pour	hard skills
+la	hard skills
+saison	hard skills
+du	hard skills
+taillage	hard skills
+plusieurs	hard skills
+postes	
+à	
+pourvoir	
+.	O
+Expérience	experience
+exigée	experience
+d'au	experience
+moins	experience
+3	experience
+ans	experience
+.	
+permis	hard skills
+B	hard skills
+préférable	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+200	salary
+$	salary
+à	O
+1	salary
+400	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+TAILLE	experience
+:	O
+3	experience
+ans	experience

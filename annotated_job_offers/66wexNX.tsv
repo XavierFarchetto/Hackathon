@@ -1,0 +1,103 @@
+Chauffeur	position
+Poids	position
+Lourd	position
+-	O
+Préparateur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+GDB	company
+-	O
+Buc	city
+-LRB-	O
+78	code postal
+-RRB-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+Préparation-Livraison	hard skills
+de	hard skills
+commandes	hard skills
+de	hard skills
+Fruits	hard skills
+et	hard skills
+Légumes	hard skills
+pour	hard skills
+des	hard skills
+collectivités	hard skills
+-	O
+Travail	hard skills
+de	hard skills
+nuit	hard skills
+01H00	hard skills
+/	hard skills
+10H00	hard skills
+-	hard skills
+Lundi	hard skills
+au	hard skills
+Vendredi	hard skills
+-	hard skills
+Permis	hard skills
+Poids	hard skills
+Lourd	hard skills
+impératif	hard skills
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Transport/Logistique	O
+Fonction	O
+Ouvrier/Artisan	O
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Niveau	experience
+d'études	experience
+Employé	experience
+/	O
+Ouvrier	experience
+spécialisé	experience
+/	O
+Bac	experience
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	
+exigée	
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

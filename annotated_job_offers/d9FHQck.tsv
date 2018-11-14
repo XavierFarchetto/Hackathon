@@ -1,0 +1,197 @@
+Agent	position
+de	position
+nettoyage	position
+agroalimentaire	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Salaisons	company
+du	company
+Lignon	company
+-	O
+Monistrol-sur-Loire	city
+-LRB-	O
+43	postal code
+-RRB-	O
+CDI	contrat_type
+L'entreprise	company
+Salaisons	company
+du	company
+Lignon	company
+acteur	O
+majeur	O
+du	O
+secteur	O
+de	O
+l'agroalimentaire	O
+,	O
+recherche	O
+:	O
+Opérateur	position
+de	position
+nettoyage	position
+en	O
+salaisons	O
+en	O
+CDD	contrat_type
+,	O
+CDI	contrat_type
+et	
+intérim	contrat_type
+.	O
+Les	O
+postes	O
+sont	O
+basés	O
+en	O
+haute	O
+Loire	O
+dans	O
+le	O
+bassin	O
+de	O
+Monistrol	city
+/	O
+st	city
+Maurice	city
+de	city
+Lignon	city
+-LRB-	O
+30mn	O
+de	O
+St	O
+Etienne	O
+-RRB-	O
+.	O
+Les	O
+missions	O
+:	O
+Assurer	hard skills
+le	hard skills
+nettoyage	hard skills
+du	hard skills
+matériel	hard skills
+,	hard skills
+des	hard skills
+machines	hard skills
+et	hard skills
+de	hard skills
+l'environnement	hard skills
+dans	hard skills
+une	hard skills
+entreprise	hard skills
+agro-alimentaire	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+.	hard skills
+Vous	hard skills
+utilisez	hard skills
+un	hard skills
+nettoyeur	hard skills
+haute-pression	hard skills
+,	hard skills
+des	hard skills
+produits	hard skills
+chimiques	hard skills
+permettant	hard skills
+de	hard skills
+désinfecter	hard skills
+les	hard skills
+machines	hard skills
+et	hard skills
+matériels	hard skills
+.	
+Une	experience
+formation	experience
+est	experience
+faite	experience
+sur	experience
+place	experience
+.	
+Notre	O
+travail	O
+est	O
+primordial	O
+:	O
+nous	O
+sommes	O
+les	O
+garants	O
+de	O
+la	O
+sécurité	O
+alimentaire	O
+.	O
+Rémunération	O
+:	O
+selon	O
+le	O
+poste	O
+et	O
+l'expérience	O
+sur	O
+13	O
+MOIS	O
++	O
+Prime	O
+d'intéressement	O
++	O
+prime	O
+de	O
+fin	O
+d'année	O
++	O
+Participation	O
+aux	O
+bénéfices	O
+.	O
+Rémunération	O
+évolutive	O
+.	O
+Le	O
+profil	O
+Une	experience
+expérience	experience
+en	experience
+agroalimentaire	experience
+serait	experience
+un	experience
+plus	experience
+apprécié	experience
+.	
+Votre	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+,	
+votre	soft skills
+faculté	soft skills
+d'adaptation	soft skills
+et	soft skills
+votre	soft skills
+capacité	soft skills
+de	soft skills
+réactivité	soft skills
+seront	soft skills
+autant	soft skills
+d'atouts	soft skills
+qui	soft skills
+vous	soft skills
+permettront	soft skills
+de	soft skills
+réussir	soft skills
+à	soft skills
+ces	soft skills
+postes	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

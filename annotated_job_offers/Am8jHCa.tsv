@@ -1,0 +1,101 @@
+Serveur	position
+polyvalent	position
+-LRB-	
+H/F	O
+-RRB-	O
+Tour	company
+8	company
+Parisien	company
+-	O
+Paris	city
+11e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Le	O
+``	O
+Club	O
+8	O
+&	O
+9	O
+''	O
+Bar	O
+Lounge	O
+Billard	O
+cherche	O
+un	position
+serveur	position
+-LRB-	O
+se	position
+-RRB-	O
+polyvalent	position
+-LRB-	O
+e	position
+-RRB-	O
+en	O
+temps	contrat_type
+partiel	contrat_type
+.	O
+Service	hard skills
+au	hard skills
+bar	hard skills
+ou	hard skills
+en	hard skills
+salle	hard skills
+.	O
+Tips	hard skills
+.	O
+Présentez	
+vous	
+au	
+bar	
+pour	
+effectuer	
+un	
+entretien	
+et	
+vous	
+imprégner	
+des	
+lieux	
+.	
+Responsable	
+:	
+Mr	
+WANG	
+Ye	O
+.	O
+Numéro	O
+de	O
+contact	O
+pré	O
+recrutement.	O
+:	O
+768569668	O
+Frédéric	O
+.	O
+Horaire	O
+pour	O
+entretien	O
+:	O
+11h30	O
+/	O
+18h30	O
+.	O
+à	O
+bientôt	O
+!	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+75011	postal code
+Paris	city
+11e	city

@@ -1,0 +1,215 @@
+Chauffeur	position
+livreur	position
+-LRB-	
+H/F	O
+-RRB-	O
+ESLC	company
+SERVICES	company
+-	O
+Vénissieux	city
+-LRB-	O
+69	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+1	salary
+900	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+ESLC	company
+-LRB-	O
+sous	O
+la	O
+marque	O
+STREICHENBERGER	O
+-RRB-	O
+est	O
+une	O
+entreprise	O
+qui	O
+livre	O
+des	O
+produits	O
+pétroliers	O
+en	O
+porteur	O
+de	O
+15T	O
+,	O
+19T	O
+et	O
+26T	O
+auprès	O
+de	O
+professionnels	O
+-LRB-	O
+agriculteurs	O
+/	O
+TP	O
+-RRB-	O
+et	O
+particuliers.Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Chauffeur	position
+Livreur	position
+sérieux	soft skills
+et	soft skills
+autonome	soft skills
+avec	soft skills
+un	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+et	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+client	soft skills
+pour	hard skills
+assurer	hard skills
+des	hard skills
+livraisons	hard skills
+journalières	hard skills
+sur	hard skills
+le	hard skills
+périmètre	hard skills
+de	hard skills
+Bourg	hard skills
+en	hard skills
+Bresse	hard skills
+et	hard skills
+sa	hard skills
+périphérie	hard skills
+-LRB-	
+environ	hard skills
+50	hard skills
+km	hard skills
+-RRB-	
+.	O
+Une	hard skills
+bonne	hard skills
+connaissance	hard skills
+du	hard skills
+secteur	hard skills
+géographique	hard skills
+est	hard skills
+souhaitée	hard skills
+.	
+Permis	hard skills
+C	hard skills
+obligatoire	hard skills
++	hard skills
+FIMO	hard skills
++	hard skills
+carte	hard skills
+conducteur	hard skills
+OBLIGATOIRES	hard skills
+.	
+Si	O
+vous	O
+ne	O
+possédez	O
+pas	O
+ces	O
+habilitations	O
+ou	O
+permis	O
+,	O
+merci	O
+de	O
+vous	O
+abstenir	O
+de	O
+postuler	O
+car	O
+ces	O
+éléments	O
+sont	O
+indispensables	O
+.	O
+ADR	O
+Base	O
+et	O
+produits	O
+pétroliers	O
+souhaité	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+rapidement	O
+.	O
+Rémunération	O
+selon	O
+profil	O
+-LRB-	O
+1800-1900	salary
+-RRB-	O
+.	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+temps	contrat_type
+plein	contrat_type
+avec	O
+possibilité	O
+CDI	contrat_type
+à	O
+la	O
+fin	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+1	salary
+900	salary
+$	salary
+/	
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+1	salary
+900	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+conduite	experience
+poids	experience
+lourds	experience
+:	
+2	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+FCO	hard skills

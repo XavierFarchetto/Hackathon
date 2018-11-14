@@ -1,0 +1,284 @@
+Administrateur	position
+/	O
+Technicien	position
+Systèmes	position
+et	position
+Réseaux	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Rockland	company
+-	O
+Paris	city
+11e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+28	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Lieu	O
+de	O
+travail	O
+:	O
+Paris	city
+11e	city
+15e	city
+et	O
+déplacements	O
+à	O
+prévoir	O
+à	O
+Aix-en-Provence	O
+POSTE	O
+en	O
+CDI	contrat_type
+:	O
+Pour	O
+accompagner	O
+notre	O
+croissance	O
+,	O
+nous	O
+recherchons	O
+un	position
+Administrateur	position
+/	O
+Technicien	position
+Systèmes	position
+et	position
+Réseaux	position
+-LRB-	O
+H/F	O
+-RRB-	O
+:	O
+*	O
+Mission	hard skills
+*	
+Vous	hard skills
+gérez	hard skills
+les	hard skills
+comptes	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+équipements	hard skills
+des	hard skills
+réseaux	hard skills
+de	hard skills
+nos	hard skills
+sites	hard skills
+Vous	hard skills
+proposez	hard skills
+des	hard skills
+solutions	hard skills
+techniques	hard skills
+adaptées	hard skills
+à	hard skills
+vos	hard skills
+interlocuteurs	hard skills
+Vous	hard skills
+formez	hard skills
+,	hard skills
+assistez	hard skills
+et	hard skills
+accompagnez	hard skills
+les	hard skills
+clients	hard skills
+dans	hard skills
+leurs	hard skills
+nouveaux	hard skills
+outils	hard skills
+Vos	hard skills
+connaissances	hard skills
+Mac	hard skills
+,	
+Linux	hard skills
+,	O
+Windows	hard skills
+...	O
+.	O
+Services	hard skills
+Vpn	hard skills
+,	
+Messagerie	hard skills
+Exchange	hard skills
+etc.	
+.	O
+.	O
+Réseaux	hard skills
+-LRB-	
+TCP/IP	hard skills
+,	O
+VLAN	hard skills
+,	O
+Routage	hard skills
+,	O
+Firewall	hard skills
+...	O
+-RRB-	O
+Mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+architectures	hard skills
+systèmes	hard skills
+et	hard skills
+réseaux	hard skills
+Mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+systèmes	hard skills
+téléphoniques	hard skills
+,	hard skills
+Numériques-Numeris-IP	hard skills
+Gestion	hard skills
+des	hard skills
+postes	hard skills
+de	hard skills
+travail	hard skills
+et	hard skills
+périphériques	hard skills
+-LRB-	
+PC	hard skills
+,	O
+Mac	hard skills
+,	O
+imprimantes	hard skills
+etc.	O
+-RRB-	O
+Créer	hard skills
+des	hard skills
+sessions	hard skills
+,	hard skills
+des	hard skills
+services	hard skills
+,	hard skills
+droits	hard skills
+...	O
+.	O
+Administrer	hard skills
+et	hard skills
+intégrer	hard skills
+les	hard skills
+systèmes	hard skills
+de	hard skills
+sécurité	hard skills
+Administrer	hard skills
+les	hard skills
+sauvegardes	hard skills
+de	hard skills
+l'entreprise	hard skills
+Gestion	hard skills
+du	hard skills
+site	hard skills
+internet	hard skills
+Gestion	hard skills
+de	hard skills
+l'intranet	hard skills
+Maintenance	hard skills
+du	hard skills
+parc	hard skills
+informatique	hard skills
+et	hard skills
+de	hard skills
+son	hard skills
+réseau	hard skills
+Profil	
+du	O
+candidat	O
+Vous	experience
+avez	experience
+une	experience
+expérience	experience
+réussie	experience
+dans	experience
+les	experience
+domaines	experience
+énoncés	experience
+Vous	experience
+êtes	experience
+débutant	experience
+,	O
+et	experience
+justifiez	experience
+d'un	experience
+diplôme	experience
+DUT	experience
+,	
+BTS	experience
+,	O
+Bac	experience
+4	experience
+/	experience
+5	experience
+...	experience
+.	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	
+rigoureux	soft skills
+,	O
+polyvalent	soft skills
+et	soft skills
+aimez	soft skills
+le	soft skills
+contact	soft skills
+Vous	soft skills
+avez	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+,	O
+une	soft skills
+bonne	soft skills
+capacité	soft skills
+d'analyse	soft skills
+et	soft skills
+de	soft skills
+synthèse	soft skills
+Vous	hard skills
+maîtrisez	hard skills
+l'anglais	hard skills
+technique	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+75011	postal code
+Paris	city
+11e	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

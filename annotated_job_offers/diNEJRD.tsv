@@ -1,0 +1,122 @@
+Ouvrier	position
+-LRB-	
+e	position
+-RRB-	O
+polyvalent	position
+-LRB-	O
+e	position
+-RRB-	O
+-LRB-	O
+H/F	O
+-RRB-	O
+ATCM13	company
+-	O
+Salon-de-Provence	city
+-LRB-	O
+13	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+1	salary
+780	salary
+$	salary
+par	salary
+mois	salary
+Vous	experience
+avez	experience
+une	experience
+formation	experience
+dans	experience
+le	experience
+TP	experience
+,	
+BTP	experience
+,	O
+GC	experience
+ou	experience
+batiment	experience
+et	
+le	hard skills
+permis	hard skills
+B.	hard skills
+Vous	hard skills
+aurez	hard skills
+à	hard skills
+vous	hard skills
+déplacer	hard skills
+sur	hard skills
+chantier	hard skills
+pour	hard skills
+récupérer	hard skills
+des	hard skills
+échantillons	hard skills
+et	hard skills
+participer	hard skills
+à	hard skills
+des	hard skills
+essais	hard skills
+sur	hard skills
+site	hard skills
+et	hard skills
+en	hard skills
+laboratoire	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+réaliser	hard skills
+du	hard skills
+petit	hard skills
+bricolage	hard skills
+pour	hard skills
+entretenir	hard skills
+les	hard skills
+locaux.Véhicule	hard skills
+de	hard skills
+société	hard skills
+pour	hard skills
+déplacement	hard skills
+.	
+contrat	O
+CDI	contrat_type
+";"	O
+39h	O
+hebdo	O
+.	O
+Vous	soft skills
+n'avez	soft skills
+pas	soft skills
+peur	soft skills
+du	soft skills
+travail	soft skills
+physique	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+et	soft skills
+vous	soft skills
+souhaitez	soft skills
+vous	soft skills
+investir	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	
+1	salary
+780	salary
+$	salary
+/	O
+mois	salary

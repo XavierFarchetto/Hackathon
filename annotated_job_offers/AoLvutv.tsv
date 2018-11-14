@@ -1,0 +1,137 @@
+Serveur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	position
+salle	position
+à	
+temps	contrat_type
+partiel	contrat_type
+Restaurant	company
+Le	company
+Parc	company
+aux	company
+cerfs	company
+-	O
+Paris	city
+6e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+10	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Nous	O
+recherchons	O
+un	position
+serveur	position
+ou	O
+serveuse	position
+pour	hard skills
+assurer	hard skills
+les	hard skills
+services	hard skills
+du	hard skills
+soir	hard skills
+-LRB-	
+de	hard skills
+2	hard skills
+à	hard skills
+5	hard skills
+soirs	hard skills
+par	hard skills
+semaine	hard skills
+,	
+suivant	hard skills
+disponibilités	hard skills
+-RRB-	O
++	hard skills
+2	hard skills
+dimanches	hard skills
+par	hard skills
+mois	hard skills
+-LRB-	
+services	O
+du	hard skills
+midi	hard skills
+et	hard skills
+du	hard skills
+soir	hard skills
+-RRB-	
+Les	hard skills
+missions	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Assurer	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+Accueillir	hard skills
+,	
+installer	hard skills
+et	hard skills
+prendre	hard skills
+les	hard skills
+commandes	hard skills
+des	hard skills
+clients	hard skills
+Réaliser	hard skills
+le	hard skills
+service	hard skills
+-	
+Assurer	hard skills
+les	hard skills
+encaissements	hard skills
+Vous	hard skills
+représentez	hard skills
+l'image	hard skills
+de	hard skills
+notre	hard skills
+restaurant	hard skills
+en	hard skills
+assurant	hard skills
+une	hard skills
+relation	hard skills
+de	hard skills
+qualité	hard skills
+avec	hard skills
+le	hard skills
+client	hard skills
+en	hard skills
+étant	soft skills
+aimable	soft skills
+et	soft skills
+attentif	soft skills
+à	soft skills
+ses	soft skills
+demandes	soft skills
+.	O
+Expérience	experience
+en	experience
+service	experience
+en	experience
+salle	experience
+obligatoire	experience
+Dynamisme	soft skills
+et	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+/	O
+heure	salary

@@ -1,0 +1,388 @@
+Assistant	position
+social	position
+Fondation	company
+l'Elan	company
+retrouvé	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+2	salary
+100	salary
+$	salary
+-	salary
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+La	company
+Fondation	company
+l'Elan	company
+Retrouvé	company
+recherche	O
+pour	O
+l'un	O
+deux	O
+de	O
+ses	O
+établissements	O
+situés	O
+à	O
+Paris	city
+-LRB-	O
+20ème	city
+arrondissement	city
+-RRB-	O
+un	position
+assistant	position
+social	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	O
+CDD	contrat_type
+du	O
+6	O
+novembre	O
+2017	O
+au	O
+22	O
+décembre	O
+2017	O
+inclus	O
+.	O
+Il	O
+s	O
+'	O
+agit	O
+d'un	O
+poste	O
+à	O
+temps	O
+plein	O
+à	O
+pourvoir	O
+de	O
+suite	O
+au	O
+sein	O
+d'un	O
+hôpital	O
+de	O
+jour	O
+et	O
+d'un	O
+Centre	O
+Médico	O
+Psychologique	O
+pour	O
+enfants	O
+.	O
+L'assistant	position
+social	position
+aura	O
+pour	O
+missions	O
+principales	O
+:	O
+de	hard skills
+participer	hard skills
+au	hard skills
+processus	hard skills
+d'admission	hard skills
+à	hard skills
+l'HDJ	hard skills
+";"	O
+de	hard skills
+recevoir	hard skills
+les	hard skills
+patients	hard skills
+et	hard skills
+leurs	hard skills
+famille	hard skills
+en	hard skills
+entretien	hard skills
+d'accueil	hard skills
+au	hard skills
+CMP	hard skills
+";"	
+de	hard skills
+remplir	hard skills
+le	hard skills
+dossier	hard skills
+social	hard skills
+sur	hard skills
+le	hard skills
+logiciel	hard skills
+tout	hard skills
+au	hard skills
+long	hard skills
+du	hard skills
+suivi	hard skills
+du	hard skills
+patient	hard skills
+";"	O
+de	hard skills
+faciliter	hard skills
+les	hard skills
+liens	hard skills
+avec	hard skills
+la	hard skills
+famille	hard skills
+et	hard skills
+l'environnement	hard skills
+extérieur	hard skills
+pour	hard skills
+toutes	hard skills
+démarches	hard skills
+impliquant	hard skills
+des	hard skills
+demandes	hard skills
+sociales	hard skills
+";"	O
+de	hard skills
+participer	hard skills
+à	hard skills
+la	hard skills
+prévention	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+protection	hard skills
+de	hard skills
+l'enfance	hard skills
+,	O
+de	hard skills
+travailler	hard skills
+à	hard skills
+la	hard skills
+recherche	hard skills
+des	hard skills
+orientations	hard skills
+en	hard skills
+collaboration	hard skills
+étroite	hard skills
+avec	hard skills
+le	hard skills
+médecin	hard skills
+référent	hard skills
+du	hard skills
+patient	hard skills
+,	O
+et	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+l'ensemble	hard skills
+de	hard skills
+l'équipe	hard skills
+";"	O
+de	hard skills
+participer	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+réseaux	hard skills
+de	hard skills
+partenaires	hard skills
+";"	O
+d'assurer	hard skills
+le	hard skills
+rôle	hard skills
+d'interface	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+extérieurs	hard skills
+-LRB-	O
+liens	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+des	hard skills
+secteurs	hard skills
+pédopsychiatriques	hard skills
+,	O
+MDPH	hard skills
+,	O
+ASE	hard skills
+,	
+PMI	hard skills
+,	O
+établissements	hard skills
+scolaires	hard skills
+,	O
+services	hard skills
+sociaux	hard skills
+...	O
+.	O
+-RRB-	O
+et	hard skills
+participe	hard skills
+à	hard skills
+différentes	hard skills
+réunions	hard skills
+-LRB-	O
+réunions	hard skills
+de	hard skills
+synthèse	hard skills
+,	O
+ESS	hard skills
+...	O
+-RRB-	O
+";"	O
+d'assurer	hard skills
+un	hard skills
+rôle	hard skills
+de	hard skills
+lien	hard skills
+entre	hard skills
+les	hard skills
+différents	hard skills
+acteurs	hard skills
+internes	hard skills
+:	O
+de	hard skills
+par	hard skills
+sa	hard skills
+connaissance	hard skills
+du	hard skills
+réseau	hard skills
+et	hard skills
+des	hard skills
+dossiers	hard skills
+des	hard skills
+enfants	hard skills
+et	hard skills
+des	hard skills
+adolescents	hard skills
+,	
+l'assistante	position
+sociale	position
+est	
+amenée	
+à	
+jouer	
+un	
+rôle	soft skills
+informel	soft skills
+de	soft skills
+transmission	soft skills
+et	O
+d'échange	soft skills
+d'informations	soft skills
+auprès	soft skills
+des	soft skills
+différents	soft skills
+professionnels	soft skills
+internes	soft skills
+,	
+notamment	O
+en	O
+ce	O
+qui	O
+concerne	soft skills
+les	soft skills
+problématiques	soft skills
+sociales	soft skills
+ou	O
+les	soft skills
+institutions	soft skills
+externes	soft skills
+";"	O
+La	O
+rémunération	O
+variera	O
+selon	O
+l'ancienneté	O
+acquise	O
+dans	O
+le	O
+poste	O
+-LRB-	O
+Application	O
+des	O
+termes	O
+prévus	O
+par	O
+la	O
+Convention	O
+collective	O
+-RRB-	O
+.	O
+Si	O
+vous	O
+êtes	O
+intéressé	O
+-LRB-	O
+e	O
+-RRB-	O
+par	O
+le	O
+poste	O
+,	O
+nous	O
+vous	O
+invitons	O
+à	O
+nous	O
+transmettre	O
+votre	O
+candidature	O
+-LRB-	O
+CV	O
++	O
+Lettre	O
+de	O
+motivation	O
+-RRB-	O
+à	O
+l'attention	O
+du	O
+Directeur	O
+général	O
+Monsieur	O
+François	O
+GÉRAUD	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+100	salary
+$	salary
+à	salary
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Expérience	
+exigée	
+:	
+assistant	experience
+social	experience
+:	O
+1	experience
+an	experience
+	O

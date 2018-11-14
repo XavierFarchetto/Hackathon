@@ -1,0 +1,116 @@
+Professeur	position
+H/F	O
+de	position
+matières	position
+générales	position
+collège	company
+CDSS	company
+-	O
+Vougy	city
+-LRB-	O
+74	code postal
+-RRB-	O
+20	salary
+$	salary
+-	O
+23	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Le	O
+Centre	O
+Départemental	O
+de	O
+Soutien	O
+Scolaire	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+enseignant	position
+-LRB-	O
+e	position
+-RRB-	O
+expérimenté	experience
+-LRB-	O
+e	experience
+-RRB-	O
+pour	hard skills
+dispenser	hard skills
+des	hard skills
+cours	hard skills
+de	hard skills
+soutien	hard skills
+scolaire	hard skills
+-LRB-	O
+français	hard skills
+,	O
+mathématiques	hard skills
+,	O
+sciences	hard skills
+-RRB-	O
+et	hard skills
+de	hard skills
+méthodologie	hard skills
+à	hard skills
+une	hard skills
+élève	hard skills
+de	hard skills
+collège	hard skills
+sur	hard skills
+la	hard skills
+commune	hard skills
+de	hard skills
+Vougy	city
+-LRB-	O
+74	code postal
+-RRB-	O
+.	O
+Vous	hard skills
+interviendrez	hard skills
+directement	hard skills
+au	hard skills
+domicile	hard skills
+des	hard skills
+élèves	hard skills
+.	
+Vous	soft skills
+êtes	soft skills
+fiable	soft skills
+,	O
+pédagogue	soft skills
+et	soft skills
+ponctuel	soft skills
+-LRB-	O
+le	soft skills
+-RRB-	O
+!	O
+Vous	experience
+avez	experience
+au	experience
+minimum	experience
+une	experience
+expérience	experience
+similaire	experience
+et	experience
+un	experience
+diplôme	experience
+Bac	experience
+3	experience
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+20	salary
+$	salary
+à	O
+23	salary
+$	salary
+/	O
+heure	salary

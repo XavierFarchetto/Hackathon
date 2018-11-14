@@ -1,0 +1,243 @@
+Technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+laboratoire	position
+de	position
+controle	position
+qualité	position
+BIOSPHERE	company
+MEDICAL	company
+-	O
+Roissy-en-France	city
+-LRB-	O
+95	postal code
+-RRB-	O
+CDI	contrat_type
+Sous	O
+la	O
+responsabilité	O
+du	O
+Superviseur	O
+du	O
+Laboratoire	O
+de	O
+contrôle	O
+,	O
+le	O
+poste	O
+suivant	O
+est	O
+à	O
+pourvoir	O
+sur	O
+notre	O
+site	O
+de	O
+Roissy	city
+en	O
+France	O
+,	O
+fabriquant	O
+des	O
+microsphères	O
+d'embolisation	O
+pour	O
+la	O
+radiologie	O
+interventionnelle	O
+-LRB-	O
+dispositifs	O
+médicaux	O
+--	O
+classe	O
+III	O
+-RRB-	O
+Technicien	position
+``	O
+Contrôle	position
+Qualité	position
+''	O
+Description	O
+de	O
+poste	O
+Assure	hard skills
+les	hard skills
+contrôles	hard skills
+physiques	hard skills
+et	hard skills
+biologiques	hard skills
+nécessaires	hard skills
+au	hard skills
+déblocage	hard skills
+des	hard skills
+matières	hard skills
+premières	hard skills
+,	hard skills
+des	hard skills
+produits	hard skills
+semi-finis	hard skills
+et	hard skills
+finis	hard skills
+.	
+Réalise	hard skills
+les	hard skills
+tâches	hard skills
+nécessaires	hard skills
+au	hard skills
+bon	hard skills
+fonctionnement	hard skills
+du	hard skills
+laboratoire	hard skills
+Dans	hard skills
+le	hard skills
+cadre	hard skills
+du	hard skills
+service	hard skills
+Contrôle	hard skills
+Qualité	hard skills
+:	
+Assure	hard skills
+les	hard skills
+différents	hard skills
+contrôles	hard skills
+-LRB-	
+physico-chimiques	hard skills
+,	O
+bactériologiques	hard skills
+-RRB-	
+sur	hard skills
+les	hard skills
+produits	hard skills
+finis	hard skills
+,	
+semi-finis	hard skills
+,	O
+matières	hard skills
+premières	hard skills
+et	hard skills
+salles	hard skills
+blanches	hard skills
+.	
+Assure	hard skills
+la	hard skills
+bonne	hard skills
+démarche	hard skills
+des	hard skills
+contrôles	hard skills
+Est	hard skills
+responsable	hard skills
+du	hard skills
+bon	hard skills
+fonctionnement	hard skills
+du	hard skills
+matériel	hard skills
+utilisé	hard skills
+ainsi	hard skills
+que	hard skills
+de	hard skills
+la	hard skills
+métrologie	hard skills
+sur	hard skills
+les	hard skills
+petits	hard skills
+appareils	hard skills
+Transmet	hard skills
+toutes	hard skills
+anomalies	hard skills
+à	hard skills
+son	hard skills
+supérieur	hard skills
+hiérarchique	hard skills
+Prépare	hard skills
+les	hard skills
+dossiers	hard skills
+de	hard skills
+contrôle	hard skills
+pour	hard skills
+libération	hard skills
+Met	hard skills
+à	hard skills
+jour	hard skills
+les	hard skills
+fichiers	hard skills
+qualités	hard skills
+relatifs	hard skills
+à	hard skills
+son	hard skills
+service	hard skills
+.	
+Dans	hard skills
+le	hard skills
+cadre	hard skills
+du	hard skills
+service	hard skills
+R	hard skills
+&	hard skills
+D	hard skills
+et	hard skills
+Qualité	hard skills
+des	hard skills
+Procédés	hard skills
+ou	hard skills
+développement	hard skills
+analytique	hard skills
+:	
+Assure	hard skills
+les	hard skills
+différents	hard skills
+contrôles	hard skills
+selon	hard skills
+les	hard skills
+protocoles	hard skills
+d'étude	hard skills
+ou	hard skills
+de	hard skills
+validation	hard skills
+Niveau	O
+de	O
+compétence	O
+:	O
+Niveau	experience
+de	experience
+chimie	experience
+BAC	experience
+2	experience
+ou	experience
+équivalent	experience
+Connaissance	hard skills
+informatique	hard skills
+-LRB-	O
+environnement	hard skills
+Windows	hard skills
+,	O
+Excel	hard skills
+,	O
+Word	hard skills
+-RRB-	O
+Respect	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+et	hard skills
+des	hard skills
+bonnes	hard skills
+pratiques	hard skills
+du	hard skills
+laboratoire	hard skills
+Rigueur	soft skills
+/	O
+Esprit	soft skills
+d'équipe	soft skills
+/	O
+Autonomie	soft skills
+35	O
+Heures	O
+Salaire	O
+en	O
+fonction	O
+expérience	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

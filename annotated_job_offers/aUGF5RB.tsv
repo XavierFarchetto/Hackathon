@@ -1,0 +1,108 @@
+Agent	position
+d'entretien	position
+des	position
+espaces	position
+verts	position
+H/F	O
+CAAP	company
+OUEST	company
+-	O
+Saint-Herblain	city
+-LRB-	O
+44	code postal
+-RRB-	O
+Intérim	contrat_type
+CAAP	company
+Ouest	company
+recherche	O
+des	O
+profils	O
+pour	O
+des	O
+missions	O
+de	O
+jardinier	position
+d'espaces	position
+verts	position
+H/F	O
+pour	O
+:	O
+Tonte	hard skills
+de	hard skills
+la	hard skills
+pelouse	hard skills
+Entretien	hard skills
+de	hard skills
+jardin	hard skills
+Taille	hard skills
+des	hard skills
+haies	hard skills
+Taille	hard skills
+des	hard skills
+arbustes	hard skills
+et	hard skills
+arbres	hard skills
+Débroussaillage	hard skills
+Permis	hard skills
+B	hard skills
+souhaité	hard skills
+pour	hard skills
+se	hard skills
+rendre	hard skills
+sur	hard skills
+les	hard skills
+différents	hard skills
+lieux	hard skills
+.	O
+-LRB-	O
+Saint	hard skills
+Etienne	hard skills
+de	hard skills
+Montluc	hard skills
+-	
+Le	hard skills
+Temple	hard skills
+de	hard skills
+Bretagne	hard skills
+-	O
+Cordemais	hard skills
+-	O
+Vigneux	hard skills
+de	hard skills
+Bretagne	hard skills
+-	O
+Indre	hard skills
+-	O
+Coueron	hard skills
+-RRB-	O
+Moyen	hard skills
+de	hard skills
+locomotion	hard skills
+obligatoire	hard skills
+.	O
+Plus	O
+d'informations	O
+sur	O
+www.caapouest.com	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Expérience	O
+exigée	O
+:	O
+espaces	experience
+verts	experience
+:	O
+1	experience
+an	experience
+Certificats	O
+et/ou	O
+accréditations	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills
+Moyen	hard skills
+de	hard skills
+locomotion	hard skills

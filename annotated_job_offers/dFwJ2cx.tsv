@@ -1,0 +1,110 @@
+Chauffeur	position
+livreur	position
+H/F	O
+warning	company
+-	O
+Poitiers	city
+-LRB-	O
+86	postal code
+-RRB-	O
+CDI	contrat_type
+Pour	O
+un	O
+service	O
+de	O
+livraison	O
+à	O
+domicile	O
+,	O
+vous	hard skills
+livrerez	hard skills
+au	hard skills
+départ	hard skills
+de	hard skills
+magasin	hard skills
+des	hard skills
+produits	hard skills
+de	hard skills
+consommations	hard skills
+de	hard skills
+type	hard skills
+alimentaire	hard skills
+auprès	hard skills
+de	hard skills
+particuliers	hard skills
+.	
+Livraison	hard skills
+en	hard skills
+véhicule	hard skills
+utilitaire	hard skills
+léger	hard skills
+-LRB-	
+permis	hard skills
+B	hard skills
+-RRB-	
+.	O
+Si	
+vous	
+n'avez	
+pas	
+d'expérience	O
+en	O
+livraison	O
+,	O
+une	hard skills
+très	hard skills
+bonne	hard skills
+connaissance	hard skills
+de	hard skills
+l'agglomération	hard skills
+vous	hard skills
+sera	hard skills
+nécessaire	hard skills
+.	O
+En	O
+contact	O
+permanent	O
+avec	O
+les	O
+clients	O
+,	O
+une	soft skills
+bonne	soft skills
+présentation	soft skills
+et	soft skills
+un	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+seront	soft skills
+pour	soft skills
+vous	soft skills
+les	soft skills
+clés	soft skills
+de	soft skills
+votre	soft skills
+réussit	soft skills
+.	O
+Poste	O
+en	O
+CDI	contrat_type
+25h	O
+.	O
+Les	O
+lundis	O
+,	O
+jeudis	O
+,	O
+vendredis	O
+et	O
+samedis	O
+,	O
+de	O
+11h	O
+à	O
+20h	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

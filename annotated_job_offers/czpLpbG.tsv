@@ -1,0 +1,243 @@
+TECHNICIEN	position
+DEPLOIEMENT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+PRESTICER	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Intérim	contrat_type
+Le	O
+Groupe	O
+Mobile	O
+propose	O
+à	O
+travers	O
+ses	O
+différentes	O
+identités	O
+une	O
+offre	O
+globale	O
+en	O
+matière	O
+de	O
+gestion	O
+des	O
+ressources	O
+humaines	O
+:	O
+intérim	contrat_type
+,	O
+CDD	contrat_type
+,	O
+CDI	contrat_type
+,	O
+formation	O
+.	O
+Son	O
+agence	O
+Presticer	O
+,	O
+spécialisée	O
+dans	O
+les	O
+secteurs	O
+du	O
+tertiaire	O
+et	O
+du	O
+technique	O
+,	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+clients	O
+en	O
+informatique	O
+:	O
+1	position
+Technicien	position
+Déploiement	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Tâches	O
+:	O
+Remplacement	hard skills
+et	hard skills
+migration	hard skills
+des	hard skills
+postes	hard skills
+,	
+installation	hard skills
+des	hard skills
+logiciels	hard skills
+&	hard skills
+applications	hard skills
+Intégration	hard skills
+des	hard skills
+nouveaux	hard skills
+postes	hard skills
+-LRB-	hard skills
+création	hard skills
+et	hard skills
+modification	hard skills
+des	hard skills
+comptes	hard skills
+et	hard skills
+droits	hard skills
+d'accès	hard skills
+suivant	hard skills
+la	hard skills
+demande	hard skills
+de	hard skills
+l'utilisateur	hard skills
+-RRB-	
+Sauvegarde	hard skills
+des	hard skills
+données	hard skills
+sur	hard skills
+disque	hard skills
+externe	hard skills
+avant	hard skills
+le	hard skills
+changement	hard skills
+de	hard skills
+poste	hard skills
+et	hard skills
+transférer	hard skills
+sur	hard skills
+le	hard skills
+nouveau	hard skills
+poste	hard skills
+Préparation	hard skills
+ou	hard skills
+réinstallation	hard skills
+des	hard skills
+postes	hard skills
+et	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+de	hard skills
+la	hard skills
+base	hard skills
+de	hard skills
+données	hard skills
+du	hard skills
+parc	hard skills
+.	
+Profil	O
+:	O
+Titulaire	experience
+d'un	experience
+bac	experience
++	experience
+2	experience
+ou	experience
+3	experience
+en	experience
+informatique	experience
+Vous	experience
+disposez	experience
+d'une	experience
+expérience	experience
+de	experience
+minimum	experience
+1	experience
+an	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+Vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+pour	soft skills
+vos	soft skills
+qualités	soft skills
+relationnelle	soft skills
+,	O
+votre	soft skills
+capacité	soft skills
+à	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+à	soft skills
+faire	soft skills
+face	soft skills
+à	soft skills
+des	soft skills
+situations	soft skills
+de	soft skills
+stress	soft skills
+Vous	soft skills
+savez	soft skills
+gérer	soft skills
+vos	soft skills
+priorités	soft skills
+et	soft skills
+possédez	soft skills
+une	soft skills
+capacité	soft skills
+d'analyse	soft skills
+Conditions	
+du	O
+poste	O
+:	O
+Contrat	O
+d'intérim	contrat_type
+de	O
+plusieurs	O
+mois	O
+,	O
+35h	O
+par	O
+semaine	O
+Salaire	O
+à	O
+partir	O
+de	O
+1700	salary
+$	salary
+par	salary
+mois	salary
+-LRB-	O
+négociable	O
+selon	O
+profil	O
+-RRB-	O
+Poste	O
+basé	O
+à	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Démarrage	O
+ASAP	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary

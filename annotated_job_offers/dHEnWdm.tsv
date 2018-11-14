@@ -1,0 +1,197 @@
+OPÉRATEUR	position
+NETTOYEUR	position
+INDUSTRIEL	position
+S.T.E.N.	company
+-	O
+Meaux	city
+-LRB-	O
+77	postal code
+-RRB-	O
+CDI	contrat_type
+OPÉRATEUR	position
+NETTOYEUR	position
+INDUSTRIEL	position
+Description	O
+:	O
+PME	O
+créée	O
+en	O
+1984	O
+pour	O
+intervenir	O
+en	O
+ramonage	O
+chimique	O
+industriel	O
+recherche	O
+H/F	O
+un	position
+Opérateur	position
+Nettoyeur	position
+qui	hard skills
+assurera	hard skills
+la	hard skills
+réalisation	hard skills
+de	hard skills
+chantiers	hard skills
+dans	hard skills
+les	hard skills
+domaines	hard skills
+d'activités	hard skills
+suivants	hard skills
+:	
+Détartrage	hard skills
+,	O
+désoxydation	hard skills
+de	hard skills
+toutes	hard skills
+métallurgies	hard skills
+,	O
+Décapage	hard skills
+chimique	hard skills
+de	hard skills
+tous	hard skills
+dépôts	hard skills
+solides	hard skills
+,	
+liquides	hard skills
+,	O
+Décapage	hard skills
+mécanique	hard skills
+par	hard skills
+des	hard skills
+moyens	hard skills
+haute	hard skills
+pression	hard skills
+,	O
+Ramonage	hard skills
+chaudière	hard skills
+et	hard skills
+four	hard skills
+industriel	hard skills
+UIOM	hard skills
+,	O
+Nettoyage	hard skills
+de	hard skills
+sablage	hard skills
+,	
+grenaillage	hard skills
+.	O
+Vos	hard skills
+missions	hard skills
+:	O
+Appliquer	hard skills
+les	hard skills
+directives	hard skills
+du	hard skills
+responsables	hard skills
+dur	hard skills
+site	hard skills
+,	hard skills
+Exécuter	hard skills
+les	hard skills
+missions	hard skills
+confiées	hard skills
+par	hard skills
+le	hard skills
+chef	hard skills
+d'équipe	hard skills
+ou	hard skills
+le	hard skills
+chef	hard skills
+de	hard skills
+chantier	hard skills
+,	hard skills
+Faire	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+de	hard skills
+tous	hard skills
+,	hard skills
+sur	hard skills
+le	hard skills
+chantier	hard skills
+,	hard skills
+une	hard skills
+priorité	hard skills
+,	O
+Appliquer	hard skills
+les	hard skills
+consignes	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+les	hard skills
+méthodes	hard skills
+de	hard skills
+travail	hard skills
+.	
+Autres	
+informations	
+:	O
+Poste	
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+,	O
+Permis	hard skills
+B	hard skills
+exigé	hard skills
+,	O
+Formation	experience
+assurée	experience
+au	experience
+sein	experience
+de	experience
+l'entreprise	experience
+,	
+Déplacement	O
+en	
+France	O
+et	O
+à	O
+l'étranger	O
+selon	O
+les	O
+besoins	O
+,	O
+Salaire	O
+suivant	O
+expérience	O
+.	O
+Nous	O
+joindre	O
+votre	O
+Curriculum	O
+Vitae	O
+et	O
+votre	O
+Lettre	O
+de	O
+Motivation	O
+à	O
+l'adresse	O
+ci-dessous	O
+:	O
+secretariat	O
+@sten	O
+-	O
+decapagechimique.com	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Nettoyage	experience
+industriel	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills

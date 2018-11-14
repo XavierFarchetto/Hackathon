@@ -1,0 +1,99 @@
+SERVEUR	position
+PETIT	position
+DEJEUNER	position
+H/F	O
+HOTEL	company
+PARIS	company
+15	company
+-	O
+Paris	city
+15e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Mise	hard skills
+en	hard skills
+place	hard skills
+du	hard skills
+buffet	hard skills
+,	O
+nettoyage	hard skills
+des	hard skills
+parties	hard skills
+communes	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+salle	hard skills
+petit	hard skills
+déjeuner	hard skills
+,	
+service	hard skills
+du	hard skills
+petit	hard skills
+déjeuner	hard skills
+,	
+dressage	hard skills
+des	hard skills
+tables	hard skills
+et	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+pour	hard skills
+le	hard skills
+lendemain	hard skills
+.	
+Contrôle	hard skills
+des	hard skills
+mini	hard skills
+bars	hard skills
+et	hard skills
+réapprovisionnement	hard skills
+du	hard skills
+bar	hard skills
+.	O
+Nous	O
+recherchons	O
+quelqu'un	soft skills
+de	soft skills
+dynamique	soft skills
+,	O
+souriant	soft skills
+et	soft skills
+efficace	soft skills
+.	O
+Obligatoirement	soft skills
+disponible	soft skills
+les	soft skills
+week-end	soft skills
+et	soft skills
+jours	soft skills
+fériés	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Expérience	O
+exigée	O
+:	O
+SERVEUSE	experience
+:	O
+5	experience
+ans	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+3ème	hard skills
+langue	hard skills
+Anglais	hard skills

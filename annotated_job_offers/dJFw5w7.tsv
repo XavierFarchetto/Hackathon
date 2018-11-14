@@ -1,0 +1,252 @@
+Infirmièr	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Diplômée	position
+d'Etat	position
+LE	company
+CERCLE	company
+DES	company
+AINES	company
+-	
+Épinay-sur-Orge	city
+-LRB-	O
+91	postal code
+-RRB-	O
+2	salary
+2	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Le	company
+CERCLE	company
+DES	company
+AINES	company
+,	O
+EHPAD	O
+de	O
+60	O
+lits	O
+,	O
+recherche	O
+Infirmier	position
+/	O
+Infirmière	position
+en	position
+Gériatrie	position
+Poste	O
+en	O
+CDI	contrat_type
+,	O
+35	O
+h	O
+semaines	O
+.	O
+Profil	O
+:	O
+BAC	experience
+2	experience
+ou	experience
+équivalent	experience
+Santé	experience
+Secteur	experience
+Sanitaire	experience
+Expérience	experience
+exigée	experience
+2	experience
+ans	experience
+Management	experience
+de	experience
+l'équipe	experience
+soignante	experience
+,	
+distribution	experience
+des	experience
+médicaments	experience
+,	
+soins	experience
+d'hygiène	experience
+,	
+soins	experience
+à	experience
+la	experience
+personne	experience
+âgée	experience
+dans	experience
+le	experience
+respect	experience
+des	experience
+protocoles	experience
+en	experience
+places	experience
+.	
+Compétences	O
+:	O
+-	O
+Cerner	hard skills
+l'état	hard skills
+du	hard skills
+patient	hard skills
+-LRB-	
+clinique	hard skills
+,	O
+psychologique	hard skills
+-RRB-	O
+et	hard skills
+consigner	hard skills
+les	hard skills
+informations	hard skills
+recueillies	hard skills
+dans	hard skills
+le	hard skills
+dossier	hard skills
+médical	hard skills
+.	
+-	
+Organiser	hard skills
+le	hard skills
+plan	hard skills
+de	hard skills
+soins	hard skills
+infirmiers	hard skills
+selon	hard skills
+les	hard skills
+besoins	hard skills
+des	hard skills
+patients	hard skills
+et	hard skills
+préparer	hard skills
+le	hard skills
+chariot	hard skills
+de	hard skills
+soins	hard skills
+ou	hard skills
+la	hard skills
+trousse	hard skills
+médicale	hard skills
+.	
+-	O
+Réaliser	hard skills
+les	hard skills
+soins	hard skills
+infirmiers	hard skills
+,	
+communiquer	hard skills
+avec	hard skills
+le	hard skills
+patient	hard skills
+-LRB-	
+ressenti	hard skills
+,	O
+douleur	hard skills
+,	O
+...	
+-RRB-	O
+et	hard skills
+actualiser	hard skills
+le	hard skills
+dossier	hard skills
+de	hard skills
+soins	hard skills
+infirmiers	hard skills
+-LRB-	O
+incidents	hard skills
+,	O
+modifications	hard skills
+d'état	hard skills
+clinique	hard skills
+,	O
+...	O
+-RRB-	O
+-	
+Réaliser	hard skills
+ou	hard skills
+contrôler	hard skills
+les	hard skills
+soins	hard skills
+d'hygiène	hard skills
+,	O
+de	hard skills
+confort	hard skills
+et	hard skills
+apporter	hard skills
+une	hard skills
+aide	hard skills
+au	hard skills
+patient	hard skills
+-LRB-	
+lever	hard skills
+,	O
+marche	hard skills
+,	O
+soins	hard skills
+post	hard skills
+opératoires	hard skills
+,	
+...	O
+-RRB-	O
+-	O
+Surveiller	hard skills
+l'état	hard skills
+clinique	hard skills
+du	hard skills
+patient	hard skills
+-LRB-	
+constantes	hard skills
+,	O
+fonctions	hard skills
+d'élimination	hard skills
+,	O
+comportement	hard skills
+,	
+...	O
+-RRB-	O
+et	hard skills
+informer	hard skills
+l'équipe	hard skills
+soignante/m	hard skills
+édicale	hard skills
+sur	hard skills
+l'évolution	hard skills
+de	hard skills
+l'état	hard skills
+clinique	hard skills
+.	O
+-	O
+Tenir	hard skills
+à	hard skills
+jour	hard skills
+les	hard skills
+dossiers	hard skills
+médico-administratifs	hard skills
+des	hard skills
+résidents	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	
+:	O
+2	salary
+2	salary
+$	salary
+à	O
+2	salary
+500	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+exigée	O
+:	O
+IDE	experience
+:	
+2	experience
+ans	experience

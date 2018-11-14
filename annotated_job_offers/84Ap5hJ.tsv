@@ -1,0 +1,139 @@
+Poseur	position
+menuiserie	position
+CASEO	position
+-	O
+DO	company
+ANGOULEME	company
+-	O
+L'Isle-d'Espagnac	city
+-LRB-	O
+16	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	O
+plein	O
+,	O
+CDI	contrat_type
+Notre	O
+société	O
+est	O
+reconnue	O
+sur	O
+la	O
+Charente	O
+pour	O
+son	O
+travail	O
+de	O
+qualité	O
+dans	O
+la	O
+pose	O
+de	O
+menuiseries	O
+et	O
+fermetures	O
+du	O
+bâtiment	O
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+développement	O
+,	O
+nous	O
+recrutons	O
+:	O
+Poseur	position
+en	position
+Menuiseries	position
+confirmé	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vous	soft skills
+êtes	soft skills
+consciencieux	soft skills
+et	soft skills
+avez	soft skills
+le	soft skills
+goût	soft skills
+du	soft skills
+travail	soft skills
+bien	soft skills
+fait	soft skills
+.	O
+Votre	soft skills
+expérience	soft skills
+vous	soft skills
+permet	soft skills
+d'être	soft skills
+autonome	soft skills
+sur	soft skills
+les	soft skills
+chantiers	soft skills
+et	soft skills
+vous	soft skills
+travaillez	soft skills
+dans	soft skills
+le	soft skills
+respect	soft skills
+des	soft skills
+clients	soft skills
+et	soft skills
+dans	soft skills
+le	soft skills
+but	soft skills
+de	soft skills
+les	soft skills
+satisfaire	soft skills
+.	O
+Vous	soft skills
+aimez	soft skills
+votre	soft skills
+métier	soft skills
+et	soft skills
+êtes	soft skills
+fier	soft skills
+de	soft skills
+vos	soft skills
+réalisations	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+,	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+à	O
+1	salary
+800	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+exigée	O
+:	O
+pose	experience
+de	experience
+menuiseries	experience
+:	O
+2	experience
+ans	experience

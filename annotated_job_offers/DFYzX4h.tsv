@@ -1,0 +1,316 @@
+INGENIEUR	position
+CONTROLE	position
+COMMANDE	position
+H/F	O
+XS	company
+GROUPE	company
+-	O
+Mulhouse	city
+-LRB-	O
+68	postal code
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+3	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+Placé	O
+sous	O
+l'autorité	O
+d'un	O
+chef	O
+de	O
+projet	O
+ou	O
+d'un	O
+responsable	O
+technique	O
+,	O
+il	hard skills
+a	hard skills
+pour	hard skills
+fonction	hard skills
+de	hard skills
+réaliser	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+du	hard skills
+projet	hard skills
+,	hard skills
+la	hard skills
+partie	hard skills
+Contrôle	hard skills
+commande	hard skills
+.	hard skills
+Il	hard skills
+est	hard skills
+l'interlocuteur	hard skills
+privilégié	hard skills
+du	hard skills
+chef	hard skills
+de	hard skills
+projet	hard skills
+ou	hard skills
+du	hard skills
+responsable	hard skills
+technique	hard skills
+.	hard skills
+Il	hard skills
+est	hard skills
+principalement	hard skills
+chargé	hard skills
+de	hard skills
+la	hard skills
+programmation/configuration	hard skills
+du	hard skills
+système	hard skills
+,	hard skills
+des	hard skills
+tests	hard skills
+,	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+service	hard skills
+de	hard skills
+la	hard skills
+configuration	hard skills
+informatique	hard skills
+dans	hard skills
+le	hard skills
+domaine	hard skills
+industriel	hard skills
+.	
+Dans	hard skills
+le	hard skills
+cadre	hard skills
+de	hard skills
+votre	hard skills
+mission	hard skills
+,	
+vous	hard skills
+êtes	hard skills
+amené	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+à	hard skills
+:	hard skills
+Définir	hard skills
+/	O
+proposer	hard skills
+et	hard skills
+justifier	hard skills
+des	hard skills
+solutions	hard skills
+techniques	hard skills
+Réaliser	hard skills
+les	hard skills
+documents	hard skills
+techniques	hard skills
+de	hard skills
+définition	hard skills
+/	
+spécification	hard skills
+,	O
+de	hard skills
+validation	hard skills
+et	hard skills
+d'utilisation	hard skills
+Effectuer	hard skills
+des	hard skills
+développements	hard skills
+spécifiques	hard skills
+systèmes	hard skills
+Définir	hard skills
+/	O
+réaliser	hard skills
+les	hard skills
+tests	hard skills
+en	hard skills
+plateforme	hard skills
+Définir	hard skills
+/	
+effectuer	hard skills
+les	hard skills
+mises	hard skills
+en	hard skills
+service	hard skills
+et	hard skills
+valider	hard skills
+les	hard skills
+installations	hard skills
+avec	hard skills
+les	hard skills
+clients	hard skills
+Ingénieur	hard skills
+en	hard skills
+informatique	hard skills
+ou	hard skills
+équivalent	hard skills
+Expérience	hard skills
+réussie	hard skills
+dans	hard skills
+le	hard skills
+monde	hard skills
+du	hard skills
+contrôle	hard skills
+cde	hard skills
+mettant	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+liaisons	hard skills
+avec	hard skills
+d'autres	hard skills
+systèmes	hard skills
+informatiques	hard skills
+Expérience	experience
+de	experience
+5	experience
+ans	experience
+souhaitée	experience
+dans	experience
+le	experience
+domaine	experience
+des	experience
+études	experience
+/	
+programmation	experience
+Avoir	experience
+travaillé	experience
+en	experience
+équipe	experience
+projet	experience
+CONNAISSANCES	O
+REQUISES	O
+:	O
+Connaissance	hard skills
+et	hard skills
+pratique	hard skills
+de	hard skills
+WinccOA	hard skills
+et	hard skills
+de	hard skills
+l'IHM	hard skills
+associé	hard skills
+Maitrise	hard skills
+de	hard skills
+la	hard skills
+programmation	hard skills
+structurée	hard skills
+objet	hard skills
+Maitrise	hard skills
+de	hard skills
+langages	hard skills
+évolués	hard skills
+de	hard skills
+type	hard skills
+Csharp	hard skills
+La	hard skills
+connaissance	hard skills
+de	hard skills
+OPC	hard skills
+UA	hard skills
+est	hard skills
+un	hard skills
+plus	hard skills
+La	hard skills
+connaissance	hard skills
+du	hard skills
+monde	hard skills
+industriel	hard skills
+le	hard skills
+ferroviaire	hard skills
+est	hard skills
+un	hard skills
+plus	hard skills
+Pratique	hard skills
+courante	hard skills
+des	hard skills
+outils	hard skills
+bureautiques	hard skills
+Qualités	O
+candidat	O
+:	O
+Homme/femme	soft skills
+ayant	soft skills
+un	soft skills
+bon	soft skills
+contact	soft skills
+relationnel	soft skills
+Homme/femme	soft skills
+sachant	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+Autonome	soft skills
+et	soft skills
+rigoureux	soft skills
+,	
+Etre	soft skills
+ouvert	soft skills
+aux	soft skills
+domaines	soft skills
+de	soft skills
+l'automatisme	soft skills
+et	soft skills
+de	soft skills
+l'électrotechnique	soft skills
+Disponibilité	soft skills
+Dynamique	soft skills
+Type	
+d'emploi	
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+à	O
+3	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Mulhouse	city
+-LRB-	O
+68	postal code
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Master	experience
+Expérience	O
+exigée	O
+:	
+Eudes	experience
+,	O
+Programmation	experience
+:	O
+5	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+connaissance	hard skills
+anglais	hard skills

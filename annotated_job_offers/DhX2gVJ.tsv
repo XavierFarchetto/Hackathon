@@ -1,0 +1,159 @@
+Chef	position
+de	position
+rang	position
+H/F	O
+MERCURE	company
+PARIS	company
+LE	company
+BOURGET	company
+-	O
+Le	city
+Blanc-Mesnil	city
+-LRB-	O
+93	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+1	salary
+810	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+MERCURE	company
+PARIS	company
+LE	company
+BOURGET	company
+-	O
+93	postal code
+Le	O
+Blanc	city
+Mesnil	city
+.	O
+Hôtel	O
+4	O
+****	O
+avec	O
+restaurant	O
+et	O
+séminaires	O
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+CHEF	position
+DE	position
+RANG	position
+en	O
+CDI	contrat_type
+39h/semaine	O
+.	O
+Service	hard skills
+continu	hard skills
+matin	hard skills
+ou	hard skills
+soir	hard skills
+en	hard skills
+alternance	hard skills
+.	O
+Ce	O
+poste	O
+est	O
+largement	O
+multi	O
+compétent	O
+et	O
+vous	hard skills
+permettra	hard skills
+de	hard skills
+montrer	hard skills
+votre	hard skills
+talent	hard skills
+de	hard skills
+restaurateur	hard skills
+sur	hard skills
+nos	hard skills
+différents	hard skills
+points	hard skills
+de	hard skills
+vente	hard skills
+:	
+service	hard skills
+restaurant	hard skills
+à	hard skills
+la	hard skills
+carte	hard skills
+,	
+séminaires	hard skills
+,	O
+banquets	hard skills
+,	O
+room-service	hard skills
+,	O
+petits-déjeuners	hard skills
+,	O
+bar	hard skills
+,	O
+mariages	hard skills
+.	O
+Excellente	soft skills
+présentation	soft skills
+-	O
+Anglais	hard skills
+Diplôme	experience
+hôtelier	experience
+exigé	experience
+.	
+Véhicule	hard skills
+indispensable	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+1	salary
+810	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+serveur	experience
+ou	experience
+chef	experience
+de	experience
+rang	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

@@ -1,0 +1,134 @@
+Agent	position
+de	position
+recouvrement	position
+Reactia	company
+recouvrement	O
+-	O
+La	city
+Chevrolière	city
+-LRB-	O
+44	code postal
+-RRB-	O
+16	salary
+0	salary
+$	salary
+-	O
+20	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Chargé	position
+de	position
+recouvrement	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+le	hard skills
+recouvrement	hard skills
+amiable	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+.	O
+Vous	hard skills
+devez	hard skills
+suivre	hard skills
+les	hard skills
+procédures	hard skills
+internes	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+,	O
+relance	hard skills
+téléphonique	hard skills
+en	hard skills
+pré-contentieux	hard skills
+et	hard skills
+recouvrement	hard skills
+amiable	hard skills
+...	O
+Idéalement	experience
+vous	experience
+êtes	experience
+titulaire	experience
+d'un	experience
+Bac	experience
++	experience
+2	experience
+et	experience
+avez	experience
+une	experience
+expérience	experience
+dans	experience
+le	experience
+recouvrement	experience
+.	O
+Qualités	O
+demandes	O
+:	O
+-	O
+organisé	soft skills
+-	O
+sens	soft skills
+de	soft skills
+l'écoute	soft skills
+et	soft skills
+de	soft skills
+la	soft skills
+diplomatie	soft skills
+-	O
+fermeté	soft skills
+-	O
+dynamisme	soft skills
+et	soft skills
+énergie	soft skills
+-	O
+sens	soft skills
+de	soft skills
+la	soft skills
+négociation	soft skills
+-	O
+orthographe	hard skills
+correcte	hard skills
+exigé	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+16	salary
+0	salary
+$	salary
+à	O
+20	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	
+niveau	experience
+Bac	experience
+-RRB-	O

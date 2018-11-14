@@ -1,0 +1,124 @@
+CHAUFFEUR	position
+LIVREUR	position
+VL	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ELIS	company
+-	O
+Corbeil-Essonnes	city
+-LRB-	O
+91	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Au	O
+sein	O
+de	O
+notre	O
+équipe	O
+Distribution	O
+Commerciale	O
+,	O
+vous	hard skills
+assurez	hard skills
+la	hard skills
+livraison	hard skills
+de	hard skills
+nos	hard skills
+produits	hard skills
+auprès	hard skills
+d'une	hard skills
+clientèle	hard skills
+de	hard skills
+professionnels	hard skills
+dont	hard skills
+vous	hard skills
+êtes	hard skills
+l'interlocuteur	hard skills
+privilégié	hard skills
+.	O
+La	hard skills
+qualité	hard skills
+de	hard skills
+votre	hard skills
+intervention	hard skills
+fait	hard skills
+de	hard skills
+vous	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+notre	hard skills
+image	hard skills
+.	
+Vous	soft skills
+disposez	soft skills
+d'un	soft skills
+excellent	soft skills
+relationnel	soft skills
+et	soft skills
+d'une	soft skills
+motivation	soft skills
+sincère	soft skills
+pour	soft skills
+le	soft skills
+métier	soft skills
+du	soft skills
+service	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+présentation	soft skills
+soignée	soft skills
+.	
+Nous	O
+vous	O
+assurons	O
+une	O
+formation	O
+.	O
+Le	hard skills
+permis	hard skills
+VL	hard skills
+et	O
+une	experience
+première	experience
+expérience	experience
+sont	experience
+indispensables	experience
+.	O
+Poste	O
+à	O
+pourvoir	O
+rapidement	O
+en	O
+CDI	contrat_type
+à	O
+temps	O
+complet	O
+-LRB-	O
+travail	O
+du	O
+lundi	O
+au	O
+vendredi	O
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary

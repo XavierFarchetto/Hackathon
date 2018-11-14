@@ -1,0 +1,217 @@
+Agent	position
+de	position
+Services	position
+Hôteliers	position
+VITEAL	company
+OLERON	company
+-	O
+Saint-Pierre-d'Oléron	city
+-LRB-	O
+17	code postal
+-RRB-	O
+1	salary
+650	salary
+$	salary
+-	
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Notre	O
+EHPAD	company
+situé	O
+à	O
+Saint	city
+Pierre	city
+d'Oléron	city
+recherche	O
+un	position
+Agent	position
+des	position
+Services	position
+Hôteliers	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+Contrat	contrat_type
+à	contrat_type
+Durée	contrat_type
+Déterminée	contrat_type
+.	O
+Vous	hard skills
+bénéficierez	hard skills
+d'un	hard skills
+accompagnement	hard skills
+de	hard skills
+l'équipe	hard skills
+pour	hard skills
+assurer	hard skills
+l'entretien	hard skills
+des	hard skills
+espaces	hard skills
+communs	hard skills
+et	hard skills
+privés	hard skills
+de	hard skills
+la	hard skills
+Résidence	hard skills
+-LRB-	
+nettoyage	hard skills
+,	O
+désinfection	hard skills
+,	O
+suivi	hard skills
+des	hard skills
+stocks	hard skills
+de	hard skills
+produits	hard skills
+...	O
+-RRB-	O
+.	O
+Vous	hard skills
+participerez	hard skills
+également	hard skills
+au	hard skills
+service	hard skills
+hôtelier	hard skills
+auprès	hard skills
+des	hard skills
+résidents	hard skills
+et	hard skills
+les	hard skills
+apporterez	hard skills
+votre	hard skills
+aide	hard skills
+dans	hard skills
+certains	hard skills
+gestes	hard skills
+de	hard skills
+la	hard skills
+vie	hard skills
+quotidienne	hard skills
+.	
+Nous	O
+recherchons	O
+un	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+candidate	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+ayant	soft skills
+le	soft skills
+sens	soft skills
+des	soft skills
+priorités	soft skills
+,	O
+aimant	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+,	
+avec	soft skills
+des	soft skills
+qualités	soft skills
+relationnelles	soft skills
+et	soft skills
+un	soft skills
+réel	soft skills
+intérêt	soft skills
+pour	soft skills
+le	soft skills
+travail	soft skills
+au	soft skills
+sein	soft skills
+d'un	soft skills
+EHPAD	soft skills
+.	O
+Le	O
+temps	O
+de	O
+travail	O
+effectif	O
+est	O
+de	O
+10	O
+heures	O
+par	O
+jour	O
+avec	O
+un	O
+week-end	O
+sur	O
+2	O
+travaillé	O
+et	O
+un	O
+roulement	O
+à	O
+la	O
+quatorzaine	O
+avec	O
+un	O
+week-end	O
+de	O
+repos	O
+de	O
+3	O
+jours	O
+consécutifs	O
+.	O
+Vous	experience
+devez	experience
+justifier	experience
+d'une	experience
+expérience	experience
+professionnelle	experience
+similaire	experience
+et	experience
+d'une	experience
+parfaite	experience
+connaissance	experience
+des	experience
+protocoles	experience
+d'hygiène	experience
+en	experience
+vigueur	experience
+.	O
+Salaire	O
+indicatif	O
+:	O
+1650.00	salary
+$	salary
+à	
+1800.00	salary
+$	salary
+bruts	salary
+mensuels	salary
+pour	O
+151.67	O
+h	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+650	salary
+$	salary
+à	O
+1	salary
+800	salary
+$	salary
+/	
+mois	salary

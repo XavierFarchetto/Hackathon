@@ -1,0 +1,266 @@
+Formateur	position
+Chauffeurs	position
+Routier	position
+H/F	O
+KELTIS	company
+-	O
+Cluses	city
+-LRB-	O
+74	postal code
+-RRB-	O
+2	salary
+300	salary
+$	salary
+-	O
+2	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+KELTIS	company
+,	O
+Cabinet	O
+de	O
+recrutement	O
+implanté	O
+sur	O
+la	O
+Région	O
+Rhône-Alpes	O
+Auvergne	O
+,	O
+recherche	O
+pour	O
+sa	O
+division	O
+Transport	O
+,	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Formateur	position
+Chauffeurs	position
+Routier	position
+H/F	O
+en	O
+CDI	contrat_type
+sur	O
+Cluses	O
+.	O
+Rattaché	O
+au	O
+Responsable	O
+d'exploitation	O
+,	O
+vous	hard skills
+serez	hard skills
+le	hard skills
+référent	hard skills
+technique	hard skills
+pour	hard skills
+l'ensemble	hard skills
+des	hard skills
+chauffeurs	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+.	
+Garant	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+flotte	hard skills
+de	hard skills
+véhicules	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+formations	hard skills
+.	
+Vous	hard skills
+aurez	hard skills
+un	hard skills
+poste	hard skills
+stratégique	hard skills
+auprès	hard skills
+de	hard skills
+la	hard skills
+direction	hard skills
+.	
+Vos	hard skills
+missions	hard skills
+seront	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+L'accompagnement	hard skills
+au	hard skills
+quotidien	hard skills
+des	hard skills
+conducteurs	hard skills
+routiers	hard skills
+dans	hard skills
+la	hard skills
+correction	hard skills
+et	hard skills
+l'amélioration	hard skills
+de	hard skills
+leur	hard skills
+conduite	hard skills
+-LRB-	
+Eco-Conduite	hard skills
+,	hard skills
+Conduite	hard skills
+Rationnelle	hard skills
+-RRB-	
+Elaboration	hard skills
+de	hard skills
+tableaux	hard skills
+de	hard skills
+bord	hard skills
+afin	hard skills
+de	hard skills
+mesurer	hard skills
+l'impact	hard skills
+de	hard skills
+vos	hard skills
+formations	hard skills
+-LRB-	O
+notamment	hard skills
+sur	hard skills
+la	hard skills
+consommation	hard skills
+de	hard skills
+carburant	hard skills
+-RRB-	O
+Vérification	hard skills
+des	hard skills
+trajets	hard skills
+Capacité	hard skills
+à	hard skills
+la	hard skills
+lecture	hard skills
+des	hard skills
+disques	hard skills
+Le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+en	hard skills
+vigueur	hard skills
+Le	hard skills
+feed-back	hard skills
+des	hard skills
+informations	hard skills
+avec	hard skills
+la	hard skills
+direction	hard skills
+Mise	hard skills
+en	hard skills
+place	hard skills
+de	hard skills
+plan	hard skills
+de	hard skills
+formation	hard skills
+Vérification	hard skills
+des	hard skills
+AST	hard skills
+Gestion	hard skills
+de	hard skills
+80	hard skills
+chauffeurs	hard skills
+Vous	experience
+avez	experience
+une	experience
+expérience	experience
+minimum	experience
+de	experience
+2	experience
+ans	experience
+en	experience
+tant	experience
+que	experience
+FORMATEUR	experience
+.	O
+Expériences	experience
+professionnelles	experience
+à	experience
+minima	experience
+dans	experience
+la	experience
+conduite	experience
+de	experience
+camions	experience
+poids	experience
+lourds	experience
+/	experience
+super	experience
+lourds	experience
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	
+rigoureux	soft skills
+,	O
+ayant	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+,	O
+passionné	soft skills
+par	soft skills
+votre	soft skills
+métier	soft skills
+,	
+intègre	soft skills
+,	O
+bon	soft skills
+contact	soft skills
+humain	soft skills
+,	
+polyvalence	soft skills
+,	
+dynamique	soft skills
+...	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+300	salary
+$	salary
+à	O
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+300	salary
+$	salary
+à	O
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary

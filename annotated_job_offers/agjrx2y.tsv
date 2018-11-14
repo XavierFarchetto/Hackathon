@@ -1,0 +1,81 @@
+Agent	position
+administratif	position
+CABINET	company
+D	company
+AVOCAT	company
+RUDERMANN	company
+-	O
+Paris	city
+8e	city
+-LRB-	O
+75	postak code
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Cabinet	company
+d'avocats	company
+recrute	O
+un	position
+agent	position
+administratif	position
+-LRB-	O
+H/F	O
+-RRB-	O
+qui	hard skills
+aura	hard skills
+notamment	hard skills
+en	hard skills
+charge	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+flux	hard skills
+entrants	hard skills
+d'informations	hard skills
+par	hard skills
+mails	hard skills
+et	hard skills
+courriers	hard skills
+,	O
+leur	hard skills
+identification	hard skills
+et	hard skills
+classement	hard skills
+dans	hard skills
+les	hard skills
+dossiers	hard skills
+.	O
+Il	hard skills
+-LRB-	O
+elle	hard skills
+-RRB-	O
+sera	hard skills
+également	hard skills
+chargé	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+du	hard skills
+rangement	hard skills
+et	hard skills
+de	hard skills
+l'archivage	hard skills
+des	hard skills
+dossiers	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+480,27	salary
+$	salary
+/	
+mois	salary

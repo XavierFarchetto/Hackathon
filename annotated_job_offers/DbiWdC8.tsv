@@ -1,0 +1,354 @@
+CHEF	position
+DE	position
+SECTEUR	position
+ALIMENTAIRE	position
+H/F	O
+MONOPRIX	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+30	salary
+0	salary
+$	salary
+-	O
+40	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+MONOPRIX	company
+,	O
+enseigne	O
+française	O
+de	O
+renom	O
+,	O
+développe	O
+sa	O
+croissance	O
+depuis	O
+1932	O
+,	O
+ouverture	O
+du	O
+1er	O
+magasin	O
+à	O
+Rouen.Le	O
+groupe	O
+compte	O
+aujourd	O
+`	O
+hui	O
+6	O
+enseignes	O
+:	O
+MONOPRIX	company
+MONOP	O
+'	O
+MONOP	O
+`	O
+DAILY	O
+MONOP	O
+`	O
+BEAUTY	O
+MONOP	O
+`	O
+STATION	O
+et	O
+NATURALIA.Il	O
+connait	O
+un	O
+essor	O
+en	O
+2015	O
+avec	O
+78	O
+ouvertures	O
+et	O
+5	O
+Milliards	O
+d'euros	O
+d'activité	O
+...	O
+Il	O
+est	O
+présent	O
+dans	O
+85	O
+%	O
+des	O
+agglomérations	O
+de	O
+plus	O
+de	O
+50000	O
+habitants	O
+.	O
+Le	O
+groupe	O
+recherche	O
+,	O
+pour	O
+couvrir	O
+ses	O
+besoins	O
+sur	O
+la	O
+France	O
+entière	O
+,	O
+des	position
+chefs	position
+de	position
+secteur	position
+alimentaire	position
+-LRB-	O
+h/f	O
+-RRB-	O
+en	O
+CDI	contrat_type
+.	O
+VOS	O
+MISSIONS	O
+:	O
+Après	
+une	O
+formation	O
+interne	O
+,	O
+vous	hard skills
+gérez	hard skills
+,	
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+du	hard skills
+directeur	hard skills
+du	hard skills
+magasin	hard skills
+,	O
+le	hard skills
+secteur	hard skills
+alimentaire	hard skills
+et	hard skills
+vous	hard skills
+managez	hard skills
+les	hard skills
+chefs	hard skills
+de	hard skills
+rayon	hard skills
+-LRB-	
+06-juil	hard skills
+personnes	hard skills
+-RRB-	O
+.	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+sur	soft skills
+certaines	soft skills
+opérations	soft skills
+commerciales	soft skills
+et	soft skills
+sur	soft skills
+l'équilibre	soft skills
+des	soft skills
+marges	soft skills
+";"	O
+les	hard skills
+achats	hard skills
+sont	hard skills
+centralisés	hard skills
+.	
+Votre	soft skills
+management	soft skills
+est	soft skills
+efficace	soft skills
+";"	
+vous	soft skills
+êtes	soft skills
+à	soft skills
+l'écoute	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+capable	soft skills
+de	soft skills
+gérer	soft skills
+les	soft skills
+conflits	soft skills
+et	soft skills
+vous	soft skills
+pouvez	soft skills
+amener	soft skills
+vos	soft skills
+collaborateurs	soft skills
+à	soft skills
+monter	soft skills
+en	soft skills
+compétences	soft skills
+.	
+Salaire	O
+:	O
+entre	O
+2600	salary
+et	
+2800	salary
+euros	salary
+brut	salary
+sur	salary
+13	salary
+mois	salary
+,	O
+primes	O
+de	O
+participation	O
++	O
+d'objectifs	O
+et	O
+de	O
+performance	O
++	O
+intéressements	O
+Avantages	O
+:	O
+-10	O
+%	O
+sur	O
+le	O
+``	O
+food	O
+''	O
+et	O
+-15	O
+%	O
+sur	O
+le	O
+non	O
+``	O
+food	O
+''	O
+VOTRE	O
+PROFIL	O
+:	O
+Vous	soft skills
+êtes	soft skills
+mobile	soft skills
+sur	soft skills
+la	soft skills
+France	soft skills
+entière	soft skills
+,	O
+vous	soft skills
+etes	soft skills
+ouvert	soft skills
+sur	soft skills
+les	soft skills
+horaires	soft skills
+décalés	soft skills
+-LRB-	O
+6h-22h	O
+-RRB-	O
+et	O
+acceptez	O
+de	O
+travailler	O
+le	O
+dimanche	O
+...	O
+rejoignez	O
+nous	O
+!	O
+Vous	soft skills
+aimez	soft skills
+la	soft skills
+gestion	soft skills
+et	soft skills
+le	soft skills
+management	soft skills
+,	O
+vous	O
+n'hésitez	O
+pas	O
+à	O
+faire	O
+monter	O
+vos	O
+équipes	O
+en	O
+compétences	O
+et	O
+savez	O
+les	O
+motiver	O
+pour	O
+atteindre	O
+vos	O
+objectifs	O
+...	O
+ce	O
+poste	O
+est	O
+fait	O
+pour	O
+vous	O
+!	O
+De	experience
+formation	experience
+bac	experience
+2	experience
+minimum	experience
+,	
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+réussie	experience
+d'au	experience
+moins	experience
+4	experience
+ans	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+30	salary
+0	salary
+$	salary
+à	O
+40	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Expérience	O
+exigée	O
+:	O
+management	experience
+de	experience
+rayon	experience
+:	O
+4	experience
+ans	experience

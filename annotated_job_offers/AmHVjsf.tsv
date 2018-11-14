@@ -1,0 +1,182 @@
+Agent	position
+de	position
+production	position
+Balt	company
+-	O
+Montmorency	city
+-LRB-	O
+95	code postal
+-RRB-	O
+10	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+Société	O
+française	O
+à	O
+rayonnement	O
+international	O
+,	O
+BALT	company
+conçoit	O
+et	O
+commercialise	O
+des	O
+dispositifs	O
+médicaux	O
+pour	O
+la	O
+neuroradiologie	O
+interventionnelle	O
+.	O
+Offrant	O
+une	O
+large	O
+gamme	O
+de	O
+produits	O
+à	O
+très	O
+forte	O
+valeur	O
+ajoutée	O
+,	O
+BALT	company
+est	O
+reconnu	O
+comme	O
+un	O
+acteur	O
+majeur	O
+de	O
+son	O
+secteur	O
+.	O
+Pour	O
+plus	O
+d'informations	O
+:	O
+www.balt.fr	O
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+forte	O
+croissance	O
+,	O
+nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+:	
+Agent	position
+de	position
+production	position
+H-F	O
+Profils	O
+correspondants	O
+:	O
+Bijouterie	hard skills
+,	O
+Horlogerie	hard skills
+,	O
+Couture	hard skills
+,	O
+...	O
+Goût	hard skills
+pour	hard skills
+les	hard skills
+travaux	hard skills
+manuels	hard skills
+et	hard skills
+de	hard skills
+précisions	hard skills
+Dans	hard skills
+un	hard skills
+atelier	hard skills
+de	hard skills
+fabrication	hard skills
+de	hard skills
+matériel	hard skills
+médical	hard skills
+,	O
+vous	hard skills
+fabriquez	hard skills
+avec	hard skills
+beaucoup	hard skills
+de	hard skills
+minutie	hard skills
+,	
+propreté	hard skills
+et	hard skills
+soin	hard skills
+des	hard skills
+dispositifs	hard skills
+qui	hard skills
+seront	hard skills
+implantés	hard skills
+dans	hard skills
+le	hard skills
+corps	hard skills
+humain	hard skills
+.	
+Bonne	hard skills
+vue	hard skills
+,	
+minutie	hard skills
+,	O
+dextérité	hard skills
+,	O
+adresse	hard skills
+manuelle	hard skills
+sont	hard skills
+des	hard skills
+qualités	hard skills
+indispensables	hard skills
+.	O
+Vous	hard skills
+maîtrisez	hard skills
+le	hard skills
+français	hard skills
+oral	hard skills
+et	hard skills
+écrit	hard skills
+-LRB-	
+lecture	hard skills
+de	hard skills
+consignes	hard skills
+de	hard skills
+fabrication	hard skills
+-RRB-	O
+.	O
+PLUSIEURS	O
+POSTES	O
+A	O
+POURVOIR	O
+Type	O
+d'emploi	O
+:	O
+CDD/CDI	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Montmorency	city
+-LRB-	O
+95	code postal
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

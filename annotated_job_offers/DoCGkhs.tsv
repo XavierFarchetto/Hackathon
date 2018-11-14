@@ -1,0 +1,106 @@
+Monteur	position
+cadreur	position
+cnfpt	company
+-	O
+Paris	city
+12e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+8,15	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+Bonjour	O
+,	O
+le	company
+Centre	company
+national	company
+de	company
+la	company
+fonction	company
+publique	company
+territoriale	company
+-LRB-	O
+www.cnfpt.fr	company
+-RRB-	O
+cherche	O
+toujours	O
+un	position
+alternant	position
+-LRB-	O
+h/f	O
+-RRB-	O
+cadreur	position
+monteur	position
+de	O
+Master	experience
+conventionné	experience
+à	O
+partir	O
+de	O
+septembre	O
+-	O
+octobre	O
+.	O
+Création	hard skills
+de	hard skills
+vidéo	hard skills
+institutionnel	hard skills
+,	O
+interview	hard skills
+,	O
+tutoriel	hard skills
+,	O
+réalité	hard skills
+virtuelle	hard skills
+...	O
+Montage	hard skills
+sur	hard skills
+Premiere	hard skills
+Pro	hard skills
+CC	hard skills
++	hard skills
+After	hard skills
+Effects	hard skills
+CC	hard skills
+&	hard skills
+utilisation	hard skills
+de	hard skills
+Photoshop	hard skills
+CC	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+Salaire	O
+:	O
+8,15	salary
+$	salary
+/	O
+heure	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Master	experience
+Expérience	O
+exigée	O
+:	O
+monteur	experience
+cadreur	experience
+:	O
+1	experience
+an	experience

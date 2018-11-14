@@ -1,0 +1,175 @@
+AGENT	position
+DE	position
+QUAI	position
+H/F	O
+STEF	company
+TRANSPORT	company
+MONTPELLIER	company
+-	O
+Montpellier	city
+-LRB-	O
+34	code postal
+-RRB-	O
+CDI	contrat_type
+Vous	O
+souhaitez	O
+rejoindre	O
+un	O
+Groupe	O
+dynamique	O
+et	O
+leader	O
+européen	O
+,	O
+au	O
+sein	O
+d'un	O
+site	O
+à	O
+taille	O
+humaine	O
+?	O
+STEF	company
+TRANSPORT	company
+MONTPELLIER	company
+,	O
+spécialisé	O
+dans	O
+le	O
+transport	O
+frigorifique	O
+de	O
+marchandises	O
+,	O
+recrute	O
+un/une	position
+Agent	position
+de	position
+quai	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vos	O
+principales	O
+missions	O
+sont	O
+les	O
+suivantes	O
+:	O
+Réceptionner	hard skills
+la	hard skills
+marchandise	hard skills
+Contrôler	hard skills
+la	hard skills
+marchandise	hard skills
+réceptionnée	hard skills
+Identifier/tracer	hard skills
+la	hard skills
+marchandise	hard skills
+Relever	hard skills
+et	hard skills
+signaler	hard skills
+les	hard skills
+écarts	hard skills
+Décharger	hard skills
+la	hard skills
+marchandise	hard skills
+au	hard skills
+moyen	hard skills
+du	hard skills
+matériel	hard skills
+adapté	hard skills
+Traiter	hard skills
+la	hard skills
+marchandise	hard skills
+à	hard skills
+quai	hard skills
+Conditionner	hard skills
+la	hard skills
+marchandise	hard skills
+Zoner	hard skills
+la	hard skills
+marchandise	hard skills
+Trier	hard skills
+la	hard skills
+marchandise	hard skills
+Expédier	hard skills
+la	hard skills
+marchandise	hard skills
+Organiser	hard skills
+le	hard skills
+chargement	hard skills
+de	hard skills
+la	hard skills
+marchandise	hard skills
+en	hard skills
+sécurité	hard skills
+Contrôler	hard skills
+la	hard skills
+marchandise	hard skills
+à	hard skills
+expédier	hard skills
+Utiliser	hard skills
+en	hard skills
+sécurité	hard skills
+le	hard skills
+matériel	hard skills
+de	hard skills
+manutention	hard skills
+-LRB-	
+transpalette	hard skills
+accompagnant	hard skills
+-RRB-	
+Profil	O
+recherché	O
+:	O
+Volontaire	soft skills
+,	O
+autonome	soft skills
+et	soft skills
+dynamique	soft skills
+,	O
+vous	experience
+disposez	experience
+d'une	experience
+bonne	experience
+expérience	experience
+dans	experience
+le	experience
+transport	experience
+.	O
+Divers	experience
+:	O
+Poste	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+,	O
+en	O
+CDI	contrat_type
+,	O
+horaires	O
+de	O
+jour	O
+.	O
+Travail	O
+sous	O
+température	O
+dirigée	O
+-LRB-	O
+4	O
+°C	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+CHARGEMENT	experience
+:	O
+1	experience
+an	experience

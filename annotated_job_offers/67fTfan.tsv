@@ -1,0 +1,271 @@
+Dessinateur	position
+projeteur	position
+H/F	O
+GROUPE	company
+RETIF	company
+-	O
+Villeneuve-Loubet	city
+-LRB-	O
+6	code postal
+-RRB-	O
+40	salary
+0	salary
+$	salary
+-	O
+50	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Face	O
+à	O
+l'ambition	O
+de	O
+développer	O
+l'agencement	O
+d'espaces	O
+de	O
+vente	O
+adapté	O
+à	O
+nos	O
+besoins	O
+clients	O
+.	O
+Vos	hard skills
+missions	hard skills
+principales	hard skills
+seront	hard skills
+:	O
+Elaborer	hard skills
+techniquement	hard skills
+des	hard skills
+projets	hard skills
+d'agencements	hard skills
+:	O
+les	hard skills
+études	hard skills
+,	
+les	hard skills
+plans	hard skills
+et	hard skills
+les	hard skills
+calculs	hard skills
+à	hard skills
+partir	hard skills
+d'un	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+.	O
+Interpréter	hard skills
+et	hard skills
+concevoir	hard skills
+techniquement	hard skills
+des	hard skills
+mobiliers	hard skills
+ou	hard skills
+des	hard skills
+concepts	hard skills
+.	O
+Intégrer	hard skills
+les	hard skills
+problématiques	hard skills
+d'éco-conception	hard skills
+,	
+de	hard skills
+transport	hard skills
+,	
+de	hard skills
+pose	hard skills
+,	
+de	hard skills
+SAV	hard skills
+,	O
+d'exploitation	hard skills
+,	O
+de	hard skills
+maintenance	hard skills
+et	hard skills
+de	hard skills
+stockage	hard skills
+.	O
+Rationaliser	hard skills
+,	O
+optimiser	hard skills
+et	hard skills
+intégrer	hard skills
+le	hard skills
+redesign	hard skills
+to	hard skills
+coast	hard skills
+sur	hard skills
+les	hard skills
+mobiliers	hard skills
+et	hard skills
+concepts	hard skills
+.	
+Calculer	hard skills
+et	hard skills
+assembler	hard skills
+des	hard skills
+prix	hard skills
+de	hard skills
+revient	hard skills
+.	O
+Tenir	hard skills
+une	hard skills
+veille	hard skills
+sur	hard skills
+les	hard skills
+nouveaux	hard skills
+matériaux	hard skills
+,	O
+les	hard skills
+nouvelles	hard skills
+technologies	hard skills
+et	hard skills
+l'environnement	hard skills
+.	
+Proposer	hard skills
+et	hard skills
+gérer	hard skills
+une	hard skills
+matériauthéque	hard skills
+.	O
+Sélectionner	hard skills
+et	hard skills
+auditer	hard skills
+de	hard skills
+nouveaux	hard skills
+prestataires	hard skills
+.	O
+Lancer	hard skills
+et	hard skills
+accompagner	hard skills
+les	hard skills
+prototypes	hard skills
+jusqu'au	hard skills
+plein	hard skills
+déploiement	hard skills
+.	O
+Profil	O
+:	O
+De	experience
+formation	experience
+en	experience
+agencement	experience
+:	O
+BP	experience
+,	O
+Bac	experience
+Pro	experience
+,	O
+BTS	experience
+ou	experience
+Ecole	experience
+BOULE	experience
+,	O
+ous	experience
+avez	experience
+une	experience
+forte	experience
+expérience	experience
+réussie	experience
+de	experience
+dessinateur	experience
+projeteur	experience
+en	experience
+agencement	experience
+,	O
+en	experience
+multi-matériaux	experience
+,	O
+en	experience
+techniques	experience
+de	experience
+fabrication	experience
+et	experience
+en	experience
+outils	experience
+et	experience
+process	experience
+artisanaux	experience
+ou	experience
+industriels	experience
+.	O
+Vous	hard skills
+maîtrisez	hard skills
+des	hard skills
+logiciels	hard skills
+type	hard skills
+AUTOCAD	hard skills
+,	O
+TOPSOLID	hard skills
+ou	hard skills
+SOLIDWORKS	hard skills
+...	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+bonne	soft skills
+connaissance	soft skills
+du	soft skills
+tissu	soft skills
+industriel	soft skills
+en	soft skills
+agencement	soft skills
+.	O
+Perfectionniste	soft skills
+,	O
+minutieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+vous	soft skills
+avez	soft skills
+le	soft skills
+souci	soft skills
+de	soft skills
+la	soft skills
+finition	soft skills
+et	soft skills
+de	soft skills
+la	soft skills
+maîtrise	soft skills
+de	soft skills
+la	soft skills
+qualité	soft skills
+.	
+En	O
+devenir	O
+un	O
+-LRB-	O
+e	O
+-RRB-	O
+futur	O
+-LRB-	O
+e	O
+-RRB-	O
+responsable	O
+du	O
+bureau	O
+d'études	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+40	salary
+0	salary
+$	salary
+à	O
+50	salary
+0	salary
+$	salary
+/	O
+an	salary

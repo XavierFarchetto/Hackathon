@@ -1,0 +1,365 @@
+OUVRIER	position
+AGRICOLE	position
+EN	position
+FERME	position
+D'ELEVAGE	position
+PORCIN	position
+H/F	O
+Germa	company
+Alsace	company
+-	O
+Ensisheim	city
+-LRB-	O
+68	code postal
+-RRB-	O
+10,5	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+URGENT	O
+!!	O
+GERMA	company
+ALSACE	company
+COLMAR	company
+RECHERCHE	O
+POUR	O
+UN	O
+DE	O
+SES	O
+CLIENTS	O
+BASE	O
+SUR	O
+ENSISHEIM	city
+pour	O
+prise	O
+de	O
+poste	O
+immédiate	O
+Contrat	O
+:	O
+CDI	contrat_type
+après	O
+période	O
+d'essai	O
+Type	O
+d'entreprise	O
+:	O
+FERME	O
+D'ÉLEVAGE	O
+PORCIN	O
+Expérience	O
+:	O
+Exigée	O
+dans	experience
+le	experience
+domaine	experience
+agricole	experience
+Permis	hard skills
+et	hard skills
+voiture	hard skills
+:	O
+Moyen	hard skills
+de	hard skills
+locomotion	hard skills
+exigé	hard skills
+,	O
+de	hard skills
+préférence	hard skills
+Permis	hard skills
+B	hard skills
++	O
+Véhicule	hard skills
+Salaire	O
+indicatif	O
+:	O
+Entre	O
+9,76	salary
+$	salary
+&	O
+10,5	salary
+$	salary
+Brut	salary
++
+1	O
+0	O
+%	O
+CP	O
++	O
+1	O
+0	O
+%	O
+IFM	O
+selon	O
+expérience	O
+et	O
+formation	O
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35	O
+H	O
+/	O
+semaine	O
+Vos	O
+horaires	O
+de	O
+travail	O
+:	O
+7	O
+H	O
+-	O
+12	O
+H	O
+-LRB-	O
+01-févr	O
+h	O
+de	O
+pause	O
+le	O
+matin	O
+-RRB-	O
+13H30	O
+-16	O
+H	O
+Votre	O
+formation	O
+:	O
+BEP	experience
+ou	O
+BAP	experience
+pro	experience
+agricole	experience
+souhaité	experience
+Plus	O
+qu'une	O
+formation	O
+,	O
+nous	O
+cherchons	O
+une	O
+personne	O
+issue	O
+du	O
+monde	O
+agricole	O
+et	O
+motivée	O
+pour	O
+travailler	O
+au	O
+contact	O
+des	O
+bêtes	O
+Les	O
+qualités	O
+requises	O
+:	O
+-	O
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+contact	soft skills
+des	soft skills
+animaux	soft skills
+et	soft skills
+avez	soft skills
+,	O
+si	O
+possible	O
+,	O
+une	O
+première	O
+expérience	O
+,	O
+-	O
+Vous	soft skills
+avez	soft skills
+l'esprit	soft skills
+d'équipe	soft skills
+,	O
+-	O
+Le	soft skills
+respect	soft skills
+des	soft skills
+règles	soft skills
+de	soft skills
+sécurité	soft skills
+et	soft skills
+d'hygiènes	soft skills
+,	O
+des	soft skills
+normes	soft skills
+,	O
+-	O
+Le	soft skills
+respect	soft skills
+des	soft skills
+consignes	soft skills
+de	soft skills
+travail	soft skills
+,
+-	O
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+intègre	soft skills
+,	O
+-	O
+Vous	soft skills
+avez	soft skills
+de	soft skills
+bonnes	soft skills
+capacités	soft skills
+d'initiative	soft skills
+et	soft skills
+d'adaptation	soft skills
+...
+-	O
+Vous	soft skills
+êtes	soft skills
+familiarisé	soft skills
+/	O
+e	hard skills
+à	hard skills
+l'utilisation	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+Vos	O
+missions	O
+:	O
+Sous	hard skills
+la	hard skills
+responsabilité	hard skills
+des	hard skills
+exploitants	hard skills
+et	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+le	hard skills
+reste	hard skills
+de	hard skills
+l'équipe	hard skills
+:	O
+Vous	hard skills
+aurez	hard skills
+la	hard skills
+charge	hard skills
+de	hard skills
+:
+-	O
+D'alimenter	hard skills
+les	hard skills
+bêtes	hard skills
+,
+les	hard skills
+phases	hard skills
+d'alimentation	hard skills
+sont	hard skills
+gérées	hard skills
+un	hard skills
+logiciel	hard skills
+de	hard skills
+calcul	hard skills
+de	hard skills
+la	hard skills
+ration	hard skills
+alimentaire	hard skills
+,	O
+-	O
+Identifier	hard skills
+les	hard skills
+animaux	hard skills
+par	hard skills
+marquage	hard skills
+,	O
+-	O
+Dispenser	hard skills
+les	hard skills
+soins	hard skills
+préventifs	hard skills
+ou	hard skills
+curatifs	hard skills
+aux	hard skills
+porcelets	hard skills
+-	O
+De	hard skills
+contribuer	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+reproduction	hard skills
+-	O
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+procédures	hard skills
+de	hard skills
+nettoyage	hard skills
+et	hard skills
+de	hard skills
+désinfection	hard skills
+,	O
+-	O
+Vous	hard skills
+participez	hard skills
+au	hard skills
+nettoyage	hard skills
+quotidien	hard skills
+au	hard skills
+karcher	hard skills
+des	hard skills
+lieux	hard skills
+d'exploitation	hard skills
+...	O
+Pour
+toute
+candidature	O
+,	O
+merci	O
+de	O
+transmettre	O
+votre	O
+CV	O
+et	O
+une	O
+lettre	O
+de	O
+motivation	O
+par	O
+mail	O
+en	O
+répondant	O
+à	O
+cette	O
+offre	O
+ou	O
+GERMA	company
+ALSACE	company
+COLMAR	company
+9	O
+rue	O
+de	O
+Guebwiller
+68000
+Colmar	O
+Tel	O
+:	O
+3	O
+89	O
+20	O
+78	O
+99	O
+www.laser-germa.fr/germa	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

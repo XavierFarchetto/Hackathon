@@ -1,0 +1,151 @@
+AGENT	position
+DE	position
+MENAGE	position
+EN	position
+VILLAGE	company
+VACANCES	company
+-	O
+SAISON	company
+HIVER	company
+Cap	company
+`	O
+vacances	company
+-	O
+Chapelle-des-Bois	city
+-LRB-	O
+25	postal code
+-RRB-	O
+CDD	contrat_type
+VILLAGE	company
+VACANCES	company
+CHAPELLE	company
+DES	company
+BOIS	company
+-LRB-	O
+25	postal code
+-RRB-	O
+RECRUTE	O
+UN	position
+AGENT	position
+DE	position
+MENAGE	position
+H/F	O
+L'établissement	O
+est	O
+situé	O
+dans	O
+le	O
+nord	O
+du	O
+parc	O
+régional	O
+du	O
+Haut	O
+Jura	O
+.	O
+Sa	O
+capacité	O
+d'accueil	O
+est	O
+de	O
+200	O
+lits	O
+.	O
+Il	O
+est	O
+intégralement	O
+rénové	O
+et	O
+équipé	O
+d'une	O
+piscine	O
+et	O
+d'un	O
+SPA	O
+.	O
+En	O
+collaboration	O
+avec	O
+le	O
+gouvernant	O
+et/ou	O
+le	O
+coordinateur	O
+ménage	O
+,	O
+vous	hard skills
+êtes	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+de	hard skills
+l'hébergement	hard skills
+,	
+conformément	hard skills
+au	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+.	
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+ménage	hard skills
+des	hard skills
+chambres	hard skills
+clients	hard skills
+et	hard skills
+des	hard skills
+espaces	hard skills
+collectifs	hard skills
+.	
+Vous	soft skills
+êtes	soft skills
+aussi	soft skills
+polyvalent	soft skills
+sur	soft skills
+le	soft skills
+poste	soft skills
+en	soft skills
+plonge	soft skills
+si	soft skills
+nécessaire	soft skills
+Date	soft skills
+de	soft skills
+début	soft skills
+de	soft skills
+poste	soft skills
+:	O
+début	O
+décembre	O
+2017	O
+-	O
+Date	O
+de	O
+fin	O
+de	O
+poste	O
+:	O
+fin	O
+mars	O
+2018	O
+Poste	O
+logé	O
+/	O
+nourri	O
+contre	O
+retenues	O
+Type	O
+de	O
+clientèle	O
+:	O
+familles	O
+,	O
+groupes	O
+,	O
+séminaires	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

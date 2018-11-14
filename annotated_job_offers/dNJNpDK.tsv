@@ -1,0 +1,86 @@
+conseiller	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+vente	position
+KIABI	company
+-	O
+Fresnes	city
+-LRB-	O
+94	postal code
+-RRB-	O
+CDI	contrat_type
+Kiabi	company
+poursuit	
+sa	O
+croissance	O
+et	O
+recrute	O
+un	position
+conseiller	position
+de	position
+ventes	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Mission	O
+:	O
+Veiller	hard skills
+au	hard skills
+réassortiment	hard skills
+des	hard skills
+produits	hard skills
+-	hard skills
+Accueillir	hard skills
+,	hard skills
+conseiller	hard skills
+et	hard skills
+fidéliser	hard skills
+les	hard skills
+clients	hard skills
+.	
+Vous	hard skills
+contribuez	hard skills
+activement	hard skills
+au	hard skills
+bon	hard skills
+fonctionnement	hard skills
+du	hard skills
+magasin	hard skills
+en	hard skills
+développant	hard skills
+le	hard skills
+commerce	hard skills
+.	
+Profil	soft skills
+Le	soft skills
+commerce	soft skills
+et	soft skills
+la	soft skills
+mode	soft skills
+vous	soft skills
+attirent	soft skills
+?	
+Votre	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+votre	soft skills
+dynamisme	soft skills
+seront	soft skills
+vos	soft skills
+atouts	soft skills
+pour	
+représenter	
+Kiabi	company
+!	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

@@ -1,0 +1,140 @@
+Mécanicien	position
+Monteur	position
+Ajusteur	position
+-LRB-	
+H/F	O
+-RRB-	O
+SERIGNAC	company
+-	O
+Toulouse	city
+-LRB-	O
+31	code postal
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	O
+24	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+Rattaché	O
+au	O
+chef	O
+d'équipe	O
+,	O
+nous	O
+recherchons	O
+un	position
+mécanicien	position
+monteur	position
+ajusteur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+:	O
+-	O
+le	hard skills
+montage	hard skills
+et	hard skills
+l'intégration	hard skills
+de	hard skills
+cellule	hard skills
+fourgons	hard skills
+sur	hard skills
+véhicules	hard skills
+PL	hard skills
+et	hard skills
+VUL	hard skills
+-	O
+la	hard skills
+finition	hard skills
+de	hard skills
+ces	hard skills
+véhicules	hard skills
+PL	hard skills
+et	hard skills
+VUL	hard skills
+-LRB-	O
+montage	hard skills
+des	hard skills
+ailes	hard skills
+,	
+des	hard skills
+coffres	hard skills
+,	O
+des	hard skills
+planchers	hard skills
+,	O
+des	hard skills
+déflecteurs	hard skills
+,	O
+...	O
+-RRB-	O
+,	O
+-	O
+la	hard skills
+pose	hard skills
+et	hard skills
+le	hard skills
+branchement	hard skills
+d'accessoires	hard skills
+divers	hard skills
+.	
+Monteur	hard skills
+Ajusteur	hard skills
+de	hard skills
+formation	hard skills
+,	O
+nous	O
+recherchons	O
+quelqu'un	O
+de	O
+:	O
+-	O
+Rigoureux	soft skills
+-	O
+Minutieux	soft skills
+-	O
+Autonome	soft skills
+-	O
+Polyvalent	soft skills
+Expérience	O
+souhaitée	O
+:	O
+2	experience
+ans	experience
+minimum	experience
+.	O
+Diplôme	experience
+:	O
+Bac	experience
+pro	experience
+productique	experience
+ou	experience
+équivalent	experience
+.	O
+CDD	contrat_type
+de	O
+6	O
+mois	O
+.	O
+Type	O
+d'emploi	O
+:	
+CDD	contrat_type
+Salaire	O
+:	O
+20	salary
+0	salary
+$	salary
+à	O
+24	salary
+0	salary
+$	salary
+/	O
+an	salary

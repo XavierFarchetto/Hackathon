@@ -1,0 +1,134 @@
+green	company
+keeper	company
+-	O
+jardinier	position
+-	O
+gardien	O
+Hôtel	O
+de	O
+Sèze	O
+-	O
+Carignan-de-Bordeaux	city
+-LRB-	O
+33	code postal
+-RRB-	O
+9,89	salary
+$	salary
+-	O
+9,9	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+Jardinier	position
+gardien	company
+,	O
+entretien	hard skills
+d'	hard skills
+un	hard skills
+Golf	hard skills
+compact	hard skills
+de	hard skills
+4.5	hard skills
+hectares	hard skills
+-LRB-	
+6	hard skills
+trous	hard skills
++	hard skills
+pitching	hard skills
+green	hard skills
+-RRB-	
+tonte	hard skills
+parc	hard skills
+et	hard skills
+greens	hard skills
+,	O
+traitements	hard skills
+,	
+entretien	hard skills
+du	hard skills
+matériel	hard skills
+,	O
+tailles	hard skills
+des	hard skills
+arbres	hard skills
+et	hard skills
+haies	hard skills
+,	O
+etc.	O
+.	O
+Poste	O
+en	O
+CDI	contrat_type
+,	O
+temps	O
+plein	O
+,	O
+Salaire	O
++	O
+logement	O
+de	O
+fonction	O
+de	O
+3	O
+chambres	O
+120	O
+m	O
+²	O
+avec	O
+garage	O
+H/F	O
+Expérience	experience
+d'entretien	experience
+de	experience
+golf	experience
+,	O
+connaissances	experience
+de	experience
+la	experience
+maintenance	experience
+des	experience
+engins	experience
+.	O
+lieu	
+:	O
+Golf	O
+de	O
+l'Hôtel	O
+de	O
+Sèze	O
+,	O
+à	O
+Carignan	city
+de	O
+Bordeaux	O
+-LRB-	O
+15	O
+minutes	O
+du	O
+centre	O
+de	O
+Bordeaux	O
+-RRB-	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+au	O
+1er	O
+janvier	O
+2018	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+9,89	salary
+$	salary
+à	O
+9,9	salary
+$	salary
+/	O
+heure	salary

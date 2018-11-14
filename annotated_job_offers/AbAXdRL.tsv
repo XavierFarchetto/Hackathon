@@ -1,0 +1,143 @@
+Hôte	position
+d'accueil	position
+H/F	O
+en	O
+CDI	contrat_type
+à	O
+temps	O
+partiel	O
+YACHTS	company
+DE	company
+PARIS	company
+-	O
+Paris	city
+4e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Accueil	hard skills
+physique	hard skills
+Ø	hard skills
+Accueil	hard skills
+des	hard skills
+clients	hard skills
+,	O
+fournisseurs	hard skills
+Ø	hard skills
+Gestion	hard skills
+du	hard skills
+Salon	hard skills
+clients	hard skills
+Ø	hard skills
+Réception	hard skills
+des	hard skills
+livraisons	hard skills
+Accueil	hard skills
+téléphonique	hard skills
+Ø	hard skills
+Dispatch	hard skills
+téléphonique	hard skills
+Ø	hard skills
+Prise	hard skills
+de	hard skills
+messages	hard skills
+Gestion	hard skills
+des	hard skills
+réservations	hard skills
+en	hard skills
+l'absence	hard skills
+du	hard skills
+responsable	hard skills
+des	hard skills
+réservations	hard skills
+Renseigner	hard skills
+,	O
+conseiller	hard skills
+les	hard skills
+clients	hard skills
+sur	hard skills
+les	hard skills
+offres	hard skills
+du	hard skills
+restaurant	hard skills
+Prise	hard skills
+des	hard skills
+réservations	hard skills
+sur	hard skills
+le	hard skills
+logiciel	hard skills
+``	
+La	hard skills
+fourchette	hard skills
+''	
+Faire	hard skills
+un	hard skills
+état	hard skills
+des	hard skills
+réservations	hard skills
+au	hard skills
+responsable	hard skills
+Assistanat	hard skills
+administratif	hard skills
+Commande	hard skills
+de	hard skills
+taxi	hard skills
+,	
+coursier	hard skills
+Réception	hard skills
+et	hard skills
+distribution	hard skills
+du	hard skills
+courrier	hard skills
+par	hard skills
+service	hard skills
+Affranchissement	hard skills
+du	hard skills
+courrier	hard skills
+Saisir	hard skills
+les	hard skills
+notes	hard skills
+de	hard skills
+frais	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	
+exigée	O
+:	O
+accueil	experience
+,	O
+secrétariat	experience
+,	O
+évenementiel	experience
+,	O
+tourisme	experience
+,	O
+hotellerie	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills
+courant	hard skills

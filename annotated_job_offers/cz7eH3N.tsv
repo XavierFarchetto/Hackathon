@@ -1,0 +1,313 @@
+Ingénieur	position
+études	position
+mécanique	position
+FARECO	company
+FAYAT	company
+ENERGIE	company
+SERVICES	company
+-	O
+Asnières-sur-Seine	city
+-LRB-	O
+92	postal code
+-RRB-	O
+34	salary
+0	salary
+$	salary
+-	O
+40	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+FARECO	company
+-LRB-	O
+entreprise	O
+du	O
+Groupe	O
+FAYAT	O
+ENERGIE	O
+SERVICES	O
+-RRB-	O
+,	O
+est	O
+une	O
+PME	O
+-LRB-	O
+50	O
+à	O
+100	O
+salariés	O
+-RRB-	O
+spécialisée	O
+dans	O
+la	O
+conception	O
+,	O
+la	O
+fabrication	O
+et	O
+la	O
+commercialisation	O
+de	O
+produits	O
+et	O
+systèmes	O
+d'équipements	O
+de	O
+la	O
+route	O
+.	O
+Notre	O
+société	O
+intervient	O
+de	O
+plus	O
+en	O
+plus	O
+dans	O
+le	O
+développement	O
+de	O
+nouveaux	O
+produits	O
+et	O
+de	O
+solutions	O
+connectées	O
+pour	O
+la	O
+ville	O
+intelligente	O
+-LRB-	O
+smart	O
+city	O
+-RRB-	O
+.	O
+FARECO	company
+recherche	O
+un	position
+Ingénieur	position
+Etudes	position
+mécanique	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+développer	hard skills
+ses	hard skills
+activités	hard skills
+d'étude	hard skills
+,	O
+de	hard skills
+conception	hard skills
+et	hard skills
+de	hard skills
+fabrication	hard skills
+dans	hard skills
+le	hard skills
+domaine	hard skills
+des	hard skills
+équipements	hard skills
+et	hard skills
+systèmes	hard skills
+autoroutiers	hard skills
+.	O
+Missions	hard skills
+:	O
+Développement	hard skills
+de	hard skills
+projets	hard skills
+mécaniques	hard skills
+-	hard skills
+Réalisation	hard skills
+des	hard skills
+dossiers	hard skills
+et	hard skills
+plans	hard skills
+d'exécution	hard skills
+-LRB-	
+équipements	hard skills
+et	hard skills
+produits	hard skills
+de	hard skills
+péages	hard skills
+autoroutiers	hard skills
+-RRB-	O
+à	hard skills
+destination	hard skills
+de	hard skills
+la	hard skills
+sous-traitance	hard skills
+.	O
+-	O
+Analyse	hard skills
+des	hard skills
+cahiers	hard skills
+des	hard skills
+charges	hard skills
+-	O
+Réalisation	hard skills
+d'étude	hard skills
+et	hard skills
+conception	hard skills
+des	hard skills
+solutions	hard skills
+techniques	hard skills
+en	hard skills
+tenant	hard skills
+compte	hard skills
+de	hard skills
+l'aspect	hard skills
+budgétaire	hard skills
+.	O
+-	O
+Réalisation	hard skills
+de	hard skills
+plans	hard skills
+mécaniques	hard skills
+et	hard skills
+de	hard skills
+détail	hard skills
+avec	hard skills
+le	hard skills
+logiciel	hard skills
+SOLIDWORKS	hard skills
+.	O
+-	O
+Création	hard skills
+des	hard skills
+dossiers	hard skills
+de	hard skills
+fabrication	hard skills
+et	hard skills
+réalisation	hard skills
+des	hard skills
+nomenclatures	hard skills
+.	
+Profil	O
+:	O
+De	experience
+formation	experience
+Ingénieur	experience
+avec	experience
+une	experience
+spécialité	experience
+mécanique	experience
+ainsi	experience
+qu'une	experience
+expérience	experience
+significative	experience
+-LRB-	O
+3	experience
+ans	experience
+minimum	experience
+-RRB-	O
+acquise	experience
+dans	experience
+le	experience
+développement	experience
+et/ou	experience
+l'intégration	experience
+industrielle	experience
+.	O
+Vous	hard skills
+intervenez	hard skills
+dans	hard skills
+des	hard skills
+phases	hard skills
+de	hard skills
+conception	hard skills
+,	
+de	hard skills
+développement	hard skills
+et	hard skills
+d'intégration	hard skills
+de	hard skills
+solutions	hard skills
+techniques	hard skills
+complexes	hard skills
+au	hard skills
+sein	hard skills
+du	hard skills
+bureau	hard skills
+d'études	hard skills
+.	O
+Expériences	O
+:	O
+conception	experience
+et	experience
+gestion	experience
+de	experience
+projets	experience
+au	experience
+sein	experience
+d'un	experience
+bureau	experience
+d'études	experience
+.	O
+Logiciels	hard skills
+:	O
+Bonne	hard skills
+maîtrise	hard skills
+du	hard skills
+logiciel	hard skills
+CAO	hard skills
+3D	hard skills
+SOLIDWORKS	hard skills
+-LRB-	O
+module	hard skills
+tôlerie	hard skills
+-RRB-	O
+Bonne	hard skills
+maîtrise	hard skills
+du	hard skills
+logiciel	hard skills
+CAO	hard skills
+2D	hard skills
+AUTOCAD	hard skills
+Maîtrise	hard skills
+du	hard skills
+Pack	hard skills
+office	hard skills
+:	O
+Word	hard skills
+,	O
+Excel	hard skills
+...	O
+-	O
+Langue	
+:	O
+Anglais	hard skills
+technique	hard skills
+.	O
+-	O
+Savoir-être	soft skills
+:	O
+autonomie	soft skills
+,	O
+rigueur	soft skills
+,	O
+goût	soft skills
+du	soft skills
+résultat	soft skills
+,	O
+esprit	soft skills
+d'équipe	soft skills
+.	O
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+34	salary
+0	salary
+$	salary
+à	O
+40	salary
+0	salary
+$	salary
+/	O
+an	salary

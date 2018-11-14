@@ -1,0 +1,133 @@
+Assistant	position
+de	position
+copropriétés	position
+H/F	
+LOFT	company
+ONE	company
+-	O
+SPIM	company
+-	O
+Argenteuil	city
+-LRB-	O
+95	postal code
+-RRB-	O
+2	salary
+115	salary
+$	salary
+-	O
+2	salary
+298	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Groupe	O
+LOFT	company
+ONE	company
+-	O
+SPIM	company
+recrute	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+Copropriété	position
+confirmé	position
+dans	O
+le	O
+cadre	O
+d'un	O
+surcroît	O
+d'activité	O
+.	O
+Vous	hard skills
+assistez	hard skills
+les	hard skills
+gestionnaires	hard skills
+de	hard skills
+copropriétés	hard skills
+pour	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+différentes	hard skills
+décisions	hard skills
+prises	hard skills
+lors	hard skills
+des	hard skills
+assemblées	hard skills
+générales	hard skills
+.	
+Outre	hard skills
+les	hard skills
+tâches	hard skills
+courantes	hard skills
+:	
+traitement	hard skills
+des	hard skills
+appels	hard skills
+téléphoniques	hard skills
+,	
+courriers	hard skills
+,	O
+convocations	hard skills
+AG	hard skills
+,	O
+gestion	hard skills
+des	hard skills
+dossiers	hard skills
+sinistres	hard skills
+/	O
+contentieux	hard skills
+";"	O
+vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+les	hard skills
+demandes	hard skills
+de	hard skills
+devis	hard skills
+,	O
+le	hard skills
+suivi	hard skills
+et	hard skills
+le	hard skills
+classement	hard skills
+des	hard skills
+dossiers	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+différentes	hard skills
+relances	hard skills
+.	
+Salaire	O
+selon	O
+expérience	O
+.	O
+39H	O
+Hebdomadaire	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+115	salary
+$	salary
+à	O
+2	salary
+298	salary
+$	salary
+/	O
+mois	salary

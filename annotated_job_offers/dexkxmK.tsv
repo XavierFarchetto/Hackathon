@@ -1,0 +1,193 @@
+Réceptionniste	position
+de	position
+nuit	position
+Idol	company
+Hotel	company
+-	O
+Paris	city
+8e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+DESCRIPTIF	O
+DE	O
+L'OFFRE	O
+Notre	O
+boutique	O
+Hôtel	O
+4	O
+étoiles	O
+32	O
+chambres	O
+recrute	O
+un	position
+réceptionniste	position
+de	position
+Nuit	position
+en	O
+CDI	contrat_type
+.	O
+En	O
+qualité	O
+de	O
+Réceptionniste	O
+H/F	O
+,	O
+vous	hard skills
+êtes	hard skills
+rattaché	hard skills
+au	hard skills
+chef	hard skills
+de	hard skills
+réceptiojn	hard skills
+et	hard skills
+assurez	hard skills
+notamment	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:
+-	O
+3	hard skills
+et	hard skills
+4	hard skills
+nuits	hard skills
+par	hard skills
+semaine	hard skills
+alternativement	hard skills
+,
+horaires	hard skills
+20H30	hard skills
+à	hard skills
+07H30	hard skills
+";"	hard skills
+les	hard skills
+dimanches	hard skills
+-LRB-
+01-févr	hard skills
+-RRB-
+et	hard skills
+lundi	hard skills
+mardi	hard skills
+mercredi	hard skills
+-	O
+Assurer	hard skills
+les	hard skills
+check-in	hard skills
+et	hard skills
+les	hard skills
+check	hard skills
+out	hard skills
+,	O
+la	hard skills
+facturation	hard skills
+et	hard skills
+les	hard skills
+encaissements	hard skills
+,	O
+les	hard skills
+email	hard skills
+,
+Saisir	hard skills
+les	hard skills
+réservations	hard skills
+.
+-	O
+Assurer	hard skills
+le	hard skills
+suivi	hard skills
+et	hard skills
+la	hard skills
+passation	hard skills
+des	hard skills
+consignes	hard skills
+-
+Service	hard skills
+du	hard skills
+bar	hard skills
+et	hard skills
+room	hard skills
+service	hard skills
+en	hard skills
+chambre	hard skills
+,
+mettre	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+préparer	hard skills
+le	hard skills
+petit	hard skills
+déjeuner	hard skills
+,	O
+assurer	hard skills
+la	hard skills
+propreté	hard skills
+général	hard skills
+du	hard skills
+lobby	hard skills
+,	O
+du	hard skills
+bar	hard skills
+ainsi	hard skills
+que	hard skills
+des	hard skills
+extérieurs	hard skills
+de	hard skills
+l'hôtel	hard skills
+.	O
+Une	experience
+première	experience
+expérience	experience
+dans	experience
+le	experience
+secteur	experience
+de	experience
+l'hôtellerie	experience
+est	experience
+un	experience
+VRAI	experience
+plus	experience
+-LRB-
+stage	experience
+ou	experience
+emploi	experience
+-RRB-
+,	O
+Anglais	hard skills
+courant	hard skills
+Vous	hard skills
+êtes	hard skills
+à	hard skills
+l'aise	hard skills
+avec	hard skills
+les	hard skills
+outils	hard skills
+et	hard skills
+logiciels	hard skills
+informatiques.Sens	hard skills
+relationnel	soft skills
+et	soft skills
+contact	soft skills
+clients	soft skills
+,
+Excellente	soft skills
+présentation	soft skills
+.	O
+Type
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+Réception	experience
+Hotellerie	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

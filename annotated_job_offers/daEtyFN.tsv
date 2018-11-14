@@ -1,0 +1,181 @@
+Jardinier	position
+Paysagiste	position
++	O
+Permis	hard skills
+B	hard skills
+H/F	O
+Vert	company
+l'Objectif	company
+-	O
+Paris	city
+12e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Agence	O
+d'interim	O
+spécialisée	O
+dans	O
+les	O
+espaces	O
+verts	O
+,	O
+nous	O
+proposons	O
+aux	O
+personnes	O
+formées	O
+aux	O
+métiers	O
+des	O
+espaces	O
+verts	O
+,	O
+des	O
+postes	O
+de	O
+jardinier	O
+,	O
+paysagiste	O
+,	O
+maçon	O
+paysagiste	O
+,	O
+élagueur	O
+,	O
+jardinier	O
+de	O
+golf	O
+,	O
+chef	O
+d'équipe	O
+,	O
+chef	O
+de	O
+chantier	O
+ou	O
+conducteur	O
+d'engins	O
+de	O
+nombreuses	O
+offres	O
+d'emploi	O
+en	O
+interim	contrat_type
+,	O
+CDD	contrat_type
+ou	O
+CDI	contrat_type
+en	O
+Ile	O
+de	O
+France	O
+.	O
+Pour	O
+plusieurs	O
+de	O
+nos	O
+clients	O
+,	O
+nous	O
+recherchons	O
+actuellement	O
+des	position
+ouvriers	position
+paysagistes	position
+-LRB-	O
+h/f	O
+-RRB-	O
+sur	O
+toute	O
+l'Île-de-France	O
+.	O
+Ponctuels	soft skills
+,	O
+sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+,	
+pour	hard skills
+chantier	hard skills
+d'entretien	hard skills
+et	hard skills
+création	hard skills
+en	hard skills
+espaces	hard skills
+verts	hard skills
+.	O
+Compétences	O
+:	O
+-	O
+Entretien	hard skills
+:	O
+tonte	hard skills
+,	O
+taille	hard skills
+-LRB-	O
+arbustes	hard skills
+,	O
+haies	hard skills
+...	O
+-RRB-	
+,	O
+débroussaillage	hard skills
+,	O
+bêchage	hard skills
+,	O
+binage	hard skills
+,	O
+application	hard skills
+de	hard skills
+produits	hard skills
+phytosanitaires	hard skills
+...	O
+-	O
+Création	hard skills
+:	O
+Plantations	hard skills
+-LRB-	O
+fleurs	hard skills
+,	O
+arbustes	hard skills
+,	O
+massifs	hard skills
+...	O
+-RRB-	
+,	O
+engazonnement	hard skills
+,	O
+arrosage	hard skills
+automatique	hard skills
+Profil	O
+:	O
+-	O
+Formation	experience
+diplômante	experience
+-LRB-	
+CAPA	experience
+,	O
+BEPA	experience
+,	O
+BAC	experience
+PRO	experience
+-RRB-	
+.	O
+-	O
+Ou	experience
+expérience	experience
+en	experience
+entreprise	experience
+d'au	experience
+moins	experience
+6	experience
+mois	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

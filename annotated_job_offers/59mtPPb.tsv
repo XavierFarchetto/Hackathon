@@ -1,0 +1,279 @@
+Technicien	position
+Radio	position
+H/F	O
+-LRB-	O
+34	O
+-RRB-	O
+SBC	company
+Energies	company
+-	O
+Montpellier	city
+-LRB-	O
+34	code postal
+-RRB-	O
+23	salary
+0	salary
+$	salary
+-	
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Intérim	contrat_type
+Notre	O
+entreprise	O
+,	O
+SBC	company
+ENERGIES	company
+,	O
+expert	O
+en	O
+recrutement	O
+et	O
+travail	O
+temporaire	O
+''	O
+spécialisé	O
+''	O
+dans	O
+les	O
+métiers	O
+des	O
+Télécoms	O
+/	O
+Réseaux	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+clients	O
+,	O
+acteur	O
+français	O
+majeur	O
+des	O
+télécommunications	O
+le	O
+profil	O
+suivant	O
+:	O
+Technicien	position
+Radio	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Localisation	O
+:	O
+Montpellier	city
+-LRB-	O
+34	code postal
+-RRB-	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD/CDI	contrat_type
+Statut	O
+:	O
+Etam	O
+Début	O
+de	O
+contrat	O
+:	O
+ASAP	O
+Rémunération	O
+:	O
+22/25K	salary
+$	salary
+annuel	salary
+Les	O
+missions	O
+:	O
+Rattaché	hard skills
+au	hard skills
+conducteur	hard skills
+de	hard skills
+travaux	hard skills
+,	
+vous	hard skills
+participez	hard skills
+au	hard skills
+déploiement	hard skills
+de	hard skills
+réseaux	hard skills
+de	hard skills
+radio-télécommunications	hard skills
+.	O
+VOS	hard skills
+MISSIONS	hard skills
+PRINCIPALES	hard skills
+:	O
+-	
+Assurer	hard skills
+des	hard skills
+installations	hard skills
+et	hard skills
+mises	hard skills
+en	hard skills
+service	hard skills
+de	hard skills
+systèmes	hard skills
+de	hard skills
+radio	hard skills
+télécommunications	hard skills
+pour	hard skills
+les	hard skills
+opérateurs	hard skills
+de	hard skills
+téléphonie	hard skills
+mobile	hard skills
+.	O
+-	O
+Commissioning	hard skills
+,	O
+-	
+Effectuer	hard skills
+des	hard skills
+travaux	hard skills
+en	hard skills
+hauteur	hard skills
+.	O
+Des	hard skills
+déplacements	hard skills
+réguliers	hard skills
+sont	hard skills
+à	hard skills
+prévoir	hard skills
+.	O
+Le	O
+profil	
+:	O
+-	O
+De	experience
+formation	experience
+Bac	experience
+Pro	experience
+à	experience
+Bac	experience
+2	experience
+en	experience
+Génie	experience
+Électrique	experience
+et	experience
+Informatique	experience
+industrielle	experience
+,	O
+Génie	experience
+des	experience
+télécommunications	experience
+et	experience
+Réseaux	experience
+,	O
+ou	experience
+Génie	experience
+Électronique	experience
+,	
+-	
+Expérience	experience
+de	experience
+deux	experience
+ans	experience
+souhaitée	experience
+,	O
+débutants	
+acceptés	
+.	O
+-	O
+En	O
+capacité	O
+de	O
+travailler	O
+sur	O
+des	O
+sites	O
+en	O
+hauteur	O
+,	O
+-	O
+Connaissances	hard skills
+techniques	hard skills
+-LRB-	O
+GSM	hard skills
+/	O
+UMTS	hard skills
+/	O
+4G	hard skills
+,	O
+FH	hard skills
+,	O
+IP	hard skills
+,	O
+Réseau	hard skills
+Câblé	hard skills
+-RRB-	O
+.	O
+Autonomie	soft skills
+,	O
+adaptabilité	soft skills
+et	soft skills
+esprit	soft skills
+de	soft skills
+services	soft skills
+sont	
+des	O
+atouts	O
+indispensables	O
+pour	O
+réussir	O
+à	O
+cette	O
+fonction	O
+.	O
+Merci	O
+de	O
+nous	O
+faire	O
+parvenir	O
+votre	O
+candidature	O
+par	O
+mail	O
+Pour	O
+tous	O
+renseignements	O
+,	O
+n'hésitez	O
+-	O
+pas	O
+à	O
+nous	O
+contacter	O
+SBC	company
+ENERGIES	company
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+23	salary
+0	salary
+$	salary
+à	O
+25	salary
+0	salary
+$	salary
+/	
+an	salary
+Certificats	O
+et/ou	O
+accréditations	O
+exigés	O
+:	O
+Habilitation	experience
+électrique	experience
+Habilitation	experience
+hauteur	experience

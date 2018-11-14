@@ -1,0 +1,186 @@
+RESPONSABLE	position
+DE	position
+RAYON	position
+INTERMARCHE	company
+MARSEILLE	company
+PARADIS	company
+-	
+Marseille	city
+6e	city
+-LRB-	O
+13	postal code
+-RRB-	O
+1	salary
+999	salary
+$	salary
+-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+SUPERMARCHE	company
+CENTRE	company
+VILLE	company
+DE	O
+MARSEILLE	city
+RECHERCHE	O
+UN	position
+RESPONSABLE	position
+DE	position
+SECTEUR	position
+SEC	position
+H/F	O
+Vous	hard skills
+optimisez	hard skills
+l'organisation	hard skills
+et	hard skills
+la	hard skills
+gestion	hard skills
+de	hard skills
+l'univers	hard skills
+sec	hard skills
+.	hard skills
+Vous	hard skills
+animez	hard skills
+et	hard skills
+encadrez	hard skills
+une	hard skills
+équipe	hard skills
+de	hard skills
+3	hard skills
+à	hard skills
+5	hard skills
+collaborateurs	hard skills
+.	hard skills
+Vous	hard skills
+veillez	hard skills
+au	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+en	hard skills
+vigueur	hard skills
+.	hard skills
+Expert	hard skills
+dans	hard skills
+votre	hard skills
+domaine	hard skills
+,	hard skills
+vous	hard skills
+avez	hard skills
+une	hard skills
+parfaite	hard skills
+connaissance	hard skills
+des	hard skills
+gammes	hard skills
+et	hard skills
+des	hard skills
+produits	hard skills
+du	hard skills
+rayon	hard skills
+épicerie	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+commerce	soft skills
+et	soft skills
+vous	soft skills
+disposez	soft skills
+de	soft skills
+qualités	soft skills
+organisationnelles	soft skills
+.	
+En	
+accord	O
+avec	O
+la	O
+direction	O
+,	O
+vous	hard skills
+participerez	hard skills
+à	hard skills
+l'activité	hard skills
+promotionnelle	hard skills
+du	hard skills
+magasin	hard skills
+.	hard skills
+Partie	hard skills
+opérationnelle	hard skills
+:	hard skills
+Mise	hard skills
+en	hard skills
+rayon	hard skills
+,	hard skills
+réception	hard skills
+marchandises	hard skills
+,	hard skills
+gestion	hard skills
+de	hard skills
+stock	hard skills
+,	hard skills
+gestion	hard skills
+des	hard skills
+commandes	hard skills
+,	hard skills
+organisation	hard skills
+et	hard skills
+optimisation	hard skills
+de	hard skills
+la	hard skills
+réserve	hard skills
+.	
+Vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+de	experience
+minimum	experience
+2	experience
+ans	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+en	experience
+supermarché	experience
+.	
+Salaire	O
+indicatif	O
+Mensuel	O
+brut	O
+2	salary
+0	salary
+euros	salary
+sur	salary
+13	salary
+mois	salary
+-	O
+Statut	O
+Agent	O
+de	O
+maitrise	O
+Type	O
+d'emploi	O
+:	
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+999	salary
+$	salary
+à	
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary

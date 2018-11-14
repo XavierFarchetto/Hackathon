@@ -1,0 +1,75 @@
+Ouvrier	position
+agricole	position
+GE	company
+GEM	company
+-	O
+Calonges	city
+-LRB-	O
+47	postal code
+-RRB-	O
+Nous	O
+recherchons	O
+,	O
+pour	O
+notre	O
+client	O
+,	O
+des	position
+ouvriers	position
+agricoles	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+l'entretien	hard skills
+des	hard skills
+fraises	hard skills
+.	
+Début	
+de	O
+la	O
+saison	O
+stolon	O
+en	O
+septembre	O
+.	O
+Si	O
+vous	O
+êtes	O
+intéressé	O
+contacté	O
+nous	O
+au	O
+05.53.79.58.16	O
+ou	O
+au	O
+complexe	O
+agricole	O
+à	O
+Marmande	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Calonges	city
+-LRB-	O
+47	postal code
+-RRB-	O
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

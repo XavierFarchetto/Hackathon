@@ -1,0 +1,263 @@
+Ergothérapeute	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ALLP	company
+-	O
+Lyon	city
+8e	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+880	salary
+$	salary
+-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+ALLP	company
+SANTE	company
+SOCIAL	company
+a	O
+pour	O
+but	O
+d'apporter	O
+aux	O
+patients	O
+,	O
+aux	O
+usagers	O
+et	O
+leur	O
+entourage	O
+ainsi	O
+qu'aux	O
+soignants	O
+des	O
+prestations	O
+concourant	O
+au	O
+maintien	O
+de	O
+leur	O
+santé	O
+dans	O
+le	O
+respect	O
+des	O
+normes	O
+de	O
+qualité	O
+en	O
+vigueur	O
+dans	O
+le	O
+but	O
+essentiel	O
+de	O
+pouvoir	O
+quitter	O
+les	O
+structures	O
+hospitalières	O
+classiques	O
+.	O
+Prestation	O
+:	O
+Le	O
+Service	O
+d'accompagnement	O
+médico-social	O
+pour	O
+adulte	O
+handicapé	O
+-LRB-	O
+SAMSAH	O
+-RRB-	O
+,	O
+le	O
+service	O
+Hospitalisation	O
+à	O
+domicile	O
+pédiatrique	O
+-LRB-	O
+HAD	O
+-RRB-	O
+le	O
+Service	O
+d'évaluation	O
+des	O
+situations	O
+complexes	O
+-LRB-	O
+SESCO	O
+-RRB-	O
+.	O
+Au	O
+sein	O
+du	O
+Service	O
+d'Accompagnement	O
+Médico-Social	O
+pour	O
+Adultes	O
+Handicapés	O
+-LRB-	O
+SAMSAH	O
+-RRB-	O
+,	O
+vous	hard skills
+réalisez	hard skills
+l'évaluation	hard skills
+et	hard skills
+l'analyse	hard skills
+des	hard skills
+incapacités	hard skills
+,	O
+des	hard skills
+inconvénients	hard skills
+,	
+de	hard skills
+l'indépendance	hard skills
+et	hard skills
+de	hard skills
+l'autonomie	hard skills
+de	hard skills
+l'usager	hard skills
+pour	hard skills
+permettre	hard skills
+la	hard skills
+construction	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+vie	hard skills
+.	
+Vous	hard skills
+recherchez	hard skills
+les	hard skills
+solutions	hard skills
+les	hard skills
+plus	hard skills
+adaptées	hard skills
+et	hard skills
+vous	hard skills
+réalisez	hard skills
+la	hard skills
+formation	hard skills
+des	hard skills
+professionnels	hard skills
+aux	hard skills
+techniques	hard skills
+nécessaires	hard skills
+.	O
+Vous	hard skills
+mettez	hard skills
+en	hard skills
+œuvre	hard skills
+votre	hard skills
+plan	hard skills
+d'intervention	hard skills
+requis	hard skills
+à	hard skills
+la	hard skills
+récupération	hard skills
+et	hard skills
+l'adaptation	hard skills
+des	hard skills
+fonctions	hard skills
+physiques	hard skills
+et	hard skills
+cognitives	hard skills
+de	hard skills
+l'usager	hard skills
+dans	hard skills
+son	hard skills
+milieu	hard skills
+de	hard skills
+vie	hard skills
+.	
+Au	hard skills
+sein	hard skills
+d'une	hard skills
+équipe	hard skills
+pluridisciplinaire	hard skills
+,	O
+vous	hard skills
+collaborez	hard skills
+et	hard skills
+transmettez	hard skills
+les	hard skills
+informations	hard skills
+aux	hard skills
+différents	hard skills
+intervenants	hard skills
+,	O
+vous	hard skills
+participez	hard skills
+à	hard skills
+l'élaboration	hard skills
+et	hard skills
+au	hard skills
+développement	hard skills
+du	hard skills
+projet	hard skills
+individuel	hard skills
+de	hard skills
+l'usager	hard skills
+et	hard skills
+intervenez	hard skills
+dans	hard skills
+le	hard skills
+développement	hard skills
+du	hard skills
+service	hard skills
+.	
+CDD	contrat_type
+de	O
+5	O
+mois	O
+-LRB-	O
+remplacement	O
+congé	O
+maternité	O
+-RRB-	O
+-	O
+Temps	O
+partiel	O
+de	O
+80	O
+%	O
+-	O
+Permis	hard skills
+B	hard skills
+obligatoire	hard skills
+-	O
+déplacement	hard skills
+quotidien	hard skills
+au	hard skills
+niveau	hard skills
+de	hard skills
+l'agglomération	hard skills
+Lyonnaise	hard skills
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+880	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	
+mois	salary

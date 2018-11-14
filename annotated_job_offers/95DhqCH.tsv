@@ -1,0 +1,325 @@
+Prothésiste	position
+dentaire	position
+polyvalent	position
+-	O
+H/F	O
+Mutualité	company
+Française	company
+Bourguignonne	company
+SSAM	company
+-	O
+Chevigny-Saint-Sauveur	city
+-LRB-	
+21	code postal
+-RRB-	O
+CDD	contrat_type
+Avec	O
+140	O
+établissements	O
+et	O
+plus	O
+de	O
+4000	O
+salariés	O
+,	O
+la	company
+Mutualité	company
+Française	company
+Bourguignonne	company
+,	O
+-	O
+Services	O
+de	O
+Soins	O
+et	O
+d'Accompagnement	O
+Mutualiste	O
+est	O
+un	O
+acteur	O
+majeur	O
+de	O
+l'Economie	O
+Sociale	O
+et	O
+Solidaire	O
+.	O
+Nous	O
+offrons	O
+de	O
+nombreux	O
+services	O
+en	O
+établissement	O
+et	O
+à	O
+domicile	O
+,	O
+de	O
+l'enfance	O
+au	O
+grand	O
+âge	O
+,	O
+garantissant	O
+un	O
+accès	O
+aux	O
+soins	O
+au	O
+plus	O
+grand	O
+nombre	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+sein	O
+du	O
+Pôle	O
+Santé	O
+notamment	O
+représenté	O
+sur	O
+le	O
+secteur	O
+dentaire	O
+avec	O
+7	O
+centres	O
+dentaires	O
+,	O
+nous	O
+recherchons	O
+pour	O
+notre	O
+laboratoire	O
+de	position
+prothèses	position
+dentaires	position
+un	position
+:	O
+PROTHESISTE-DENTAIRE	position
+POLYVALENT	position
+--	O
+H/F	O
+Généraliste	hard skills
+dans	hard skills
+la	hard skills
+fabrication	hard skills
+de	hard skills
+prothèses	hard skills
+dentaires	hard skills
+conjointes	hard skills
+et	hard skills
+adjointes	hard skills
+,	
+vos	hard skills
+missions	hard skills
+seront	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Pour	hard skills
+la	hard skills
+fabrication	hard skills
+des	hard skills
+prothèses	hard skills
+fixes	hard skills
+:	
+Réaliser	hard skills
+des	hard skills
+prothèses	hard skills
+inlay-core	hard skills
+simples	hard skills
+et	hard skills
+à	hard skills
+clavette	hard skills
+,	
+Assurer	hard skills
+la	hard skills
+fabrication	hard skills
+des	hard skills
+couronnes	hard skills
+coulées	hard skills
+,	
+Fabriquer	hard skills
+des	hard skills
+couronnes	hard skills
+provisoires	hard skills
+,	O
+Concevoir	hard skills
+des	hard skills
+armatures	hard skills
+métalliques	hard skills
+.	
+Pour	hard skills
+la	hard skills
+fabrication	hard skills
+des	hard skills
+prothèses	hard skills
+mobiles	hard skills
+:	O
+Réaliser	hard skills
+des	hard skills
+montages	hard skills
+partiels	hard skills
+et	hard skills
+complets	hard skills
+,	
+Effectuer	hard skills
+des	hard skills
+cires	hard skills
+d'occlusion	hard skills
+et	hard skills
+des	hard skills
+portes	hard skills
+empreintes	hard skills
+individuels	hard skills
+,	O
+Assurer	hard skills
+les	hard skills
+mises	hard skills
+en	hard skills
+moufle	hard skills
+et	hard skills
+les	hard skills
+finitions	hard skills
+des	hard skills
+prothèses	hard skills
+.	O
+1	
+poste	
+en	
+CDD	contrat_type
+d'une	O
+durée	O
+de	O
+4	O
+mois	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+au	O
+sein	O
+de	O
+notre	O
+laboratoire	O
+de	O
+prothèses	O
+dentaires	O
+situé	O
+à	O
+Chevigny-Saint-Sauveur	city
+-LRB-	O
+21	code postal
+-RRB-	O
+,	O
+Rémunération	O
+selon	O
+votre	O
+profil	O
+et	O
+expérience	O
+,	O
+Vous	hard skills
+travaillez	hard skills
+en	hard skills
+équipe	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+notre	hard skills
+laboratoire	hard skills
+disposant	hard skills
+d'un	hard skills
+plateau	hard skills
+technique	hard skills
+et	hard skills
+performant	hard skills
+-LRB-	O
+CFAO	hard skills
+,	
+imprimante	hard skills
+3D	hard skills
+,	O
+centre	hard skills
+d'usinage	hard skills
+...	O
+-RRB-	O
+,	O
+Profil	O
+recherché	O
+:	O
+Vous	O
+êtes	experience
+impérativement	experience
+titulaire	experience
+du	experience
+BTM	experience
+ou	experience
+du	experience
+Bac	experience
+Professionnel	experience
+de	experience
+Prothésiste	experience
+dentaire	experience
+,	
+Vous	experience
+avez	experience
+une	experience
+première	experience
+expérience	experience
+validée	experience
+dans	experience
+la	experience
+réalisation	experience
+de	experience
+prothèses	experience
+fixes	experience
+et	experience
+mobiles	experience
+et	experience
+vous	experience
+avez	experience
+des	experience
+connaissances	experience
+en	experience
+CFAO	experience
+,	
+Vous	soft skills
+appréciez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+vous	soft skills
+vous	soft skills
+retrouvez	soft skills
+dans	soft skills
+les	soft skills
+valeurs	soft skills
+mutualistes	soft skills
+,	
+à	
+savoir	
+l'accès	
+pour	
+TOUS	
+à	
+des	O
+soins	O
+de	O
+qualité	O
+.	O
+Rejoignez-nous	O
+!	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

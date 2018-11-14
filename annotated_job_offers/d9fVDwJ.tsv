@@ -1,0 +1,274 @@
+Chauffeur	position
+Livreur	position
+H	O
+/	O
+F	O
+POTAGER	company
+CITY	company
+-	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+10	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+Potager	company
+City	company
+est	O
+une	O
+start-up	O
+spécialisée	O
+dans	O
+les	O
+fruits	O
+et	O
+légumes	O
+extra-frais	O
+,	O
+livrés	O
+sous	O
+forme	O
+de	O
+paniers	O
+en	O
+points-relais	O
+et	O
+en	O
+entreprise	O
+.	O
+Notre	O
+ambition	O
+?	O
+La	O
+fraîcheur	O
+,	O
+le	O
+goût	O
+,	O
+les	O
+circuits	O
+courts	O
+,	O
+les	O
+produits	O
+locaux	O
+,	O
+le	O
+développement	O
+durable	O
+-LRB-	O
+http://www.potagercity.fr	O
+-RRB-	O
+.	O
+Nous	O
+sommes	O
+présents	O
+dans	O
+la	O
+plupart	O
+des	O
+grandes	O
+villes	O
+françaises	O
+:	O
+Paris	city
+,	O
+Lyon	city
+,	O
+Bordeaux	city
+,	O
+Toulouse	city
+,	O
+Grenoble	city
+,	O
+Marseille	city
+,	O
+Montpellier	city
+...	O
+et	O
+nous	O
+recherchons	O
+,	O
+pour	O
+vitaminer	O
+notre	O
+équipe	O
+siège	O
+à	O
+Lyon	city
+-LRB-	O
+Toussieu	city
+-	O
+69	postal code
+-RRB-	O
+,	O
+un	position
+Chauffeur/Livreur	position
+H/F	O
+dès	O
+que	O
+possible	O
+.	O
+Vos	hard skills
+missions	hard skills
+Le	hard skills
+chargement	hard skills
+et	hard skills
+déchargement	hard skills
+des	hard skills
+paniers	hard skills
+de	hard skills
+fruits	hard skills
+et	hard skills
+légumes	hard skills
+La	hard skills
+livraison	hard skills
+de	hard skills
+ces	hard skills
+paniers	hard skills
+chez	hard skills
+nos	hard skills
+clients	hard skills
+,	hard skills
+en	hard skills
+suivant	hard skills
+un	hard skills
+ordre	hard skills
+de	hard skills
+tournée	hard skills
+précis	hard skills
+En	hard skills
+tant	hard skills
+que	hard skills
+livreur	hard skills
+,	hard skills
+vous	hard skills
+êtes	hard skills
+l'ambassadeur	hard skills
+de	hard skills
+l'image	hard skills
+de	hard skills
+notre	hard skills
+société	hard skills
+.	
+De	
+ce	
+fait	
+,	
+nous	
+attendons	
+de	
+vous	
+un	soft skills
+bon	soft skills
+sens	soft skills
+du	soft skills
+relationnel	soft skills
+et	soft skills
+un	soft skills
+comportement	soft skills
+irréprochable	soft skills
+avec	soft skills
+nos	soft skills
+clients	soft skills
+.	
+Votre	soft skills
+profil	soft skills
+Ponctuel	soft skills
+,	O
+rigoureux	soft skills
+et	soft skills
+dynamique	soft skills
+,	O
+vous	soft skills
+avez	soft skills
+à	soft skills
+cœur	soft skills
+de	soft skills
+participer	soft skills
+à	soft skills
+la	soft skills
+réussite	soft skills
+de	soft skills
+toute	soft skills
+l'équipe	soft skills
+et	soft skills
+êtes	soft skills
+en	soft skills
+parfaite	soft skills
+condition	soft skills
+physique	soft skills
+.	
+Notre	
+offre	O
+Un	O
+poste	O
+en	O
+CDI	contrat_type
+32h	O
+du	O
+mardi	O
+au	O
+vendredi	O
+Rémunération	O
+de	O
+10	salary
+$	salary
+bruts	salary
+de	salary
+l'heure	salary
+,	O
+soit	O
+environ	O
+1380	salary
+$	salary
+bruts	salary
+mensuels	salary
+Une	
+équipe	O
+sympa	O
+et	O
+dynamique	O
+Pour	O
+postuler	O
+,	O
+envoyer	O
+CV	O
++	O
+lettre	O
+de	O
+motivation	O
+-LRB-	O
+les	O
+candidatures	O
+sans	O
+lettre	O
+de	O
+motivation	O
+ne	O
+seront	O
+pas	O
+étudiées	O
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+conduite	experience
+de	experience
+véhicule	experience
+:	O
+1	experience
+an	experience

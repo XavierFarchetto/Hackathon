@@ -1,0 +1,114 @@
+RIPEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+PROMAN	company
+-	O
+Trémery	city
+-LRB-	
+57	code postal
+-RRB-	O
+Intérim	contrat_type
+RIPEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+L'agence	company
+PROMAN	company
+de	O
+Metz	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+clients	O
+,	O
+DES	position
+RIPEURS	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vos	O
+missions	O
+principales	O
+:	O
+-	O
+Vérifier	hard skills
+l'état	hard skills
+des	hard skills
+poignets	hard skills
+de	hard skills
+maintien	hard skills
+et	hard skills
+des	hard skills
+marches	hard skills
+pieds	hard skills
+-	
+Guider	hard skills
+le	hard skills
+conducteur	hard skills
+lors	hard skills
+des	hard skills
+manœuvres	hard skills
+-	O
+Collecte	hard skills
+des	hard skills
+sacs	hard skills
+,	O
+des	hard skills
+bacs	hard skills
+roulants	hard skills
+et	hard skills
+d'objets	hard skills
+hétérogènes	hard skills
+-	O
+Respect	hard skills
+des	hard skills
+règles	hard skills
+et	hard skills
+des	hard skills
+consignes	hard skills
+de	hard skills
+sécurité	hard skills
+.	O
+Vous	O
+êtes	soft skills
+rigoureux	soft skills
+,	O
+organisé	soft skills
+,	O
+dynamique	soft skills
+et	soft skills
+vous	experience
+bénéficiez	experience
+d'une	experience
+première	experience
+expérience	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+,	O
+inscrivez-vous	O
+sur	O
+le	O
+site	O
+Proman	O
+!	O
+http://www.proman-emploi.fr/candidat/deposez-votre-candidature/	O
+Toute	O
+candidature	O
+envoyée	O
+par	O
+mail	O
+ne	O
+sera	O
+pas	O
+traitée	O
+!	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type

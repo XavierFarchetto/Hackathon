@@ -1,0 +1,83 @@
+Secrétaire	position
+comptable	position
+-LRB-	O
+H/F	O
+-RRB-	O
+BM33	company
+-	O
+Eysines	city
+-LRB-	O
+33	postal code
+-RRB-	O
+CDI	contrat_type
+Société	O
+spécialisée	O
+dans	O
+la	O
+réparation	O
+d'automobiles	O
+et	O
+la	O
+vente	O
+de	O
+pièces	O
+BMW	O
+et	O
+MINI	O
+recherche	O
+une	position
+Secrétaire	position
+comptable	position
+polyvalent	position
+-LRB-	O
+e	position
+-RRB-	O
+H/F	O
+ayant	hard skills
+une	hard skills
+très	hard skills
+bonne	hard skills
+connaissance	hard skills
+d	hard skills
+internet	hard skills
+pour	hard skills
+facturation	hard skills
+secrétariat	hard skills
+gestion	hard skills
+des	hard skills
+annonces	hard skills
+sur	hard skills
+site	hard skills
+et	hard skills
+internet	hard skills
+achat	hard skills
+vente	hard skills
+véhicules	hard skills
+occasion	hard skills
+et	hard skills
+pièces	hard skills
+détachées	hard skills
+BMW	hard skills
+et	hard skills
+MINI	hard skills
+Titulaire	hard skills
+du	hard skills
+permis	hard skills
+de	hard skills
+conduire	hard skills
+indispensable	hard skills
+Poste	O
+à	O
+EYSINES	city
+-LRB-	O
+33520	postal code
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

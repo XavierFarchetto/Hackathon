@@ -1,0 +1,103 @@
+Pâtissier	position
+H/F	O
+LE	company
+FOURNIL	company
+DE	company
+SALON	company
+-	O
+Salon-de-Provence	city
+-LRB-	O
+13	postal code
+-RRB-	O
+2	salary
+400	salary
+$	salary
+-	
+2	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Assurer	hard skills
+la	hard skills
+confection	hard skills
+de	hard skills
+l'ensemble	hard skills
+des	hard skills
+pâtisseries	hard skills
+,	
+viennoiseries	hard skills
+,	O
+tarteries	hard skills
+-LRB-	O
+quiches	hard skills
+,	O
+pizzas	hard skills
+et	hard skills
+autres	hard skills
+feuilletés	hard skills
+-RRB-	O
+.	O
+Assurer	hard skills
+le	hard skills
+nettoyage	hard skills
+du	hard skills
+laboratoire	hard skills
+.	
+Passer	hard skills
+les	hard skills
+commandes	hard skills
+,	
+contrôler	hard skills
+les	hard skills
+stocks	hard skills
+et	hard skills
+les	hard skills
+bons	hard skills
+de	hard skills
+livraisons	hard skills
+CDI	contrat_type
+42	O
+H	O
+hebdomadaire	O
+Salaire	O
+de	O
+2400	salary
+$	salary
+à	O
+2600	salary
+$	salary
+Brut	salary
+à	O
+négocier	O
+selon	O
+expérience	O
+Contact	O
+:	O
+06/12/1936	O
+/	O
+85/61	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+400	salary
+$	salary
+à	O
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Boulangerie	experience
+:	O
+3	experience
+ans	experience

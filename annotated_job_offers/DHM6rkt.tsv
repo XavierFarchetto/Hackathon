@@ -1,0 +1,290 @@
+Commis	position
+de	position
+cuisine	position
+H/F	O
+Groupe	company
+arkose	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Arkose	company
+,	O
+salle	O
+d'escalade	O
+et	O
+de	O
+restaurant	O
+propose	O
+à	O
+toute	O
+heure	O
+un	O
+lieu	O
+de	O
+vie	O
+axé	O
+sur	O
+le	O
+sport	O
+et	O
+une	O
+restauration	O
+saine	O
+et	O
+créative	O
+!	O
+La	O
+société	O
+Arkose	O
+ouvre	O
+sa	O
+première	O
+salle	O
+fin	O
+décembre	O
+2013	O
+dans	O
+un	O
+quartier	O
+en	O
+plein	O
+développement	O
+de	O
+l'Est	O
+parisien	O
+:	O
+Montreuil	O
+.	O
+Aujourd	O
+`	O
+hui	O
+Arkose	O
+est	O
+implanté	O
+dans	O
+6	O
+villes	O
+:	O
+Montreuil	O
+,	O
+Bordeaux	O
+,	O
+Massy	O
+,	O
+Paris	O
+-LRB-	O
+Nation	O
+-RRB-	O
+,	O
+Lyon	O
+et	O
+Villeurbanne	O
+.	O
+Le	O
+groupe	O
+compte	O
+poursuivre	O
+son	O
+développement	O
+en	O
+France	O
+et	O
+à	O
+l'étranger	O
+.	O
+Vous	hard skills
+travaillez	hard skills
+sous	hard skills
+les	hard skills
+ordres	hard skills
+du	hard skills
+chef	hard skills
+cuisinier	hard skills
+.	
+Vos	hard skills
+missions	hard skills
+:	O
+o	hard skills
+Aide	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+.	hard skills
+o	hard skills
+Participation	hard skills
+à	hard skills
+la	hard skills
+production	hard skills
+culinaire	hard skills
+de	hard skills
+l'établissement	hard skills
+,	hard skills
+conformément	hard skills
+aux	hard skills
+fiches	hard skills
+techniques	hard skills
+et	hard skills
+aux	hard skills
+recommandations	hard skills
+de	hard skills
+son	hard skills
+supérieur	hard skills
+.	hard skills
+o	hard skills
+Participation	hard skills
+au	hard skills
+service	hard skills
+de	hard skills
+ladite	hard skills
+production	hard skills
+.	hard skills
+o	hard skills
+Réception	hard skills
+et	hard skills
+rangement	hard skills
+des	hard skills
+marchandises	hard skills
+.	hard skills
+o	hard skills
+Préparation	hard skills
+des	hard skills
+repas	hard skills
+du	hard skills
+personnel	hard skills
+.	hard skills
+o	hard skills
+Nettoyage	hard skills
+du	hard skills
+matériel	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+cuisine	hard skills
+et	hard skills
+des	hard skills
+offices	hard skills
+.	hard skills
+o	O
+Assistance	hard skills
+au	hard skills
+chef	hard skills
+de	hard skills
+cuisine	hard skills
+dans	hard skills
+le	hard skills
+contrôle	hard skills
+de	hard skills
+la	hard skills
+propreté	hard skills
+de	hard skills
+la	hard skills
+zone	hard skills
+de	hard skills
+travail	hard skills
+-LRB-	
+contrôles	hard skills
+de	hard skills
+température	hard skills
+des	hard skills
+enceintes	hard skills
+réfrigérée	hard skills
+et	hard skills
+de	hard skills
+l'huile	hard skills
+de	hard skills
+friture	hard skills
+";"	
+de	hard skills
+propreté	hard skills
+des	hard skills
+grilles	hard skills
+de	hard skills
+ventilation	hard skills
+des	hard skills
+équipements	hard skills
+frigorifiques	hard skills
+ainsi	hard skills
+que	hard skills
+l'état	hard skills
+intérieur	hard skills
+des	hard skills
+congélateurs	hard skills
+";"	
+veille	hard skills
+à	hard skills
+la	hard skills
+propreté	hard skills
+des	hard skills
+grilles	hard skills
+d'évacuations	hard skills
+des	hard skills
+eaux	hard skills
+usées	hard skills
+-RRB-	
+.	O
+PLANNING	O
+A	O
+DÉTERMINER	O
+AVEC	O
+L'EMPLOYEUR	O
+et	O
+l'équipe	O
+de	O
+cuisine	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+1	salary
+700	salary
+$	salary
+/	
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+cuisine	experience
+:	O
+3	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills
+Certificat	
+ou	O
+accréditation	O
+exigés	O
+:	O
+CAP	experience
+Cuisine	experience

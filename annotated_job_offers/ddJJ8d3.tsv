@@ -1,0 +1,322 @@
+Chef	position
+de	position
+rayon	position
+Multimédia	company
+confirmé	company
+LECLERC	company
+-	O
+Essonnes	city
+-LRB-	O
+91	postal code
+-RRB-	O
+2	salary
+500	salary
+$	salary
+-	O
+2	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Entreprise	O
+indépendante	O
+de	O
+l'enseigne	O
+E.leclerc	company
+recherche	O
+pour	O
+son	O
+Hypermarché	O
+:	O
+CHEF	position
+DE	position
+RAYON	position
+MULTIMEDIA	position
+H/F	O
+Sous	O
+la	O
+responsabilité	O
+de	O
+la	O
+Direction	O
+,	O
+vous	hard skills
+gérez	hard skills
+le	hard skills
+compte	hard skills
+d'exploitation	hard skills
+de	hard skills
+vos	hard skills
+rayons	hard skills
+de	hard skills
+façon	hard skills
+autonome	hard skills
+et	hard skills
+responsable	hard skills
+,	
+et	hard skills
+en	hard skills
+garantissez	hard skills
+les	hard skills
+résultats	hard skills
+en	hard skills
+termes	hard skills
+de	hard skills
+chiffre	hard skills
+d'affaires	hard skills
+,	
+de	hard skills
+marge	hard skills
+,	
+de	hard skills
+gestion	hard skills
+des	hard skills
+pertes	hard skills
+,	
+de	hard skills
+frais	hard skills
+de	hard skills
+personnel	hard skills
+,	O
+d'achats	hard skills
+et	hard skills
+de	hard skills
+stocks	hard skills
+.	O
+Dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+politique	hard skills
+commerciale	hard skills
+et	hard skills
+marketing	hard skills
+du	hard skills
+magasin	hard skills
+,	O
+vous	hard skills
+assurez	hard skills
+l'analyse	hard skills
+des	hard skills
+études	hard skills
+de	hard skills
+marché	hard skills
+,	
+les	hard skills
+implantations	hard skills
+des	hard skills
+rayons	hard skills
+,	
+les	hard skills
+actions	hard skills
+de	hard skills
+promotions	hard skills
+,	O
+les	hard skills
+relations	hard skills
+avec	hard skills
+les	hard skills
+fournisseurs	hard skills
+-LRB-	O
+négociations	hard skills
+,	O
+commandes	hard skills
+,	O
+relances	hard skills
+,	O
+litiges	hard skills
+-RRB-	O
+.	O
+Animateur	hard skills
+et	hard skills
+fédérateur	hard skills
+,	O
+vous	hard skills
+encadrez	hard skills
+une	hard skills
+équipe	hard skills
+commerciale	hard skills
+de	hard skills
+4	hard skills
+personnes	hard skills
+,	hard skills
+et	hard skills
+pouvez	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+intervenir	hard skills
+lors	hard skills
+des	hard skills
+entretiens	hard skills
+de	hard skills
+recrutement	hard skills
+,	O
+de	hard skills
+leur	hard skills
+formation	hard skills
+et	hard skills
+de	hard skills
+leur	hard skills
+évaluation.En	hard skills
+collaboration	hard skills
+avec	hard skills
+votre	hard skills
+équipe	hard skills
+,	O
+vous	hard skills
+participez	hard skills
+à	hard skills
+la	hard skills
+vente	hard skills
+et	hard skills
+veillez	hard skills
+au	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+en	hard skills
+vigueur	hard skills
+.	O
+Votre	soft skills
+capacité	soft skills
+à	soft skills
+déléguer	soft skills
+en	soft skills
+contrôlant	soft skills
+vous	soft skills
+permettra	soft skills
+de	soft skills
+veiller	soft skills
+à	soft skills
+la	soft skills
+mise	soft skills
+en	soft skills
+application	soft skills
+de	soft skills
+vos	soft skills
+directives	soft skills
+en	soft skills
+matière	soft skills
+de	soft skills
+qualité	soft skills
+des	soft skills
+produits	soft skills
+,	
+de	soft skills
+service	soft skills
+rendu	soft skills
+à	soft skills
+la	soft skills
+clientèle	soft skills
+,	
+d'hygiène	soft skills
+et	soft skills
+de	soft skills
+sécurité	soft skills
+alimentaire.Véritable	soft skills
+intermédiaire	soft skills
+entre	soft skills
+l'enseigne	soft skills
+et	soft skills
+ses	soft skills
+clients	soft skills
+vous	soft skills
+aimez	soft skills
+le	soft skills
+contact	soft skills
+et	soft skills
+savez	soft skills
+faire	soft skills
+preuve	soft skills
+d'écoute	soft skills
+et	soft skills
+de	soft skills
+diplomatie.Votre	soft skills
+dynamisme	soft skills
+,	O
+votre	soft skills
+réactivité	soft skills
+et	soft skills
+votre	soft skills
+sens	soft skills
+de	soft skills
+l'initiative	soft skills
+sont	soft skills
+des	soft skills
+atouts	soft skills
+incontestables	soft skills
+dans	soft skills
+vos	soft skills
+missions	soft skills
+.	O
+Doté	soft skills
+d'une	soft skills
+excellente	soft skills
+capacité	soft skills
+d'analyse	soft skills
+et	soft skills
+de	soft skills
+prise	soft skills
+de	soft skills
+décision	soft skills
+,	
+vous	hard skills
+maîtrisez	hard skills
+les	hard skills
+outils	hard skills
+de	hard skills
+gestion	hard skills
+et	hard skills
+la	hard skills
+commercialisation	hard skills
+de	hard skills
+vos	hard skills
+produits	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+500	salary
+$	salary
+à	O
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+500	salary
+$	salary
+à	
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Gestion	experience
+De	experience
+Rayon	experience
+:	O
+3	experience
+ans	experience

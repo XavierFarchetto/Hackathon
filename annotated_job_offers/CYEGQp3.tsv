@@ -1,0 +1,164 @@
+charge	position
+de	position
+mission	position
+HSE	company
+GE64	company
+-	O
+Saint-Palais	city
+-LRB-	O
+64	postal code
+-RRB-	O
+Nous	O
+recherchons	O
+pour	O
+un	O
+de	O
+nos	O
+adhérents	O
+,	O
+un	position
+chargé	position
+de	position
+mission	position
+Hygiène	O
+Sécurité	O
+Environnement	O
+.	O
+Vous	hard skills
+mettez	hard skills
+à	hard skills
+jour	hard skills
+les	hard skills
+dossiers	hard skills
+sécurité	hard skills
+et	hard skills
+les	hard skills
+différents	hard skills
+dossiers	hard skills
+règlementaires	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+d'	hard skills
+identifier	hard skills
+,	
+évaluer	hard skills
+et	hard skills
+maîtriser	hard skills
+tous	hard skills
+les	hard skills
+risques	hard skills
+professionnels	hard skills
+:	
+conditions	hard skills
+de	hard skills
+travail	hard skills
+,	
+de	hard skills
+sécurité	hard skills
+des	hard skills
+personnes	hard skills
+et	hard skills
+du	hard skills
+matériel	hard skills
+ou	hard skills
+protection	hard skills
+de	hard skills
+l'environnement	hard skills
+.	
+Vous	hard skills
+proposez	hard skills
+des	hard skills
+mesures	hard skills
+pour	hard skills
+éviter	hard skills
+ces	hard skills
+risques	hard skills
+professionnels	hard skills
+.	O
+Formation	O
+:	O
+Diplome	experience
+de	experience
+niveau	experience
+minimum	experience
+BAC	experience
+2	experience
+en	experience
+HSE	experience
+.	O
+Expérience	O
+:	O
+Vous	experience
+avez	experience
+une	experience
+première	experience
+expérience	experience
+réussie	experience
+en	experience
+industrie	experience
+-	O
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+et	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+diplomatie	soft skills
+et	soft skills
+de	soft skills
+pédagogie	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+réactif	soft skills
+et	soft skills
+avez	soft skills
+sens	soft skills
+de	soft skills
+l'initiative	soft skills
+.	O
+Vous	soft skills
+sens	soft skills
+de	soft skills
+l'observation	soft skills
+et	soft skills
+votre	soft skills
+rigueur	soft skills
+seront	O
+autant	O
+d'atouts	O
+pour	O
+réussir	O
+sur	O
+ce	O
+poste	O
+.	O
+CDD	contrat_type
+1	contrat_type
+an	contrat_type
+temps	contrat_type
+complet	contrat_type
+à	O
+pourvoir	O
+début	O
+décembre	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Saint-Palais	city
+-LRB-	O
+64	postal code
+-RRB-	O

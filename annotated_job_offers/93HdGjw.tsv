@@ -1,0 +1,297 @@
+CDI	contrat_type
+Chef	position
+de	position
+produit	position
+Marketing	position
+et	position
+support	position
+aux	position
+ventes	position
+H/F	O
+NAOS	company
+immobilier	company
+-	O
+Paris	city
+5e	city
+-LRB-	
+75	code postal
+-RRB-	O
+1	salary
+467	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+MISSION	O
+Marketing	hard skills
+-	O
+Benchmark	hard skills
+de	hard skills
+nouveaux	hard skills
+services	hard skills
+innovants	hard skills
+dans	hard skills
+le	hard skills
+secteur	hard skills
+de	hard skills
+l'immobilier	hard skills
+-LRB-	
+logiciel	hard skills
+,	O
+appli	hard skills
+,	O
+etc	O
+...	O
+-RRB-	O
+-	O
+Analyse	hard skills
+des	hard skills
+statistiques	hard skills
+de	hard skills
+publicité	hard skills
+et	hard skills
+recommandation	hard skills
+-	
+Gestion	hard skills
+de	hard skills
+la	hard skills
+relation	hard skills
+fournisseur	hard skills
+-	O
+Rédaction	hard skills
+de	hard skills
+texte	hard skills
+-LRB-	
+plaquette	hard skills
+client	hard skills
+,	O
+book	hard skills
+,	O
+newsletter	hard skills
+-RRB-	O
+-	O
+Lancement	hard skills
+de	hard skills
+campagnes	hard skills
+de	hard skills
+communication	hard skills
+-LRB-	O
+sms	hard skills
+,	O
+emailing	hard skills
+etc	
+...	O
+-RRB-	O
+-	O
+Community	hard skills
+management	hard skills
+-LRB-	O
+Linkedin	hard skills
+,	O
+Viadeo	hard skills
+,	O
+Facebook	hard skills
+,	O
+Twitter	hard skills
+etc	
+...	O
+-RRB-	O
+Accompagnement	hard skills
+et	hard skills
+fidélisation	hard skills
+des	hard skills
+conseillers	hard skills
+immobiliers	hard skills
+-	O
+Intégration	hard skills
+des	hard skills
+conseillers	hard skills
+-LRB-	O
+statut	hard skills
+,	O
+outil	hard skills
+,	O
+process	hard skills
+-RRB-	O
+-	O
+Suivi	hard skills
+des	hard skills
+dossiers	hard skills
+PROFIL	
+RECHERCHE	O
+-	O
+Rigoureux	soft skills
+,	O
+organisé	soft skills
+,	O
+bon	soft skills
+suivi	soft skills
+des	soft skills
+process	soft skills
+-	O
+Créatif	soft skills
+,	O
+belle	soft skills
+plume	soft skills
+,	O
+force	soft skills
+de	soft skills
+proposition	soft skills
+-	O
+Volontaire	soft skills
+,	O
+travailleur	soft skills
+,	O
+et	soft skills
+impliqué	soft skills
+-	
+Esprit	soft skills
+d'équipe	soft skills
+,	O
+humour	soft skills
+et	soft skills
+sens	soft skills
+du	soft skills
+fun	soft skills
+!	O
+LOGICIEL	hard skills
+-	O
+Outlook	hard skills
+-	
+Word	hard skills
+-	O
+Excel	hard skills
+-	O
+Powerpoint	hard skills
+-	O
+Illustrator	hard skills
+,	O
+Photoshop	hard skills
+,	O
+langage	hard skills
+html	hard skills
+sont	
+des	O
+plus	O
+MODALITE	O
+-	O
+Contrat	O
+:	O
+CDI	contrat_type
+-	O
+Début	O
+de	O
+la	O
+mission	O
+:	O
+Poste	O
+à	O
+pourvoir	O
+de	O
+suite	O
+-	O
+Nb	O
+de	O
+recrutement	O
+:	O
+1	O
+-	O
+Rémunération	O
+:	O
+1	salary
+466,62	salary
+$	salary
+brut	salary
++	O
+primes	O
+-	O
+Lieu	O
+de	O
+travail	O
+:	O
+81	O
+boulevard	O
+Saint	O
+Michel	O
+75	code postal
+5	O
+Paris	city
+-LRB-	O
+en	O
+face	O
+du	O
+jardin	O
+du	O
+Luxembourg	O
+-RRB-	O
+Station	O
+Luxembourg	O
+-	O
+Niveau	O
+de	O
+formation	O
+:	O
+Bac	experience
+2	experience
+à	O
+Bac	experience
+5	experience
+-	O
+Prérequis	experience
+:	O
+formation	experience
+en	experience
+commerce	experience
+,	O
+marketing	experience
+,	O
+ressources	experience
+humaines	experience
+,	O
+management	experience
+,	O
+administration	experience
+,	O
+gestion	experience
+de	experience
+patrimoine	experience
+,	O
+immobilier	experience
+...	O
+-	O
+Une	experience
+expérience	experience
+marketing	experience
+réussie	experience
+est	O
+un	O
+plus	O
+mais	O
+n'est	O
+pas	O
+obligatoire	O
+-	O
+Fonction	hard skills
+:	O
+Support	hard skills
+aux	hard skills
+ventes	hard skills
+et	hard skills
+assistant	hard skills
+marketing	hard skills
+CONTACT	O
+Audrey	O
+DEPRET	O
+-	O
+Catalyseur	O
+digital	O
+1	O
+42	O
+39	O
+18	O
+39	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

@@ -1,0 +1,241 @@
+Ouvrier	position
+Viticole	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vitis	company
+Valorem	company
+-	O
+Meursault	city
+-LRB-	O
+21	postal code
+-RRB-	O
+CDD	contrat_type
+VITIS	company
+VALOREM	company
+,	O
+est	O
+une	O
+entreprise	O
+pionnière	O
+créée	O
+en	O
+2013	O
+,	O
+située	O
+à	O
+Meursault	city
+,	O
+qui	O
+a	O
+pour	O
+but	O
+de	O
+limiter	O
+le	O
+brûlage	O
+dans	O
+les	O
+vignes	O
+,	O
+en	O
+proposant	O
+aux	O
+viticulteurs	O
+la	O
+collecte	O
+des	O
+sarments	O
+en	O
+bout	O
+de	O
+rangs	O
+.	O
+Elle	O
+développe	O
+,	O
+chaque	O
+jour	O
+,	O
+la	O
+réalisation	O
+de	O
+produits	O
+manufacturés	O
+biodégradable	O
+et	O
+biocompostable	O
+,	O
+à	O
+base	O
+de	O
+sarments	O
+recyclés	O
+.	O
+VITIS	company
+VALOREM	company
+s	O
+`	O
+impose	O
+dans	O
+la	O
+revalorisation	O
+des	O
+sarments	O
+de	O
+vignes	O
+au	O
+profit	O
+de	O
+la	O
+vigne	O
+.	O
+Nous	O
+recherchons	O
+des	position
+OUVRIERS	position
+VITICOLES	position
+en	O
+CDD	contrat_type
+de	O
+4	O
+à	O
+5	O
+mois	O
+-LRB-	O
+à	O
+compter	O
+du	O
+15	O
+novembre	O
+jusqu'en	O
+mars/avril	O
+inclus	O
+-RRB-	O
+.	O
+Activités	hard skills
+principales	hard skills
+:	O
+-	O
+Réaliser	hard skills
+la	hard skills
+collecte	hard skills
+de	hard skills
+sarments	hard skills
+sur	hard skills
+l'ensemble	hard skills
+des	hard skills
+parcelles	hard skills
+viticoles	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+.	
+-	
+Assurer	hard skills
+le	hard skills
+chargement	hard skills
+des	hard skills
+camions	hard skills
+,	hard skills
+et	hard skills
+le	hard skills
+contrôler	hard skills
+avant	hard skills
+de	hard skills
+prendre	hard skills
+la	hard skills
+route	hard skills
+.	O
+-	O
+Assurer	hard skills
+la	hard skills
+conduite	hard skills
+,	
+en	hard skills
+sécurité	hard skills
+,	
+des	hard skills
+véhicules	hard skills
+utilitaires	hard skills
+type	hard skills
+camion	hard skills
+benne	hard skills
+3t5	hard skills
+-	O
+Informer	hard skills
+son	hard skills
+responsable	hard skills
+de	hard skills
+la	hard skills
+fin	hard skills
+des	hard skills
+travaux	hard skills
+sur	hard skills
+chaque	hard skills
+parcelle	hard skills
+.	O
+-	O
+Procéder	hard skills
+au	hard skills
+déchargement	hard skills
+sur	hard skills
+les	hard skills
+plateformes	hard skills
+-	O
+Rendre	hard skills
+compte	hard skills
+des	hard skills
+problèmes	hard skills
+rencontrés	hard skills
+.	
+Prérequis	O
+:	O
+Apte	hard skills
+au	hard skills
+port	hard skills
+de	hard skills
+charges	hard skills
+lourdes	hard skills
+,	
+Titulaire	hard skills
+du	hard skills
+permis	hard skills
+B	hard skills
+-LRB-	O
+la	hard skills
+conduite	hard skills
+de	hard skills
+camion	hard skills
+benne	hard skills
+3t5	hard skills
+dans	hard skills
+des	hard skills
+conditions	hard skills
+particulières	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+-RRB-	O
+.	O
+Aimer	soft skills
+travailler	soft skills
+en	soft skills
+extérieur	soft skills
+.	
+Motivé	soft skills
+et	soft skills
+endurant	soft skills
+Débutant	O
+accepté	O
+1480,27	salary
+euros	salary
+CV	O
+et	O
+lettres	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

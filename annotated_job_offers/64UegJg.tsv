@@ -1,0 +1,129 @@
+Auxiliaire	position
+de	position
+puériculture	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ASSOCIATION	company
+LES	company
+POUSSINETS	company
+-	O
+Pouponnière	
+et	O
+maison	O
+d'enfants	O
+-	O
+CCNT66	O
+-	O
+Saint-Gratien	city
+-LRB-	O
+95	code postal
+-RRB-	O
+CDD	contrat_type
+Prise	O
+en	O
+charge	O
+au	O
+quotidien	O
+d'enfants	O
+de	O
+0	O
+à	O
+3	O
+ans	O
+-LRB-	O
+20	O
+enfants	O
+-RRB-	O
+dans	O
+le	O
+cadre	O
+de	O
+la	O
+Protection	O
+de	O
+l'enfance	O
+.	O
+Sous	O
+l'autorité	O
+du	O
+Directeur	O
+et	O
+du	O
+Chef	O
+de	O
+service	O
+,	O
+vous	hard skills
+veillerez	hard skills
+sur	hard skills
+leur	hard skills
+sommeil	hard skills
+et	hard skills
+répondrez	hard skills
+à	hard skills
+leurs	hard skills
+besoins	hard skills
+:	O
+biberons	hard skills
+,	O
+changes	hard skills
+,	O
+portage	hard skills
+,	O
+éveil	hard skills
+relationnel	hard skills
+.	O
+Vous	hard skills
+prendrez	hard skills
+soin	hard skills
+de	hard skills
+leur	hard skills
+environnement	hard skills
+et	hard skills
+serez	hard skills
+garant	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+leur	hard skills
+sécurité	hard skills
+.	O
+Salaire	
+:	O
+Selon	
+convention	
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35h	O
+-LRB-	O
+horaires	O
+variables	O
+d'internat	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+Auxiliaire	experience
+de	experience
+Puériculture	experience
+:	O
+1	experience
+an	experience
+Certificat	O
+ou	O
+accréditation	
+exigés	O
+:	O
+Diplôme	experience
+d'auxiliaire	experience
+de	experience
+puériculture	experience

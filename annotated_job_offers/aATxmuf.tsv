@@ -1,0 +1,119 @@
+Chauffeur	position
+livreur	position
+PACK	company
+SOLUTIONS	company
+-	O
+Saint-Brieuc	city
+-LRB-	O
+22	postal code
+-RRB-	O
+CDI	contrat_type
+PACK	company
+SOLUTIONS	company
+,	O
+société	O
+de	O
+transport	O
+spécialisée	O
+dans	O
+la	O
+livraison	O
+de	O
+plis	O
+et	O
+colis	O
+,	O
+présente	O
+sur	O
+toute	O
+la	O
+Bretagne	O
+,	O
+recherche	O
+chauffeur/livreur	position
+H/F	O
+véhicule	position
+léger	position
+.	O
+Profil	O
+souhaité	O
+:	O
+-	O
+Titulaire	experience
+du	experience
+permis	experience
+B	experience
+depuis	experience
+plus	experience
+de	experience
+3	experience
+ans	experience
+-	O
+Dynamisme	soft skills
+et	soft skills
+autonomie	soft skills
+-	O
+Ponctualité	soft skills
+et	soft skills
+bon	soft skills
+relationnel	soft skills
+-	O
+Sens	soft skills
+de	soft skills
+la	soft skills
+relation	soft skills
+commerciale	soft skills
+-	O
+Expérience	experience
+dans	experience
+le	experience
+transport	experience
+routier	experience
+appréciée	experience
+Mutuelle	
+d'entreprise	O
++	O
+téléphone	O
+portable	O
+Poste	O
+à	O
+pourvoir	O
+sur	O
+notre	O
+agence	O
+de	O
+SAINT	city
+BRIEUC	city
+Adressez-nous	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+par	O
+mail	O
+ou	O
+par	O
+courrier	O
+à	O
+:	O
+PACK	company
+SOLUTIONS	company
+-	O
+40	O
+rue	O
+Jean	O
+Monnet	O
+-	O
+ZA	O
+PRAT	O
+PIP	O
+SUD	O
+-	O
+29	O
+490	O
+GUIPAVAS	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

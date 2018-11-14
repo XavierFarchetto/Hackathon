@@ -1,0 +1,341 @@
+Assistant	position
+Formation	position
+H/F	O
+FORCO	company
+-	O
+Paris	city
+17e	city
+-LRB-	
+75	code postal
+-RRB-	O
+1	salary
+650	salary
+$	salary
+-	O
+1	salary
+750	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Vos	O
+principales	O
+missions	O
+consistent	O
+à	O
+:	O
+Conseiller	hard skills
+et	hard skills
+renseigner	hard skills
+les	hard skills
+entreprises	hard skills
+de	hard skills
+son	hard skills
+périmètre	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+le	hard skills
+-LRB-	O
+s	hard skills
+-RRB-	
+Conseiller	hard skills
+-LRB-	
+s	hard skills
+-RRB-	O
+Emploi	hard skills
+Formation	hard skills
+chargé	hard skills
+-LRB-	O
+s	hard skills
+-RRB-	O
+des	hard skills
+relations	hard skills
+entreprises	hard skills
+.	O
+Assurer	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+demandes	hard skills
+de	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+et	hard skills
+actions	hard skills
+de	hard skills
+formation	hard skills
+:	O
+Réception	hard skills
+et	hard skills
+vérification	hard skills
+de	hard skills
+la	hard skills
+complétude	hard skills
+des	hard skills
+DPC	hard skills
+et	hard skills
+contrats	hard skills
+reçus	hard skills
+";"	
+Contrôle	hard skills
+et	hard skills
+mise	hard skills
+en	hard skills
+conformité	hard skills
+des	hard skills
+dossiers	hard skills
+au	hard skills
+regard	hard skills
+de	hard skills
+la	hard skills
+législation	hard skills
+et	hard skills
+des	hard skills
+procédures	hard skills
+en	hard skills
+vigueur	hard skills
+";"	
+Relance	hard skills
+des	hard skills
+clients	hard skills
+et	hard skills
+organismes	hard skills
+de	hard skills
+formation	hard skills
+pour	hard skills
+les	hard skills
+données	hard skills
+et	hard skills
+pièces	hard skills
+manquantes	hard skills
+";"	
+Engagement	hard skills
+des	hard skills
+actions	hard skills
+dans	hard skills
+le	hard skills
+système	hard skills
+d'information	hard skills
+selon	hard skills
+les	hard skills
+procédures	hard skills
+internes	hard skills
+et	hard skills
+mobilisation	hard skills
+des	hard skills
+financements	hard skills
+dédié	hard skills
+";"	
+Suivi	hard skills
+de	hard skills
+la	hard skills
+traçabilité	hard skills
+et	hard skills
+classement	hard skills
+des	hard skills
+dossiers	hard skills
+de	hard skills
+formation	hard skills
+selon	hard skills
+les	hard skills
+procédures	hard skills
+internes	hard skills
+.	
+Contribuer	hard skills
+au	hard skills
+développement	hard skills
+des	hard skills
+portefeuilles	hard skills
+des	hard skills
+Conseillers	hard skills
+en	hard skills
+Formation	hard skills
+:	O
+Participation	hard skills
+à	hard skills
+l'animation	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+collecte	hard skills
+en	hard skills
+délégation	hard skills
+.	
+Participer	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+flux	hard skills
+d'information	hard skills
+entrants	hard skills
+et	hard skills
+sortants	hard skills
+de	hard skills
+la	hard skills
+délégation	hard skills
+:	O
+Réception	hard skills
+et	hard skills
+traitement	hard skills
+des	hard skills
+appels	hard skills
+téléphoniques	hard skills
+";"	
+Assistanat	hard skills
+administratif	hard skills
+ponctuel	hard skills
+";"	O
+Assurer	hard skills
+le	hard skills
+reporting	hard skills
+administratif	hard skills
+et	hard skills
+commercial	hard skills
+de	hard skills
+son	hard skills
+activité	hard skills
+";"	
+Traiter	hard skills
+les	hard skills
+factures	hard skills
+et	hard skills
+les	hard skills
+mises	hard skills
+en	hard skills
+règlement	hard skills
+sans	hard skills
+déroger	hard skills
+aux	hard skills
+règles	hard skills
+de	hard skills
+contrôle	hard skills
+interne	hard skills
+.	
+Profil	O
+:	O
+Expérience	experience
+acquise	experience
+dans	experience
+un	experience
+OPCA	experience
+/	O
+service	experience
+formation	experience
+en	experience
+entreprise	experience
+et/ou	experience
+en	experience
+organisme	experience
+de	experience
+formation	experience
+.	O
+Une	hard skills
+bonne	hard skills
+connaissance	hard skills
+du	hard skills
+champ	hard skills
+de	hard skills
+la	hard skills
+formation	hard skills
+professionnelle	hard skills
+,	O
+des	hard skills
+emplois	hard skills
+et	hard skills
+métiers	hard skills
+du	hard skills
+Commerce	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+Distribution	hard skills
+serait	
+un	O
+plus	O
+.	O
+Vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+et	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+pour	soft skills
+suivre	soft skills
+votre	soft skills
+activité	soft skills
+en	soft skills
+autonomie	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+vis-à-vis	soft skills
+de	soft skills
+nos	soft skills
+clients	soft skills
+et	soft skills
+êtes	soft skills
+en	soft skills
+mesure	soft skills
+de	soft skills
+prendre	soft skills
+des	soft skills
+initiatives	soft skills
+sur	soft skills
+votre	soft skills
+périmètre	soft skills
+.	O
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	
+Vous	soft skills
+pouvez	soft skills
+être	soft skills
+amené	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+à	
+faire	
+des	
+déplacements	
+ponctuels	
+en	
+appui	
+à	
+la	
+gestion	O
+des	O
+comptes-clients	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+650	salary
+$	salary
+à	O
+1	salary
+750	salary
+$	salary
+/	O
+mois	salary

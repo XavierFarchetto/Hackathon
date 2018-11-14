@@ -1,0 +1,292 @@
+Dessinateur	position
+projeteur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Degreane	company
+-	O
+Vinci	company
+Energies	company
+-	O
+La	city
+Farlède	city
+-LRB-	O
+83	postal code
+-RRB-	O
+25	salary
+0	salary
+$	salary
+-	O
+35	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Degreane	company
+fait	O
+partie	O
+du	O
+réseau	O
+d'entreprises	O
+Tertiaires	O
+de	O
+Vinci	O
+Energies	O
+.	O
+Nous	O
+sommes	O
+spécialisés	O
+dans	O
+les	O
+projets	O
+d'installations	O
+électriques	O
+tertiaires	O
+neuves	O
+et	O
+réhabilitées	O
+.	O
+Nous	O
+recrutons	O
+un	position
+Dessinateur	position
+/	O
+Projeteur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Mission	hard skills
+générale	hard skills
+:	O
+Au	hard skills
+sein	hard skills
+d'une	hard skills
+activité	hard skills
+projets	hard skills
+et	hard skills
+en	hard skills
+support	hard skills
+du	hard skills
+responsable	hard skills
+d'affaires	hard skills
+,	O
+vous	hard skills
+devrez	hard skills
+assurer	hard skills
+les	hard skills
+études	hard skills
+électriques	hard skills
+de	hard skills
+conception	hard skills
+et	hard skills
+d'exécution	hard skills
+à	hard skills
+partir	hard skills
+du	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+afin	hard skills
+de	hard skills
+répondre	hard skills
+aux	hard skills
+demandes	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+à	hard skills
+travers	hard skills
+des	hard skills
+appels	hard skills
+d'offres	hard skills
+et	hard skills
+de	hard skills
+tous	hard skills
+autres	hard skills
+types	hard skills
+de	hard skills
+demandes	hard skills
+en	hard skills
+respectant	hard skills
+l'ensemble	hard skills
+des	hard skills
+prescriptions	hard skills
+et	hard skills
+contraintes	hard skills
+tant	hard skills
+réglementaires	hard skills
+que	hard skills
+budgétaires	hard skills
+.	
+Missions	hard skills
+principales	hard skills
+:	O
+Réaliser	hard skills
+des	hard skills
+plans	hard skills
+-LRB-	
+vue	hard skills
+en	hard skills
+plans	hard skills
+,	O
+carnet	hard skills
+de	hard skills
+coupes	hard skills
+,	
+carnet	hard skills
+de	hard skills
+détails	hard skills
+...	
+-RRB-	O
+";"	
+Sélectionner	hard skills
+le	hard skills
+matériel	hard skills
+-LRB-	O
+consultation	hard skills
+fournisseurs	hard skills
+-RRB-	O
+";"	O
+Réaliser	hard skills
+les	hard skills
+notes	hard skills
+de	hard skills
+calculs	hard skills
+et	hard skills
+les	hard skills
+dimensionnements	hard skills
+";"	O
+Réaliser	hard skills
+des	hard skills
+relevés	hard skills
+sur	hard skills
+site	hard skills
+";"	O
+S'assurer	hard skills
+du	hard skills
+respect	hard skills
+du	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+et	hard skills
+des	hard skills
+normes	hard skills
+en	hard skills
+vigueur	hard skills
+";"	O
+Participer	hard skills
+aux	hard skills
+chiffrages	hard skills
+-LRB-	O
+métrés	hard skills
+,	O
+quantitatifs	hard skills
+...	O
+-RRB-	
+Profil	O
+:	O
+De	experience
+formation	experience
+Bac	experience
+2	experience
+minimum	experience
+,	O
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+de	experience
+3	experience
+ans	experience
+minimum	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+l'électricité	experience
+tertiaire	experience
+-LRB-	O
+CFO	experience
+,	O
+CFA	experience
+,	O
+SSI	experience
+,	O
+GTB	experience
+-RRB-	O
+.	O
+Autonome	soft skills
+,	
+réactif	soft skills
+et	soft skills
+organisé	soft skills
+,	O
+vous	soft skills
+avez	soft skills
+un	soft skills
+bon	soft skills
+sens	soft skills
+du	soft skills
+relationnel	soft skills
+,	O
+et	soft skills
+un	soft skills
+esprit	soft skills
+de	soft skills
+synthèse	soft skills
+.	O
+Le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+la	soft skills
+prise	soft skills
+d'initiative	soft skills
+sont	soft skills
+par	soft skills
+ailleurs	soft skills
+vos	soft skills
+atouts	soft skills
+.	
+Rémunération	O
+annuelle	O
+entre	
+25k	salary
+$	salary
+et	O
+35k	salary
+$	salary
+suivant	O
+profil	O
++	O
+primes	O
+intéressement	O
+/	O
+participation	O
++	O
+plan	O
+d'épargne	O
+Vinci	O
+Energies	O
+-	O
+Castor	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+25	salary
+0	salary
+$	salary
+à	O
+35	salary
+0	salary
+$	salary
+/	O
+an	salary

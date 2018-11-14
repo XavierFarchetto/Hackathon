@@ -1,0 +1,277 @@
+MAÇON	position
+-LRB-	O
+NE	position
+-RRB-	O
+CONFIRME	position
+-LRB-	O
+E	position
+-RRB-	O
+-LRB-	O
+H/F	O
+-RRB-	O
+-	O
+C432	company
+CAPEB	company
+-LRB-	O
+69	postal code
+-RRB-	O
+-	O
+Lyon	city
+9e	city
+-LRB-	O
+69	postal code
+-RRB-	O
+12	salary
+$	salary
+-	O
+15	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+La	O
+CAPEB	company
+du	O
+Rhône	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+maçon	position
+-LRB-	O
+ne	position
+-RRB-	O
+confirmé	position
+-LRB-	O
+e	position
+-RRB-	O
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+au	O
+plus	O
+vite	O
+.	O
+Il	O
+s	O
+'	O
+agit	O
+d'une	O
+entreprise	O
+artisanale	O
+-LRB-	O
+10	O
+personnes	O
+-RRB-	O
+qui	O
+accompagne	O
+ses	O
+clients	O
+dans	O
+leurs	O
+projets	O
+de	O
+conceptualisation	O
+,	O
+réalisation	O
+de	O
+travaux	O
+de	O
+maçonnerie	O
+,	O
+petit	O
+terrassement	O
+,	O
+charpente	O
+,	O
+couverture	O
+,	O
+aménagement	O
+extérieur	O
+,	O
+assainissement	O
+,	O
+sciage	O
+béton	O
+.	O
+Vous	hard skills
+réalisez	hard skills
+les	hard skills
+chantiers	hard skills
+qui	hard skills
+sont	hard skills
+très	hard skills
+diversifiés	hard skills
+et	hard skills
+nécessitent	hard skills
+une	hard skills
+forte	hard skills
+expérience	hard skills
+et	hard skills
+des	hard skills
+compétences	hard skills
+polyvalentes	hard skills
+en	hard skills
+maçonnerie	hard skills
+artisanale	hard skills
+rénovation	hard skills
+.	O
+Nous	O
+recherchons	O
+un	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+candidat	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+par	soft skills
+son	soft skills
+métier	soft skills
+,	
+autonome	soft skills
+,	O
+ayant	soft skills
+démontré	soft skills
+ses	soft skills
+capacités	soft skills
+d'organisation	soft skills
+et	soft skills
+d'anticipation	soft skills
+-LRB-	
+en	soft skills
+capacité	soft skills
+d'analyser	soft skills
+le	soft skills
+devis	soft skills
+et	soft skills
+les	soft skills
+caractéristiques	soft skills
+du	soft skills
+chantier	soft skills
+en	soft skills
+vue	soft skills
+de	soft skills
+sa	soft skills
+réalisation	soft skills
+,	O
+prévoir	hard skills
+le	hard skills
+matériel	hard skills
+,	O
+gérer	hard skills
+son	hard skills
+planning	hard skills
+...	O
+-RRB-	O
+.	
+Vous	soft skills
+aimez	soft skills
+travailler	soft skills
+sur	soft skills
+des	soft skills
+chantiers	soft skills
+variés	soft skills
+,	
+êtes	soft skills
+exigeant	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+sur	soft skills
+la	soft skills
+qualité	soft skills
+et	soft skills
+le	soft skills
+soin	soft skills
+apporté	soft skills
+à	soft skills
+votre	soft skills
+travail	soft skills
+.	O
+Si	O
+vous	O
+avez	O
+une	O
+expérience	O
+en	O
+encadrement	O
+d'équipe	O
+,	O
+c’est	O
+un	O
+plus	O
+.	O
+Diplôme	O
+:	O
+CAP	experience
+Maçonnerie	experience
+Horaires	
+:	O
+39h	O
+Rémunération	O
+:	O
+12	salary
+à	O
+15	salary
+$	salary
+à	
+négocier	O
+selon	O
+expérience	O
+et	O
+compétences	O
++	O
+primes	O
+de	O
+panier	O
+Permis	hard skills
+B	hard skills
+:	O
+Déplacements	O
+avec	O
+le	O
+véhicule	O
+de	O
+société	O
+,	O
+permis	hard skills
+B	hard skills
+exigé	hard skills
++	O
+si	O
+possible	O
+CACES	experience
+mini	experience
+pelle	experience
+et	experience
+permis	experience
+poids	experience
+lourd	experience
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+MACONNERIE	experience
+:	
+4	experience
+ans	experience

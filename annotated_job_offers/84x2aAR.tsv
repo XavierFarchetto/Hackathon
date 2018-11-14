@@ -1,0 +1,87 @@
+ouvrier	position
+d	position
+entretien	position
+polyvalent	position
+POPINNS	company
+-	O
+Bréville-les-Monts	city
+-LRB-	O
+14	code postal
+-RRB-	O
+CDD	contrat_type
+Établissement	O
+hôtelier	O
+,	O
+situé	O
+tout	O
+prés	O
+de	O
+Caen	O
+,	O
+recrute	O
+,	O
+dans	O
+le	O
+cadre	O
+de	O
+sa	O
+politique	O
+de	O
+rénovation	O
+,	O
+un	position
+ouvrier	position
+polyvalent	position
+.	O
+Vous	hard skills
+intervenez	hard skills
+sur	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+faïence	hard skills
+et	hard skills
+de	hard skills
+carrelage	hard skills
+,	
+la	hard skills
+dépose	hard skills
+et	hard skills
+pose	hard skills
+d'ensemble	hard skills
+sanitaire	hard skills
+-LRB-	O
+bac	hard skills
+à	hard skills
+douche	hard skills
+,	O
+lavabo	hard skills
+et	hard skills
+wc	hard skills
+-RRB-	O
+.	O
+Chantier	hard skills
+d'environ	hard skills
+3	hard skills
+mois	hard skills
+à	hard skills
+réaliser	hard skills
+pendant	hard skills
+la	hard skills
+fermeture	hard skills
+annuelle	hard skills
+de	hard skills
+l'établissement	hard skills
+.	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+rigoureux	soft skills
+et	soft skills
+performant	soft skills
+!	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

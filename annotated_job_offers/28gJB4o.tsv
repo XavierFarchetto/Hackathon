@@ -1,0 +1,477 @@
+SERVEUR	position
+BARMAN	position
+POLYVALENT	position
+SARL	company
+SYRIEL	company
+-	O
+Cluses	city
+-LRB-	O
+74	code postal
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	
+2	salary
+0	salary
+$	salary
+par	salary
+mois	O
+Situé	O
+en	O
+station	O
+,	O
+en	O
+Haute	O
+Savoie	O
+,	O
+un	O
+restaurant	O
+familial	O
+,	O
+semi	O
+gastro	O
+de	O
+bonne	O
+renommée	O
+,	O
+ouvert	O
+à	O
+l'année	O
+recherche	O
+:	O
+Trois	position
+SERVEURS	position
+BARMANS	position
+POLYVALENTS	position
+-LRB-	O
+h/f	O
+-RRB-	O
+,	O
+en	O
+CDD	contrat_type
+saisonnier	O
+-LRB-	O
+de	O
+mi	O
+décembre	O
+jusqu	O
+'	O
+à	O
+début	O
+avril	O
+-RRB-	O
+Vos	O
+responsabilités	O
+:	O
+*	O
+Accueillir	hard skills
+,	O
+installer	hard skills
+et	hard skills
+prendre	hard skills
+en	hard skills
+charge	hard skills
+les	hard skills
+clients	hard skills
+º	hard skills
+Confectionner	hard skills
+et	hard skills
+servir	hard skills
+les	hard skills
+boissons	hard skills
+*	O
+Maîtriser	hard skills
+parfaitement	hard skills
+le	hard skills
+port	hard skills
+du	hard skills
+plateau	hard skills
+et	hard skills
+de	hard skills
+plusieurs	hard skills
+assiettes	hard skills
+*	O
+Faire	hard skills
+goûter	hard skills
+et	hard skills
+servir	hard skills
+le	hard skills
+vin	hard skills
+-LRB-	
+connaissances	hard skills
+œnologiques	hard skills
+appréciées	hard skills
+-RRB-	O
+º	hard skills
+S'intégrer	hard skills
+au	hard skills
+sein	hard skills
+d'une	hard skills
+petite	hard skills
+équipe	hard skills
+de	hard skills
+3	hard skills
+coéquipiers	hard skills
+solidaires	hard skills
+et	hard skills
+polyvalents	hard skills
+º	hard skills
+Optimiser	hard skills
+un	hard skills
+service	hard skills
+de	hard skills
+40	hard skills
+à	hard skills
+100	hard skills
+couverts	hard skills
+en	hard skills
+pleine	hard skills
+saison	hard skills
+º	hard skills
+Savoir	hard skills
+suivre	hard skills
+et	hard skills
+gérer	hard skills
+un	hard skills
+rang	hard skills
+*	hard skills
+Bien	hard skills
+checker	hard skills
+ses	hard skills
+tables	hard skills
+*	hard skills
+Anticiper	hard skills
+autant	hard skills
+que	hard skills
+possible	hard skills
+les	hard skills
+demandes	hard skills
+des	hard skills
+clients	hard skills
+*	hard skills
+Etre	hard skills
+une	hard skills
+force	hard skills
+de	hard skills
+proposition	hard skills
+et	hard skills
+pratiquer	hard skills
+la	hard skills
+vente	hard skills
+suggestive	hard skills
+*	hard skills
+Débarraser	hard skills
+et	hard skills
+redresser	hard skills
+selon	hard skills
+les	hard skills
+standards	hard skills
+gastronomiques	hard skills
+*	hard skills
+Faire	hard skills
+la	hard skills
+vaisselle	hard skills
+du	hard skills
+bar	hard skills
+º	hard skills
+Entretenir	hard skills
+le	hard skills
+bar	hard skills
+,	hard skills
+la	hard skills
+salle	hard skills
+et	hard skills
+les	hard skills
+toilettes	hard skills
+*	hard skills
+Assurer	hard skills
+l'entretien	hard skills
+des	hard skills
+nappes	hard skills
+et	hard skills
+des	hard skills
+serviettes	hard skills
+Votre	
+profil	
+:	
+Idéalement	experience
+issu	experience
+-LRB-	O
+e	experience
+-RRB-	O
+de	experience
+l'apprentissage	experience
+,	O
+CAP	experience
+et	experience
+BEP	experience
+souhaités	experience
+,	O
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+minimum	experience
+en	experience
+semi	experience
+gastro	experience
+ou	experience
+brasserie	experience
+de	experience
+luxe	experience
+et	experience
+vous	hard skills
+maîtrisez	hard skills
+parfaitement	hard skills
+les	hard skills
+normes	hard skills
+d'un	hard skills
+service	hard skills
+de	hard skills
+qualité	hard skills
+.	O
+Vous	experience
+avez	experience
+l'expérience	experience
+à	experience
+la	experience
+fois	experience
+des	experience
+gros	experience
+volumes	experience
+et	experience
+d'un	experience
+service	experience
+prévenant	experience
+.	O
+Professionnel	experience
+-LRB-	O
+le	experience
+-RRB-	O
+,	O
+ous	soft skills
+êtes	soft skills
+passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+par	soft skills
+votre	soft skills
+métier	soft skills
+,	O
+dynamique	soft skills
+,	O
+avec	soft skills
+un	soft skills
+excellent	soft skills
+relationnel	soft skills
+,	O
+rigoureux	soft skills
+-LRB-	
+se	soft skills
+-RRB-	O
+,	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	
+attentif	soft skills
+-LRB-	O
+ve	soft skills
+-RRB-	O
+et	O
+réactif	soft skills
+-LRB-	
+ive	soft skills
+-RRB-	O
+.	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+excellente	soft skills
+présentation	soft skills
+et	soft skills
+maîtrisez	hard skills
+au	hard skills
+moins	hard skills
+l'anglais	hard skills
+.	hard skills
+Comme	O
+nous	O
+vous	soft skills
+aimez	soft skills
+donner	soft skills
+du	soft skills
+bonheur	soft skills
+aux	soft skills
+clients	soft skills
+en	soft skills
+les	soft skills
+bichonnant	soft skills
+.	O
+Vous	soft skills
+appréciez	soft skills
+de	soft skills
+travailler	soft skills
+dans	soft skills
+une	soft skills
+ambiance	soft skills
+sympa	soft skills
+et	soft skills
+conviviale	soft skills
+où	soft skills
+priment	soft skills
+l'esprit	soft skills
+d'équipe	soft skills
+,	O
+la	soft skills
+communication	soft skills
+et	soft skills
+la	soft skills
+confiance	soft skills
+.	O
+";--RRB-"	
+Vous	soft skills
+partagez	soft skills
+nos	soft skills
+valeurs	soft skills
+et	soft skills
+vous	soft skills
+avez	soft skills
+envie	soft skills
+de	soft skills
+partager	soft skills
+votre	soft skills
+savoir	soft skills
+faire	soft skills
+et	soft skills
+de	soft skills
+vous	soft skills
+investir	soft skills
+dans	soft skills
+une	soft skills
+nouvelle	soft skills
+expérience	soft skills
+?	
+...	O
+Nous	O
+vous	O
+proposons	O
+de	O
+travailler	O
+au	O
+sein	O
+d'un	O
+bel	O
+établissement	O
+réputé	O
+,	O
+auprès	O
+d'une	O
+belle	O
+clientèle	O
+internationale	O
+,	O
+dans	O
+une	O
+région	O
+touristique	O
+attrayante	O
+.	O
+Rémunération	O
+:	O
+1500	salary
+$	salary
+net	salary
++	O
+prime	O
+Cette	O
+opportunité	O
+vous	O
+intéresse	O
+...	O
+nous	O
+vous	O
+invitons	O
+à	O
+nous	O
+transmettre	O
+votre	O
+candidature	O
+-LRB-	O
+lettre	O
+de	O
+motivation	O
++	O
+CV	O
+-RRB-	O
+:	O
+-	O
+par	O
+mail	O
+-	O
+ou	O
+par	O
+courrier	O
+:	O
+SARL	company
+SYRIEL	company
+-	O
+10	O
+chemin	O
+du	O
+Club	O
+-	O
+74	O
+300	O
+ARACHES	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+service	experience
+en	experience
+salle	experience
+:	
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

@@ -1,0 +1,191 @@
+POSEUR	position
+DEBUTANT	position
+CDI	contrat_type
+H/F	O
+KOMILFO	company
+-	O
+Agence	company
+ROGIER	company
+-	O
+Reims	city
+-LRB-	O
+51	postal code
+-RRB-	O
+21	salary
+0	salary
+$	salary
+-	
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+expansion	O
+,	O
+nous	O
+recherchons	O
+un	position
+Poseur	position
+Débutant	position
+.	O
+Vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+de	hard skills
+poser	hard skills
+avec	hard skills
+minutie	hard skills
+et	hard skills
+conformité	hard skills
+,	
+des	hard skills
+portes	hard skills
+,	
+des	hard skills
+fenêtres	hard skills
+,	
+des	hard skills
+volets	hard skills
+,	
+des	hard skills
+stores	hard skills
+,	
+...	
+Vous	soft skills
+savez	soft skills
+faire	soft skills
+preuve	soft skills
+d'initiative	soft skills
+au	soft skills
+quotidien	soft skills
+et	soft skills
+avez	soft skills
+le	soft skills
+goût	soft skills
+du	soft skills
+relationnel	soft skills
+avec	soft skills
+une	soft skills
+clientèle	soft skills
+de	soft skills
+particuliers	soft skills
+.	O
+Habitué	O
+au	O
+travail	O
+en	O
+équipe	O
+,	O
+vous	soft skills
+êtes	soft skills
+soigneux	soft skills
+,	O
+organisé	soft skills
+,	O
+vous	hard skills
+maîtrisez	hard skills
+parfaitement	hard skills
+les	hard skills
+techniques	hard skills
+de	hard skills
+pose	hard skills
+en	hard skills
+rénovation	hard skills
+ou	hard skills
+réhabilitation	hard skills
+.	
+Profil	O
+recherché	O
+:	O
+De	experience
+formation	experience
+technique	experience
+,	
+vous	experience
+possédez	experience
+un	experience
+diplôme	experience
+type	experience
+CAP/BEP	experience
+Menuisier	experience
+ou	experience
+une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+menuiserie	experience
+.	experience
+Rémunération	O
+:	O
+21	salary
+à	salary
+25	salary
+K	salary
+$	salary
+/	O
+an	salary
+selon	O
+expérience	O
+.	O
+Type	O
+de	O
+contrat	O
+:	O
+CDI	contrat_type
+,	O
+fixe	O
+sur	O
+12	O
+mois	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+21	salary
+0	salary
+$	salary
+à	O
+25	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	
+exigée	O
+:	O
+menuiserie	experience
+:	O
+1	experience
+an	experience

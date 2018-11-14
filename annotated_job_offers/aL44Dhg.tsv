@@ -1,0 +1,90 @@
+Préparateur	position
+-LRB-	O
+trice	position
+-RRB-	O
+en	O
+Pharmacie	O
+-LRB-	O
+H/F	O
+-RRB-	O
+Pharmacie	company
+Vast	company
+-	O
+Gacé	city
+-LRB-	O
+61	code postal
+-RRB-	O
+Délivrance	hard skills
+d'ordonnances	hard skills
+au	hard skills
+comptoir	hard skills
+sous	hard skills
+le	hard skills
+contrôle	hard skills
+du	hard skills
+pharmacien	hard skills
+,	O
+gestion	hard skills
+de	hard skills
+gammes	hard skills
+fournisseurs	hard skills
+,	O
+réception	hard skills
+des	hard skills
+commandes	hard skills
+fournisseurs	hard skills
+,	O
+préparations	hard skills
+magistrales	hard skills
+occasionnelles	hard skills
+,	
+contrôle	hard skills
+des	hard skills
+linéaires	hard skills
+au	hard skills
+sein	hard skills
+d'une	hard skills
+équipe	hard skills
+dynamique	hard skills
+et	hard skills
+agréable	hard skills
+formée	hard skills
+sur	hard skills
+les	hard skills
+conseils	hard skills
+phytothérapie-aromathérapie-micronutrion	hard skills
+.	O
+Salaire	
+selon	O
+experience	O
+,	O
+possibilité	hard skills
+d'évolution	hard skills
+selon	hard skills
+compétences	hard skills
+et	hard skills
+motivation	hard skills
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

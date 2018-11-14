@@ -1,0 +1,174 @@
+Commis	position
+de	position
+cuisine	position
+et	position
+plongeur	position
+Pavillon	company
+Gourmet	company
+-	O
+Les	city
+Essarts-le-Roi	city
+-LRB-	O
+78	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Traiteur	
+et	
+organisateur	
+de	
+réceptions	
+en	
+pleine	
+expansion	
+,	O
+à	
+taille	
+humaine	
+,	
+recrute	O
+pour	O
+son	O
+laboratoire	O
+de	O
+production	O
+,	O
+un	position
+commis-plongeur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vous	hard skills
+travaillerez	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+notre	hard skills
+équipe	hard skills
+de	hard skills
+cuisiniers	hard skills
+et	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+principalement	hard skills
+:	O
+-	O
+d'apporter	hard skills
+votre	hard skills
+aide	hard skills
+aux	hard skills
+cuisiniers	hard skills
+par	hard skills
+la	hard skills
+confection	hard skills
+et	hard skills
+le	hard skills
+dressage	hard skills
+des	hard skills
+plateaux-repas	hard skills
+,	
+cocktails	hard skills
+et	hard skills
+buffets	hard skills
+-	
+De	hard skills
+la	hard skills
+plonge	hard skills
+manuelle	hard skills
+et	hard skills
+en	hard skills
+batterie	hard skills
+-	
+Du	hard skills
+plan	hard skills
+de	hard skills
+nettoyage	hard skills
+quotidien	hard skills
+de	hard skills
+notre	hard skills
+laboratoire	hard skills
+de	hard skills
+350	hard skills
+m2	hard skills
+.	O
+-	O
+Participer	hard skills
+aux	hard skills
+chargements	hard skills
+et	hard skills
+déchargements	hard skills
+des	hard skills
+camions	hard skills
+.	
+Autonomie	soft skills
+et	soft skills
+rigueur	soft skills
+sont	soft skills
+les	soft skills
+qualités	soft skills
+recherchées	soft skills
+pour	soft skills
+ce	soft skills
+poste	soft skills
+.	O
+Travail	O
+du	O
+lundi	O
+au	O
+vendredi	O
+,	O
+de	O
+06h00	O
+à	O
+13h00	O
+.	O
+Permis	hard skills
+B	hard skills
+indispensable	hard skills
+.	O
+Salaire	O
+1600/1700	salary
+$	salary
+brut	salary
+pour	
+35	O
+heures	O
++	O
+heures	O
+supplémentaires	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+78690	postal code
+Les	city
+Essarts-le-Roi	city
+Expérience	O
+exigée	O
+:	O
+traiteur	experience
+et/ou	experience
+restauration	experience
+:	O
+1	experience
+an	experience

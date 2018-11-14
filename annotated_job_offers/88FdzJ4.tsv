@@ -1,0 +1,320 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+en	position
+marketing	position
+événementiel	position
+SOCIETE	company
+GENERALE	company
+-	O
+Puteaux	city
+-LRB-	O
+92	code postal
+-RRB-	O
+Stage	contrat_type
+Intitulé	O
+du	O
+stage	O
+:	O
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+en	position
+marketing	position
+événementiel	position
+-LRB-	O
+organisation	O
+manifestation	O
+commerciale	O
+et	O
+marché	O
+jeunes	O
+-RRB-	O
+Période	O
+du	O
+stage	O
+:	O
+26/12/2017	O
+au	O
+29/06/2018	O
+Durée	O
+du	O
+stage	O
+:	O
+6	O
+mois	O
+Environnement	O
+Rejoignez	O
+la	O
+direction	O
+Commerciale	O
+et	O
+marketing	O
+de	O
+la	O
+banque	O
+de	O
+détail	O
+France	O
+:	O
+SOCIETE	company
+GENERALE	company
+STAGE	company
+Au	
+sein	O
+de	O
+l'équipe	O
+d'Animation	O
+événementielle	O
+,	O
+vous	hard skills
+participerez	hard skills
+à	hard skills
+différentes	hard skills
+missions	hard skills
+en	hard skills
+support	hard skills
+du	hard skills
+responsable	hard skills
+des	hard skills
+organisations	hard skills
+et	hard skills
+manifestations	hard skills
+commerciales	hard skills
+.	O
+Les	hard skills
+missions	hard skills
+du	hard skills
+poste	hard skills
+:	
+Participer	hard skills
+à	hard skills
+l'élaboration	hard skills
+,	O
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+au	hard skills
+suivi	hard skills
+d'opérations	hard skills
+commerciales	hard skills
+par	hard skills
+des	hard skills
+actions	hard skills
+de	hard skills
+communication	hard skills
+et	hard skills
+de	hard skills
+marketing	hard skills
+opérationnel	hard skills
+-LRB-	
+salons	hard skills
+,	O
+cocktails	hard skills
+,	O
+réunion	hard skills
+,	O
+conférence	hard skills
+...	O
+-RRB-	O
+.	O
+Organisation	hard skills
+des	hard skills
+événements	hard skills
+-LRB-	
+réservation	hard skills
+des	hard skills
+stands	hard skills
+,	O
+relation	hard skills
+avec	hard skills
+les	hard skills
+prestataires	hard skills
+-RRB-	O
+.	O
+Développement	hard skills
+d'outils	hard skills
+commerciaux	hard skills
+.	O
+Suivi	hard skills
+statistique	hard skills
+de	hard skills
+la	hard skills
+production	hard skills
+et	hard skills
+des	hard skills
+objectifs	hard skills
+de	hard skills
+vente	hard skills
+.	O
+Contribuer	hard skills
+à	hard skills
+la	hard skills
+réalisation	hard skills
+des	hard skills
+supports	hard skills
+de	hard skills
+communication	hard skills
+à	hard skills
+destination	hard skills
+de	hard skills
+la	hard skills
+clientèle	hard skills
+.	O
+Participer	hard skills
+à	hard skills
+des	hard skills
+missions	hard skills
+visant	hard skills
+à	hard skills
+améliorer	hard skills
+la	hard skills
+qualité	hard skills
+du	hard skills
+service	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+relation	hard skills
+client	hard skills
+.	
+Assurer	hard skills
+un	hard skills
+soutien	hard skills
+opérationnel	hard skills
+aux	hard skills
+équipes	hard skills
+commerciales	hard skills
+.	O
+Des	hard skills
+déplacements	hard skills
+nationaux	hard skills
+sont	hard skills
+à	hard skills
+prévoir	hard skills
+.	h
+Profil	
+H/F	O
+Etudiant	experience
+-LRB-	O
+e	experience
+-RRB-	O
+au	experience
+sein	experience
+d'une	experience
+Ecole	experience
+de	experience
+de	experience
+commerce	experience
+,	O
+d'Ingénieur	experience
+,	O
+Université	experience
+,	O
+vous	experience
+préparez	experience
+un	experience
+Master	experience
+2	experience
+avec	experience
+une	experience
+spécialité	experience
+Marketing	experience
+/	O
+Évènementiel	experience
+.	O
+Vous	hard skills
+maitrisez	hard skills
+le	hard skills
+Pack	hard skills
+Office	hard skills
+.	O
+Apport	hard skills
+du	hard skills
+stage	hard skills
+Ce	hard skills
+stage	hard skills
+vous	hard skills
+offrira	hard skills
+l'opportunité	hard skills
+de	hard skills
+découvrir	hard skills
+la	hard skills
+banque	hard skills
+de	hard skills
+détail	hard skills
+et	hard skills
+plus	hard skills
+particulièrement	hard skills
+la	hard skills
+Direction	hard skills
+Commerciale	hard skills
+à	hard skills
+travers	hard skills
+son	hard skills
+soutien	hard skills
+,	O
+dans	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+d'évènements	hard skills
+commerciaux	hard skills
+dans	hard skills
+le	hard skills
+réseau	hard skills
+.	
+Il	hard skills
+vous	hard skills
+permettra	hard skills
+également	hard skills
+d'appréhender	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+de	hard skills
+ces	hard skills
+manifestations	hard skills
+commerciales	hard skills
+de	hard skills
+l'origine	hard skills
+de	hard skills
+sa	hard skills
+conception	hard skills
+au	hard skills
+jour	hard skills
+J	hard skills
+de	hard skills
+l'opération	hard skills
+.	O
+Aptitudes	soft skills
+comportementales	soft skills
+Capacité	soft skills
+d'adaptation	soft skills
+,	O
+curieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+réactif	soft skills
+-LRB-	O
+ve	soft skills
+-RRB-	O
+,	O
+autonome	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Stage	contrat_type

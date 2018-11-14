@@ -1,0 +1,230 @@
+Assistante	position
+de	position
+vie	position
+à	position
+domicile	position
+ASM	company
+ACTION	company
+SOCIALE	company
+LA	company
+MULATINE	company
+-	O
+La	city
+Mulatière	city
+-LRB-	O
+69	postal code
+-RRB-	O
+CDD	contrat_type
+----------------------	O
+URGENT	O
+--	O
+URGENT	O
+--	O
+POUR	O
+LE	O
+MOIS	O
+DE	O
+DECEMBRE	O
+Association	O
+ASM	company
+La	company
+Mulatière	company
+RECRUTE	O
+H	O
+/	O
+F	O
+ASSISTANTE	position
+DE	position
+VIE	position
+/	O
+AUXILIAIRE	position
+DE	position
+VIE	position
+/	O
+ETUDIANTE	position
+FORMATION	position
+AIDE	position
+SOIGNANTE	position
+Temps	contrat_type
+partiel	contrat_type
+-	O
+Idéal	O
+complément	O
+de	O
+revenu	O
+POUR	O
+REMPLACEMENT	O
+DE	O
+NOTRE	O
+PERSONNEL	O
+EN	O
+CONGE	O
+SUR	O
+DECEMBRE	O
+/	O
+JANVIER	O
+--	O
+véhicule	O
+souhaité	O
+--	O
+Savoir	O
+être	O
+:	O
+Ponctualité	soft skills
+,	O
+écoute	soft skills
+,	O
+patience	soft skills
+Savoir	soft skills
+faire	soft skills
+:	
+-	O
+Formation	experience
+AUPRES	experience
+DE	experience
+PERSONNES	experience
+AGEES	experience
+/	O
+PUBLICS	experience
+FRAGILES	experience
+/	O
+ou	experience
+PERSONNE	experience
+EN	experience
+SITUATION	experience
+DE	experience
+HANDICAP	experience
+-	
+connaissances	hard skills
+des	hard skills
+maladies	hard skills
+dégénératives	hard skills
+,	
+ou	hard skills
+apparentées	hard skills
+-	
+savoir	hard skills
+utiliser	hard skills
+le	hard skills
+matériel	hard skills
+médical	hard skills
+adapté	hard skills
+-	O
+Préparer	hard skills
+ou	hard skills
+aider	hard skills
+aux	hard skills
+repas	hard skills
+,	
+courses	hard skills
+,	
+ménages	hard skills
+,	O
+etc	
+-	
+Aider	hard skills
+à	hard skills
+la	hard skills
+toilette	hard skills
+et	hard skills
+ou	hard skills
+Changer	hard skills
+les	hard skills
+protections	hard skills
+des	hard skills
+personnes	hard skills
+alitées	hard skills
+-	
+Connaitre	hard skills
+l'Hygiène	hard skills
+/	
+sécurité	hard skills
+au	hard skills
+domicile	hard skills
+et	hard skills
+savoir	hard skills
+utiliser	hard skills
+les	hard skills
+produits	hard skills
+adéquates	hard skills
+Une	experience
+expérience	experience
+professionnelle	experience
+est	experience
+souhaitée	experience
+d'un	experience
+an	experience
+Connaitre	experience
+le	experience
+handicap	experience
+serait	experience
+un	experience
+plus	experience
+car	
+vous	hard skills
+interviendrez	hard skills
+auprès	hard skills
+de	hard skills
+publics	hard skills
+fragiles	hard skills
+,	
+donc	hard skills
+des	hard skills
+personnes	hard skills
+en	hard skills
+situation	hard skills
+de	hard skills
+handicap	hard skills
+/	
+personnes	hard skills
+âgées	hard skills
+Notre	
+secteur	O
+d'intervention	O
+comprend	O
+:	O
+La	O
+Mulatière	O
+/	O
+Pierre	O
+Bénite	O
+/	O
+Oullins	O
+------------	O
+WEEK	O
+ENDS	O
+LE	O
+SECTEUR	O
+D'INTERVENTION	O
+EST	O
+LA	O
+MULATIERE	O
+------------	O
+salaire	O
+9.76	salary
+$	salary
+/	O
+heure	salary
+convention	O
+UNA	O
+Dimanche	O
+et	O
+jours	O
+fériés	O
+:	O
+majoration	O
+de	O
+45	O
+%	O
+/	O
+Heure	O
+Envoyer	O
+lettre	O
+de	O
+motivation	O
++	O
+CV	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

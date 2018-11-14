@@ -1,0 +1,72 @@
+Ouvrier	position
+viticole	position
+saisonnier	position
+SARL	company
+construction	company
+la	company
+Fontaine	company
+aux	company
+Bretons	company
+-	O
+Pornic	city
+-LRB-	O
+44	postal code
+-RRB-	O
+Intérim	contrat_type
+,	O
+CDD	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+taille	O
+annuelle	O
+de	O
+Vigne	O
+,	O
+Nous	O
+recherchons	O
+1	position
+ou	O
+2	position
+saisonnier	position
+-LRB-	O
+s	position
+-RRB-	O
+pour	hard skills
+effectuer	hard skills
+la	hard skills
+taille	hard skills
+d'une	hard skills
+vigne	hard skills
+d'	hard skills
+1	hard skills
+Ha	hard skills
+au	hard skills
+début	hard skills
+de	hard skills
+l'année	hard skills
+2018	hard skills
+-LRB-	O
+janvier	hard skills
+ou	hard skills
+février	hard skills
+-RRB-	O
+Repas	hard skills
+sur	hard skills
+site	hard skills
+fourni	hard skills
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Expérience	O
+exigée	O
+:	O
+Taille	experience
+de	experience
+vigne	experience
+:	
+2	experience
+ans	experience

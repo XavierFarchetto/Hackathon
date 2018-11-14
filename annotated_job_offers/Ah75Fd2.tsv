@@ -1,0 +1,132 @@
+Réceptionniste	position
+de	position
+nuit	position
+Hotel	company
+Cujas	company
+-	O
+Paris	city
+5e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+Temps	
+partiel	
+Nous	O
+recherchons	O
+pour	O
+notre	O
+hôtel	company
+un	position
+réceptionniste	position
+de	position
+nuit	position
+H/F	O
+en	O
+CDI	contrat_type
+à	O
+temps	O
+partiel	O
+.	O
+Français	hard skills
+et	hard skills
+Anglais	hard skills
+courants	hard skills
+exigés	hard skills
+.	O
+Très	soft skills
+bonne	soft skills
+présentation	soft skills
+.	O
+La	soft skills
+connaissance	soft skills
+de	soft skills
+Medialog	soft skills
+serait	soft skills
+un	soft skills
+plus	soft skills
+.	O
+Vous	O
+assurez	O
+notamment	O
+les	O
+missions	O
+suivantes	O
+:	O
+Gérer	hard skills
+l'ensemble	hard skills
+des	hard skills
+opérations	hard skills
+de	hard skills
+la	hard skills
+Réception	hard skills
+,	O
+de	hard skills
+la	hard skills
+Caisse	hard skills
+Gérer	hard skills
+les	hard skills
+réservations	hard skills
+,	O
+emails	hard skills
+et	hard skills
+appels	hard skills
+Veiller	hard skills
+à	hard skills
+l'application	hard skills
+et	hard skills
+au	hard skills
+respect	hard skills
+des	hard skills
+procédures	hard skills
+en	hard skills
+vigueur	hard skills
+dans	hard skills
+l'établissement	hard skills
+Gérer	hard skills
+les	hard skills
+demandes	hard skills
+Clients	hard skills
+Assister	hard skills
+chaque	hard skills
+client	hard skills
+lors	hard skills
+du	hard skills
+check-in	hard skills
+et	hard skills
+du	hard skills
+check-out	hard skills
+Participer	hard skills
+à	hard skills
+l'optimisation	hard skills
+des	hard skills
+revenus	hard skills
+de	hard skills
+l'hôtel	hard skills
+et	hard skills
+à	hard skills
+sa	hard skills
+commercialisation	hard skills
+Assurer	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+biens	hard skills
+et	hard skills
+des	hard skills
+personnes	hard skills
+et	hard skills
+maîtriser	hard skills
+toutes	hard skills
+les	hard skills
+consignes	hard skills
+de	hard skills
+sécurité	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

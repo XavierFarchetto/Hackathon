@@ -1,0 +1,329 @@
+Vendeur	position
+en	position
+prêt-à-porter	position
+-LRB-	O
+H/F	O
+-RRB-	O
+-	O
+Halles	company
+Project	company
+X	company
+Paris	O
+-	O
+Les	city
+Halles	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+450	salary
+$	salary
+-	
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+Société	O
+:	O
+TJMAX	company
+est	O
+une	O
+des	O
+10	O
+start-ups	O
+françaises	O
+connaissant	O
+le	O
+plus	O
+de	O
+croissance	O
+ses	O
+5	O
+dernières	O
+années	O
+-LRB-	O
+5330	O
+%	O
+-RRB-	O
+et	O
+commercialise	O
+principalement	O
+du	O
+prêt-à-porter	O
+sous	O
+la	O
+marque	O
+Project	O
+X	O
+Paris	O
+.	O
+L'équipe	O
+est	O
+composée	O
+de	O
+jeunes	O
+éléments	O
+d'une	O
+moyenne	O
+d'âge	O
+de	O
+25	O
+ans	O
+et	O
+la	O
+structure	O
+de	O
+Start-up	O
+fait	O
+que	O
+les	O
+idées	O
+de	O
+chacun	O
+font	O
+partie	O
+intégrante	O
+de	O
+la	O
+stratégie	O
+du	O
+groupe	O
+.	O
+TJMAX	company
+bénéficie	O
+également	O
+d'un	O
+grand	O
+réseau	O
+de	O
+célébrités	O
+dans	O
+le	O
+monde	O
+de	O
+la	O
+music	O
+-LRB-	O
+Akon	O
+,	O
+French	O
+Montana	O
+,	O
+Lil	O
+Wayne	O
+,	O
+...	O
+-RRB-	O
+ou	O
+du	O
+sport	O
+-LRB-	O
+Kipembe	O
+,	O
+David	O
+Luiz	O
+,	O
+...	O
+-RRB-	O
+.	O
+Enfin	O
+TJMAX	company
+est	O
+un	O
+VRAI	O
+accélérateur	O
+de	O
+carrière	O
+,	O
+il	O
+vous	O
+permettra	O
+d'intégrer	O
+une	O
+équipe	O
+expérimentée	O
+et	O
+motivée	O
+et	O
+présente	O
+de	O
+nombreuses	O
+possibilités	O
+d'évolution	O
+.	O
+Date	O
+de	O
+début	O
+:	O
+dès	O
+que	O
+possible	O
+Description	O
+du	O
+poste	O
+:	O
+Vous	O
+souhaitez	O
+intégrer	O
+une	O
+entreprise	O
+dynamique	O
+,	O
+à	O
+l'écoute	O
+de	O
+vos	O
+besoins	O
+et	O
+de	O
+ceux	O
+de	O
+ses	O
+clients	O
+?	O
+Project	O
+X	O
+Paris	O
+retail	O
+France	O
+recherche	O
+des	position
+Conseillers	position
+-LRB-	O
+es	position
+-RRB-	O
+de	position
+Vente	position
+dynamiques	soft skills
+,	O
+ambitieux	soft skills
+et	soft skills
+passionnés	soft skills
+par	soft skills
+la	soft skills
+vente	soft skills
+Conseil	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+sens	soft skills
+développé	soft skills
+de	soft skills
+l'accueil	soft skills
+et	soft skills
+portez	soft skills
+un	soft skills
+intérêt	soft skills
+particulier	soft skills
+à	soft skills
+la	soft skills
+satisfaction	soft skills
+de	soft skills
+vos	soft skills
+clients	soft skills
+.	O
+Un	soft skills
+bon	soft skills
+sens	soft skills
+commercial	soft skills
+est	soft skills
+indispensable	soft skills
+pour	soft skills
+postuler	soft skills
+.	O
+Profil	O
+recherché	O
+:	O
+Motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+dynamique	soft skills
+,	O
+serviable	soft skills
+,	O
+souriant	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	O
+d'excellente	soft skills
+présentation	soft skills
+,	
+vous	soft skills
+êtes	soft skills
+à	soft skills
+l'écoute	soft skills
+des	soft skills
+tendances	soft skills
+et	
+avez	hard skills
+une	hard skills
+connaissance	hard skills
+de	hard skills
+l'enseigne	hard skills
+et	hard skills
+de	hard skills
+son	hard skills
+positionnement	hard skills
+.	O
+La	hard skills
+maîtrise	hard skills
+de	hard skills
+l'anglais	hard skills
+est	hard skills
+recommandée	hard skills
+.	O
+Votre	soft skills
+expérience	soft skills
+,	O
+votre	soft skills
+polyvalence	soft skills
+et	soft skills
+votre	soft skills
+motivation	soft skills
+feront	soft skills
+la	soft skills
+différence	soft skills
+.	
+La	hard skills
+connaissance	hard skills
+dans	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+réseaux	hard skills
+sociaux	hard skills
+sera	hard skills
+également	hard skills
+appréciée	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+450	salary
+$	salary
+à	
+1	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+vente	experience
+en	experience
+détail	experience
+prêt-à-porter	experience
+:	O
+2	experience
+ans	experience

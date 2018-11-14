@@ -1,0 +1,356 @@
+Chauffeur	position
+livreur	position
+IMPACT	company
+EXPRESS	company
+-	O
+Montpellier	city
+-LRB-	O
+34	code postal
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Chauffeur	position
+LIVREUR	position
+-LRB-	O
+HF	O
+-RRB-	O
+Ville/code	O
+postal	O
+:	O
+Montpellier	city
+Fonction	O
+:	O
+transport	hard skills
+-	O
+logistique	hard skills
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+pour	O
+une	O
+durée	O
+de	O
+3	O
+mois	O
+-LRB-	O
+renouvelable	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+temps	O
+plein	O
+Poste	O
+à	O
+pourvoir	O
+:	O
+18	O
+septembre	O
+2017	O
+Salaire	O
+:	O
+1480	salary
+$	salary
+brut	salary
+mois	salary
++	O
+Prime	O
+de	O
+fonction	O
+mensuelle	O
+à	O
+hauteur	O
+de	O
+10	O
+%	O
+-LRB-	O
+du	O
+salaire	O
+brut	O
+-RRB-	O
+si	O
+objectifs	O
+atteints	O
+L'entreprise	O
+IMPACT	company
+EXPRESS	company
+créé	O
+en	O
+2012	O
+composée	O
+de	O
+3	O
+salariés	O
+est	O
+à	O
+la	O
+recherche	O
+d'un	position
+chauffeur	position
+livreur	position
+H/F	O
+.	O
+Au	hard skills
+volant	hard skills
+d'un	hard skills
+véhicule	hard skills
+utilitaire	hard skills
+long	hard skills
+vous	hard skills
+assurez	hard skills
+l'enlèvement	hard skills
+le	hard skills
+transport	hard skills
+et	hard skills
+la	hard skills
+livraison	hard skills
+de	hard skills
+marchandises	hard skills
+sur	hard skills
+une	hard skills
+tournée	hard skills
+prédéfinie	hard skills
+.	
+Vous	hard skills
+gérez	hard skills
+le	hard skills
+chargement	hard skills
+et	hard skills
+déchargement	hard skills
+.	
+Vous	hard skills
+organisez	hard skills
+votre	hard skills
+tournée	hard skills
+afin	hard skills
+d'assurer	hard skills
+une	hard skills
+livraison	hard skills
+optimale	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+.	O
+Vous	hard skills
+vérifiez	hard skills
+la	hard skills
+conformité	hard skills
+du	hard skills
+chargement	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+consignes	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+livraison	hard skills
+.	O
+Vous	hard skills
+assurez	hard skills
+les	hard skills
+manoeuvres	hard skills
+nécessaires	hard skills
+pour	hard skills
+la	hard skills
+mise	hard skills
+à	hard skills
+quai	hard skills
+.	
+Vous	hard skills
+vous	hard skills
+conformez	hard skills
+aux	hard skills
+procédures	hard skills
+en	hard skills
+vigueur	hard skills
+et	hard skills
+respectez	hard skills
+les	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+.	
+Vous	hard skills
+respectez	hard skills
+la	hard skills
+réglementation	hard skills
+du	hard skills
+transport	hard skills
+des	hard skills
+marchandises	hard skills
+et	hard skills
+du	hard skills
+code	hard skills
+de	hard skills
+la	hard skills
+route	hard skills
+.	
+Vous	hard skills
+respectez	hard skills
+les	hard skills
+plans	hard skills
+de	hard skills
+circulation	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+des	hard skills
+entreprises	hard skills
+.	
+Vous	hard skills
+vérifiez	hard skills
+le	hard skills
+bon	hard skills
+fonctionnement	hard skills
+du	hard skills
+véhicule	hard skills
+et	hard skills
+tenez	hard skills
+informé	hard skills
+de	hard skills
+tout	hard skills
+dysfonctionnement	hard skills
+constaté.Vous	hard skills
+tenez	hard skills
+le	hard skills
+véhicule	hard skills
+en	hard skills
+parfait	hard skills
+état	hard skills
+de	hard skills
+propreté	hard skills
+.	O
+profil	O
+recherché	O
+:	O
+Titulaire	hard skills
+du	hard skills
+permis	hard skills
+B	hard skills
+depuis	hard skills
+2	hard skills
+ans	hard skills
+minimum	hard skills
+et	hard skills
+de	hard skills
+2	experience
+ans	experience
+d'expérience	experience
+au	experience
+moins	experience
+dans	experience
+la	experience
+livraison	experience
+.	O
+References	
+exigées	O
+.	O
+Vous	soft skills
+êtes	soft skills
+consciencieux	soft skills
+,	O
+autonome	soft skills
+,	O
+organisé	soft skills
+et	soft skills
+ponctuel	soft skills
+.	O
+Vous	soft skills
+devez	soft skills
+être	soft skills
+dynamique	soft skills
+et	soft skills
+disponible	soft skills
+.	O
+Responsabilités	soft skills
+et	soft skills
+Résultats	soft skills
+attendus	soft skills
+:	O
+-	
+Activités	hard skills
+définies	hard skills
+,	O
+suivies	hard skills
+et	hard skills
+évaluées	hard skills
+par	hard skills
+le	hard skills
+supérieur	hard skills
+hiérarchique	hard skills
+-	O
+Autonomie	hard skills
+limitée	hard skills
+à	hard skills
+l'exécution	hard skills
+.	O
+Responsabilité	hard skills
+dans	hard skills
+la	hard skills
+conduite	hard skills
+du	hard skills
+véhicule	hard skills
+,	
+le	hard skills
+respect	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+,	O
+dans	hard skills
+l'utilisation	hard skills
+des	hard skills
+équipements	hard skills
+du	hard skills
+véhicule	hard skills
+et	hard skills
+le	hard skills
+contrôle	hard skills
+préventif	hard skills
+de	hard skills
+celui-ci	hard skills
+-	O
+Maintien	hard skills
+du	hard skills
+lien	hard skills
+entre	hard skills
+l'usager	hard skills
+et	hard skills
+le	hard skills
+service	hard skills
+,	O
+mais	hard skills
+également	hard skills
+avec	hard skills
+son	hard skills
+environnement	hard skills
+-	O
+Respect	hard skills
+des	hard skills
+délais	hard skills
+de	hard skills
+livraison	hard skills
+prévus	hard skills
+Type	
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+livraison	experience
+:	O
+2	experience
+ans	experience

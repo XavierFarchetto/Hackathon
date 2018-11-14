@@ -1,0 +1,283 @@
+Stagiaire	position
+chargé	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+recrutement	position
+ADVAO	company
+CONSEIL	company
+-	O
+Nice	city
+-LRB-	O
+6	postal code
+-RRB-	O
+Stage	contrat_type
+ADVAO	company
+Conseil	company
+est	O
+un	O
+cabinet	O
+de	O
+recrutement	O
+à	O
+taille	O
+humaine	O
+,	O
+implanté	O
+à	O
+Nice	city
+,	O
+spécialisé	O
+dans	O
+la	O
+recherche	O
+et	O
+la	O
+sélection	O
+de	O
+profils	O
+à	O
+hautes	O
+compétences	O
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+,	O
+ADVAO	company
+Conseil	company
+propose	O
+un	O
+stage	contrat_type
+conventionné	O
+en	O
+tant	O
+que	O
+Chargé	position
+de	position
+Recrutement	position
+-LRB-	O
+h/f	O
+-RRB-	O
+.	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+un	O
+consultant	O
+,	O
+vous	hard skills
+avez	hard skills
+un	hard skills
+rôle	hard skills
+clé	hard skills
+dans	hard skills
+l'identification	hard skills
+des	hard skills
+candidats	hard skills
+à	hard skills
+potentiels	hard skills
+et	hard skills
+participez	hard skills
+à	hard skills
+la	hard skills
+construction	hard skills
+d'une	hard skills
+relation	hard skills
+privilégiée	hard skills
+avec	hard skills
+ces	hard skills
+collaborateurs	hard skills
+.	
+Vos	hard skills
+principales	hard skills
+missions	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Animation	hard skills
+du	hard skills
+sourcing	hard skills
+-LRB-	
+rédaction	hard skills
+et	hard skills
+diffusion	hard skills
+d'annonces	hard skills
+,	O
+recherche	hard skills
+de	hard skills
+candidatures	hard skills
+webtracking	hard skills
+,	O
+élaboration	hard skills
+d'argumentaires	hard skills
+recrutement	hard skills
+,	O
+pré-qualifications	hard skills
+téléphoniques	hard skills
+,	O
+organisation	hard skills
+des	hard skills
+rendez-vous	hard skills
+...	O
+-RRB-	O
+Optimisation	hard skills
+du	hard skills
+dispositif	hard skills
+de	hard skills
+sourcing	hard skills
+Actualisation	hard skills
+et	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+base	hard skills
+candidats	hard skills
+Gestion	hard skills
+des	hard skills
+réseaux	hard skills
+sociaux	hard skills
+Participation	hard skills
+aux	hard skills
+entretiens	hard skills
+de	hard skills
+sélection	hard skills
+Reporting	hard skills
+consultant/candidats/clients	hard skills
+Pour	
+mener	
+à	
+bien	
+cette	
+mission	
+,	O
+nous	
+recherchons	
+un	experience
+-LRB-	O
+e	experience
+-RRB-	O
+stagiaire	experience
+,	O
+de	experience
+formation	experience
+RH	experience
+Bac	experience
+3	experience
+/	experience
+5	experience
+ou	experience
+école	experience
+de	experience
+commerce	experience
+,	O
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	
+autonome	soft skills
+,	O
+ayant	soft skills
+envie	soft skills
+de	soft skills
+participer	soft skills
+à	soft skills
+une	soft skills
+expérience	soft skills
+significative	soft skills
+au	soft skills
+sein	soft skills
+d'un	soft skills
+cabinet	soft skills
+de	soft skills
+recrutement	soft skills
+en	soft skills
+plein	soft skills
+développement	soft skills
+.	O
+Vous	hard skills
+possédez	hard skills
+une	hard skills
+bonne	hard skills
+maîtrise	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+et	hard skills
+une	hard skills
+bonne	hard skills
+connaissance	hard skills
+des	hard skills
+réseaux	hard skills
+sociaux	hard skills
+.	O
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+travail	soft skills
+bien	soft skills
+fait	soft skills
+et	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+.	O
+Votre	soft skills
+implication	soft skills
+et	soft skills
+votre	soft skills
+enthousiasme	soft skills
+seront	O
+des	O
+atouts	O
+certains	O
+pour	O
+mener	O
+à	O
+bien	O
+vos	O
+missions	O
+et	O
+pour	O
+évoluer	O
+au	O
+sein	O
+du	O
+cabinet	O
+de	O
+recrutement	O
+ADVAO	company
+Conseil	company
+.	O
+Veuillez	O
+nous	O
+faire	O
+parvenir	O
+votre	O
+candidature	O
+et	O
+les	O
+modalités	O
+de	O
+votre	O
+stage	O
+par	O
+mail	O
+sous	O
+la	O
+référence	O
+GHTRE06	O
+Type	O
+d'emploi	O
+:	O
+Stage	contrat_type

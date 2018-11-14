@@ -1,0 +1,360 @@
+Commerciaux	position
+Terrain	position
+Paris	city
+H/F	O
+-	O
+4	O
+postes	company
+Recrutement	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+55	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+pour	O
+un	O
+de	O
+nos	O
+clients	O
+,	O
+acteur	O
+historique	O
+et	O
+bien	O
+implanté	O
+sur	O
+son	O
+marché	O
+,	O
+de	position
+quatre	position
+commerciaux	position
+terrain	position
+pour	O
+une	O
+mission	O
+de	O
+6	O
+mois	O
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+,	O
+la	O
+société	O
+a	O
+mis	O
+en	O
+place	O
+un	O
+outil	O
+de	O
+réservation	O
+novateur	O
+destiné	O
+à	O
+ses	O
+partenaires	O
+.	O
+Vous	O
+aurez	O
+notamment	O
+comme	O
+missions	O
+:	O
+1	hard skills
+-RRB-	O
+La	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+de	hard skills
+cette	hard skills
+solution	hard skills
+auprès	hard skills
+des	hard skills
+partenaires	hard skills
+actuelles	hard skills
+2	hard skills
+-RRB-	O
+L'identification	hard skills
+de	hard skills
+nouveaux	hard skills
+partenaires	hard skills
+potentiels	hard skills
+et	hard skills
+leur	hard skills
+prospection	hard skills
+La	hard skills
+prospection	hard skills
+se	hard skills
+fera	hard skills
+essentiellement	hard skills
+par	hard skills
+des	hard skills
+rendez-vous	hard skills
+terrain	hard skills
+mais	hard skills
+aussi	hard skills
+par	hard skills
+une	hard skills
+couverture	hard skills
+téléphonique	hard skills
+.	O
+Le	hard skills
+cycle	hard skills
+de	hard skills
+vente	hard skills
+devra	hard skills
+être	hard skills
+assuré	hard skills
+dans	hard skills
+sa	hard skills
+globalité	hard skills
+depuis	hard skills
+la	hard skills
+phase	hard skills
+de	hard skills
+prospection	hard skills
+,	
+la	hard skills
+signature	hard skills
+du	hard skills
+contrat	hard skills
+,	
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+de	hard skills
+la	hard skills
+solution	hard skills
+,	O
+les	hard skills
+premières	hard skills
+ventes	hard skills
+du	hard skills
+partenaire	hard skills
+jusqu	hard skills
+'	
+à	hard skills
+la	hard skills
+stabilisation	hard skills
+des	hard skills
+ventes	hard skills
+.	O
+Vous	hard skills
+disposerez	hard skills
+d'une	hard skills
+très	hard skills
+grande	hard skills
+autonomie	hard skills
+pour	hard skills
+réaliser	hard skills
+vos	hard skills
+objectifs	hard skills
+,	
+mais	
+vous	hard skills
+pourrez	hard skills
+vous	hard skills
+appuyer	hard skills
+au	hard skills
+quotidien	hard skills
+sur	hard skills
+l'équipe	hard skills
+chargée	hard skills
+de	hard skills
+la	hard skills
+relation	hard skills
+client	hard skills
+et	hard skills
+mener	hard skills
+conjointement	hard skills
+des	hard skills
+actions	hard skills
+de	hard skills
+formation	hard skills
+et	hard skills
+de	hard skills
+e-mailing	hard skills
+.	O
+Vous	hard skills
+enregistrez	hard skills
+l'ensemble	hard skills
+de	hard skills
+votre	hard skills
+activité	hard skills
+commerciale	hard skills
+-LRB-	O
+appels	hard skills
+,	O
+RDV	hard skills
+,	O
+contrats	hard skills
+,	O
+etc.	hard skills
+-RRB-	O
+sur	hard skills
+notre	hard skills
+outil	hard skills
+de	hard skills
+suivi	hard skills
+.	O
+Nous	O
+recherchons	O
+avant	O
+tout	O
+une	soft skills
+personnalité	soft skills
+:	O
+quelqu'un	soft skills
+de	soft skills
+persévérant	soft skills
+,	
+d'enthousiaste	soft skills
+,	O
+positif	soft skills
+et	soft skills
+orienté	soft skills
+client	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+soif	soft skills
+de	soft skills
+challenge	soft skills
+et	soft skills
+êtes	soft skills
+doté	soft skills
+d'une	soft skills
+excellente	soft skills
+fibre	soft skills
+commerciale	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+une	soft skills
+personne	soft skills
+autonome	soft skills
+et	soft skills
+organisée	soft skills
+dans	soft skills
+votre	soft skills
+travail	soft skills
+,	O
+sachant	soft skills
+prioriser	soft skills
+ses	soft skills
+missions	soft skills
+.	O
+Vous	O
+disposez	experience
+d'une	experience
+expérience	experience
+commerciale	experience
+conséquente	experience
+/	O
+Ce	O
+que	O
+nous	O
+offrons	O
+:	O
+Une	O
+entreprise	O
+dynamique	O
+et	O
+en	O
+croissance	O
+,	O
+dont	O
+le	O
+potentiel	O
+ne	O
+demande	O
+qu	O
+'	O
+à	O
+être	O
+exploré	O
+!	O
+Un	O
+projet	O
+d'entreprise	O
+innovant	O
+et	O
+mobilisateur	O
+Une	O
+ambiance	O
+de	O
+travail	O
+conviviale	O
+,	O
+avec	O
+des	O
+équipes	O
+passionnées	O
+et	O
+investies	O
+.	O
+Salaire	O
+:	O
+1480	salary
+$	salary
+Brut	salary
+/	O
+Mois	salary
++	O
+une	O
+prime	O
+de	O
+20	salary
+0	salary
+$	salary
+Brut	salary
+sur	O
+6	O
+mois	O
+si	O
+vous	O
+atteignez	O
+les	O
+objectifs	O
+.	O
+CDD	contrat_type
+de	O
+6	O
+mois	O
+pouvant	O
+déboucher	O
+sur	O
+un	O
+CDI	contrat_type
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+55	salary
+0	salary
+$	salary
+/	O
+an	salary

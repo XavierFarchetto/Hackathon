@@ -1,0 +1,88 @@
+Technicien	position
+Fibre	position
+Optique	position
+D3	position
+-LRB-	
+H/F	O
+-RRB-	O
+K	company
+CONNECT	company
+-	O
+Vitry-sur-Seine	city
+-LRB-	O
+94	code postal
+-RRB-	O
+Recherche	O
+technicien	position
+fibre	position
+optique	position
+D3	position
+pour	hard skills
+faire	hard skills
+du	hard skills
+raccordement	hard skills
+client	hard skills
+professionnelle	hard skills
+et	hard skills
+particulier	hard skills
+.	O
+Les	
+secteurs	
+sur	
+lesquels	
+nous	
+travaillons	
+sont	
+le	
+77/91/94	
+.	O
+Nous	O
+proposons	O
+un	O
+CDI	contrat_type
+avec	O
+une	O
+période	O
+d'essai	O
+de	O
+2	O
+mois	O
+.	O
+Expérience	experience
+exigée	experience
+minimum	experience
+1	experience
+ans	experience
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	experience
+Télécom	experience
+/	O
+Internet/M	experience
+édias	experience
+Fonction	experience
+Informatique/Internet	experience
+Expérience	experience
+0	experience
+à	O
+2	experience
+ans	experience
+Référence	
+k-connect	company
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	
+1	experience
+an	experience

@@ -1,0 +1,288 @@
+Infirmier	position
+-LRB-	O
+ière	position
+-RRB-	O
+coordinateur	position
+-LRB-	O
+rice	position
+-RRB-	O
+H/F	O
+UNA	company
+PARIS	city
+12	city
+-	O
+Paris	city
+12e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+33	salary
+0	salary
+$	salary
+-	O
+36	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+L'association	O
+UNA	company
+PARIS	city
+12	city
+accompagne	O
+,	O
+depuis	O
+près	O
+de	O
+50	O
+ans	O
+,	O
+la	O
+vie	O
+à	O
+domicile	O
+des	O
+personnes	O
+fragilisées	O
+par	O
+l'âge	O
+,	O
+la	O
+maladie	O
+,	O
+le	O
+handicap	O
+ou	O
+se	O
+trouvant	O
+dans	O
+une	O
+situation	O
+familiale	O
+délicate	O
+.	O
+Notre	O
+approche	O
+humaniste	O
+nous	O
+a	O
+permis	O
+de	O
+pérenniser	O
+nos	O
+prestations	O
+à	O
+domicile	O
+-LRB-	O
+aide	O
+et	O
+soins	O
+-RRB-	O
+et	O
+de	O
+développer	O
+un	O
+accompagnement	O
+ponctuel	O
+au	O
+travers	O
+de	O
+notre	O
+maison	O
+d'accueil	O
+temporaire	O
+et	O
+de	O
+notre	O
+centre	O
+de	O
+santé	O
+.	O
+Ce	O
+sont	O
+près	O
+de	O
+300	O
+salariés	O
+qui	O
+œuvrent	O
+pour	O
+le	O
+bien-être	O
+quotidien	O
+de	O
+nos	O
+usagers	O
+.	O
+Nous	O
+recherchons	O
+pour	O
+notre	O
+SSIAD	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+INFIRMIER	position
+-LRB-	O
+e	position
+-RRB-	O
+COORDINATEUR	position
+-LRB-	O
+rice	position
+-RRB-	O
+.	O
+Principales	O
+missions	O
+:	O
+Animer	hard skills
+,	O
+encadrer	hard skills
+l'équipe	hard skills
+soignante	hard skills
+";"	O
+Organiser	hard skills
+des	hard skills
+interventions	hard skills
+coordonnées	hard skills
+afin	hard skills
+de	hard skills
+permettre	hard skills
+le	hard skills
+maintien	hard skills
+à	hard skills
+domicile	hard skills
+";"	O
+Être	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+des	hard skills
+soins	hard skills
+";"	
+Identifier	hard skills
+et	hard skills
+évaluer	hard skills
+les	hard skills
+besoins	hard skills
+des	hard skills
+usagers	hard skills
+";"	O
+Évaluer	hard skills
+la	hard skills
+pertinence	hard skills
+de	hard skills
+l'intervention	hard skills
+";"	O
+Élaborer	hard skills
+et	hard skills
+mettre	hard skills
+en	hard skills
+place	hard skills
+le	hard skills
+projet	hard skills
+de	hard skills
+soin	hard skills
+individualisé	hard skills
+";"	O
+Planifier	hard skills
+et	hard skills
+coordonner	hard skills
+les	hard skills
+interventions	hard skills
+";"	O
+Effectuer	hard skills
+le	hard skills
+lien	hard skills
+entre	hard skills
+les	hard skills
+différents	hard skills
+partenaires	hard skills
+";"	O
+Participation	hard skills
+à	hard skills
+des	hard skills
+travaux	hard skills
+de	hard skills
+groupe	hard skills
+,	O
+à	hard skills
+des	hard skills
+projets	hard skills
+de	hard skills
+service	hard skills
+";"	O
+Effectuer	hard skills
+des	hard skills
+astreintes	hard skills
+.	O
+Compétences	
+:	O
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+,	
+rigueur	soft skills
+,	
+écoute	soft skills
+,	O
+réactivité	soft skills
+,	O
+positionnement	soft skills
+,	
+sens	soft skills
+de	soft skills
+l'autorité	soft skills
+,	O
+encadrement	soft skills
+,	O
+sens	soft skills
+de	soft skills
+l'analyse	soft skills
+,	O
+communication	soft skills
+,	O
+sens	soft skills
+des	soft skills
+responsabilités	soft skills
+.	O
+Profil	O
+recherché	O
+:	O
+Titulaire	experience
+DE	experience
+infirmier	experience
+.	
+Expérience	O
+souhaité	O
+dans	O
+un	O
+poste	O
+d'encadrement	O
+.	O
+Rémunération	O
+:	O
+Selon	O
+profil	O
+et	O
+grille	O
+interne	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+33	salary
+0	salary
+$	salary
+à	O
+36	salary
+0	salary
+$	salary
+/	
+an	salary

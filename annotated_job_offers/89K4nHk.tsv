@@ -1,0 +1,165 @@
+Agent	position
+de	position
+quai	position
+CACES	position
+3	position
+H/F	O
+CODA	company
+-	O
+Saint-Priest	city
+-LRB-	O
+69	code postal
+-RRB-	O
+10,3	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+CODA	company
+Lyon	O
+recrute	O
+pour	O
+son	O
+client	O
+:	O
+un	position
+Agent	position
+de	position
+quai	position
+CACES	position
+3	position
+H/F	O
+Contexte	O
+:	O
+Transport	O
+express	O
+de	O
+marchandises	O
+dont	O
+alcool	O
+sur	O
+palettes	O
+.	O
+3	O
+à	O
+4	O
+clients	O
+par	O
+zone	O
+géographique	O
+.	O
+Mission	O
+:	O
+Chargement	hard skills
+et	hard skills
+déchargement	hard skills
+via	hard skills
+trans-palette	hard skills
+ou	hard skills
+chariot	hard skills
+élévateur	hard skills
+,
+saisie	hard skills
+des	hard skills
+données	hard skills
+de	hard skills
+livraison	hard skills
+sur	hard skills
+informatique	hard skills
+,
+édition	hard skills
+des	hard skills
+bons	hard skills
+de	hard skills
+transport	hard skills
+pour	hard skills
+les	hard skills
+chauffeurs	hard skills
+.	O
+Une	hard skills
+fois	hard skills
+autonome	hard skills
+sur	hard skills
+votre	hard skills
+poste	hard skills
+,	O
+vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+gérer	hard skills
+les	hard skills
+planning	hard skills
+de	hard skills
+tournées	hard skills
+des	hard skills
+chauffeurs	hard skills
+.	O
+Profil	O
+:	O
+Vous	O
+avez	O
+au	O
+minimum	experience
+5	experience
+ans	experience
+d'expérience	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+et	experience
+êtes	experience
+obligatoirement	experience
+titulaire	experience
+du	experience
+CACES	experience
+3	experience
+.	O
+Salaire	O
+:	O
+10.30	salary
+$	salary
+/	O
+heure	salary
++	O
+tickets	O
+restaurants	O
+8.80	O
+$	O
+Horaires	O
+:	O
+4h-14h	O
+-LRB-	O
+1h30	O
+de	O
+pause	O
+-RRB-	O
+du	O
+lundi	O
+au	O
+vendredi	O
+Contrat	O
+:	O
+intérim	contrat_type
+de	O
+6	O
+mois	O
+en	O
+vue	O
+de	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+10,3	salary
+$	O
+/	O
+heure	salary

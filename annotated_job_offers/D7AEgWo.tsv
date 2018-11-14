@@ -1,0 +1,139 @@
+Maitre-Nageur	position
+Sauveteur	position
+H/F	O
+Center	company
+Parcs	company
+-	O
+Les	company
+Bois	company
+Francs	company
+-	O
+Verneuil-sur-Avre	city
+-LRB-	O
+27	postal code
+-RRB-	O
+1	salary
+552	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Placé	O
+-LRB-	O
+e	O
+-RRB-	O
+sous	O
+l'autorité	O
+de	O
+la	O
+Responsable	O
+de	O
+l'Aqua-Mundo	O
+et	O
+des	O
+Responsables	O
+de	O
+Service	O
+,	O
+vous	hard skills
+participerez	hard skills
+à	hard skills
+l'ensemble	hard skills
+des	hard skills
+tâches	hard skills
+du	hard skills
+département	hard skills
+Aqua-Mundo	hard skills
+et	hard skills
+aurez	hard skills
+pour	hard skills
+principales	hard skills
+missions	hard skills
+:	O
+Vous	hard skills
+faites	hard skills
+respecter	hard skills
+le	hard skills
+règlement	hard skills
+intérieur	hard skills
+de	hard skills
+l'Aqua-Mundo	hard skills
+Vous	hard skills
+êtes	hard skills
+responsable	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+l'hygiène	hard skills
+Vous	hard skills
+assurez	hard skills
+les	hard skills
+premiers	hard skills
+soins	hard skills
+Vous	hard skills
+effectuez	hard skills
+les	hard skills
+travaux	hard skills
+d'entretien	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+l'Aqua-Mundo	hard skills
+et	hard skills
+dans	hard skills
+les	hard skills
+espaces	hard skills
+techniques	hard skills
+-LRB-	
+salle	hard skills
+des	hard skills
+machines	hard skills
+-RRB-	
+Vous	hard skills
+réalisez	hard skills
+les	hard skills
+analyses	hard skills
+de	hard skills
+l'eau	hard skills
+Vous	hard skills
+donnez	hard skills
+des	hard skills
+cours	hard skills
+de	hard skills
+bébé	hard skills
+nageurs	hard skills
+...	
+Plusieurs	
+postes	
+à	
+pourvoir	
+en	
+urgence	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+552,15	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Verneuil-sur-Avre	city
+-LRB-	O
+27	postal code
+-RRB-	O
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+BPJEPS	experience

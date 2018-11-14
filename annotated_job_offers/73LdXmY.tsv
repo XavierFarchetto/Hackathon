@@ -1,0 +1,163 @@
+Technicien	position
+/	O
+technicienne	position
+de	position
+surface	position
+BTP	company
+Vacances	company
+LSP	company
+-	O
+Chorges	city
+-LRB-	O
+5	code postal
+-RRB-	O
+1	salary
+300	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Nous	O
+recherchons	O
+pour	O
+notre	O
+Village	O
+Vacances	O
+les	O
+Hyvans	O
+-	O
+Lac	O
+de	O
+Serre	O
+Ponçon	O
+-LRB-	O
+730	O
+lits	O
+-RRB-	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+:	O
+Technicien	position
+/	O
+technicienne	position
+de	position
+surface	position
+H/F	O
+:	O
+Vous	O
+intervenez	hard skills
+sur	hard skills
+le	hard skills
+nettoyage	hard skills
+intérieur	hard skills
+et	hard skills
+extérieur	hard skills
+de	hard skills
+la	hard skills
+structure	hard skills
+.	O
+Poste	O
+en	O
+CDD	contrat_type
+saisonnier	O
+,	O
+statut	O
+d'employé	O
+,	O
+basé	O
+à	O
+Chorges	city
+-	O
+GAP	O
+-LRB-	O
+5	code postal
+-RRB-	O
+Poste	O
+à	O
+pourvoir	O
+jusqu'au	O
+30	O
+Octobre	O
+2017	O
+Salaire	O
+net	O
+moyen	O
+avec	O
+prime	O
+du	O
+13ème	O
+mois	O
+et	O
+vacances	O
+:	O
+1300	salary
+$	salary
+Compétences	O
+:	O
+-	O
+Baliser	hard skills
+les	hard skills
+zones	hard skills
+glissantes	hard skills
+-	O
+Caractéristiques	hard skills
+des	hard skills
+produits	hard skills
+d'entretien	hard skills
+-	O
+Entretenir	hard skills
+les	hard skills
+locaux	hard skills
+-	O
+Entretenir	hard skills
+les	hard skills
+espaces	hard skills
+extérieurs	hard skills
+-	O
+Entretenir	hard skills
+une	hard skills
+surface	hard skills
+,	O
+un	hard skills
+sol	hard skills
+-	O
+Laver	hard skills
+les	hard skills
+vitres	hard skills
+-	
+Préparer	hard skills
+le	hard skills
+matériel	hard skills
+adapté	hard skills
+-	O
+Règles	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+propreté	hard skills
+Formation	
+:	O
+-	O
+CAP	experience
+,	O
+BEP	experience
+ou	experience
+équivalent	experience
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+300	salary
+$	salary
+/	O
+mois	salary

@@ -1,0 +1,76 @@
+Préparateur	position
+de	position
+commandes	position
+INTERMARCHE	company
+TALENCE	company
+BAGATELLE	company
+33	company
+-	O
+Talence	city
+-LRB-	O
+33	postal code
+-RRB-	O
+PRÉPARATEUR	position
+DE	position
+COMMANDES	position
+DRIVE	position
+H/F	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Temps	contrat_type
+complet	contrat_type
+Sous	O
+la	O
+responsabilité	O
+de	O
+la	O
+coordinatrice	O
+Drive	O
+,	O
+vous	hard skills
+préparez	hard skills
+et	hard skills
+remettez	hard skills
+aux	hard skills
+clients	hard skills
+leurs	hard skills
+commandes	hard skills
+effectuées	hard skills
+par	hard skills
+internet	hard skills
+.	
+Dynamique	soft skills
+,	
+organisé	soft skills
+et	soft skills
+rigoureux	soft skills
+,	O
+vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+.	O
+Type	O
+d'emploi	O
+:	
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

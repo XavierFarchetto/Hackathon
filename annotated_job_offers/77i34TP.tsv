@@ -1,0 +1,335 @@
+Conducteur	position
+de	position
+tourisme	position
+Autocars	company
+N&M	company
+-	O
+Saint-Genis-Laval	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+930	salary
+$	salary
+par	salary
+mois	salary
+Les	company
+Autocars	company
+N&M	company
+";"	O
+,	O
+Entreprise	O
+de	O
+Transport	O
+et	O
+Réceptif	O
+de	O
+prestige	O
+,	O
+recherche	O
+pour	O
+son	O
+site	O
+de	O
+Saint-Genis-Laval	city
+-LRB-	O
+69	code postal
+-RRB-	O
+des	position
+conducteurs	position
+/	O
+conductrices	position
+d'autocars	position
+de	position
+tourisme	position
+.	O
+Missions	O
+-LRB-	O
+liste	O
+non	O
+exhaustive	O
+-RRB-	O
+:	O
+-	O
+Assurer	hard skills
+une	hard skills
+conduite	hard skills
+rationnelle	hard skills
+,	O
+confortable	hard skills
+et	hard skills
+économique	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+horaires	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+personnes	hard skills
+,	O
+-	
+Effectuer	hard skills
+les	hard skills
+formalités	hard skills
+de	hard skills
+prises	hard skills
+et	hard skills
+de	hard skills
+fin	hard skills
+de	hard skills
+services	hard skills
+,	O
+les	hard skills
+tâches	hard skills
+administratives	hard skills
+et	hard skills
+techniques	hard skills
+annexes	hard skills
+,	O
+-	O
+Veiller	hard skills
+au	hard skills
+bon	hard skills
+déroulement	hard skills
+du	hard skills
+chargement	hard skills
+et	hard skills
+déchargement	hard skills
+des	hard skills
+soutes	hard skills
+,	O
+-	O
+Assurer	hard skills
+la	hard skills
+bonne	hard skills
+exécution	hard skills
+des	hard skills
+prestations	hard skills
+,	
+-	
+Accueillir	hard skills
+et	hard skills
+s	hard skills
+'	O
+assurer	hard skills
+du	hard skills
+bien	hard skills
+être	hard skills
+des	hard skills
+clients	hard skills
+pendant	hard skills
+les	hard skills
+prestations	hard skills
+,	O
+-	O
+S'assurer	hard skills
+de	hard skills
+la	hard skills
+propreté	hard skills
+permanente	hard skills
+de	hard skills
+son	hard skills
+véhicule	hard skills
+.	O
+Profils	O
+recherchés	O
+:	O
+Nous	O
+recherchons	O
+des	position
+conducteurs/trices	position
+de	position
+cars	position
+titulaires	O
+du	O
+permis	hard skills
+D	hard skills
+,	O
+de	hard skills
+la	hard skills
+FIMO/FCO	hard skills
+et	hard skills
+carte	hard skills
+chronotachygraphe	hard skills
+en	hard skills
+cours	hard skills
+de	hard skills
+validité	hard skills
+.	O
+Une	O
+expérience	experience
+minimum	experience
+de	experience
+18	experience
+mois	experience
+est	
+exigée	O
+.	O
+Avoir	soft skills
+de	soft skills
+la	soft skills
+rigueur	soft skills
+,	O
+le	soft skills
+sens	soft skills
+des	soft skills
+responsabilités	soft skills
+et	soft skills
+la	soft skills
+notion	soft skills
+de	soft skills
+satisfaction	soft skills
+client	soft skills
+sont	soft skills
+également	soft skills
+nécessaires	soft skills
+pour	
+ce	O
+poste	O
+.	O
+Langue	O
+:	O
+Anglais	hard skills
+courant	hard skills
+nécessaire	hard skills
+.	O
+Contrat	O
+proposé	O
+:	O
+Contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+déterminée	contrat_type
+:	O
+jusqu'au	O
+31	O
+Décembre	O
+2017	O
+-LRB-	O
+en	O
+vue	O
+d'embauche	O
+-RRB-	O
+Date	O
+de	O
+démarrage	O
+:	O
+au	O
+plus	O
+tôt	O
+Durée	O
+hebdomadaire	O
+du	O
+travail	O
+:	O
+Temps	O
+complet	O
+Salaire	O
+de	O
+base	O
+:	O
+1930	salary
+$	salary
+Brut	salary
+-LRB-	O
+hors	O
+primes	O
+-RRB-	O
+A	O
+négocier	O
+selon	O
+profil	O
+.	O
+Lieu	O
+:	O
+Saint-Genis-Laval	city
+-LRB-	O
+69	code postal
+-RRB-	O
+Vous	O
+possédez	O
+une	O
+expérience	experience
+récente	experience
+de	experience
+18	experience
+mois	experience
+consécutifs	experience
+minimum	experience
+dans	experience
+le	experience
+secteur	experience
+d'activité	experience
+du	experience
+transport	experience
+de	experience
+voyageurs	experience
+,	O
+vous	experience
+êtes	experience
+à	experience
+jour	experience
+de	experience
+vos	experience
+documents	experience
+de	experience
+conduite	experience
+-LRB-	O
+visite	experience
+médicale	experience
+du	experience
+permis	experience
+de	experience
+conduire	experience
+,	O
+FIMO/FCO	experience
+,	O
+carte	experience
+conducteur	experience
+-RRB-	
+,	O
+merci	O
+d'envoyer	O
+votre	O
+candidature	O
+-LRB-	O
+CV	O
+à	O
+jour	O
+et	O
+lettre	O
+de	O
+motivation	O
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Expérience	O
+exigée	O
+:	O
+conducteur	experience
+de	experience
+cars	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+permis	hard skills
+D	hard skills
++	O
+FIMO	hard skills

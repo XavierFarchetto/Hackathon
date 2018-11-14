@@ -1,0 +1,619 @@
+Serveur	position
+-LRB-	O
+se	position
+-RRB-	O
+Cafeterie	position
+/	O
+Bar	position
+H/F	O
+Hôtel	company
+K	company
++	company
+K	company
+Cayré	company
+4	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+900	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Présentation	O
+Groupe	O
+Highgate	company
+Hotels	company
+®	O
+:	O
+Highgate	O
+Hotels	O
+®	O
+est	O
+une	O
+société	O
+d'investissement	O
+et	O
+de	O
+gestion	O
+en	O
+hôtellerie	O
+reconnue	O
+comme	O
+un	O
+innovateur	O
+dans	O
+l'industrie	O
+hôtelière	O
+.	O
+Fondée	O
+en	O
+1988	O
+,	O
+Highgate	company
+Hotels	company
+est	O
+basée	O
+aux	O
+États-Unis	O
+avec	O
+une	O
+division	O
+d'entreprise	O
+supplémentaire	O
+à	O
+Londres	O
+au	O
+Royaume-Uni	O
+.	O
+Highgate	O
+est	O
+l'acteur	O
+dominant	O
+sur	O
+les	O
+marchés	O
+américains	O
+et	O
+se	O
+développe	O
+actuellement	O
+dans	O
+les	O
+principales	O
+villes	O
+européennes	O
+par	O
+le	O
+biais	O
+de	O
+propriétés	O
+à	O
+Londres	O
+,	O
+Paris	O
+,	O
+Barcelone	O
+,	O
+Vienne	O
+,	O
+Prague	O
+,	O
+Munich	O
+,	O
+etc.	O
+.	O
+Planification	O
+et	O
+développement	O
+par	O
+recapitalisation	O
+ou	O
+disposition	O
+.	O
+Highgate	O
+a	O
+également	O
+fait	O
+ses	O
+preuves	O
+en	O
+matière	O
+de	O
+développement	O
+de	O
+marques	O
+hôtelières	O
+sur	O
+mesure	O
+et	O
+utilise	O
+des	O
+outils	O
+exclusifs	O
+de	O
+gestion	O
+des	O
+revenus	O
+qui	O
+identifient	O
+et	O
+prédisent	O
+l'évolution	O
+de	O
+la	O
+dynamique	O
+du	O
+marché	O
+pour	O
+stimuler	O
+la	O
+performance	O
+des	O
+hôtels	O
+et	O
+maximiser	O
+la	O
+valeur	O
+des	O
+actifs	O
+.	O
+Rythme	O
+3	O
+jours	O
+Petit	O
+Déjeuner	O
+/	O
+2	O
+jours	O
+Bar	O
+.	O
+Bar	O
+:	O
+-	O
+accueillir	hard skills
+nos	hard skills
+clients	hard skills
+en	hard skills
+leur	hard skills
+assurant	hard skills
+un	hard skills
+accueil	hard skills
+personnalisé	hard skills
+et	hard skills
+savoir	hard skills
+les	hard skills
+renseigner	hard skills
+sur	hard skills
+les	hard skills
+alentours	hard skills
+,	O
+les	hard skills
+activités	hard skills
+touristiques	hard skills
+et	hard skills
+culturelles	hard skills
+locales	hard skills
+-	O
+assurer	hard skills
+le	hard skills
+room	hard skills
+service	hard skills
+-LRB-	
+préparation	hard skills
+et	hard skills
+service	hard skills
+-RRB-	O
+-	
+contribuer	hard skills
+à	hard skills
+la	hard skills
+fidélisation	hard skills
+et	hard skills
+au	hard skills
+développement	hard skills
+de	hard skills
+la	hard skills
+clientèle	hard skills
+-	O
+participer	hard skills
+au	hard skills
+développement	hard skills
+du	hard skills
+CA	hard skills
+par	hard skills
+votre	hard skills
+action	hard skills
+de	hard skills
+vente	hard skills
+-	O
+effectuer	hard skills
+les	hard skills
+sorties	hard skills
+de	hard skills
+stock	hard skills
+utiles	hard skills
+à	hard skills
+l'exploitation	hard skills
+du	hard skills
+bar	hard skills
+Petit	hard skills
+déjeuner	hard skills
+:	O
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+tâches	hard skills
+quotidiennes	hard skills
+relatives	hard skills
+au	hard skills
+fonctionnement	hard skills
+du	hard skills
+petit	hard skills
+déjeuner	hard skills
+.	O
+Vous	hard skills
+accueillez	hard skills
+chaleureusement	hard skills
+le	hard skills
+client	hard skills
+.	
+Vous	hard skills
+mettez	hard skills
+en	hard skills
+place	hard skills
+le	hard skills
+petit-déjeuner	hard skills
+.	
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+nettoyage	hard skills
+de	hard skills
+la	hard skills
+salle	hard skills
+de	hard skills
+Petit	hard skills
+Déjeuner	hard skills
+et	hard skills
+parties	hard skills
+communes	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+d'hygiènes	hard skills
+.	O
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+challenge	hard skills
+satisfaction	hard skills
+client	hard skills
+et	hard skills
+hygiène	hard skills
+de	hard skills
+l'hôtel	hard skills
+.	O
+Vous	hard skills
+contrôlez	hard skills
+et	hard skills
+rangez	hard skills
+des	hard skills
+livraisons	hard skills
+.	O
+Relation	
+client	
+:	
+Réserve	soft skills
+un	soft skills
+accueil	soft skills
+chaleureux	soft skills
+et	soft skills
+personnalisé	soft skills
+au	soft skills
+client	soft skills
+Offre	soft skills
+un	soft skills
+service	soft skills
+attentionné	soft skills
+et	soft skills
+adapté	soft skills
+aux	soft skills
+contraintes	soft skills
+du	soft skills
+client	soft skills
+Est	soft skills
+attentif	soft skills
+aux	soft skills
+remarques	soft skills
+du	soft skills
+client	soft skills
+et	soft skills
+en	soft skills
+assure	soft skills
+le	soft skills
+suivi	soft skills
+Etablit	soft skills
+de	soft skills
+bonnes	soft skills
+relations	soft skills
+avec	soft skills
+le	soft skills
+client	soft skills
+,	
+le	soft skills
+conseille	soft skills
+et	soft skills
+le	soft skills
+fidélise	soft skills
+Est	soft skills
+attentif	soft skills
+et	soft skills
+respecte	soft skills
+la	soft skills
+demande	soft skills
+du	soft skills
+client	soft skills
+Contribue	soft skills
+à	soft skills
+la	soft skills
+fidélisation	soft skills
+de	soft skills
+la	soft skills
+clientèle	soft skills
+par	soft skills
+sa	soft skills
+qualité	soft skills
+de	soft skills
+service	soft skills
+Parle	hard skills
+l'anglais	hard skills
+couramment	hard skills
+Technique	hard skills
+métier	hard skills
+/	O
+production	hard skills
+:	O
+Peut	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+réceptionner	hard skills
+et	hard skills
+contrôler	hard skills
+les	hard skills
+marchandises	hard skills
+Effectue	hard skills
+:	O
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+du	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+et	hard skills
+des	hard skills
+arrières	hard skills
+l'accueil	hard skills
+et	hard skills
+le	hard skills
+service	hard skills
+au	hard skills
+client	hard skills
+le	hard skills
+nettoyage	hard skills
+et	hard skills
+le	hard skills
+rangement	hard skills
+de	hard skills
+la	hard skills
+salle	hard skills
+et	hard skills
+des	hard skills
+arrières	hard skills
+après	hard skills
+le	hard skills
+service	hard skills
+Adapte	hard skills
+son	hard skills
+organisation	hard skills
+et	hard skills
+son	hard skills
+rythme	hard skills
+de	hard skills
+travail	hard skills
+en	hard skills
+fonction	hard skills
+de	hard skills
+l'affluence	hard skills
+,	
+des	hard skills
+évènements	hard skills
+et	hard skills
+des	hard skills
+clients	hard skills
+Veille	hard skills
+à	hard skills
+la	hard skills
+pérennité	hard skills
+du	hard skills
+matériel	hard skills
+mis	hard skills
+à	hard skills
+sa	hard skills
+disposition	hard skills
+Gestion	hard skills
+:	O
+Est	hard skills
+impliqué	hard skills
+dans	hard skills
+l'atteinte	hard skills
+des	hard skills
+objectifs	hard skills
+de	hard skills
+son	hard skills
+service	hard skills
+:	O
+en	hard skills
+respectant	hard skills
+les	hard skills
+procédures	hard skills
+et	hard skills
+les	hard skills
+contrôles	hard skills
+internes	hard skills
+appliqués	hard skills
+dans	hard skills
+l'hôtel	hard skills
+Contribue	hard skills
+à	hard skills
+la	hard skills
+bonne	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+vaisselle	hard skills
+et	hard skills
+du	hard skills
+petit	hard skills
+matériel	hard skills
+en	hard skills
+évitant	hard skills
+la	hard skills
+casse	hard skills
+Peut	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+participer	hard skills
+aux	hard skills
+inventaires	hard skills
+Peut	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+passer	hard skills
+des	hard skills
+commandes	hard skills
+de	hard skills
+marchandises	hard skills
+,	
+en	hard skills
+prenant	hard skills
+soin	hard skills
+d'adapter	hard skills
+les	hard skills
+stocks	hard skills
+à	hard skills
+la	hard skills
+consommation	hard skills
+Hygiène	hard skills
+/	hard skills
+Sécurité	hard skills
+des	hard skills
+personnes	hard skills
+/	O
+Environnement	hard skills
+:	O
+Veille	hard skills
+à	hard skills
+la	hard skills
+propreté	hard skills
+de	hard skills
+son	hard skills
+lieu	hard skills
+de	hard skills
+travail	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+sécurité	hard skills
+alimentaire	hard skills
+en	hard skills
+respectant	hard skills
+au	hard skills
+quotidien	hard skills
+les	hard skills
+règles	hard skills
+d'hygiène	hard skills
+HACCP	hard skills
+Respecte	hard skills
+les	hard skills
+consignes	hard skills
+d'utilisation	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+du	hard skills
+matériel	hard skills
+mis	hard skills
+à	hard skills
+sa	hard skills
+disposition	hard skills
+.	
+Applique	hard skills
+les	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+de	hard skills
+l'hôtel	hard skills
+-LRB-	O
+incendie	hard skills
+...	O
+-RRB-	
+Respecte	hard skills
+les	hard skills
+engagements	hard skills
+de	hard skills
+la	hard skills
+``	
+Charte	hard skills
+Environnement	hard skills
+''	O
+pris	hard skills
+sur	hard skills
+l'établissement	hard skills
+-LRB-	O
+économie	hard skills
+d'énergie	hard skills
+,	O
+recyclage	hard skills
+,	O
+tri	hard skills
+des	hard skills
+déchets	hard skills
+...	O
+-RRB-	O
+Applique	hard skills
+la	hard skills
+réglementation	hard skills
+sur	hard skills
+le	hard skills
+service	hard skills
+des	hard skills
+boissons	hard skills
+alcoolisées	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+900	salary
+$	salary
+/	O
+mois	salary
+Langue	O
+exigée	O
+:	O
+Anglais	hard skills

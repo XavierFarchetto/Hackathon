@@ -1,0 +1,334 @@
+Deux	position
+travailleurs	position
+sociaux	position
+La	company
+Rose	company
+Des	company
+Vents	company
+-	O
+Pontault-Combault	city
+-LRB-	O
+77	code postal
+-RRB-	O
+1	salary
+765	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Le	O
+Pôle	O
+Hébergement	O
+recherche	O
+dans	O
+le	O
+cadre	O
+de	O
+ses	O
+dispositifs	O
+:	O
+DEUX	position
+TRAVAILLEURS	position
+SOCIAUX	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Postes	O
+en	O
+CDI	contrat_type
+Ã	O
+temps	O
+complet	O
+-	O
+Pontault	city
+-LRB-	O
+77	code postal
+-RRB-	O
+Convention	O
+CCN	O
+66	O
+-	O
+Rémunération	O
+selon	O
+expérience	O
+Dans	O
+le	O
+respect	O
+des	O
+valeurs	O
+de	O
+l'Association	O
+et	O
+sous	O
+l'autorité	O
+du	O
+Cheffe	O
+de	O
+service	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+principale	hard skills
+mission	hard skills
+de	hard skills
+répondre	hard skills
+aux	hard skills
+problématiques	hard skills
+liées	hard skills
+à	hard skills
+l'accueil	hard skills
+de	hard skills
+familles	hard skills
+et	hard skills
+de	hard skills
+personnes	hard skills
+isolées	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+ses	hard skills
+dispositifs	hard skills
+d'hébergement	hard skills
+,	O
+dans	hard skills
+le	hard skills
+cadre	hard skills
+d'un	hard skills
+travail	hard skills
+pluridisciplinaire	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+les	hard skills
+équipes	hard skills
+.	O
+A	hard skills
+ce	hard skills
+titre	hard skills
+et	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+et	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+procédures	hard skills
+existantes	hard skills
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+activités	hard skills
+principales	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+globale	hard skills
+des	hard skills
+situations	hard skills
+ainsi	hard skills
+que	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+actions	hard skills
+collectives	hard skills
+.	O
+Profil
+et	O
+compétences	O
+:	O
+Formation	experience
+de	experience
+type	experience
+Diplôme	experience
+d'Etat	experience
+``	O
+Educateur	experience
+Spécialisé	experience
+''	O
+,	O
+``	O
+Conseiller	experience
+en	experience
+Economie	experience
+Sociale	experience
+et	experience
+Familiale	experience
+''
+,	O
+``	O
+Assistant	experience
+de	experience
+Service	experience
+Social	experience
+''
+.	O
+Une	experience
+connaissance	experience
+exhaustive	experience
+des	experience
+dispositifs	experience
+d'hébergement	experience
+et	experience
+d'accès	experience
+aux	experience
+droits	experience
+ainsi	experience
+qu'une	experience
+expérience	experience
+de	experience
+l'accompagnement	experience
+des	experience
+publics	experience
+en	experience
+grande	experience
+exclusion	experience
+sont	experience
+souhaitées	experience
+.	O
+Une	experience
+bonne	experience
+connaissance	experience
+des	experience
+dispositifs	experience
+d'accès	experience
+aux	experience
+droits	experience
+,
+notamment	experience
+en	experience
+lien	experience
+avec	experience
+la	experience
+Préfecture	experience
+,	O
+la	experience
+CAF	experience
+et	experience
+la	experience
+CPAM	experience
+est	experience
+souhaitée	experience
+.	O
+La	hard skills
+Maitrise	hard skills
+de	hard skills
+l'outil	hard skills
+informatique	hard skills
+-LRB-
+Internet	hard skills
+,	O
+Pack	hard skills
+Office	hard skills
+-RRB-	O
+constitue	O
+un	O
+plus	O
+.	O
+En	O
+outre	O
+,	O
+les	O
+compétences	O
+suivantes	O
+sont	O
+requises	O
+:	O
+capacité	soft skills
+de	soft skills
+synthèse	soft skills
+,
+rigueur	soft skills
+,	O
+organisation	soft skills
+,	O
+obligation	soft skills
+de	soft skills
+discrétion	soft skills
+et	soft skills
+de	soft skills
+confidentialité	soft skills
+.	O
+Permis	hard skills
+de	hard skills
+conduire	hard skills
+exigé	hard skills
+.	O
+Postuler	O
+en	O
+ligne	O
+ou	O
+à	O
+l'adresse	O
+:	O
+http://www.larosedesvents.org/pole/rose-des-vents/deux-travailleurs-sociaux-hf-ref-08-2017-ph-ts-pontaultsous	O
+référence	O
+''	O
+REF	O
+.	O
+août-17	O
+/	O
+PH-TS-Pontault	O
+''	O
+ou	O
+par	O
+voie	O
+postale	O
+:	O
+LA	company
+ROSE	company
+DES	company
+VENTS	company
+-	O
+Direction	O
+RH	O
+-	O
+Référence	O
+``	O
+REF	O
+.	O
+ao�t-17	O
+/	O
+PH-TS-Pontault	O
+''	O
+au	O
+N	O
+°	O
+CS	O
+50278	O
+-	O
+400	O
+,	O
+Chemin	O
+de	O
+Crécy	O
+-	O
+Mareuil	O
+Lès	O
+Meaux	O
+-	O
+77334	O
+Meaux	O
+Cedex	O
+France	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+765	salary
+$	salary
+/	O
+mois	salary

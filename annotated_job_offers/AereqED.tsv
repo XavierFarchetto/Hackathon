@@ -1,0 +1,148 @@
+Fleuriste	position
+Vendeur	position
+H/F	O
+Gaël	company
+Paysages	company
+-	O
+Bois-d'Arcy	city
+-LRB-	O
+78	code postal
+-RRB-	O
+CDI	contrat_type
+Vos	O
+missions	O
+sont	O
+les	O
+suivantes	O
+:	O
+Vous	hard skills
+appliquez	hard skills
+les	hard skills
+procédures	hard skills
+de	hard skills
+contrôle	hard skills
+,	
+de	hard skills
+gestion	hard skills
+,	O
+et	hard skills
+de	hard skills
+mise	hard skills
+en	hard skills
+scène	hard skills
+des	hard skills
+marchandises	hard skills
+lors	hard skills
+des	hard skills
+arrivages	hard skills
+";"	
+Vous	hard skills
+participez	hard skills
+à	hard skills
+l'animation	hard skills
+commerciale	hard skills
+et	hard skills
+accueillez	hard skills
+la	hard skills
+clientèle	hard skills
+";"	O
+Vous	hard skills
+réalisez	hard skills
+des	hard skills
+compositions	hard skills
+florales	hard skills
+pour	hard skills
+les	hard skills
+particuliers	hard skills
+et	hard skills
+les	hard skills
+entreprises	hard skills
+";"	
+Vous	hard skills
+gérez	hard skills
+les	hard skills
+opérations	hard skills
+d'encaissement	hard skills
+";"	O
+Vous	hard skills
+contrôlez	hard skills
+et	hard skills
+entretenez	hard skills
+les	hard skills
+végétaux	hard skills
+";"	
+Vous	hard skills
+veillerez	hard skills
+à	hard skills
+l'entretien	hard skills
+,	
+au	hard skills
+nettoyage	hard skills
+et	hard skills
+au	hard skills
+rangement	hard skills
+de	hard skills
+l'espace	hard skills
+de	hard skills
+vente	hard skills
+";"	O
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+à	hard skills
+animer	hard skills
+des	hard skills
+ateliers	hard skills
+d'apprentissage	hard skills
+de	hard skills
+l'art	hard skills
+floral	hard skills
+pour	hard skills
+différents	hard skills
+publics	hard skills
+";"	
+Vous	hard skills
+pourrez	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+encadrer	hard skills
+et	hard skills
+animer	hard skills
+une	hard skills
+équipe	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Bois-d'Arcy	city
+-LRB-	O
+78	code postal
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	
+exigée	O
+:	
+Fleuriste	experience
+:	O
+3	experience
+ans	experience

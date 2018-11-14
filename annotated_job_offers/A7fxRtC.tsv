@@ -1,0 +1,74 @@
+Conducteur/trice	position
+ramassage	position
+scolaire	position
+MIGRATOUR	company
+-	O
+Le	city
+Puy-en-Velay	city
+-LRB-	O
+43	postal code
+-RRB-	
+CDD	contrat_type
+Recherchons	O
+conducteur/trice	position
+pour	hard skills
+Transport	hard skills
+scolaire	hard skills
+sur	hard skills
+le	hard skills
+secteur	hard skills
+de	hard skills
+Langeac	hard skills
+/	O
+Paulhaguet	hard skills
+à	hard skills
+partir	hard skills
+de	hard skills
+4	hard skills
+septembre	hard skills
+2017	hard skills
+horaires	
+:	O
+15h	
+hebdomadaires	
+-LRB-	
+période	O
+scolaire	O
+-RRB-	O
+formations	O
+et	O
+compétences	O
+:	O
+Permis	hard skills
+D	hard skills
+,	O
+la	hard skills
+FIMO	hard skills
+Voyageurs	hard skills
+et	hard skills
+FCO	hard skills
+à	hard skills
+jour	hard skills
+débutant	hard skills
+accepté	hard skills
+Pour	
+plus	
+de	O
+renseignement	O
+,	O
+merci	O
+de	O
+nous	O
+contacter	O
+au	O
+4	O
+71	O
+2	O
+43	O
+23	O
+.	O
+MIGRATOUR	company
+Type	
+d'emploi	O
+:	O
+CDD	contrat_type

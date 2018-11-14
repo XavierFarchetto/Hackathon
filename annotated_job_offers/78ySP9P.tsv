@@ -1,0 +1,80 @@
+Inventoriste	position
+informatique	position
+H/F	O
+LTD	company
+Consulting	company
+-	O
+Paris	city
+9e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+Intérim	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+recherche	O
+d'intérimaire	O
+pour	O
+un	O
+grand	O
+groupe	O
+,	O
+vous	O
+trouverez	O
+ci-dessous	O
+les	O
+détails	O
+:	O
+Profil	O
+:	O
+Bac	experience
++	experience
+2	experience
+en	experience
+informatique	experience
+Petite	experience
+expérience	experience
+en	experience
+câblage	experience
+de	experience
+préférence	experience
+Missions	
+:	O
+Faire	hard skills
+un	hard skills
+inventaire	hard skills
+des	hard skills
+câblages	hard skills
+existants	hard skills
+Rebrasser	hard skills
+des	hard skills
+câbles	hard skills
+Inventaire	hard skills
+matériel	hard skills
+-LRB-	O
+récupération	hard skills
+des	hard skills
+numéros	hard skills
+de	hard skills
+série	hard skills
+...	O
+-RRB-	O
+Durée	O
+:	O
+1	O
+mois	O
+Localisation	O
+:	O
+Paris	city
+12	city
+,	O
+Gare	O
+de	O
+Lyon	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type

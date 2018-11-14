@@ -1,0 +1,306 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Chef	position
+des	position
+ventes	position
+&	position
+planning	position
+stratégique	position
+H/F	O
+Médias	company
+France	company
+-	O
+Levallois-Perret	city
+-LRB-	O
+92	code postal
+-RRB-	O
+21	salary
+0	salary
+$	salary
+-	O
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+MEDIAS	company
+France	company
+,	O
+agence	O
+de	O
+communication	O
+spécialisée	O
+dans	O
+la	O
+visibilité	O
+des	O
+PME	O
+sur	O
+les	O
+supports	O
+digitaux	O
+de	O
+médias	O
+nationaux	O
+,	O
+est	O
+forte	O
+de	O
+ses	O
+partenariats	O
+avec	O
+les	O
+plus	O
+grands	O
+titres	O
+-LRB-	O
+Marie	O
+Claire	O
+,	O
+Marie	O
+France	O
+,	O
+Auto	O
+Moto	O
+,	O
+La	O
+Tribune	O
+...	O
+-RRB-	O
+.	O
+Nous	O
+produisons	O
+du	O
+contenu	O
+pour	O
+les	O
+annonceurs	O
+indépendants	O
+avec	O
+une	O
+approche	O
+multi-formats	O
+-LRB-	O
+texte	O
+,	O
+photo	O
+,	O
+vidéo	O
+-RRB-	O
+Pour	O
+poursuivre	O
+notre	O
+développement	O
+,	O
+nous	O
+recrutons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+chef	position
+de	position
+ventes	position
+&	position
+planning	position
+stratégique	position
+h/f	O
+.	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+chef	O
+des	O
+ventes	O
+,	O
+vos	O
+missions	O
+principales	O
+sont	O
+les	O
+suivantes	O
+:	O
+-	O
+Tenue	hard skills
+du	hard skills
+planning	hard skills
+éditorial	hard skills
+-	
+Recherche	hard skills
+,	O
+suggestions	hard skills
+et	hard skills
+élaboration	hard skills
+de	hard skills
+nouveaux	hard skills
+dossiers	hard skills
+/	O
+titres	hard skills
+/	O
+domaines	hard skills
+d'activité	hard skills
+pour	hard skills
+nos	hard skills
+rubriques	hard skills
+-	O
+Suivi	hard skills
+des	hard skills
+ventes	hard skills
+et	hard skills
+études	hard skills
+pour	hard skills
+optimisation	hard skills
+des	hard skills
+rubriques	hard skills
+-	O
+Reporting	hard skills
+-	O
+Aide	hard skills
+à	hard skills
+la	hard skills
+pige	hard skills
+pour	hard skills
+les	hard skills
+commerciaux	hard skills
+-	O
+Aide	hard skills
+à	hard skills
+l'organisation	hard skills
+d'événements	hard skills
+Profil	
+recherché	O
+Passionné	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+et	experience
+expert	experience
+-LRB-	O
+e	experience
+-RRB-	O
+des	experience
+stratégies	experience
+médias	experience
+,	O
+marketing	experience
+et	experience
+publicitaires	experience
+,	O
+vous	experience
+êtes	experience
+diplômé	experience
+-LRB-	O
+e	experience
+-RRB-	O
+d'une	experience
+formation	experience
+supérieure	experience
+en	experience
+commerce	experience
+ou	experience
+marketing	experience
+de	experience
+type	experience
+BTS/DUT	experience
+.	O
+Vous	experience
+justifiez	experience
+d'une	experience
+première	experience
+expérience	experience
+réussie	experience
+au	experience
+sien	experience
+d'une	experience
+agence	experience
+média	experience
+.	O
+Vous	soft skills
+est	soft skills
+demandé	soft skills
+,	O
+une	soft skills
+grande	soft skills
+curiosité	soft skills
+,	O
+de	soft skills
+l'autonomie	soft skills
+,	O
+de	soft skills
+la	soft skills
+rigueur	soft skills
+,	O
+le	soft skills
+goût	soft skills
+des	soft skills
+chiffres	soft skills
+et	soft skills
+de	soft skills
+l'analyse	soft skills
+,	O
+une	soft skills
+bonne	soft skills
+maîtrise	soft skills
+de	soft skills
+l'expression	soft skills
+écrite	soft skills
+et	soft skills
+orale	soft skills
+,	
+et	soft skills
+la	soft skills
+capacité	soft skills
+à	soft skills
+travailler	soft skills
+en	soft skills
+équipe	O
+.	O
+Modalités	
+du	O
+poste	O
+Poste	O
+basé	O
+à	O
+Levallois	city
+Perret	city
+-LRB-	O
+92	code postal
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+35h	O
+/	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+21	salary
+0	salary
+$	salary
+à	O
+25	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+stratégie	experience
+marketing	experience
+:	O
+2	experience
+ans	experience

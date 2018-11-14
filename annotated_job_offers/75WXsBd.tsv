@@ -1,0 +1,222 @@
+Technicien	position
+Integration	position
+ACASS	company
+-	O
+Lanester	city
+-LRB-	O
+56	code postal
+-RRB-	O
+28	salary
+0	salary
+$	salary
+-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Acass	company
+agence	O
+de	O
+recrutement	O
+recherche	O
+pour	O
+son	O
+client	O
+un	position
+Technicien	position
+intégration	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+recrutement	O
+en	O
+CDI.Sous	contrat_type
+la	O
+responsabilité	O
+du	O
+responsable	O
+d'activité	O
+,	O
+vous	hard skills
+avez	hard skills
+en	hard skills
+charge	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:	O
+-	O
+Etre	hard skills
+le	hard skills
+contact	hard skills
+du	hard skills
+chef	hard skills
+de	hard skills
+projet	hard skills
+-	
+Interpréter	hard skills
+les	hard skills
+plans	hard skills
+,	
+implantations	hard skills
+et	hard skills
+carnets	hard skills
+de	hard skills
+câblage	hard skills
+et	hard skills
+proposer	hard skills
+des	hard skills
+corrections	hard skills
+si	hard skills
+nécessaires	hard skills
+-	O
+Procéder	hard skills
+à	hard skills
+l'installation	hard skills
+des	hard skills
+logiciels	hard skills
+sur	hard skills
+les	hard skills
+différents	hard skills
+équipements	hard skills
+-	O
+Assurer	hard skills
+les	hard skills
+paramétrages	hard skills
+pour	hard skills
+que	hard skills
+le	hard skills
+système	hard skills
+fonctionne	hard skills
+-	O
+Former	hard skills
+le	hard skills
+client	hard skills
+à	hard skills
+l'utilisation	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+main	hard skills
+-	O
+Valider	hard skills
+les	hard skills
+différents	hard skills
+documents	hard skills
+-LRB-	
+plans	hard skills
+de	hard skills
+câblage	hard skills
+,	O
+d'implantation	hard skills
+matériel	hard skills
+,	O
+cahier	hard skills
+de	hard skills
+recette	hard skills
+,	O
+dossier	hard skills
+de	hard skills
+configuration	hard skills
+-RRB-	
+De	hard skills
+formation	hard skills
+Administrateur	hard skills
+Réseau	hard skills
+,	O
+vous	O
+justifiez	experience
+de	experience
+plus	experience
+de	experience
+3	experience
+années	experience
+d'expérience	experience
+en	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+sécurité	experience
+électronique	experience
+.	O
+Autonomie	soft skills
+,	O
+rigueur	soft skills
+et	soft skills
+aisance	soft skills
+relationnelle	soft skills
+sont	
+des	
+qualités	
+essentielles	O
+pour	O
+cette	O
+fonction.Ce	O
+poste	O
+,	O
+qui	O
+nécessite	O
+des	O
+déplacements	O
+,	O
+requiert	O
+un	O
+permis	hard skills
+B	hard skills
+valide	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+à	O
+30	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Lanester	city
+-LRB-	O
+56	code postal
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	O
+secondaires	O
+-LRB-	O
+niveau	O
+Bac	experience
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+SECURITE	experience
+ELECTRONIQUE	experience
+:	O
+3	experience
+ans	experience

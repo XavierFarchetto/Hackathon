@@ -1,0 +1,110 @@
+Employé	position
+libre	position
+service	position
+H/F	O
+SUPERCARD	company
+-	O
+Paris	city
+17e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Pour	O
+un	O
+magasin	O
+de	O
+proximité	O
+,	O
+vous	hard skills
+développer	hard skills
+la	hard skills
+clientèle	hard skills
+,	
+gérer	hard skills
+les	hard skills
+livraisons	hard skills
+,	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+rayon	hard skills
+et	hard skills
+l'encaissement	hard skills
+.	
+Garant	hard skills
+du	hard skills
+bon	hard skills
+fonctionnement	hard skills
+du	hard skills
+magasin	hard skills
+vous	hard skills
+êtes	hard skills
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+de	hard skills
+vos	hard skills
+managers	hard skills
+qui	hard skills
+vous	hard skills
+aideront	hard skills
+et	hard skills
+guiderons	hard skills
+dans	hard skills
+vos	hard skills
+tâches	hard skills
+.	O
+Dynamique	soft skills
+,	O
+ayant	experience
+une	experience
+première	experience
+expérience	experience
+si	experience
+possible	experience
+chez	experience
+un	experience
+indépendant	experience
+,	O
+vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+et	soft skills
+disponible	soft skills
+immédiatement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+employé	experience
+libre	experience
+service	experience
+:	O
+1	experience
+an	experience

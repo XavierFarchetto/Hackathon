@@ -1,0 +1,80 @@
+Menuisier	position
+H/F	O
+CAROLE	company
+DEHAYS	company
+EXPERT	company
+-	O
+Chartres	city
+-LRB-	O
+28	postal code
+-RRB-	O
+10,07	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+CAROLE	company
+DEHAYS	company
+EXPERT	company
+recherche	O
+un	position
+menuisiser	position
+H/F	O
+.	O
+Missions	hard skills
+:	O
+-	
+lecture	hard skills
+de	hard skills
+plans	hard skills
+,	
+-	O
+prise	hard skills
+de	hard skills
+dimensions	hard skills
+,	O
+-	
+réalisation	hard skills
+de	hard skills
+coffrages	hard skills
+,	
+-	O
+respect	hard skills
+des	hard skills
+délais	hard skills
+imposés	hard skills
+de	hard skills
+productionProfil	hard skills
+:	O
+formation	experience
+CAP/BEF	experience
+Menuiserie	experience
+d'agencement	experience
+avec	experience
+une	experience
+expérience	experience
+en	experience
+secteur	experience
+industriel	experience
+d'au	experience
+moins	experience
+5	experience
+ans.Rémunération	experience
+:	O
+10.07	salary
+$	salary
+b	salary
+/	O
+h	salary
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Expérience	O
+exigée	O
+:	O
+Menuiserie	experience
+:	O
+5	experience
+ans	experience

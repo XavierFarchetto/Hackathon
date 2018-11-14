@@ -1,0 +1,207 @@
+Aide	position
+ménagère	position
+-LRB-	
+H/F	O
+-RRB-	O
+OMIMO	company
+-	O
+Lieusaint	city
+-LRB-	O
+77	code postal
+-RRB-	O
+9,76	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+OMIMO	company
+acteur	O
+des	O
+services	O
+à	O
+la	O
+personne	O
+présent	O
+sur	O
+Sénart	O
+et	O
+Melun	O
+,	O
+recherche	O
+dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+des	O
+collaborateurs	position
+-LRB-	O
+trices	position
+-RRB-	O
+afin	O
+d'intervenir	O
+chez	O
+ses	O
+clients	O
+pour	O
+des	O
+prestations	O
+de	O
+Ménage	O
+/	O
+Repassage	O
+.	O
+MISSIONS/TACHES	hard skills
+Dépoussiérer	hard skills
+les	hard skills
+sols	hard skills
+,	O
+les	hard skills
+tapis	hard skills
+,	
+les	hard skills
+meubles	hard skills
+,	O
+les	hard skills
+objets	hard skills
+et	hard skills
+aérer	hard skills
+,	O
+désodoriser	hard skills
+les	hard skills
+pièces	hard skills
+Nettoyer	hard skills
+et	hard skills
+laver	hard skills
+les	hard skills
+sols	hard skills
+,	
+les	hard skills
+mobiliers	hard skills
+Entretenir	hard skills
+et	hard skills
+ranger	hard skills
+le	hard skills
+linge	hard skills
+de	hard skills
+maison	hard skills
+et	hard skills
+les	hard skills
+vêtements	hard skills
+de	hard skills
+la	hard skills
+personne	hard skills
+-LRB-	O
+lessive	hard skills
+,	O
+couture	hard skills
+,	O
+repassage	hard skills
+,	O
+...	O
+-RRB-	O
+Nettoyer	hard skills
+et	hard skills
+ranger	hard skills
+la	hard skills
+vaisselle	hard skills
+,	O
+la	hard skills
+cuisine	hard skills
+,	
+les	hard skills
+sanitaires	hard skills
+Entretenir	hard skills
+et	hard skills
+remettre	hard skills
+en	hard skills
+place	hard skills
+les	hard skills
+équipements	hard skills
+ménagers	hard skills
+et	hard skills
+veiller	hard skills
+à	hard skills
+l'état	hard skills
+des	hard skills
+stocks	hard skills
+des	hard skills
+produits	hard skills
+Informer	hard skills
+la	hard skills
+personne	hard skills
+des	hard skills
+anomalies	hard skills
+constatées	hard skills
+sur	hard skills
+les	hard skills
+mobiliers	hard skills
+,	
+les	hard skills
+appareils	hard skills
+et	hard skills
+éventuellement	hard skills
+y	hard skills
+remédier	hard skills
+Nettoyer	hard skills
+les	hard skills
+vitres	hard skills
+Permis	hard skills
+et	hard skills
+véhicule	hard skills
+exigé	hard skills
+Poste	
+à	O
+pourvoir	O
+très	O
+rapidement	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+9,67	salary
+$	salary
+/	O
+heure	salary
+1	O
+à	
+2	O
+postes	O
+à	O
+pourvoir	O
+début	O
+septembre	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+9,76	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+77127	code postal
+Lieusaint	city
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	O
+1	experience
+an	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

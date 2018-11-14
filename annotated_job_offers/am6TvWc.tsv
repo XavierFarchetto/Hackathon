@@ -1,0 +1,162 @@
+Réceptionniste	position
+de	position
+nuit	position
+à	O
+temps	contrat_type
+partiel	contrat_type
+30h00	O
+VINTAGE	company
+HOSTEL	company
+-	O
+Paris	city
+9e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+,	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+réceptionniste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+de	position
+nuit	position
+à	O
+temps	contrat_type
+partiel	contrat_type
+,	O
+30h00	O
+hebdomadaires	O
+du	O
+vendredi	O
+au	O
+dimanche	O
+.	O
+Si	O
+vous	O
+souhaitez	O
+évoluer	O
+dans	O
+une	O
+ambiance	O
+jeune	O
+et	O
+cosmopolite	O
+,	O
+alors	O
+venez	O
+rejoindre	O
+notre	O
+équipe	O
+!	O
+Vous	hard skills
+maîtrisez	hard skills
+plusieurs	hard skills
+langues	hard skills
+dont	hard skills
+le	hard skills
+français	hard skills
+et	hard skills
+l'anglais	hard skills
+.	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+sens	soft skills
+poussé	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+et	soft skills
+de	soft skills
+l'accueil	soft skills
+.	
+Vous	hard skills
+êtes	hard skills
+garant	hard skills
+du	hard skills
+bon	hard skills
+déroulement	hard skills
+du	hard skills
+séjour	hard skills
+du	hard skills
+client	hard skills
+dans	hard skills
+une	hard skills
+ambiance	hard skills
+décontractée	hard skills
+et	hard skills
+dynamique	hard skills
+.	O
+Vous	hard skills
+maîtrisez	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+et	hard skills
+êtes	hard skills
+à	hard skills
+l'aise	hard skills
+avec	hard skills
+les	hard skills
+chiffres.Vous	hard skills
+savez	hard skills
+travailler	hard skills
+seul	hard skills
+tout	hard skills
+en	hard skills
+faisant	hard skills
+partie	hard skills
+d'une	hard skills
+équipe	hard skills
+.	
+Le	soft skills
+sourire	soft skills
+et	soft skills
+la	soft skills
+convivialité	soft skills
+font	soft skills
+partie	soft skills
+de	soft skills
+vos	soft skills
+atouts.Ce	soft skills
+poste	
+est	
+à	O
+pourvoir	O
+immédiatement.Merci	O
+d'adresser	O
+votre	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+service	experience
+:	O
+1	experience
+an	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+français	hard skills
+anglais	hard skills

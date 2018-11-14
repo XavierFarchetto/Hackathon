@@ -1,0 +1,184 @@
+CAISSIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+-	O
+TABAC	company
+LOTO	company
+PRESSE	company
+LIBRAIRIE	company
+-	O
+BOULOGNE	city
+BILLANCOURT	city
+-LRB-	O
+92	postal code
+-RRB-	O
+SNC	O
+19-16	O
+-	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	postal code
+-RRB-	O
+1	salary
+529	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+caissier	position
+-LRB-	O
+e	position
+-RRB-	O
+/	O
+vendeur	position
+-LRB-	O
+se	position
+-RRB-	O
+au	O
+sein	O
+d'un	O
+commerce	O
+tabac/loto/presse	company
+/	O
+librairie/papeterie	company
+.	O
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+:	
+-	O
+l'accueil	hard skills
+des	hard skills
+clients	hard skills
+-	hard skills
+la	hard skills
+vente	hard skills
+et	hard skills
+de	hard skills
+l'encaissement	hard skills
+des	hard skills
+divers	hard skills
+produits	hard skills
+-	hard skills
+réassort	hard skills
+des	hard skills
+rayons	hard skills
+-	hard skills
+l'entretien	hard skills
+de	hard skills
+l'espace	hard skills
+de	hard skills
+vente	hard skills
+.	
+Vous	soft skills
+êtes	soft skills
+méthodique	soft skills
+,	
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+ponctuel	soft skills
+-LRB-	O
+le	soft skills
+-RRB-	O
+et	soft skills
+savez	soft skills
+vous	soft skills
+adapter	soft skills
+rapidement	soft skills
+à	soft skills
+diverses	soft skills
+tâches	soft skills
+.	
+Vous	hard skills
+avez	hard skills
+déjà	hard skills
+tenu	hard skills
+une	hard skills
+caisse	hard skills
+et	hard skills
+savez	hard skills
+impérativement	hard skills
+rendre	hard skills
+la	hard skills
+monnaie	hard skills
+.	O
+Amplitude	O
+horaire	O
+:	O
+de	O
+7h	O
+à	O
+20h30	O
+-	O
+horaires	O
+variables	O
+suivant	O
+planning	O
+.	O
+Travail	O
+occasionnellement	O
+le	O
+dimanche	O
+et	O
+les	O
+jours	O
+fériés	O
+.	O
+Contrats	O
+d'apprentissage	O
+acceptés	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+529	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	postal code
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	
+Expérience	O
+exigée	O
+:	O
+caisse	experience
+:	O
+1	experience
+an	experience

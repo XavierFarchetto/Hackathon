@@ -1,0 +1,144 @@
+Cuisinier	position
+-LRB-	O
+H/F	O
+-RRB-	O
+LA	company
+MARMITE	company
+-	O
+Rungis	city
+-LRB-	O
+94	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+Nous	O
+recherchons	O
+pour	O
+notre	O
+restaurant	O
+situe	O
+au	O
+cœur	O
+du	O
+Marché	O
+International	O
+de	O
+Rungis	city
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+cuisinier	position
+-LRB-	O
+ère	position
+-RRB-	O
+expérimenté	position
+-LRB-	O
+e	position
+-RRB-	O
+pour	
+effectuer	
+un	
+CDI	contrat_type
+,	
+nous	O
+recherchons	O
+une	soft skills
+personne	soft skills
+sérieuse	soft skills
+dynamique	soft skills
+et	soft skills
+passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+par	soft skills
+son	soft skills
+travaille	soft skills
+qui	soft skills
+avec	soft skills
+ses	soft skills
+collaborateurs	soft skills
+pourras	soft skills
+enrichir	soft skills
+et	soft skills
+diversifiée	soft skills
+notre	soft skills
+carte	soft skills
+quotidiennement	soft skills
+.	O
+Vous	hard skills
+serais	hard skills
+amener	hard skills
+à	hard skills
+travaillé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+du	hard skills
+Lundi	hard skills
+au	hard skills
+Vendredi	hard skills
+de	hard skills
+8h	hard skills
+à	hard skills
+16h	hard skills
+.	O
+le	O
+salaire	O
+pourras	O
+être	O
+évolutif	O
+en	O
+fonction	O
+de	O
+votre	O
+implication	O
+.	O
+Pour	O
+tout	O
+renseignement	O
+Supplémentaire	O
+merci	O
+de	O
+bien	O
+vouloir	O
+contacter	O
+le	O
+06-25-40-77-39	O
+-LRB-	O
+entre	O
+8h	O
+et	O
+18h30	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

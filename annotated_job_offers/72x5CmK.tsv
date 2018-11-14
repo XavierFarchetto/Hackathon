@@ -1,0 +1,371 @@
+Ingénieur	position
+Computer	position
+vision	position
+&	position
+Machine	position
+Learning	position
+GENOMIC	company
+VISION	company
+-	O
+Bagneux	city
+-LRB-	O
+92	code postal
+-RRB-	O
+CDI	contrat_type
+CDI	contrat_type
+Temps	O
+plein	O
+A	O
+pourvoir	O
+:	O
+Dès	O
+que	O
+possible	O
+Salaire	O
+:	O
+selon	O
+profil	O
+Mots	O
+clés	O
+:	O
+Traitement	
+d'image	
+,	O
+Machine	
+Learning	
+,	O
+Biotechnologies	
+Entreprise	
+:	O
+Genomic	company
+Vision	company
+Vous	O
+souhaitez	O
+rejoindre	O
+une	O
+entreprise	O
+innovante	O
+et	O
+dynamique	O
+,	O
+à	O
+taille	O
+humaine	O
+?	O
+Rejoignez	O
+nous	O
+!	O
+Genomic	company
+Vision	company
+,	O
+société	O
+de	O
+biotechnologies	O
+,	O
+pionnier	O
+du	O
+peignage	O
+moléculaire	O
+,	O
+développe	O
+et	O
+commercialise	O
+des	O
+tests	O
+innovants	O
+de	O
+diagnostic	O
+moléculaire	O
+.	O
+Cette	O
+technologie	O
+permet	O
+d'aligner	O
+et	O
+visualiser	O
+des	O
+molécules	O
+d'ADN	O
+,	O
+par	O
+microscopie	O
+à	O
+épi-fluorescence	O
+,	O
+et	O
+de	O
+détecter	O
+des	O
+structures	O
+chromosomiques	O
+d'intérêt	O
+-LRB-	O
+``	O
+patterns	O
+''	O
+-RRB-	O
+.	O
+Mission	O
+Au	O
+sein	O
+du	O
+département	O
+IT	O
+&	O
+Systems	O
+,	O
+vous	O
+interviendrez	hard skills
+sur	hard skills
+l'ensemble	hard skills
+des	hard skills
+projets	hard skills
+R&D	hard skills
+";"	
+de	hard skills
+l'entreprise	hard skills
+.	O
+Vous	O
+travaillerez	hard skills
+à	hard skills
+l'amélioration	hard skills
+des	hard skills
+méthodes	hard skills
+de	hard skills
+détection	hard skills
+et	hard skills
+reconnaissance	hard skills
+de	hard skills
+patterns	hard skills
+dans	hard skills
+les	hard skills
+images	hard skills
+de	hard skills
+fluorescence	hard skills
+issues	hard skills
+du	hard skills
+peignage	hard skills
+moléculaire	hard skills
+actuellement	hard skills
+implémentées	hard skills
+ainsi	hard skills
+qu'au	hard skills
+développement	hard skills
+de	hard skills
+nouvelles	hard skills
+méthodes	hard skills
+pour	hard skills
+tout	hard skills
+nouveau	hard skills
+projet	hard skills
+R&D.	hard skills
+";"	
+Vous	
+évoluerez	hard skills
+dans	hard skills
+un	hard skills
+contexte	hard skills
+fortement	hard skills
+pluridisciplinaire	hard skills
+et	hard skills
+collaborerez	hard skills
+avec	hard skills
+des	hard skills
+biologistes	hard skills
+,	O
+des	hard skills
+informaticiens	hard skills
+et	hard skills
+des	hard skills
+statisticiens	hard skills
+.	O
+Activités	hard skills
+principales	hard skills
+Evaluer	hard skills
+les	hard skills
+performances	hard skills
+des	hard skills
+méthodes	hard skills
+de	hard skills
+Computer	hard skills
+Vision	hard skills
+&	hard skills
+Machine	hard skills
+Learning	hard skills
+actuellement	hard skills
+implémentées	hard skills
+et	hard skills
+définir	hard skills
+des	hard skills
+pistes	hard skills
+d'amélioration	hard skills
+.	
+Proposer	hard skills
+et	hard skills
+développer	hard skills
+des	hard skills
+méthodes	hard skills
+de	hard skills
+traitement	hard skills
+d'images	hard skills
+pour	hard skills
+améliorer	hard skills
+les	hard skills
+performances	hard skills
+des	hard skills
+méthodes	hard skills
+actuelles	hard skills
+.	O
+Traiter	hard skills
+les	hard skills
+données	hard skills
+expérimentales	hard skills
+et	hard skills
+en	hard skills
+rapporter	hard skills
+les	hard skills
+résultats	hard skills
+sous	hard skills
+forme	hard skills
+de	hard skills
+rapport	hard skills
+ou	hard skills
+présentation	hard skills
+.	O
+Profil	O
+recherché	O
+H/F	O
+Vous	O
+avez	O
+une	O
+formation	O
+ingénieur	experience
+-LRB-	O
+Bac	experience
+5	experience
+minimum	experience
+-RRB-	O
+ou	O
+Doctorat	experience
+-LRB-	O
+Bac	experience
+8	experience
+souhaitable	experience
+-RRB-	
+en	experience
+mathématiques	experience
+appliquées	experience
+,	O
+avec	experience
+une	experience
+spécialisation	experience
+dans	experience
+les	experience
+domaines	experience
+suivants	experience
+:	
+Computer	experience
+Vision	experience
+,	O
+Image	experience
+Processing	experience
+,	O
+Machine	experience
+Learning	experience
+,	O
+Deep	experience
+Learning	experience
+.	O
+Analyse	experience
+statistique	experience
+de	experience
+données	experience
+.	O
+Langue	O
+:	O
+anglais	experience
+professionnel	experience
+.	O
+Les	O
+indispensables	O
+:	O
+Première	experience
+expérience	experience
+de	experience
+2	experience
+à	O
+3	experience
+ans	experience
+dans	experience
+l'analyse	experience
+d'image	experience
+et	experience
+reconnaissance	experience
+de	experience
+formes	experience
+et	experience
+maitrise	experience
+de	experience
+librairies	experience
+open-sources	experience
+comme	experience
+OPENCV	experience
+.	O
+Connaissance	experience
+des	experience
+méthodes	experience
+d'apprentissage	experience
+supervisé	experience
+/	O
+non-supervisé	experience
+.	O
+Expérience	experience
+en	experience
+programmation	experience
+,	O
+maitrise	experience
+de	experience
+Python	experience
+.	O
+Autonomie	soft skills
+,	O
+créativité	soft skills
+,	O
+esprit	soft skills
+d'initiative	soft skills
+,	O
+esprit	soft skills
+d'équipe	soft skills
+.	O
+Les	O
+plus	O
+:	O
+Intérêt	hard skills
+pour	hard skills
+les	hard skills
+nouvelles	hard skills
+technologies	hard skills
+autour	hard skills
+de	hard skills
+la	hard skills
+``	O
+Data	hard skills
+Science	hard skills
+''	O
+.	O
+Expérience	hard skills
+dans	hard skills
+le	hard skills
+traitement	hard skills
+de	hard skills
+données	hard skills
+biologiques	hard skills
+:	O
+images	hard skills
+et	hard skills
+séquences	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

@@ -1,0 +1,52 @@
+Coach	position
+sportif	position
+real	company
+form	company
+-	O
+Saintes	city
+-LRB-	O
+17	code postal
+-RRB-	O
+CDI	contrat_type
+Coach	position
+Sportif	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+STAPS	O
+ou	O
+BPJEPS	O
+AGFF	O
+C/D	O
+Vous	O
+êtes	O
+motive	soft skills
+et	O
+motivant	soft skills
+prêt	soft skills
+a	soft skills
+donner	soft skills
+des	soft skills
+cours	soft skills
+collectifs	soft skills
+et	O
+a	soft skills
+conseiller	soft skills
+les	soft skills
+gens	soft skills
+en	soft skills
+salle	soft skills
+.	O
+ce	O
+poste	O
+est	O
+fait	O
+pour	O
+vous	O
+débutant	O
+OK	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

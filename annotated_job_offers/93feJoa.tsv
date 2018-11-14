@@ -1,0 +1,224 @@
+AIDE	position
+DENTAIRE	position
+/	O
+ASSISTANTE	position
+DENTAIRE	position
+selarl	company
+chirdents	company
+FFC	company
+-	O
+Milly-la-Forêt	city
+-LRB-	O
+91	code postal
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	O
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+Vous	experience
+êtes	experience
+assistante	experience
+dentaire	experience
+qualifiée	experience
+polyvalente	experience
+ou	O
+titulaire	experience
+d'un	experience
+Bac	experience
+et	
+prêt	
+-LRB-	
+e	
+-RRB-	O
+à	O
+suivre	O
+la	O
+formation	experience
+qualifiante	experience
+d'assistant	experience
+-LRB-	O
+e	experience
+-RRB-	O
+dentaire	experience
+.	O
+Poste	O
+CDI	contrat_type
+35h	O
+hebdomadaire	O
+sur	O
+4	O
+jours	O
+à	O
+pourvoir	O
+rapidement	O
+.	O
+Cabinet	O
+2	O
+dentistes	O
+.	O
+Nous	O
+cherchons	O
+un	soft skills
+H/F	O
+dynamique	soft skills
+avec	soft skills
+un	soft skills
+bon	soft skills
+esprit	soft skills
+d'équipe	soft skills
+Motorisation	soft skills
+indispensable	soft skills
+.	O
+Vos	O
+missions	O
+seront	O
+essentiellement	O
+techniques	O
+:	O
+Accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+,	O
+motivation	hard skills
+et	hard skills
+prévention	hard skills
+auprès	hard skills
+des	hard skills
+patients	hard skills
+,	O
+d'assister	hard skills
+le	hard skills
+praticien	hard skills
+au	hard skills
+fauteuil	hard skills
+et	hard skills
+de	hard skills
+gérer	hard skills
+l'activité	hard skills
+du	hard skills
+cabinet	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+notamment	hard skills
+à	hard skills
+veiller	hard skills
+à	hard skills
+l'entretien	hard skills
+,	O
+au	hard skills
+nettoyage	hard skills
+et	hard skills
+au	hard skills
+rangement	hard skills
+des	hard skills
+matériels	hard skills
+,	O
+locaux	hard skills
+et	hard skills
+outils	hard skills
+spécifiques	hard skills
+à	hard skills
+l'activité	hard skills
+en	hard skills
+respectant	hard skills
+les	hard skills
+règles	hard skills
+d'hygiène	hard skills
+,	O
+d'asepsie	hard skills
+,	O
+de	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+radio	hard skills
+...	O
+Bonne	soft skills
+présentation	soft skills
+,	
+aguerri	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+au	soft skills
+rythme	soft skills
+soutenu	soft skills
+,	O
+à	soft skills
+la	soft skills
+rigueur	soft skills
+,	O
+bon	soft skills
+relationnel	soft skills
+et	soft skills
+bon	soft skills
+niveau	soft skills
+en	soft skills
+informatique	soft skills
+,	O
+vous	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+prendre	soft skills
+des	soft skills
+initiatives	soft skills
+dans	soft skills
+le	soft skills
+respect	soft skills
+des	soft skills
+procédures	soft skills
+.	O
+Cv	O
++	O
+lettre	O
+de	O
+motivation	O
+manuscrite	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+91490	code postal
+Milly-la-Forêt	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	O
+secondaires	O
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

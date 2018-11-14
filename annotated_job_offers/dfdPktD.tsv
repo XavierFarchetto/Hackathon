@@ -1,0 +1,330 @@
+Technicien	position
+/	O
+Poseur	position
+de	position
+poêles	position
+à	position
+bois	position
+et	position
+à	position
+granulés	position
+--	O
+Aäsgard	O
+H/F	O
+AASGARD	company
+-	O
+Brest	city
+-LRB-	O
+29	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Rattaché	O
+au	O
+Groupe	O
+Valéor	O
+-LRB-	O
+Groupe	O
+Breton	O
+fort	O
+de	O
+200	O
+collaborateurs	O
+et	O
+27	O
+magasins	O
+,	O
+nous	O
+réalisons	O
+un	O
+chiffre	O
+d'affaires	O
+de	O
+40	O
+millions	O
+d'euros	O
+-RRB-	O
+,	O
+Aäsgard	company
+est	O
+le	O
+leader	O
+spécialisé	O
+dans	O
+la	O
+distribution	O
+et	O
+l'installation	O
+de	O
+poêles	O
+scandinaves	O
+haut	O
+de	O
+gamme	O
+.	O
+Présent	O
+sur	O
+le	O
+grand	O
+ouest	O
+,	O
+nous	O
+tendons	O
+à	O
+nous	O
+développer	O
+sur	O
+tout	O
+l'hexagone	O
+et	O
+avons	O
+pour	O
+ambition	O
+de	O
+doubler	O
+nos	O
+effectifs	O
+au	O
+cours	O
+des	O
+3	O
+prochaines	O
+années	O
+.	O
+Nous	O
+recherchons	O
+actuellement	O
+de	O
+nouveaux	O
+talents	O
+pour	O
+accompagner	O
+notre	O
+développement	O
+.	O
+En	O
+rejoignant	O
+la	O
+team	O
+Aäsgard	company
+,	O
+nous	O
+vous	O
+proposons	O
+:	O
+Un	O
+poste	O
+en	O
+CDI	contrat_type
+intéressant	O
+et	O
+motivant	O
+Un	O
+parcours	O
+d'intégration	O
+pour	O
+vous	O
+accompagner	O
+dans	O
+vos	O
+nouvelles	O
+missions	O
+Une	O
+rémunération	O
+de	O
+1500	salary
+$	salary
+net	salary
+par	salary
+mois	salary
+avec	O
+véhicule	O
+et	O
+téléphone	O
+-LRB-	O
+sous	O
+conditions	O
+-RRB-	O
+,	O
+paniers	O
+repas	O
+et	O
+primes	O
+.	O
+Une	O
+expérience	O
+enrichissante	O
+dans	O
+un	O
+Groupe	O
+dynamique	O
+où	O
+il	O
+fait	O
+bon	O
+de	O
+travailler	O
+Ce	O
+que	O
+vous	O
+nous	O
+apportez	O
+?	O
+Votre	O
+talent	O
+!	O
+En	O
+tant	O
+qu'expert	O
+technique	O
+,	O
+vous	hard skills
+prenez	hard skills
+plaisir	hard skills
+à	hard skills
+:	O
+Assurer	hard skills
+l'installation	hard skills
+des	hard skills
+poêles	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+DTU	hard skills
+Opérer	hard skills
+le	hard skills
+service	hard skills
+après-vente	hard skills
+Entretenir	hard skills
+le	hard skills
+parc	hard skills
+de	hard skills
+poêles	hard skills
+Fournir	hard skills
+un	hard skills
+service	hard skills
+de	hard skills
+qualité	hard skills
+Garantir	hard skills
+la	hard skills
+satisfaction	hard skills
+client	hard skills
+Plus	hard skills
+qu'un	hard skills
+diplôme	hard skills
+,	
+nous	O
+recherchons	
+avant	O
+tout	O
+une	soft skills
+personnalité	soft skills
+et	soft skills
+de	soft skills
+l'expérience	soft skills
+:	
+Vos	O
+qualités	O
+:	O
+la	soft skills
+polyvalence	soft skills
+,	
+l'organisation	soft skills
+,	O
+le	soft skills
+dynamisme	soft skills
+,	O
+l'aisance	soft skills
+relationnelle	soft skills
+,	O
+le	soft skills
+goût	soft skills
+du	soft skills
+travail	soft skills
+bien	soft skills
+fait	soft skills
+Vous	hard skills
+avez	hard skills
+des	hard skills
+compétences	hard skills
+dans	hard skills
+le	hard skills
+domaine	hard skills
+du	hard skills
+bâtiment	hard skills
+-LRB-	
+maçonnerie	hard skills
+,	
+plâtrerie	hard skills
+,	O
+carrelage	hard skills
+,	O
+couverture	hard skills
+-RRB-	O
+ainsi	hard skills
+qu'une	hard skills
+expertise	hard skills
+technique	hard skills
+permettant	hard skills
+d'intervenir	hard skills
+sur	hard skills
+des	hard skills
+spécificités	hard skills
+techniques	hard skills
+des	hard skills
+poêles	hard skills
+à	hard skills
+granulés	hard skills
+Evoluer	hard skills
+en	hard skills
+équipe	hard skills
+tout	hard skills
+en	hard skills
+étant	hard skills
+autonome	hard skills
+dans	hard skills
+votre	hard skills
+activité	hard skills
+est	hard skills
+un	hard skills
+de	hard skills
+vos	hard skills
+atouts	hard skills
+reconnu	hard skills
+.	O
+De	experience
+formation	experience
+BEP	experience
+à	experience
+Bac	experience
+Pro	experience
+ou	experience
+acquis	experience
+professionnels	experience
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Brest	city
+-LRB-	O
+29	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+Bâtiment	experience
+:	O
+2	experience
+ans	experience

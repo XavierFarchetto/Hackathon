@@ -1,0 +1,97 @@
+Aide	position
+soignant	position
+de	position
+nuit	position
+-LRB-	O
+H/F	O
+-RRB-	O
+EHPAD	company
+-	O
+L'Isle-Adam	city
+-LRB-	O
+95	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+EHPAD	company
+de	O
+standing	O
+situé	O
+dans	O
+le	O
+Val	O
+d'oise	O
+à	O
+proximité	O
+de	O
+la	O
+Gare	O
+de	O
+PARMAIN	O
+/	O
+L'ISLE	city
+ADAM	city
+recherche	O
+aide	position
+soignant	position
+de	position
+nuit	position
+-LRB-	O
+H/F	O
+-RRB-	O
+expérimenté	experience
+.	O
+Vous	soft skills
+aimez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+au	soft skills
+contact	soft skills
+avec	soft skills
+les	soft skills
+personnes	soft skills
+âgées	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+ponctuel	soft skills
+alors	
+venez	
+nous	O
+rejoindre	O
+.	O
+Poste	O
+en	O
+12H/nuit	O
+,	O
+soit	O
+35H	O
+sur	O
+2	O
+semaines	O
+.	O
+Salaire	O
+à	O
+négocier	O
+selon	O
+expérience	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary

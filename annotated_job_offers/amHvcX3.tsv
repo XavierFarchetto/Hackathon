@@ -1,0 +1,264 @@
+Assistante	position
+de	position
+Direction	position
+SCRG	company
+-	O
+Le	city
+Mesnil-le-Roi	city
+-LRB-	
+78	code postal
+-RRB-	O
+18	salary
+270	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+direction	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Poste	O
+basé	O
+au	O
+Mesnil	city
+Le	city
+Roi	city
+-LRB-	O
+78	code postal
+-RRB-	O
+Entreprise	O
+:	O
+SCRG	company
+société	O
+immobilière	O
+de	O
+gestion	O
+de	O
+bâtiments	O
+:	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+la	O
+direction	O
+générale	O
+,	O
+vous	hard skills
+êtes	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+:	O
+Poste	hard skills
+et	hard skills
+missions	hard skills
+:	O
+Gestion	hard skills
+locative	hard skills
+et	hard skills
+administrative	hard skills
+Relation	hard skills
+et	hard skills
+suivi	hard skills
+des	hard skills
+locataires	hard skills
+Facturation	hard skills
+des	hard skills
+loyers	hard skills
+et	hard skills
+des	hard skills
+charges	hard skills
+et	hard skills
+relances	hard skills
+impayés	hard skills
+Mise	hard skills
+à	hard skills
+jour	hard skills
+des	hard skills
+statuts	hard skills
+et	hard skills
+des	hard skills
+assemblées	hard skills
+générales	hard skills
+...	
+Et	hard skills
+pour	hard skills
+une	hard skills
+société	hard skills
+locataire	hard skills
+,	
+vous	hard skills
+êtes	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+:	
+L'organisation	hard skills
+de	hard skills
+voyages	hard skills
+,	
+Des	hard skills
+notes	hard skills
+de	hard skills
+frais	hard skills
+,	O
+Saisie	hard skills
+des	hard skills
+factures	hard skills
+fournisseurs	hard skills
+sous	hard skills
+SAGE	hard skills
+,	O
+Rapprochements	hard skills
+bancaires	hard skills
+,	O
+Recouvrement	hard skills
+et	hard skills
+relances	hard skills
+factures	hard skills
+Commandes	hard skills
+des	hard skills
+fournitures	hard skills
+...	
+Vous	hard skills
+êtes	hard skills
+également	hard skills
+un	hard skills
+appui	hard skills
+pour	hard skills
+la	hard skills
+partie	hard skills
+marketing	hard skills
+dans	hard skills
+la	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+des	hard skills
+bases	hard skills
+de	hard skills
+données	hard skills
+et	hard skills
+dans	hard skills
+l'organisation	hard skills
+d'événements	hard skills
+internes	hard skills
+ou	hard skills
+externes	hard skills
+.	
+Profil	O
+:	O
+Vous	experience
+avez	experience
+une	experience
+expérience	experience
+de	experience
+minimum	experience
+5	experience
+ans	experience
+en	experience
+assistanat	experience
+,	O
+vous	soft skills
+avez	soft skills
+l'habitude	soft skills
+des	soft skills
+organisations	soft skills
+complexes	soft skills
+et	soft skills
+êtes	soft skills
+doté	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+d'une	soft skills
+aisance	soft skills
+relationnelle	soft skills
+.	
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+curieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	O
+et	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+des	soft skills
+priorités	soft skills
+.	O
+Une	hard skills
+connaissance	hard skills
+de	hard skills
+l'anglais	hard skills
+tant	hard skills
+à	hard skills
+l'écrit	hard skills
+qu	hard skills
+'	hard skills
+à	hard skills
+l'oral	hard skills
+est	hard skills
+souhaitée	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+à	O
+30h	O
+sur	O
+4	O
+jours	O
+,	O
+ou	O
+CDI	contrat_type
+39h	O
+sur	O
+5	O
+jours	O
+Rémunération	O
+:	O
+18	salary
+270	salary
+$	salary
+brut	salary
+par	salary
+an	salary
+pour	O
+30	salary
+heures	salary
+24	salary
+150	salary
+$	salary
+brut	salary
+par	salary
+an	salary
+pour	salary
+39	salary
+heures	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

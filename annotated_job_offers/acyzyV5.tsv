@@ -1,0 +1,190 @@
+ASSISTANT	position
+-LRB-	O
+E	position
+-RRB-	O
+ADV	position
+/	O
+-	O
+H/F	O
+CEDA	company
+PARIS	company
+-	O
+Bonneuil-sur-Marne	city
+-LRB-	O
+94	postal code
+-RRB-	O
+28	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Votre	hard skills
+fonction	hard skills
+-	O
+Réception	hard skills
+des	hard skills
+commandes	hard skills
+-	O
+Saisie	hard skills
+et	hard skills
+édition	hard skills
+des	hard skills
+bons	hard skills
+de	hard skills
+livraisons	hard skills
+-	O
+Elaboration	hard skills
+du	hard skills
+planning	hard skills
+de	hard skills
+production	hard skills
+-	
+Suivi	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+stocks	hard skills
+et	hard skills
+des	hard skills
+approvisionnements	hard skills
+-	O
+Saisie	hard skills
+et	hard skills
+suivi	hard skills
+des	hard skills
+entrées	hard skills
+et	hard skills
+sorties	hard skills
+de	hard skills
+marchandises	hard skills
+-	O
+Analyse	hard skills
+et	hard skills
+reporting	hard skills
+-LRB-	O
+production	hard skills
+,	O
+stocks	hard skills
+,	O
+ventes	hard skills
+-RRB-	O
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+facturation	hard skills
+Votre	O
+profil	O
+Issu	experience
+d'un	experience
+Bac	experience
+3	experience
+idéalement	experience
+en	experience
+Sciences	experience
+de	experience
+gestion	experience
+ou	experience
+logistique	experience
+,	O
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+d'un	experience
+à	experience
+deux	experience
+ans	experience
+dans	experience
+une	experience
+fonction	experience
+similaire	experience
+.	O
+-	O
+Vous	hard skills
+maîtrisez	hard skills
+un	hard skills
+logiciel	hard skills
+de	hard skills
+gestion	hard skills
+commerciale	hard skills
+-LRB-	O
+CEGID	hard skills
+ou	O
+autres	hard skills
+-RRB-	
+-	O
+Vous	hard skills
+maitrisez	hard skills
+le	hard skills
+pack	hard skills
+office	hard skills
+-	O
+Vous	soft skills
+avez	soft skills
+de	soft skills
+bonnes	soft skills
+capacités	soft skills
+d'apprentissage	soft skills
+et	soft skills
+d'adaptation	soft skills
+-	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+bonne	soft skills
+gestion	soft skills
+des	soft skills
+priorités	soft skills
+-	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+bonne	soft skills
+résistance	soft skills
+au	soft skills
+stress	soft skills
+-	
+Vous	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+et	O
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+-	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	
+réactif	soft skills
+-LRB-	O
+ve	soft skills
+-RRB-	O
+,	O
+polyvalent	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	O
+dynamique	soft skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+/	O
+an	salary
+Langue	O
+exigée	O
+:	O
+ANGLAIS	hard skills

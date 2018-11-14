@@ -1,0 +1,123 @@
+Assistante	position
+de	position
+vie	position
+aux	position
+familles	position
+H/F	O
+VITASSISTANCE	company
+-	O
+Noisiel	city
+-LRB-	O
+77	code postal
+-RRB-	O
+CDI	contrat_type
+Des	O
+Intervenants	O
+à	O
+domicile	O
+H/F	O
+à	O
+temps	O
+plein	O
+ou	O
+temps	O
+partiel	O
+en	O
+CDI	contrat_type
+!	O
+Vous	hard skills
+assurerez	hard skills
+en	hard skills
+toute	hard skills
+autonomie	hard skills
+l'entretien	hard skills
+de	hard skills
+domicile	hard skills
+,	
+l'accompagnement	hard skills
+de	hard skills
+personnes	hard skills
+âgées	hard skills
+ou	hard skills
+en	hard skills
+situation	hard skills
+de	hard skills
+handicap	hard skills
+au	hard skills
+sein	hard skills
+des	hard skills
+bénéficiaires	hard skills
+de	hard skills
+notre	hard skills
+agence	hard skills
+.	O
+Les	soft skills
+missions	soft skills
+qui	soft skills
+vous	soft skills
+seront	soft skills
+confiées	soft skills
+dépendront	soft skills
+de	soft skills
+votre	soft skills
+disponibilité	soft skills
+,	O
+de	soft skills
+votre	soft skills
+mobilité	soft skills
+,	
+de	soft skills
+votre	soft skills
+expérience	soft skills
+et	soft skills
+de	soft skills
+vos	soft skills
+qualifications	soft skills
+.	O
+Types	O
+d'interventions	O
+:	O
+-	O
+Ménage	hard skills
+,	O
+entretien	hard skills
+du	hard skills
+linge	hard skills
+,	
+repassage	hard skills
+-	O
+Élaboration	hard skills
+et	hard skills
+préparation	hard skills
+de	hard skills
+repas	hard skills
+-	O
+Accompagnement	hard skills
+de	hard skills
+public	hard skills
+fragile	hard skills
+livraison	hard skills
+de	hard skills
+courses	hard skills
+animation	hard skills
+:	O
+mise	hard skills
+en	hard skills
+place	hard skills
+d'activités	hard skills
+,	
+sorties	hard skills
+,	O
+loisirs	hard skills
+.	O
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

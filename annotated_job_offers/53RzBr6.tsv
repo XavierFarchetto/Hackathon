@@ -1,0 +1,152 @@
+Agent	position
+Général	position
+d'Assurances	position
+MUTUELLE	company
+DE	company
+POITIERS	company
+ASSURANCES	company
+-	O
+Auch	city
+-LRB-	O
+32	code postal
+-RRB-	O
+65	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Niveau	experience
+de	experience
+formation	experience
+générale	experience
+minimum	experience
+:	O
+BAC	experience
++	experience
+2	experience
+Expérience	experience
+commerciale	experience
+réussie	experience
+Bonnes	experience
+qualités	experience
+commerciales	experience
+,	O
+état	soft skills
+d'esprit	soft skills
+d'entrepreneur	soft skills
+et	soft skills
+de	soft skills
+gestionnaire	soft skills
+.	O
+Volonté	soft skills
+de	soft skills
+développer	soft skills
+un	soft skills
+point	soft skills
+de	soft skills
+vente	soft skills
+en	soft skills
+autonomie	soft skills
+,	O
+en	O
+concertation	O
+avec	O
+les	O
+services	O
+du	O
+Siège	O
+.	O
+Bonnes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+à	soft skills
+la	soft skills
+fois	soft skills
+pour	soft skills
+l'accueil	soft skills
+des	soft skills
+clients	soft skills
+mais	soft skills
+aussi	soft skills
+pour	soft skills
+le	soft skills
+développement	soft skills
+du	soft skills
+réseau	soft skills
+relationnel	soft skills
+local	soft skills
+.	O
+expérience	experience
+managériale	experience
+d'une	experience
+équipe	experience
+de	experience
+2	experience
+à	experience
+3	experience
+personnes	experience
+.	O
+Minimum	experience
+8	experience
+ans	experience
+d	experience
+expérience	experience
+Pour	experience
+ce	experience
+poste	experience
+,	O
+aucun	O
+apport	O
+personnel	O
+n'est	O
+requis	O
+.	O
+Localisation	O
+du	O
+poste	O
+:	O
+AUCH	city
+32000	code postal
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+65	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Auch	city
+-LRB-	O
+32	code postal
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	
+BTS	experience
+Expérience	
+exigée	O
+:	O
+COMMERCIAL	experience
+,	O
+MANAGEMENT	experience
+:	O
+8	experience
+ans	experience

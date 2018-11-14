@@ -1,0 +1,246 @@
+DIRECTEUR	position
+TRAVAUX	position
+TCE	position
+SECOND	position
+OEUVRE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+BEI	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+80	salary
+0	salary
+$	salary
+-	
+120	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Description	O
+:	O
+Entreprise	O
+générale	O
+de	O
+rénovation	O
+et	O
+de	O
+réhabilitation	O
+tous	O
+corps	O
+d'état	O
+,	O
+notre	O
+client	O
+,	O
+existant	O
+depuis	O
+plus	O
+de	O
+16	O
+ans	O
+réalise	O
+la	O
+totalité	O
+des	O
+projets	O
+-LRB-	O
+résidentiel	O
+et	O
+tertiaire	O
+-RRB-	O
+grâce	O
+à	O
+leur	O
+savoir-faire	O
+dans	O
+tous	O
+les	O
+corps	O
+d'état	O
+.	O
+La	hard skills
+mission	hard skills
+:	O
+Porteur	hard skills
+de	hard skills
+l'image	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+auprès	hard skills
+des	hard skills
+clients	hard skills
+et	hard skills
+travaillant	hard skills
+en	hard skills
+vue	hard skills
+d'instaurer	hard skills
+une	hard skills
+relation	hard skills
+à	hard skills
+long	hard skills
+terme	hard skills
+avec	hard skills
+vos	hard skills
+interlocuteurs	hard skills
+.	O
+Vous	hard skills
+travaillez	hard skills
+en	hard skills
+étroite	hard skills
+collaboration	hard skills
+avec	hard skills
+la	hard skills
+direction	hard skills
+générale	hard skills
+afin	hard skills
+de	hard skills
+remonter	hard skills
+les	hard skills
+informations	hard skills
+auprès	hard skills
+de	hard skills
+celle-ci	hard skills
+.	O
+Vous	hard skills
+Etes	hard skills
+responsable	hard skills
+de	hard skills
+la	hard skills
+coordination	hard skills
+opérationnelle	hard skills
+des	hard skills
+chantiers	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+*	
+Diriger	hard skills
+les	hard skills
+travaux	hard skills
+,	
+encadrer	hard skills
+les	hard skills
+équipes	hard skills
+*	O
+Veillez	hard skills
+au	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+,	
+de	hard skills
+la	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+*	
+Contrôler	hard skills
+toutes	hard skills
+les	hard skills
+étapes	hard skills
+du	hard skills
+chantier	hard skills
+depuis	hard skills
+l'étude	hard skills
+du	hard skills
+dossier	hard skills
+jusqu	hard skills
+'	O
+à	hard skills
+la	hard skills
+réception	hard skills
+des	hard skills
+travaux	hard skills
+-	
+PRÉPARATION	hard skills
+DE	hard skills
+CHANTIERS	hard skills
+-	
+PLANIFICATION	hard skills
+DES	hard skills
+TRAVAUX	hard skills
+-	
+GESTION	hard skills
+DES	hard skills
+PROJETS	hard skills
+Profil	
+:	O
+Gestion	experience
+de	experience
+04-mai	experience
+conducteurs	experience
+de	experience
+travaux	experience
+principaux	experience
+et	experience
+de	experience
+deux	experience
+pôles	experience
+travaux	experience
+comprenant	experience
+une	experience
+dizaine	experience
+de	experience
+collaborateurs	experience
+TCE	experience
+réhabilitation	experience
+.	O
+Plus	experience
+de	experience
+15	experience
+ans	experience
+d'expérience	experience
+dans	experience
+le	experience
+BTP	experience
+Salaire	
+selon	O
+profil	O
+80	salary
+0	salary
+KE	salary
+à	O
+120	salary
+0	salary
+KE	salary
+/	O
+ans	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+80	salary
+0	salary
+$	salary
+à	O
+120	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+DIRECTEUR	experience
+TRAVAUX	experience
+TCE	experience
+SECOND	experience
+OEUVRE	experience
+-LRB-	
+H/F	O
+-RRB-	O
+:	O
+10	experience
+ans	experience

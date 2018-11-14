@@ -1,0 +1,92 @@
+OUVRIER	position
+SYVICOLE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+YOJOB	company
+Agriculture	company
+-	O
+Sousceyrac	city
+-LRB-	O
+46	code postal
+-RRB-	O
+10	salary
+$	salary
+-	O
+11	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+Missions	hard skills
+d'entretien	hard skills
+des	hard skills
+forêts	hard skills
+-LRB-	O
+plantations	hard skills
+,	O
+débroussaillage	hard skills
+à	hard skills
+la	hard skills
+tronçonneuse	hard skills
+,	O
+petit	hard skills
+élagage	hard skills
+,	O
+entretien	hard skills
+des	hard skills
+forêts	hard skills
+,	O
+pose	hard skills
+de	hard skills
+clôtures	hard skills
+,	O
+conduite	hard skills
+de	hard skills
+tracteur	hard skills
+-RRB-	O
+.	O
+Le	hard skills
+certiphyto	hard skills
+est	hard skills
+un	hard skills
+plus	hard skills
+.	O
+Travail	hard skills
+physique	hard skills
+.	O
+Mission	hard skills
+d'	hard skills
+1	hard skills
+semaine	hard skills
+renouvelable	hard skills
+.	O
+Taux	O
+horaire	O
+:	O
+entre	O
+10	salary
+et	salary
+11	salary
+$	salary
+/	O
+h.	salary
+Personne	soft skills
+autonome	soft skills
+et	soft skills
+réactive	soft skills
+.	O
+Une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+minimum	experience
+est	experience
+demandée	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type

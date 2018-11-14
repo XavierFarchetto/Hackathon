@@ -1,0 +1,97 @@
+Chef	position
+de	position
+rang	position
+Restaurant/Limonade	position
+H/F	O
+LE	company
+BOURBON	company
+-	O
+Paris	city
+7e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+2	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Brasserie	company
+le	company
+Bourbon	company
+Chef	position
+de	position
+rang	position
+H	O
+OU	O
+F	O
+service	hard skills
+restaurant	hard skills
+et	hard skills
+limonade	hard skills
+en	hard skills
+continue	hard skills
+.	
+10	salary
+euros	salary
+net/H	salary
++	salary
+pourboire	salary
+non	salary
+négligeable	salary
+.	O
+Bonne	soft skills
+condition	soft skills
+physique	soft skills
+terrasse	soft skills
+.	O
+présentation	soft skills
+soignée	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	
+1	salary
+800	salary
+$	salary
+à	
+2	salary
+400	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+restauration	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+Anglais	hard skills

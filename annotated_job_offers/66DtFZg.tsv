@@ -1,0 +1,447 @@
+Chef	position
+de	position
+projet	position
+MOA	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Strong	company
+Squirrel	company
+-	O
+Lille	city
+-LRB-	O
+59	code postal
+-RRB-	O
+40	salary
+0	salary
+$	salary
+-	
+50	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Chef	position
+de	position
+projet	position
+MOA	position
+en	O
+CDI	contrat_type
+-LRB-	O
+H/F	O
+-RRB-	O
+Strong	company
+Squirrel	company
+--	O
+Lille	city
+-LRB-	O
+59	code postal
+-RRB-	O
+Notre	O
+e	O
+ntreprise	O
+:	O
+Strong	company
+Squirrel	company
+est	O
+une	O
+ESN	O
+en	O
+pleine	O
+expansion	O
+.	O
+Nous	O
+sommes	O
+des	O
+passionnés	O
+d'informatique	O
+et	O
+nous	O
+recrutons	O
+uniquement	O
+des	O
+passionnés	O
+à	O
+travers	O
+un	O
+processus	O
+de	O
+recrutement	O
+juste	O
+et	O
+non	O
+discriminant	O
+.	O
+Notre	O
+objectif	O
+est	O
+d'apporter	O
+les	O
+solutions	O
+software	O
+les	O
+plus	O
+adaptées	O
+à	O
+nos	O
+clients	O
+à	O
+travers	O
+un	O
+trio	O
+de	O
+valeurs	O
+qui	O
+est	O
+la	O
+confiance	O
+,	O
+l'écoute	O
+et	O
+l'exigence	O
+.	O
+Nous	O
+recherchons	O
+un	position
+chef	position
+de	position
+projet	position
+MOA	position
+H/F	O
+pour	hard skills
+participer	hard skills
+à	hard skills
+une	hard skills
+aventure	hard skills
+humaine	hard skills
+et	hard skills
+professionnelle	hard skills
+.	
+Poste	O
+:	O
+Vous	hard skills
+évoluerez	hard skills
+au	hard skills
+sein	hard skills
+d'équipes	hard skills
+au	hard skills
+savoir-faire	hard skills
+reconnu	hard skills
+,	
+et	hard skills
+vous	hard skills
+serez	hard skills
+au	hard skills
+contact	hard skills
+direct	hard skills
+des	hard skills
+utilisateurs	hard skills
+et	hard skills
+grands	hard skills
+donneurs	hard skills
+d'ordres	hard skills
+,	O
+où	hard skills
+vous	hard skills
+serez	hard skills
+positionné	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+sur	hard skills
+des	hard skills
+projets	hard skills
+technologiques	hard skills
+innovants	hard skills
+et	hard skills
+à	hard skills
+forte	hard skills
+valeur	hard skills
+ajoutée	hard skills
+.	
+Vous	hard skills
+avez	hard skills
+pour	hard skills
+mission	hard skills
+d'organiser	hard skills
+toute	hard skills
+les	hard skills
+phases	hard skills
+de	hard skills
+vos	hard skills
+projets	hard skills
+informatiques	hard skills
+pour	hard skills
+lesquels	hard skills
+vous	hard skills
+serez	hard skills
+responsable	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+,	
+du	hard skills
+coût	hard skills
+et	hard skills
+du	hard skills
+respect	hard skills
+des	hard skills
+échéances	hard skills
+.	
+Dans	hard skills
+ce	hard skills
+cadre	hard skills
+,	
+vous	hard skills
+êtes	hard skills
+à	hard skills
+la	hard skills
+fois	hard skills
+chef	hard skills
+de	hard skills
+projet	hard skills
+-LRB-	
+organisation	hard skills
+,	O
+budget	hard skills
+,	O
+réunion	hard skills
+...	
+-RRB-	O
+et	hard skills
+à	hard skills
+la	hard skills
+fois	hard skills
+maîtrise	hard skills
+d'ouvrage	hard skills
+-LRB-	
+de	hard skills
+l'analyse	hard skills
+des	hard skills
+besoins	hard skills
+au	hard skills
+déploiement	hard skills
+-RRB-	
+.	O
+En	hard skills
+tant	hard skills
+que	hard skills
+chef	hard skills
+de	hard skills
+projet	hard skills
+MOA	hard skills
+,	
+vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+:	
+La	hard skills
+rédaction	hard skills
+du	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+en	hard skills
+tenant	hard skills
+compte	hard skills
+des	hard skills
+besoins	hard skills
+métiers	hard skills
+et	hard skills
+des	hard skills
+spécifications	hard skills
+fonctionnelles	hard skills
+La	hard skills
+prévision	hard skills
+des	hard skills
+ressources	hard skills
+-LRB-	O
+humaines	hard skills
+,	O
+financières	hard skills
+,	O
+techniques	hard skills
+-RRB-	O
+à	hard skills
+mettre	hard skills
+en	hard skills
+œuvre	hard skills
+Le	hard skills
+suivi	hard skills
+du	hard skills
+développement	hard skills
+et	hard skills
+la	hard skills
+phase	hard skills
+des	hard skills
+recettes	hard skills
+L'accompagnement	hard skills
+des	hard skills
+utilisateurs	hard skills
+-LRB-	
+rédaction	hard skills
+de	hard skills
+la	hard skills
+documentation	hard skills
+,	
+animation	hard skills
+des	hard skills
+formations	hard skills
+...	
+-RRB-	O
+La	hard skills
+mise	hard skills
+en	hard skills
+production	hard skills
+La	hard skills
+supervision	hard skills
+du	hard skills
+déroulement	hard skills
+et	hard skills
+l'animation	hard skills
+de	hard skills
+l'équipe	hard skills
+MOA	hard skills
+Cette	hard skills
+description	hard skills
+prend	hard skills
+en	hard skills
+compte	hard skills
+les	hard skills
+principales	hard skills
+responsabilités	hard skills
+";"	O
+elle	hard skills
+est	hard skills
+variable	hard skills
+selon	hard skills
+votre	hard skills
+profil	hard skills
+et	hard skills
+n'est	hard skills
+pas	hard skills
+limitative	hard skills
+.	O
+Profil	O
+recherché	O
+:	O
+Pour	O
+accomplir	O
+cette	O
+mission	O
+,	O
+vous	experience
+disposez	experience
+d'une	experience
+formation	experience
+supérieure	experience
+en	experience
+informatique	experience
+et	experience
+justifier	experience
+d'une	experience
+expérience	experience
+significative	experience
+de	experience
+03-avr	experience
+ans	experience
+dans	experience
+des	experience
+fonctions	experience
+similaires	experience
+.	
+Passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+force	soft skills
+de	soft skills
+proposition	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+pour	soft skills
+votre	soft skills
+capacité	soft skills
+à	soft skills
+fédérer	soft skills
+vos	soft skills
+équipes	soft skills
+autour	soft skills
+de	soft skills
+projets	soft skills
+communs	soft skills
+.	
+Déterminé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	
+vous	soft skills
+avez	soft skills
+une	soft skills
+forte	soft skills
+capacité	soft skills
+d'adaptation	soft skills
+et	soft skills
+vous	soft skills
+êtes	soft skills
+capable	soft skills
+de	soft skills
+vous	soft skills
+intégrer	soft skills
+très	soft skills
+rapidement	soft skills
+dans	soft skills
+un	soft skills
+nouvel	soft skills
+environnement	soft skills
+.	
+Postulez	O
+!	O
+N'attendez	O
+plus	O
+et	O
+envoyer	O
+nous	O
+votre	O
+candidature	O
+pour	O
+rejoindre	O
+nos	O
+équipes	O
+!	O
+Poste	O
+en	O
+CDI	contrat_type
+,	O
+situé	O
+à	O
+Lille	city
+-LRB-	O
+59	code postal
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+40	salary
+0	salary
+$	salary
+à	O
+50	salary
+0	salary
+$	salary
+/	O
+an	salary

@@ -1,0 +1,196 @@
+Agent	position
+de	position
+tri	position
+de	position
+Pommes	position
+de	position
+terre	position
+H/F	O
+GE-GEIQ	company
+3A	company
+-	O
+Bapaume	city
+-LRB-	O
+62	code postal
+-RRB-	O
+CDD	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+la	O
+saison	O
+d'arrachage	O
+de	O
+pommes	O
+de	O
+terre	O
+,	O
+le	O
+GE	company
+3A	company
+recherche	O
+un	position
+Agent	position
+de	position
+tri	position
+de	position
+Pommes	position
+de	position
+Terre	position
+H/F	O
+.	O
+Ainsi	O
+,	O
+vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+à	hard skills
+effectuer	hard skills
+le	hard skills
+tri	hard skills
+de	hard skills
+pommes	hard skills
+de	hard skills
+terre	hard skills
+,	O
+sur	hard skills
+chaîne	hard skills
+dans	hard skills
+un	hard skills
+hangar	hard skills
+-LRB-	
+tri	hard skills
+des	hard skills
+PDT	hard skills
+abimées	hard skills
+,	O
+choquées	hard skills
+,	O
+des	hard skills
+éléments	hard skills
+étrangers	hard skills
+...	O
+-RRB-	O
+Qualités	
+requises	O
+:	O
+ponctualité	soft skills
+,	O
+dynamisme	soft skills
+,	O
+sérieux	soft skills
+,	O
+esprit	soft skills
+d'équipe	soft skills
+Une	experience
+première	experience
+expérience	experience
+professionnelle	experience
+sur	experience
+un	experience
+poste	experience
+d'agent	experience
+de	experience
+conditionnement/tri/travail	experience
+sur	experience
+chaîne	experience
+est	experience
+exigée	experience
+pour	experience
+ce	experience
+poste	experience
+.	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+saisonnier	O
+d'une	O
+durée	O
+de	O
+1	O
+à	O
+2	O
+mois	O
+environ	O
+Nombreux	O
+postes	O
+à	O
+pourvoir	O
+sur	O
+le	O
+secteur	O
+de	O
+Bapaume	city
+-LRB-	O
+62	code postal
+-RRB-	O
+.	O
+Si	O
+vous	O
+vous	O
+reconnaissez	O
+dans	O
+cette	O
+offre	O
+,	O
+merci	O
+de	O
+nous	O
+faire	O
+parvenir	O
+un	O
+CV	O
+actualisé	O
+ainsi	O
+qu'une	O
+lettre	O
+de	O
+motivation	O
+par	O
+mail	O
+OU	O
+Par	O
+voie	O
+postale	O
+:	O
+GE	company
+3A	company
+-	O
+Cité	O
+de	O
+l'agriculture	O
+-	O
+56	O
+avenue	O
+Roger	O
+Salengro	O
+-	O
+BP	O
+80039	O
+-	O
+62	O
+223	O
+SAINT	O
+LAURENT	O
+BLANGY	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+tri	experience
+de	experience
+pommes	experience
+de	experience
+terre	experience
+:	O
+1	experience
+an	experience

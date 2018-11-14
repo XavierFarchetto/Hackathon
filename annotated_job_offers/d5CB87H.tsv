@@ -1,0 +1,120 @@
+Esthéticienne	position
+à	O
+temps	contrat_type
+partiel	contrat_type
+VILLA	company
+MARIE	company
+PAULINE	company
+-	O
+Paris	city
+8e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Nous	O
+recherchons	O
+une	position
+esthéticienne	position
+-LRB-	O
+H/F	O
+-RRB-	O
+à	O
+temps	contrat_type
+partiel	contrat_type
+-LRB-	O
+20h	O
+-RRB-	O
+en	O
+CDI	contrat_type
+.	O
+Minimum	experience
+5	experience
+ans	experience
+d'expérience	experience
+en	experience
+Institut	experience
+.	O
+Compétences	hard skills
+souhaitées	hard skills
+:	O
+toutes	hard skills
+épilation	hard skills
+,	O
+soins	hard skills
+du	hard skills
+visage	hard skills
+,	
+soins	hard skills
+du	hard skills
+corps	hard skills
+,	
+manucure	hard skills
+et	hard skills
+beauté	hard skills
+des	hard skills
+pieds.Dynamique	hard skills
+,	O
+souriante	soft skills
+,	O
+excellente	soft skills
+présentation	soft skills
+et	soft skills
+à	soft skills
+l'écoute	soft skills
+de	soft skills
+la	soft skills
+clientèle	soft skills
+seront	O
+vos	O
+points	O
+forts	O
+.	O
+Venez	O
+rejoindre	O
+notre	O
+équipe	O
+à	O
+taille	O
+humaine	O
+située	O
+dans	O
+les	O
+beaux	O
+quartiers	O
+de	O
+Paris	city
+.	O
+Anglais	hard skills
+souhaité	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+75008	postal code
+Paris	city
+8e	city
+Expérience	O
+exigée	O
+:	O
+Esthétique	experience
+:	O
+3	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+CAP	experience
+ESTHETIQUE	experience

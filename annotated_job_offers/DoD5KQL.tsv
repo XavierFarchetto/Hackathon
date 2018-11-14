@@ -1,0 +1,95 @@
+Conducteur	position
+d'engins	position
+Terrassement	company
+du	company
+littoral	company
+-	O
+Marseille	city
+-LRB-	O
+13	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Cherche	O
+chauffeur	position
+de	position
+pelle	position
+à	position
+pneus	position
+avec	experience
+expériences	experience
+.	O
+Caces	experience
+à	experience
+jours	experience
+.	
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+rigoureux	soft skills
+polyvalent	soft skills
+souriant	soft skills
+soigneux	soft skills
+.	O
+Salaire	O
+1700	salary
+euros	salary
++	salary
+primes	salary
+si	O
+travail	hard skills
+soigneux	hard skills
++	hard skills
+prime	hard skills
+de	hard skills
+déplacement	hard skills
++	hard skills
+prime	hard skills
+de	hard skills
+propreté	hard skills
+et	hard skills
+entretient	hard skills
+de	hard skills
+la	hard skills
+machine	hard skills
+N	O
+hésitez	O
+pas	O
+à	O
+me	O
+contacter	O
+au	O
+650113954	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Conducteur	experience
+d	experience
+engins	experience
+:	O
+3	experience
+ans	experience

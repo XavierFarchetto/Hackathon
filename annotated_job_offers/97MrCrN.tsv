@@ -1,0 +1,169 @@
+Aide	position
+ménagère	position
+H/F	O
+HOME	company
+MARKET	company
+SERVICES	company
+-	O
+Fontenay-aux-Roses	city
+-LRB-	O
+92	code postal
+-RRB-	
+1	salary
+481	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+HOME	company
+MARKET	company
+SERVICES	company
+est	O
+une	O
+société	O
+renommée	O
+dans	O
+le	O
+service	O
+à	O
+la	O
+personne	O
+.	O
+Nous	O
+recherchons	O
+des	O
+personnes	experience
+qualifiées	experience
+avec	experience
+expérience	experience
+exigée	experience
+d'un	experience
+an	experience
+minimum	experience
+dans	experience
+le	experience
+ménage	experience
+à	experience
+domicile	experience
+chez	experience
+des	experience
+particuliers	experience
+!	
+Vos	O
+missions	O
+:	O
+Ménage	hard skillls
+-LRB-	O
+sols	hard skillls
+,	
+poussières	hard skillls
+,	O
+salle	hard skillls
+de	hard skillls
+bain	hard skillls
+,	
+WC	hard skillls
+,	O
+cuisine	hard skillls
+,	O
+chambre	hard skillls
+-RRB-	O
+Repassage	hard skillls
+-LRB-	O
+chemises	hard skillls
+,	O
+pantalons	hard skillls
+,	O
+matières	hard skillls
+fragiles	hard skillls
+-RRB-	O
+Parfois	hard skillls
+du	hard skillls
+grand	hard skillls
+nettoyage	hard skillls
+-LRB-	O
+lessivage	hard skillls
+de	hard skillls
+murs	hard skillls
+,	O
+moquette	hard skillls
+,	O
+intérieurs	hard skillls
+de	hard skillls
+frigo	hard skillls
+,	O
+placards	hard skillls
+-RRB-	O
+Français	hard skillls
+écrit	hard skillls
+,	O
+lu	hard skillls
+et	hard skillls
+parlé	hard skillls
+exigé	hard skillls
+Rémunération	
+:	O
+1	salary
+481	salary
+$	salary
+brut	salary
+pour	salary
+un	salary
+temps	salary
+plein	salary
+-LRB-	O
+35	O
+heures	O
+-RRB-	O
+Vos	O
+avantages	O
+:	O
+Mutuelle	O
++	O
+Participation	O
+aux	O
+frais	O
+de	O
+transport	O
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Poste	O
+cumulable	O
+avec	O
+d'autres	O
+postes	O
+comme	O
+celui	O
+de	O
+la	O
+garde	O
+d'enfants	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Ménage	experience
+:	O
+3	experience
+ans	experience
+repassage	experience
+:	O
+3	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+français	hard skillls

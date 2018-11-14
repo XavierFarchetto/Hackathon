@@ -1,0 +1,121 @@
+CADRE	position
+DE	position
+SANTE	position
+Santé	company
+Conseil	company
+Developpement	company
+-	O
+Nice	city
+-LRB-	O
+6	code postal
+-RRB-	O
+CDI	contrat_type
+Cabinet	O
+de	O
+Conseil	O
+Spécialisé	O
+dans	O
+le	O
+Domaine	O
+de	O
+la	O
+Santé	O
+et	O
+du	O
+Médico-Social	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+clients	O
+:	O
+Un	position
+cadre	position
+de	position
+Santé	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	
+CDI	contrat_type
+à	O
+Temps	O
+Plein	O
+,	O
+sur	O
+secteur	O
+NICE	city
+REFERENCES	O
+ET	O
+DIPLOMES	O
+CONTROLABLES	O
+Expérience	O
+,	O
+Implication	soft skills
+,	O
+sens	soft skills
+du	soft skills
+management	soft skills
+et	soft skills
+des	soft skills
+responsabilités	soft skills
+souhaités	soft skills
+.	O
+RARE	O
+:	O
+Conditions	O
+d'exercice	O
+,	O
+organisation	soft skills
+,	O
+cadre	soft skills
+et	soft skills
+ambiance	soft skills
+de	soft skills
+travail	soft skills
+sereines	soft skills
+et	soft skills
+constructives	soft skills
+et	soft skills
+absence	soft skills
+de	soft skills
+Turn	soft skills
+Over	soft skills
+CONFIDENTIALITE	
+DES	
+CANDIDATURES	
+AUPRES	
+DE	
+L'EMPLOYEUR	
+ACTUEL	
+GARANTIES	
+POUR	
+LES	
+CANDIDATS	
+EN	O
+ACTIVITE	O
+ENVOYER	O
+CANDIDATURE	O
+AVEC	O
+CV	O
++	O
+PHOTOS	O
++	O
+LETTRE	O
+DE	O
+PRESENTATION	O
+/	O
+MOTIVATION	O
++	O
+COPIES	O
+TITRES	O
+ET	O
+DIPLOMES	O
+&	O
+PRETENTIONS	O
+MERCI	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

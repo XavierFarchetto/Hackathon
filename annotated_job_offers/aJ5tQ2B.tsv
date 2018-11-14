@@ -1,0 +1,100 @@
+Ouvrier	position
+agricole	position
+GE	company
+CERES	company
+-	O
+Labouheyre	city
+-LRB-	O
+40	postal code
+-RRB-	O
+9,76	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Vous	O
+avez	O
+envie	O
+de	O
+travailler	O
+en	O
+plein	O
+air	O
+au	O
+sein	O
+d'un	O
+équipe	O
+soudée	O
+et	O
+sympathique	O
+?	O
+Nous	O
+avons	O
+du	O
+travail	O
+pour	O
+vous	O
+.	O
+Nous	O
+recherchons	O
+10	position
+Saisonniers	position
+agricoles	position
+pour	hard skills
+notre	hard skills
+client	hard skills
+producteur	hard skills
+de	hard skills
+légumes	hard skills
+biologiques	hard skills
+pour	hard skills
+le	hard skills
+désherbage	hard skills
+de	hard skills
+carottes	hard skills
+,	O
+choux	hard skills
+Embauche	hard skills
+urgente	hard skills
+pour	hard skills
+une	hard skills
+durée	hard skills
+d'	hard skills
+1	hard skills
+mois	hard skills
+.	
+Avec	hard skills
+possibilité	hard skills
+de	hard skills
+reconduction	hard skills
+en	hard skills
+2018	hard skills
+!	
+Envoyez-nous	O
+votre	O
+CV	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+9,76	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Labouheyre	city
+-LRB-	O
+40	postal code
+-RRB-	O

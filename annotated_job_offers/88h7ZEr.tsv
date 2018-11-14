@@ -1,0 +1,280 @@
+MASSEUR	position
+/	O
+MASSEUSE	position
+LES	company
+BAINS	company
+DU	company
+MARAIS	company
+-	O
+Paris	city
+2e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+CDI	contrat_type
+POSTE	O
+:	O
+MASSEURS/MASSEUSES	position
+-LRB-	O
+H	O
+/	O
+F	O
+-RRB-	O
+Dans	O
+le	O
+cadre	O
+de	O
+sa	O
+réouverture	O
+,	O
+Les	company
+Bains	company
+du	company
+Marais	company
+,	O
+adresse	O
+iconique	O
+parisienne	O
+,	O
+située	O
+en	O
+plein	O
+cœur	O
+du	O
+Marais	O
+où	O
+la	O
+tradition	O
+du	O
+hammam	O
+s	O
+'	O
+exprime	O
+avec	O
+authenticité	O
+et	O
+invite	O
+au	O
+voyage	O
+des	O
+sens	O
+,	O
+recrute	O
+des	position
+esthéticiennes	position
+,	O
+praticiens	position
+,	O
+masseurs	position
+-LRB-	O
+ses	position
+-RRB-	O
+Le	company
+Spa	company
+des	company
+Bains	company
+du	company
+Marais	company
+est	O
+composé	O
+d'un	O
+hammam	O
+traditionnel	O
+de	O
+6	O
+cabines	O
+de	O
+soins	O
+,	O
+d'un	O
+salon	O
+de	O
+coiffure	O
+ainsi	O
+que	O
+d'un	O
+restaurant	O
+.	O
+Activités	O
+principales	O
+exercées	O
+:	O
+Soins	hard skills
+corps	hard skills
+,	O
+soins	hard skills
+visage	hard skills
+,	O
+épilations	hard skills
+,	O
+massages	hard skills
+...	O
+Massages	hard skills
+du	hard skills
+monde	hard skills
+,	O
+techniques	hard skills
+spécifiques	hard skills
+de	hard skills
+relaxation	hard skills
+et	hard skills
+bien	hard skills
+être	hard skills
+Gestion	hard skills
+des	hard skills
+plannings	hard skills
+et	hard skills
+des	hard skills
+rendez-vous	hard skills
+Vérifier	hard skills
+l'état	hard skills
+des	hard skills
+stocks	hard skills
+des	hard skills
+produits	hard skills
+et	hard skills
+retail	hard skills
+et	hard skills
+contrôler	hard skills
+la	hard skills
+conformité	hard skills
+des	hard skills
+bons	hard skills
+de	hard skills
+commandes	hard skills
+avec	hard skills
+les	hard skills
+livraisons	hard skills
+reçues	hard skills
+et	hard skills
+les	hard skills
+bons	hard skills
+de	hard skills
+commande	hard skills
+validés	hard skills
+par	hard skills
+la	hard skills
+direction	hard skills
+générale	hard skills
+Veiller	hard skills
+à	hard skills
+une	hard skills
+bonne	hard skills
+communication	hard skills
+verbale	hard skills
+et	hard skills
+écrite	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+l'équipe	hard skills
+Cross-selling	hard skills
+avec	hard skills
+le	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+restauration	hard skills
+Poste	
+à	
+pourvoir	O
+FIN	O
+D'ANNEE	O
+2017	O
+en	O
+CDI	contrat_type
+/	O
+statuts	O
+indépendant	O
+ou	O
+autoentrepeneur	O
+bienvenus	O
+Salaire	O
+selon	O
+expérience	O
+Prise	O
+en	O
+charge	O
+de	O
+50	O
+%	O
+du	O
+titre	O
+de	O
+transport	O
+Qualités	O
+exigées	O
+:	O
+Connaissance	soft skills
+du	soft skills
+secteur	soft skills
+bien-être	soft skills
+/	O
+coiffure	soft skills
+Bon	soft skills
+gestionnaire	soft skills
+Sens	soft skills
+de	soft skills
+l'organisation	soft skills
+Connaissances	soft skills
+des	soft skills
+techniques	soft skills
+de	soft skills
+coiffures	soft skills
+PROFIL	O
+RECHERCHE	O
+:	O
+Expérience	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+exigée	experience
+dans	experience
+un	experience
+spa	experience
+,	O
+institut	experience
+de	experience
+beauté	experience
+ou	experience
+salon	experience
+de	experience
+coiffure	experience
+BAC	experience
+/	O
+CAP	experience
+Esthétique	experience
+BTS	experience
+,	O
+Formation	experience
+massage	experience
+Français	hard skills
+courant	hard skills
+,	O
+anglais	hard skills
+professionnel	hard skills
+très	hard skills
+apprécié	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Esthétique	experience
+:	O
+1	experience
+an	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+français	hard skills
+anglais	hard skills

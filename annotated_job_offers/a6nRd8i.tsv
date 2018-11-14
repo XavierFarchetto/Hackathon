@@ -1,0 +1,187 @@
+Responsable	position
+restaurant	position
+O	position
+Grand	position
+Café	company
+Rouen	company
+-	O
+Rouen	city
+-LRB-	O
+76	postal code
+-RRB-	O
+2	salary
+450	salary
+$	salary
+par	salary
+mois	salary
+Dans	O
+le	O
+cadre	O
+d'un	O
+changement	O
+de	O
+concept	O
+,	O
+le	O
+Grand	O
+Café	company
+Rouen	company
+cherche	O
+pour	O
+compléter	O
+son	O
+équipe	O
+:	O
+-	O
+1	position
+Manager	position
+de	position
+Restaurant	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vous	hard skills
+aurez	hard skills
+en	hard skills
+charge	hard skills
+avec	hard skills
+l'équipe	hard skills
+et	hard skills
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+du	hard skills
+propriétaire	hard skills
+la	hard skills
+tenue	hard skills
+gobale	hard skills
+du	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+.	
+Entre	hard skills
+autre	hard skills
+:	
+Service	hard skills
+en	hard skills
+salle	hard skills
+,	
+au	hard skills
+bar	hard skills
+et	hard skills
+en	hard skills
+cuisine	hard skills
+.	
+Ouverture	hard skills
+ou	hard skills
+fermeture	hard skills
+du	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+.	O
+Entretien	hard skills
+du	hard skills
+matériel	hard skills
+.	
+Relation	hard skills
+clientèle	hard skills
+.	O
+Bonne	hard skills
+tenue	hard skills
+du	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+.	O
+Une	experience
+expérience	experience
+réussie	experience
+dans	experience
+le	experience
+métier	experience
+de	experience
+restaurateur	experience
+vous	experience
+sera	experience
+demandée	experience
+.	O
+Une	soft skills
+excellente	soft skills
+présentation	soft skills
+et	soft skills
+un	soft skills
+leadership	soft skills
+sympathique	soft skills
+et	soft skills
+naturel	soft skills
+.	
+Evolution	
+possible	
+sur	
+une	
+gérance	
+libre	
+sous	
+condition	
+.	O
+Horaires	O
+de	O
+coupure	O
+ou	O
+en	O
+continu	O
+suivant	O
+les	O
+jours	O
+et	O
+les	O
+effectifs	O
+disponibles	O
+.	O
+2	O
+jours	O
+de	O
+repos	O
+consécutifs	O
+.	O
+Le	O
+bar	O
+est	O
+ouvert	O
+07-juil	O
+de	O
+7h00	O
+à	O
+21h00	O
+.	O
+Equipe	O
+jeune	O
+et	O
+dynamique	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+450	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+restauration	experience
+:	O
+7	experience
+ans	experience

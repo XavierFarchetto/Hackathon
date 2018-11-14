@@ -1,0 +1,321 @@
+Assistant	position
+Ressources	position
+Humaines	position
+H/F	
+COPY-TOP	company
+-	O
+Paris	city
+10e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Depuis	O
+40	O
+ans	O
+,	O
+COPY-TOP	company
+propose	O
+à	O
+sa	O
+clientèle	O
+de	O
+professionnels	O
+une	O
+large	O
+gamme	O
+de	O
+supports	O
+de	O
+communication	O
+-LRB-	O
+cartes	O
+de	O
+visites	O
+,	O
+flyers	O
+,	O
+affiches	O
+,	O
+dossiers	O
+,	O
+plaquettes	O
+,	O
+brochures	O
+,	O
+etc.	O
+-RRB-	O
+ainsi	O
+que	O
+des	O
+prestations	O
+graphiques	O
+sur	O
+mesure	O
+,	O
+dans	O
+le	O
+respect	O
+de	O
+la	O
+qualité	O
+et	O
+des	O
+délais	O
+.	O
+Entreprise	O
+à	O
+taille	O
+humaine	O
+,	O
+COPY-TOP	company
+rassemble	O
+180	O
+collaborateurs	O
+passionnés	O
+et	O
+dédiés	O
+aux	O
+clients	O
+,	O
+à	O
+travers	O
+un	O
+réseau	O
+de	O
+38	O
+agences	O
+sur	O
+Paris	O
+,	O
+Lille	O
+,	O
+Lyon	O
+et	O
+Marseille	O
+,	O
+un	O
+atelier	O
+d'imprimerie	O
+et	O
+un	O
+studio	O
+de	O
+création	O
+.	O
+Notre	O
+Siège	O
+Social	O
+basé	O
+à	O
+Paris	city
+10e	city
+recherche	O
+actuellement	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+:	O
+ASSISTANT	position
+RESSOURCES	position
+HUMAINES	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Sous	O
+la	O
+direction	O
+de	O
+la	O
+Responsable	O
+RH	O
+,	O
+au	O
+sein	O
+d'une	O
+équipe	O
+de	O
+6	O
+personnes	O
+,	O
+vous	hard skills
+participerez	hard skills
+aux	hard skills
+différentes	hard skills
+activités	hard skills
+du	hard skills
+service	hard skills
+,	O
+notamment	hard skills
+:	O
+Administration	hard skills
+du	hard skills
+personnel	hard skills
+:	O
+visites	hard skills
+médicales	hard skills
+,	
+plannings	hard skills
+,	O
+congés	hard skills
+et	hard skills
+arrêts	hard skills
+,	O
+tickets	hard skills
+restaurants	hard skills
+,	O
+préparation	hard skills
+de	hard skills
+la	hard skills
+paie	hard skills
+,	
+mise	hard skills
+sous	hard skills
+pli	hard skills
+,	O
+archivage	hard skills
+,	O
+etc.	
+.	O
+Formation	hard skills
+:	O
+rédaction	hard skills
+des	hard skills
+contrats	hard skills
+de	hard skills
+professionnalisation	hard skills
+,	O
+mise	hard skills
+à	hard skills
+jour	hard skills
+des	hard skills
+fiches	hard skills
+de	hard skills
+formation	hard skills
+,	
+organisation	hard skills
+des	hard skills
+sessions	hard skills
+de	hard skills
+formation	hard skills
+commerciales	hard skills
+,	O
+etc.	
+.	O
+Divers	hard skills
+projets	hard skills
+RH	hard skills
+en	hard skills
+fonction	hard skills
+du	hard skills
+calendrier	hard skills
+.	O
+En	experience
+cours	experience
+de	experience
+formation	experience
+bac	experience
+3	experience
+à	experience
+bac	experience
+5	experience
+en	experience
+Ressources	experience
+Humaines	experience
+,	O
+vous	experience
+avez	experience
+acquis	experience
+une	experience
+première	experience
+expérience	experience
+réussie	experience
+lors	experience
+de	experience
+précédents	experience
+stages	experience
+et/ou	experience
+alternance	experience
+.	
+Vous	soft skills
+êtes	soft skills
+quelqu'un	soft skills
+de	soft skills
+rigoureux	soft skills
+,	
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+la	soft skills
+confidentialité	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+le	soft skills
+contact	soft skills
+facile	soft skills
+,	
+qui	
+vous	
+permettra	
+de	
+travailler	
+avec	
+l'ensemble	O
+des	O
+collaborateurs	O
+de	O
+la	O
+société	O
+.	O
+Venez	O
+mettre	O
+en	O
+pratique	O
+vos	O
+connaissances	O
+et	O
+diversifier	O
+votre	O
+expérience	O
+au	O
+sein	O
+d'une	O
+société	O
+dynamique	O
+et	O
+en	O
+pleine	O
+croissance	O
+!	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+75010	postal code
+Paris	city
+10e	city
+Expérience	O
+exigée	O
+:	O
+RH	experience
+:	O
+2	experience
+ans	experience

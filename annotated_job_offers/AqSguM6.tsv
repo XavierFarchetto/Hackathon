@@ -1,0 +1,75 @@
+Manutentionnaire	company
+VENDEUR	position
+FRUITS	position
+ET	position
+LEGUNES	position
+H/F	O
+chez	company
+veronique	company
+-	O
+Biarritz	city
+-LRB-	O
+64	postal code
+-RRB-	O
+1	salary
+100	salary
+$	salary
+par	salary
+mois	salary
+-	
+CDD	contrat_type
+Chargement	hard skills
+et	hard skills
+déchargement	hard skills
+.	O
+Mise	hard skills
+en	hard skills
+place	hard skills
+de	hard skills
+la	hard skills
+marchandise	hard skills
+,	O
+étalage	hard skills
+.	O
+Une	hard skills
+personne	hard skills
+responsable	hard skills
+avec	hard skills
+capacité	hard skills
+de	hard skills
+travailler	hard skills
+en	hard skills
+équipe	hard skills
+.	
+Aptitude	soft skills
+commerciale	soft skills
+,	
+aimable	soft skills
+,	O
+souriant	soft skills
+,	O
+et	soft skills
+motivé	soft skills
+pour	soft skills
+bien	soft skills
+s	soft skills
+`	O
+occuper	soft skills
+des	soft skills
+clients	soft skills
+.	O
+Nettoyage	hard skills
+du	hard skills
+stand	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+100	salary
+$	salary
+/	O
+mois	salary

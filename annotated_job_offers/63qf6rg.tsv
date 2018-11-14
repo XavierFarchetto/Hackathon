@@ -1,0 +1,276 @@
+Maître	position
+d'hôtel	position
+La	company
+7ème	company
+Epice	company
+Restaurant	company
+-	O
+Vert-le-Petit	city
+-LRB-	O
+91	code postal
+-RRB-	O
+18	salary
+0	salary
+$	salary
+-	
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+DANS	O
+NOTRE	O
+RESTAURANT	O
+TRADITIONNEL	O
+/	O
+CUISINE	O
+DU	O
+MONDE	O
+DE	O
+55	O
+CVTS/JOUR	O
+,	O
+VOUS	hard skills
+ÊTES	hard skills
+CHARGE	hard skills
+DE	hard skills
+L'ACCUEIL	hard skills
+DE	hard skills
+LA	hard skills
+CLIENTÈLE	hard skills
+-	O
+VOUS	hard skills
+PRENEZ	hard skills
+LES	hard skills
+COMMANDES	hard skills
+,	O
+CONSEILLEZ	hard skills
+LES	hard skills
+CLIENTS	hard skills
+SUR	hard skills
+LES	hard skills
+ACCORDS	hard skills
+,	
+ORGANISATION	hard skills
+DU	hard skills
+SERVICE	hard skills
+,	O
+RESPONSABLE	hard skills
+DES	hard skills
+ENCAISSEMENTS	hard skills
+ET	hard skills
+MANAGEMENT	hard skills
+DE	hard skills
+L	hard skills
+ÉQUIPE	hard skills
+,	O
+-LRB-	O
+3	O
+collaborateurs	O
+-RRB-	O
+,	O
+VOUS	hard skills
+DÉVELOPPEZ	hard skills
+L	hard skills
+ACTIVITÉ	hard skills
+ET	hard skills
+FIDÉLISEZ	hard skills
+LA	hard skills
+CLIENTÈLE	hard skills
+-	O
+DANS	hard skills
+LE	hard skills
+RESPECT	hard skills
+DES	hard skills
+NORMES	hard skills
+D	hard skills
+HYGIÈNE	hard skills
+DE	hard skills
+SÉCURITÉ	hard skills
+ALIMENTAIRE-VOUS	hard skills
+ASSUREZ	hard skills
+LE	hard skills
+NETTOYAGE	hard skills
+ET	hard skills
+L'ENTRETIEN	hard skills
+DE	hard skills
+VOTRE	hard skills
+ESPACE	hard skills
+DE	hard skills
+TRAVAIL	hard skills
+-	O
+Compétence	
+-LRB-	O
+s	O
+-RRB-	O
+du	O
+poste	O
+-	O
+Accueillir	hard skills
+le	hard skills
+client	hard skills
+à	hard skills
+son	hard skills
+arrivée	hard skills
+au	hard skills
+restaurant	hard skills
+,	O
+l'installer	hard skills
+à	hard skills
+une	hard skills
+table	hard skills
+et	hard skills
+lui	hard skills
+présenter	hard skills
+la	hard skills
+carte	hard skills
+-	O
+Conseiller	hard skills
+le	hard skills
+client	hard skills
+dans	hard skills
+ses	hard skills
+choix	hard skills
+de	hard skills
+plats	hard skills
+selon	hard skills
+ses	hard skills
+goûts	hard skills
+,	O
+accords	hard skills
+mets	hard skills
+et	hard skills
+vins	hard skills
+,	O
+les	hard skills
+suggestions	hard skills
+du	hard skills
+jour	hard skills
+et	hard skills
+prendre	hard skills
+sa	hard skills
+commande	hard skills
+-	
+Effectuer	hard skills
+des	hard skills
+opérations	hard skills
+de	hard skills
+finition	hard skills
+des	hard skills
+plats	hard skills
+-	O
+Enregistrer	hard skills
+les	hard skills
+réservations	hard skills
+et	hard skills
+actualiser	hard skills
+le	hard skills
+plan	hard skills
+d'occupation	hard skills
+des	hard skills
+tables	hard skills
+,	O
+de	hard skills
+la	hard skills
+salle	hard skills
+du	hard skills
+restaurant	hard skills
+-	O
+Former	hard skills
+un	hard skills
+public	hard skills
+-	O
+Organiser	hard skills
+et	hard skills
+contrôler	hard skills
+le	hard skills
+service	hard skills
+en	hard skills
+salle	hard skills
+-LRB-	O
+dressage	hard skills
+des	hard skills
+tables	hard skills
+,	O
+liaison	hard skills
+salle-cuisine	hard skills
+,	O
+...	O
+-RRB-	O
+-	O
+Organiser	hard skills
+un	hard skills
+planning	hard skills
+du	hard skills
+personnel	hard skills
+-	O
+Réaliser	hard skills
+le	hard skills
+comptage	hard skills
+des	hard skills
+fonds	hard skills
+de	hard skills
+caisses	hard skills
+-	O
+Réaliser	hard skills
+un	hard skills
+service	hard skills
+en	hard skills
+salle	hard skills
+PASSION	hard skills
+-	O
+RIGUEUR	soft skills
+-	O
+EXIGEANCE	soft skills
+-	O
+MAITRISE	soft skills
+DE	soft skills
+SOI	soft skills
+-	O
+REACTIVITE	soft skills
+2	experience
+ans	experience
+d'expérience	experience
+LA	company
+7EME	company
+EPICE	company
+RESTAURANT	company
+M.	
+BARBIER	
+Yannick	
+19B	
+rue	O
+DE	O
+LA	O
+LIBERTE	O
+91710	O
+VERT	O
+LE	O
+PETIT	O
+Se	O
+présenter	O
+Avec	O
+1	O
+CV	O
+CDI	contrat_type
+-LRB-	O
+à	O
+responsabilité	O
+évolutive	O
+-RRB-	O
+39H/SEMAINE	O
+18K	salary
+$	salary
+à	O
+25K	salary
+$	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

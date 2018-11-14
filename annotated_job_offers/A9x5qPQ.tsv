@@ -1,0 +1,193 @@
+DESSINATEUR	position
+/	O
+PROJETEUR	position
+EXPERIMENTE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CRUARD	company
+CHARPENTE	company
+-	O
+Simplé	city
+-LRB-	O
+53	postal code
+-RRB-	O
+26	salary
+0	salary
+$	salary
+-	O
+36	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Votre	hard skills
+mission	hard skills
+Vous	hard skills
+réaliserez	hard skills
+les	hard skills
+plans	hard skills
+d'exécution	hard skills
+,	O
+les	hard skills
+transferts	hard skills
+vers	hard skills
+les	hard skills
+robots	hard skills
+de	hard skills
+taille	hard skills
+pour	hard skills
+des	hard skills
+dossiers	hard skills
+de	hard skills
+constructions	hard skills
+à	hard skills
+ossature	hard skills
+bois	hard skills
+,	
+charpente	hard skills
+bois	hard skills
+et	hard skills
+mixte	hard skills
+.	
+Vos	O
+compétences	O
+:	O
+Vous	hard skills
+maîtrisez	hard skills
+CADWORK	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+périphériques	hard skills
+informatiques	hard skills
+.	O
+Vous	hard skills
+maîtrisez	hard skills
+la	hard skills
+construction	hard skills
+bois	hard skills
+à	hard skills
+travers	hard skills
+la	hard skills
+connaissance	hard skills
+des	hard skills
+DTU	hard skills
+,	O
+ainsi	hard skills
+que	hard skills
+les	hard skills
+normes	hard skills
+règlementaires	hard skills
+-LRB-	
+thermiques	hard skills
+,	O
+acoustiques	hard skills
+,	O
+feu	hard skills
+,	O
+accessibilité	hard skills
+handicapés	hard skills
+,	O
+sismique	hard skills
+,	O
+Eurocodes	hard skills
+-RRB-	O
+en	hard skills
+liaison	hard skills
+avec	hard skills
+l'ensemble	hard skills
+des	hard skills
+périphériques	hard skills
+informatiques	hard skills
+.	O
+Votre	O
+profil	O
+:	O
+Fort	O
+d'une	experience
+expérience	experience
+de	experience
+3	experience
+à	experience
+5	experience
+ans	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+charpente/ossature	experience
+bois	experience
+en	experience
+dessin	experience
+et	experience
+calculs	experience
+courants	experience
+.	O
+De	experience
+formation	experience
+DUT	experience
+--	
+E.S.B	experience
+--	O
+BTS	experience
+SCBH	experience
+--	O
+ENSTIB	experience
+ou	experience
+charpentier	experience
+titulaire	experience
+d'un	experience
+BP	experience
+ou	experience
+formation	experience
+équivalente	experience
+au	experience
+poste	experience
+de	experience
+Dessinateur	experience
+Projeteur	experience
+en	experience
+constructions	experience
+bois	experience
+.	
+votre	soft skills
+sens	soft skills
+de	soft skills
+l'engagement	soft skills
+,	O
+votre	soft skills
+volonté	soft skills
+de	soft skills
+prise	soft skills
+de	soft skills
+responsabilités	soft skills
+et	soft skills
+d'autonomie	soft skills
+vous	soft skills
+motivent	soft skills
+pour	soft skills
+poursuivre	soft skills
+le	soft skills
+développement	soft skills
+de	soft skills
+notre	soft skills
+activité	soft skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+26	salary
+0	salary
+$	salary
+à	O
+36	salary
+0	salary
+$	salary
+/	O
+an	salary

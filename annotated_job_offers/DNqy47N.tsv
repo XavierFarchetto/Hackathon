@@ -1,0 +1,263 @@
+TECHNICIEN	position
+Service	position
+Après-Vente	position
+Itinérant	position
+F/H	O
+GEA	company
+WESTFALIA	company
+SEPARATOR	company
+FRANCE	company
+-	O
+Château-Thierry	city
+-LRB-	O
+2	postal code
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	O
+32	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+montage	hard skills
+,	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+service	hard skills
+,	hard skills
+l'entretien	hard skills
+et	hard skills
+le	hard skills
+dépannage	hard skills
+de	hard skills
+nos	hard skills
+matériels	hard skills
+.	
+Vous	hard skills
+êtes	hard skills
+le	hard skills
+garant	hard skills
+du	hard skills
+bon	hard skills
+fonctionnement	hard skills
+de	hard skills
+nos	hard skills
+process	hard skills
+,	hard skills
+de	hard skills
+notre	hard skills
+image	hard skills
+de	hard skills
+marque	hard skills
+et	hard skills
+vous	hard skills
+veillez	hard skills
+à	hard skills
+la	hard skills
+satisfaction	hard skills
+de	hard skills
+notre	hard skills
+clientèle	hard skills
+.	
+Interlocuteur	hard skills
+privilégié	hard skills
+des	hard skills
+clients	hard skills
+,	hard skills
+vous	hard skills
+intervenez	hard skills
+auprès	hard skills
+d'eux	hard skills
+afin	hard skills
+de	hard skills
+les	hard skills
+former	hard skills
+et	hard skills
+de	hard skills
+les	hard skills
+conseiller	hard skills
+dans	hard skills
+l'utilisation	hard skills
+de	hard skills
+nos	hard skills
+matériels	hard skills
+.	
+Vous	hard skills
+êtes	hard skills
+également	hard skills
+amené	hard skills
+à	hard skills
+réaliser	hard skills
+des	hard skills
+expertises	hard skills
+et	hard skills
+des	hard skills
+contrôles	hard skills
+de	hard skills
+sécurité	hard skills
+sur	hard skills
+du	hard skills
+matériel	hard skills
+ancient	hard skills
+.	
+Le	
+poste	
+est	
+basé	O
+à	O
+Château-Thierry	city
+mais	O
+nécessite	O
+des	O
+déplacements	O
+permanents	O
+en	O
+France	O
+et	O
+ponctuellement	O
+à	O
+l'étranger	O
+.	O
+Expérience	O
+:	O
+débutant	experience
+/	O
+1	experience
+à	experience
+5	experience
+ans	experience
+.	experience
+La	
+rémunération	
+est	
+en	O
+fonction	O
+de	O
+la	O
+formation	O
+et	O
+de	O
+l'expérience	O
+.	O
+Profil	O
+H/F	O
+de	experience
+formation	experience
+TECHNIQUE	experience
+BAC	experience
++	experience
+2	experience
+-LRB-	experience
+BTS/DUT	experience
+technique	experience
+--	
+mécanique	experience
+,	O
+électromécanique	experience
+,	O
+électrotechnique	experience
+-RRB-	O
+ou	O
+équivalent	experience
+vous	experience
+possédez	experience
+,	
+en	experience
+plus	experience
+d'une	experience
+expérience	experience
+réussie	experience
+dans	experience
+ce	experience
+domaine	experience
+,	experience
+de	experience
+solides	experience
+connaissances	experience
+en	experience
+mécanique	experience
+générale	experience
+,	O
+en	experience
+mécanique	experience
+des	experience
+fluides	experience
+,	
+en	experience
+hydraulique	experience
+,	
+en	experience
+régulation	experience
+et	experience
+résistance	experience
+des	experience
+matériaux	experience
+.	
+Une	hard skills
+bonne	hard skills
+connaissance	hard skills
+de	hard skills
+l'anglais	hard skills
+est	hard skills
+nécessaire	hard skills
+.	
+Doté	soft skills
+d'un	soft skills
+attrait	soft skills
+certain	soft skills
+pour	soft skills
+la	soft skills
+technique	soft skills
+et	soft skills
+plus	soft skills
+particulièrement	soft skills
+pour	soft skills
+la	soft skills
+mécanique	soft skills
+et	soft skills
+les	soft skills
+automatismes	soft skills
+,	O
+vous	soft skills
+disposez	soft skills
+de	soft skills
+qualités	soft skills
+relationnelles	soft skills
+,	
+de	soft skills
+rigueur	soft skills
+,	O
+de	soft skills
+faculté	soft skills
+d'adaptation	soft skills
+en	soft skills
+toute	soft skills
+situation	soft skills
+et	soft skills
+savez	soft skills
+faire	soft skills
+preuve	soft skills
+d'autonomie	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	O
+32	salary
+0	salary
+$	salary
+/	
+an	salary

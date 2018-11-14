@@ -1,0 +1,130 @@
+metallier	position
+soudeur	position
+ITS	company
+-	O
+Autechaux	city
+-LRB-	O
+25	postal code
+-RRB-	O
+1	salary
+690	salary
+$	salary
+-	
+1	salary
+750	salary
+$	salary
+par	salary
+mois	salary
+Nous	O
+recherchons	O
+un	position
+métallier	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+travailler	O
+sur	O
+notre	O
+site	O
+de	O
+Renault	city
+Fins	city
+.	O
+De	experience
+formation	experience
+CAP	experience
+ou	experience
+BEP	experience
+.	
+Expérience	experience
+en	experience
+réalisation	experience
+d'outillage	experience
+pour	experience
+ensemble	experience
+mécano-soudés	experience
+.	
+Temps	contrat_type
+complet	contrat_type
+-LRB-	O
+39	O
+H	O
+0	O
+-RRB-	O
+.	O
+CDD	contrat_type
+6	contrat_type
+mois	contrat_type
+en	O
+vue	O
+d'embauche	O
+.	O
+Salaire	O
+:	O
+1690	salary
+à	
+1750	salary
+$	salary
+bruts	salary
+mensuels	salary
+.	O
+Mission	O
+:	O
+*	O
+Soudage	hard skills
+de	hard skills
+pièces	hard skills
+métalliques	hard skills
+.	O
+*	O
+Assemblage	hard skills
+de	hard skills
+conteneurs	hard skills
+métalliques	hard skills
+.	O
+Profil	
+:	O
+*	O
+Sachant	soft skills
+prendre	soft skills
+des	soft skills
+initiatives	soft skills
+*	O
+``	O
+Bricoleur	soft skills
+''	O
+*	O
+technicien	soft skills
+-	O
+autonome	soft skills
+CV	O
++	O
+lettre	O
+de	O
+motivation	O
+à	O
+envoyer	O
+:	O
+GMI	O
+Europolys	O
+1	O
+,	O
+rue	O
+de	O
+la	O
+Craye	O
+25110	postal code
+AUTECHAUX	city
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+SOUDURE	experience
+:	O
+1	experience
+an	experience

@@ -1,0 +1,339 @@
+EMPLOYE	position
+POLYVALENT	position
+DE	position
+RESTAURATION	position
+H/F	O
+EPIGO	company
+-	O
+Roissy-en-France	city
+-LRB-	O
+95	postal code
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+-	
+CDI	contrat_type
+Entreprise	O
+:	O
+Leader	O
+de	O
+la	O
+restauration	O
+commerciale	O
+concédée	O
+,	O
+notre	O
+société	O
+invite	O
+à	O
+diverses	O
+escales	O
+culinaires	O
+,	O
+audacieuses	O
+et	O
+raffinées	O
+,	O
+en	O
+offrant	O
+aux	O
+voyageurs	O
+une	O
+halte	O
+épicurienne	O
+inoubliable	O
+avant	O
+leur	O
+envol	O
+...	O
+Dans	O
+le	O
+cadre	O
+de	O
+l'ouverture	O
+prochaine	O
+de	O
+notre	O
+futur	O
+restaurant	O
+Prêt	O
+à	O
+Manger	O
+,	O
+nous	O
+recherchons	O
+des	position
+employé	position
+-LRB-	
+e	position
+-RRB-	O
+s	position
+polyvalents	position
+de	position
+restauration	position
+H/F	O
+.	O
+*	O
+Missions	hard  skills
+:	O
+*	O
+Vous	hard  skills
+êtes	hard  skills
+un	hard  skills
+-LRB-	
+e	hard  skills
+-RRB-	O
+lève	hard  skills
+tôt	hard  skills
+et	hard  skills
+le	hard  skills
+travail	hard  skills
+ne	hard  skills
+vous	hard  skills
+fait	hard  skills
+pas	hard  skills
+peur	hard  skills
+.	O
+Vous	hard  skills
+participez	hard  skills
+à	hard  skills
+la	hard  skills
+préparation	hard  skills
+de	hard  skills
+délicieux	hard  skills
+sandwichs	hard  skills
+et	hard  skills
+salades	hard  skills
+à	hard  skills
+partir	hard  skills
+de	hard  skills
+légumes	hard  skills
+frais	hard  skills
+et	hard  skills
+d'ingrédients	hard  skills
+de	hard  skills
+qualité	hard  skills
+tout	hard  skills
+au	hard  skills
+long	hard  skills
+de	hard  skills
+la	hard  skills
+journée	hard  skills
+,	hard  skills
+dans	hard  skills
+le	hard  skills
+respect	hard  skills
+des	hard  skills
+standards	hard  skills
+de	hard  skills
+la	hard  skills
+marque	hard  skills
+et	hard  skills
+des	hard  skills
+normes	hard  skills
+d'hygiène	hard  skills
+.	O
+Vous	hard  skills
+veillez	hard  skills
+au	hard  skills
+bon	hard  skills
+fonctionnement	hard  skills
+du	hard  skills
+restaurant	hard  skills
+,	hard  skills
+à	hard  skills
+la	hard  skills
+qualité	hard  skills
+et	hard  skills
+à	hard  skills
+l'efficacité	hard  skills
+du	hard  skills
+service	hard  skills
+et	hard  skills
+à	hard  skills
+la	hard  skills
+satisfaction	hard  skills
+de	hard  skills
+vos	hard  skills
+clients	hard  skills
+.	
+Vous	hard  skills
+assurez	hard  skills
+la	hard  skills
+prise	hard  skills
+des	hard  skills
+commandes	hard  skills
+et	hard  skills
+procédez	hard  skills
+aux	hard  skills
+opérations	hard  skills
+d'encaissement	hard  skills
+.	O
+Vous	hard  skills
+intégrez	hard  skills
+une	hard  skills
+équipe	hard  skills
+ultra	hard  skills
+dynamique	hard  skills
+dans	hard  skills
+une	hard  skills
+ambiance	hard  skills
+de	hard  skills
+travail	hard  skills
+enjouée	hard  skills
+et	hard  skills
+motivante	hard  skills
+.	O
+*	O
+Profil	O
+et	O
+Expérience	O
+:	O
+*	O
+Dynamique	soft skills
+,	O
+curieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	
+volontaire	soft skills
+,	O
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+et	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+,	O
+vous	hard  skills
+véhiculez	hard  skills
+une	hard  skills
+image	hard  skills
+sympathique	hard  skills
+et	
+vous	soft skills
+savez	soft skills
+captez	soft skills
+votre	soft skills
+clientèle	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+passionné	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+par	soft skills
+le	soft skills
+service	soft skills
+et	soft skills
+le	soft skills
+conseil	soft skills
+à	soft skills
+la	soft skills
+clientèle	soft skills
+.	O
+Vous	soft skills
+aimez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+dans	soft skills
+la	soft skills
+bonne	soft skills
+humeur	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+polyvalent	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+et	soft skills
+à	soft skills
+l'écoute	soft skills
+des	soft skills
+consignes	soft skills
+de	soft skills
+votre	soft skills
+hiérarchie	soft skills
+.	
+*	O
+Autres	O
+informations	O
+:	O
+*	O
+Grande	hard  skills
+disponibilité	hard  skills
+exigée	hard  skills
+-LRB-	O
+amplitude	O
+horaire	O
+:	O
+2	hard  skills
+heures	hard  skills
+du	hard  skills
+matin	hard  skills
+/	O
+minuit	hard  skills
+-RRB-	O
+Ouverture	hard  skills
+tous	hard  skills
+les	hard  skills
+jours	hard  skills
+de	hard  skills
+la	hard  skills
+semaine	hard  skills
+,	O
+week-end	hard  skills
+et	hard  skills
+jours	hard  skills
+fériés	hard  skills
+.	O
+Obtention	hard  skills
+du	hard  skills
+badge	hard  skills
+rouge	hard  skills
+:	O
+casier	hard  skills
+judiciaire	hard  skills
+vierge	hard  skills
+Véhicule	hard  skills
+souhaité	hard  skills
+ou	hard  skills
+résider	hard  skills
+en	hard  skills
+zone	hard  skills
+desservie	hard  skills
+par	hard  skills
+le	hard  skills
+Filéo	hard  skills
+-LRB-	O
+bus	hard  skills
+de	hard  skills
+nuit	hard  skills
+-RRB-	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+480,3	salary
+$	salary
+/	O
+mois	salary

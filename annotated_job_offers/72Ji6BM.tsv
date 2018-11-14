@@ -1,0 +1,720 @@
+Technicien	position
+audiovisuel	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Centre	company
+national	company
+de	company
+la	company
+danse	company
+-	O
+Pantin	city
+-LRB-	O
+93	code postal
+-RRB-	O
+2	salary
+443	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Etablissement	O
+public	O
+de	O
+l'Etat	O
+à	O
+caractère	O
+industriel	O
+et	O
+commercial	O
+d'environ	O
+100	O
+personnes	O
+,	O
+le	company
+Centre	company
+national	company
+de	company
+la	company
+danse	company
+-LRB-	O
+CN	O
+D	O
+-RRB-	O
+a	O
+pour	O
+mission	O
+de	O
+contribuer	O
+au	O
+développement	O
+de	O
+la	O
+culture	O
+chorégraphique	O
+,	O
+favoriser	O
+l'essor	O
+de	O
+la	O
+création	O
+et	O
+la	O
+diffusion	O
+des	O
+œuvres	O
+chorégraphiques	O
+,	O
+offrir	O
+aux	O
+artistes	O
+et	O
+aux	O
+enseignants	O
+de	O
+la	O
+danse	O
+un	O
+environnement	O
+pédagogique	O
+de	O
+haut	O
+niveau	O
+et	O
+apporter	O
+un	O
+soutien	O
+personnalisé	O
+aux	O
+professionnels	O
+de	O
+la	O
+danse	O
+dans	O
+l'exercice	O
+de	O
+leur	O
+métier	O
+.	O
+Le	company
+CN	company
+D	company
+recherche	O
+un/e	position
+Chargé	position
+/	O
+e	position
+de	position
+traitement	position
+des	position
+collections	position
+audiovisuelles	position
+.	O
+Votre	hard skills
+mission	hard skills
+Sous	hard skills
+la	hard skills
+direction	hard skills
+du	hard skills
+responsable	hard skills
+du	hard skills
+pôle	hard skills
+Image	hard skills
+,	O
+vous	hard skills
+contribuez	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+activités	hard skills
+du	hard skills
+département	hard skills
+Patrimoine	hard skills
+,	hard skills
+audiovisuel	hard skills
+et	hard skills
+éditions	hard skills
+.	
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+traitement	hard skills
+technique	hard skills
+et	hard skills
+documentaire	hard skills
+des	hard skills
+ressources	hard skills
+audiovisuelles	hard skills
+des	hard skills
+collections	hard skills
+de	hard skills
+la	hard skills
+médiathèque	hard skills
+du	hard skills
+Centre	hard skills
+national	hard skills
+de	hard skills
+la	hard skills
+danse	hard skills
+,	hard skills
+notamment	hard skills
+celles	hard skills
+provenant	hard skills
+de	hard skills
+fonds	hard skills
+d'archives	hard skills
+.	
+Vous	hard skills
+participez	hard skills
+à	hard skills
+l'activité	hard skills
+générale	hard skills
+du	hard skills
+département	hard skills
+et	hard skills
+de	hard skills
+l'établissement	hard skills
+,	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+les	hard skills
+autres	hard skills
+départements	hard skills
+du	hard skills
+CND	hard skills
+et	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+règles	hard skills
+et	hard skills
+procédures	hard skills
+en	hard skills
+vigueur	hard skills
+.	
+Vous	hard skills
+contribuez	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+activités	hard skills
+:	hard skills
+Vous	hard skills
+organisez	hard skills
+votre	hard skills
+activité	hard skills
+en	hard skills
+relation	hard skills
+avec	hard skills
+les	hard skills
+priorités	hard skills
+définies	hard skills
+pour	hard skills
+le	hard skills
+pôle	hard skills
+Image	hard skills
+et	hard skills
+le	hard skills
+département	hard skills
+Patrimoine	hard skills
+,	hard skills
+audiovisuel	hard skills
+et	hard skills
+éditions	hard skills
+.	
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+traitement	hard skills
+technique	hard skills
+et	hard skills
+documentaire	hard skills
+des	hard skills
+ressources	hard skills
+audiovisuelles	hard skills
+:	hard skills
+Vous	hard skills
+assurez	hard skills
+et	hard skills
+documentez	hard skills
+le	hard skills
+recollement	hard skills
+des	hard skills
+ressources	hard skills
+qui	hard skills
+vous	hard skills
+sont	hard skills
+confiées	hard skills
+pour	hard skills
+traitement	hard skills
+,	hard skills
+Vous	hard skills
+mettez	hard skills
+en	hard skills
+œuvre	hard skills
+et	hard skills
+contrôlez	hard skills
+toute	hard skills
+la	hard skills
+chaine	hard skills
+de	hard skills
+traitement	hard skills
+technique	hard skills
+des	hard skills
+supports	hard skills
+et	hard skills
+fichiers	hard skills
+audiovisuels	hard skills
+correspondant	hard skills
+aux	hard skills
+fonds	hard skills
+qui	hard skills
+vous	hard skills
+sont	hard skills
+confiés	hard skills
+:	hard skills
+vérification	hard skills
+du	hard skills
+support	hard skills
+original	hard skills
+ou	hard skills
+du	hard skills
+fichier	hard skills
+natif	hard skills
+,	hard skills
+Ingest	hard skills
+des	hard skills
+documents	hard skills
+suivant	hard skills
+les	hard skills
+process	hard skills
+définis	hard skills
+,	hard skills
+traitement	hard skills
+des	hard skills
+fichiers	hard skills
+-LRB-	
+corrections	hard skills
+,	O
+étalonnage	hard skills
+,	O
+habillage	hard skills
+...	O
+-RRB-	O
+,	O
+Outgest	hard skills
+des	hard skills
+documents	hard skills
+pour	hard skills
+les	hard skills
+différents	hard skills
+usages	hard skills
+-LRB-	O
+conservation	hard skills
+,	O
+consultation	hard skills
+,	O
+exploitation	hard skills
+...	O
+-RRB-	O
+,	O
+création	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+Assets	hard skills
+tout	hard skills
+au	hard skills
+long	hard skills
+de	hard skills
+la	hard skills
+chaine	hard skills
+de	hard skills
+traitement	hard skills
+suivant	hard skills
+les	hard skills
+normes	hard skills
+établies	hard skills
+,	hard skills
+Vous	hard skills
+indexez	hard skills
+et	hard skills
+décrivez	hard skills
+les	hard skills
+ressources	hard skills
+secondes	hard skills
+que	hard skills
+vous	hard skills
+générez	hard skills
+au	hard skills
+fil	hard skills
+de	hard skills
+la	hard skills
+chaîne	hard skills
+de	hard skills
+traitement	hard skills
+des	hard skills
+documents	hard skills
+audiovisuels	hard skills
+et	hard skills
+les	hard skills
+produits	hard skills
+de	hard skills
+valorisation	hard skills
+que	hard skills
+vous	hard skills
+êtes	hard skills
+amené-e	hard skills
+à	hard skills
+réaliser	hard skills
+,	hard skills
+en	hard skills
+cohérence	hard skills
+avec	hard skills
+les	hard skills
+normes	hard skills
+et	hard skills
+méthodes	hard skills
+établies	hard skills
+au	hard skills
+sein	hard skills
+du	hard skills
+département	hard skills
+,	hard skills
+Vous	hard skills
+êtes	hard skills
+garant-e	hard skills
+de	hard skills
+la	hard skills
+bonne	hard skills
+conservation	hard skills
+et	hard skills
+de	hard skills
+l'état	hard skills
+des	hard skills
+collections	hard skills
+audiovisuelles	hard skills
+que	hard skills
+vous	hard skills
+êtes	hard skills
+amené-e	hard skills
+à	hard skills
+traiter	hard skills
+.	
+Vous	hard skills
+contribuez	hard skills
+à	hard skills
+l'activité	hard skills
+générale	hard skills
+du	hard skills
+département	hard skills
+:	hard skills
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+opérations	hard skills
+de	hard skills
+valorisation	hard skills
+des	hard skills
+fonds	hard skills
+du	hard skills
+CND	hard skills
+,	hard skills
+notamment	hard skills
+sur	hard skills
+le	hard skills
+portail	hard skills
+documentaire	hard skills
+de	hard skills
+la	hard skills
+médiathèque	hard skills
+,	hard skills
+aux	hard skills
+différents	hard skills
+projets	hard skills
+multimédias	hard skills
+associant	hard skills
+les	hard skills
+documentalistes	hard skills
+et/ou	hard skills
+le	hard skills
+pôle	hard skills
+Projets	hard skills
+éditoriaux	hard skills
+,	hard skills
+ou	hard skills
+à	hard skills
+tout	hard skills
+autre	hard skills
+projet	hard skills
+à	hard skills
+caractère	hard skills
+public	hard skills
+entrant	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+des	hard skills
+activités	hard skills
+du	hard skills
+département	hard skills
+.	
+Profil	O
+recherché	O
+Titulaire	experience
+d'un	experience
+BTS	experience
+audiovisuel	experience
+option	experience
+Exploitation	experience
+ou	experience
+équivalent	experience
+,	O
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+réussie	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+,	O
+Vous	hard skills
+maitrisez	hard skills
+parfaitement	hard skills
+l'environnement	hard skills
+Avid	hard skills
+-LRB-	O
+Media	hard skills
+Composer	hard skills
+,	O
+Isis	hard skills
+,	O
+Interplay	hard skills
+-RRB-	O
+sous	hard skills
+Mac	hard skills
+et	hard skills
+sous	hard skills
+PC	hard skills
+,	O
+Vous	hard skills
+connaissez	hard skills
+les	hard skills
+différentes	hard skills
+techniques	hard skills
+de	hard skills
+production	hard skills
+,	O
+de	hard skills
+conservation	hard skills
+,	O
+d'archivage	hard skills
+,	O
+de	hard skills
+transfert	hard skills
+,	O
+de	hard skills
+numérisation	hard skills
+,	O
+de	hard skills
+traitement	hard skills
+et	hard skills
+de	hard skills
+diffusion	hard skills
+des	hard skills
+documents	hard skills
+audiovisuels	hard skills
+,	O
+Vous	hard skills
+avez	hard skills
+une	hard skills
+maitrise	hard skills
+technologique	hard skills
+des	hard skills
+principes	hard skills
+relatifs	hard skills
+aux	hard skills
+signaux	hard skills
+audio	hard skills
+et	hard skills
+vidéo	hard skills
+en	hard skills
+SD	hard skills
+et	hard skills
+HD	hard skills
+,	O
+de	hard skills
+l'ensemble	hard skills
+des	hard skills
+supports	hard skills
+,	
+formats	hard skills
+et	hard skills
+codage	hard skills
+anciens	hard skills
+ou	hard skills
+actuels	hard skills
+,	O
+Vous	hard skills
+avez	hard skills
+une	hard skills
+connaissance	hard skills
+des	hard skills
+problématiques	hard skills
+des	hard skills
+métadonnées	hard skills
+,	O
+de	hard skills
+l'indexation	hard skills
+et	hard skills
+des	hard skills
+systèmes	hard skills
+de	hard skills
+Media	hard skills
+Asset	hard skills
+Management	hard skills
+.	O
+Une	hard skills
+connaissance	hard skills
+du	hard skills
+domaine	hard skills
+de	hard skills
+la	hard skills
+documentation	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	O
+Vous	O
+vous	O
+intéressez	O
+aux	O
+domaines	O
+artistiques	O
+et	O
+plus	O
+particulièrement	O
+au	O
+spectacle	O
+vivant	O
+,	O
+Vous	soft skills
+êtes	soft skills
+organisé-e	soft skills
+,	O
+très	soft skills
+rigoureux-se	soft skills
+,	O
+autonome	soft skills
+et	soft skills
+vous	soft skills
+aimez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Statut	O
+-	O
+Type	O
+de	O
+poste	O
+Poste	O
+de	O
+cadre	O
+en	O
+CDI	contrat_type
+temps	O
+plein	O
+.	O
+Salaire	O
+brut	O
+mensuel	O
+de	O
+2	salary
+443	salary
+$	salary
+x	
+13	salary
+mois	salary
++	O
+mutuelle	O
+prise	O
+en	O
+charge	O
+par	O
+l'employeur	O
+,	O
+titres	O
+de	O
+restauration	O
+,	O
+6	O
+semaines	O
+de	O
+congés	O
+payés	O
+.	O
+Candidatures	O
+Lettre	O
+de	O
+motivation	O
+et	O
+CV	O
+détaillé	O
+à	O
+faire	O
+parvenir	O
+au	O
+service	O
+Ressources	O
+humaines	O
+sous	O
+la	O
+référence	O
+201710/PAEPI/CTCA	O
+/	O
+IND	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+traitement	experience
+/	O
+diffusion	experience
+de	experience
+documents	experience
+audiovisuels	experience
++	O
+AVID	experience
+:	O
+1	experience
+an	experience

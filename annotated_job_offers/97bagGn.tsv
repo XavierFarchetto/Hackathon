@@ -1,0 +1,201 @@
+CONDUCTEUR	position
+DE	position
+PERSONNES	position
+H/F	O
+Transport	company
+de	company
+Personne	company
+-	O
+Lille	city
+-LRB-	O
+59	postal code
+-RRB-	O
+1	salary
+250	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Société	O
+spécialisée	O
+dans	O
+le	O
+transport	O
+de	O
+personnes	O
+au	O
+service	O
+de	O
+grands	O
+comptes	O
+et	O
+disposant	O
+d'une	O
+flotte	O
+de	O
+plus	O
+de	O
+800	O
+véhicules	O
+,	O
+recherche	O
+:	O
+Des	position
+chauffeurs	position
+-LRB-	O
+H/F	O
+-RRB-	O
+avec	O
+Permis	hard skills
+B	hard skills
+minimum	hard skills
+3	hard skills
+ans	hard skills
+sur	hard skills
+secteur	hard skills
+de	hard skills
+LILLE	hard skills
+.	O
+Qualités	O
+requises	O
+:	O
+Ponctualité	soft skills
+,	O
+professionnalisme	soft skills
+,	O
+rigueur	soft skills
+,	O
+sens	soft skills
+de	soft skills
+la	soft skills
+relation	soft skills
+client	soft skills
+,	O
+du	soft skills
+service	soft skills
+,	O
+bonne	soft skills
+presentation	soft skills
+.	
+Flexibilité	soft skills
+sur	soft skills
+les	soft skills
+plages	soft skills
+horaires	
+:	O
+19h00-07h00	O
+et/ou	O
+07h00-19h00	O
+.	O
+Véhicule	hard skills
+de	hard skills
+service	hard skills
+mis	hard skills
+à	hard skills
+disposition	hard skills
+Compétences	hard skills
+du	hard skills
+poste	hard skills
+Accueillir	hard skills
+la	hard skills
+clientèle	hard skills
+Assurer	hard skills
+la	hard skills
+propreté	hard skills
+du	hard skills
+véhicule	hard skills
+Conduire	hard skills
+et	hard skills
+déposer	hard skills
+le	hard skills
+client	hard skills
+à	hard skills
+son	hard skills
+lieu	hard skills
+de	hard skills
+destination	hard skills
+Déterminer	hard skills
+un	hard skills
+itinéraire	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+délais	hard skills
+et	hard skills
+des	hard skills
+particularités	hard skills
+du	hard skills
+trafic	hard skills
+Maintenance	hard skills
+de	hard skills
+premier	hard skills
+niveau	hard skills
+Renseigner	hard skills
+les	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+d'un	hard skills
+véhicule	hard skills
+Respect	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+des	hard skills
+biens	hard skills
+et	hard skills
+des	hard skills
+personnes	hard skills
+Réaliser	hard skills
+des	hard skills
+déplacements	hard skills
+régionaux	hard skills
+Renseigner	hard skills
+et	hard skills
+transmettre	hard skills
+les	hard skills
+feuilles	hard skills
+de	hard skills
+route	hard skills
+Réglementation	hard skills
+du	hard skills
+transport	hard skills
+de	hard skills
+personnes	hard skills
+Utilisation	hard skills
+de	hard skills
+matériel	hard skills
+de	hard skills
+navigation	hard skills
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+1	salary
+250	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Lille	city
+-LRB-	O
+59	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+permis	hard skills
+de	hard skills
+conduire	hard skills
+:	O
+3	hard skills
+ans	hard skills

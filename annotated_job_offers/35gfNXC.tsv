@@ -1,0 +1,181 @@
+Cuisinier	position
+/	O
+Cuisinière	position
+EHPAD	company
+LES	company
+AIRELLES	company
+-	O
+Couilly-Pont-aux-Dames	city
+-LRB-	O
+77	code postal
+-RRB-	O
+1	salary
+530	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Notre	O
+EHPAD	company
+situé	O
+à	O
+COUILLY-PONT-AUX-DAMES	city
+recherche	O
+un	position
+cuisinier	position
+-LRB-	O
+H/F	O
+-RRB-	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+déterminée	contrat_type
+.	O
+Vous	hard skills
+bénéficiez	hard skills
+d'une	hard skills
+bonne	hard skills
+maitrise	hard skills
+des	hard skills
+protocoles	hard skills
+d'hygiène	hard skills
+-LRB-	O
+HACCP	hard skills
+...	O
+-RRB-	
+liés	hard skills
+à	hard skills
+la	hard skills
+préparation	hard skills
+de	hard skills
+plats	hard skills
+de	hard skills
+ce	hard skills
+type	hard skills
+de	hard skills
+structure	hard skills
+.	O
+Nous	O
+recherchons	O
+un	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+candidat	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+ayant	soft skills
+le	soft skills
+sens	soft skills
+des	soft skills
+priorités	soft skills
+et	soft skills
+de	soft skills
+l'organisation	soft skills
+.	
+Il	soft skills
+est	soft skills
+important	soft skills
+d'apprécier	soft skills
+de	soft skills
+travailler	soft skills
+au	soft skills
+sein	soft skills
+d'une	soft skills
+équipe	soft skills
+pluridisciplinaire	soft skills
+et	soft skills
+de	soft skills
+savoir	soft skills
+faire	soft skills
+preuve	soft skills
+de	soft skills
+qualités	soft skills
+relationnelles	soft skills
+.	O
+Le	O
+temps	O
+de	O
+travail	O
+journalier	O
+est	O
+de	O
+8	O
+heures	O
+effectives	O
+,	O
+avec	O
+un	O
+week-end	O
+sur	O
+deux	O
+travaillé.Vous	O
+êtes	O
+titulaire	experience
+d'un	experience
+diplôme	experience
+ou	experience
+d'un	experience
+titre	experience
+professionnel	experience
+inscrit	experience
+au	experience
+RNCP	experience
+ou	experience
+validé	experience
+par	experience
+la	experience
+CPNE	experience
+.	O
+Vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+en	experience
+EHPAD	experience
+et/ou	experience
+d'un	experience
+réel	experience
+intérêt	experience
+pour	experience
+les	experience
+spécificités	experience
+liées	experience
+à	experience
+ce	experience
+contexte	experience
+professionnel	experience
+.	
+Le	O
+salaire	O
+de	O
+base	O
+est	O
+de	O
+:	O
+1530	salary
+euros	salary
+brut/mois	salary
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+Restauration	experience
+collective	experience
+à	experience
+caractère	experience
+social	experience
+:	O
+1	experience
+an	experience

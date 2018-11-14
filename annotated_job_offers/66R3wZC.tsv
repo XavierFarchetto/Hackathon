@@ -1,0 +1,215 @@
+Agent	position
+de	position
+quai	position
+CODA	company
+-	O
+Corbas	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Intérim	contrat_type
+CODA	company
+Lyon	O
+recherche	O
+pour	O
+son	O
+client	O
+,	O
+basé	O
+à	O
+Corbas	city
+,	O
+un	position
+Agent	position
+de	position
+quai	position
+H/F	O
+.	O
+Mission	O
+:	O
+L'opérateur	hard skills
+de	hard skills
+quai	hard skills
+assure	hard skills
+le	hard skills
+pointage	hard skills
+,	hard skills
+le	hard skills
+chargement	hard skills
+et	hard skills
+le	hard skills
+déchargement	hard skills
+des	hard skills
+véhicules	hard skills
+et	hard skills
+la	hard skills
+ventilation	hard skills
+des	hard skills
+unités	hard skills
+de	hard skills
+manutention	hard skills
+à	hard skills
+quai	hard skills
+,	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+processus	hard skills
+QSE	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+en	hard skills
+vigueur	hard skills
+et	hard skills
+des	hard skills
+impératifs	hard skills
+économiques	hard skills
+.	
+-	O
+Charger	hard skills
+/	hard skills
+décharger	hard skills
+les	hard skills
+véhicules	hard skills
+en	hard skills
+utilisant	hard skills
+les	hard skills
+matériels	hard skills
+de	hard skills
+manutention	hard skills
+adaptés	hard skills
+,	hard skills
+Respecter	hard skills
+les	hard skills
+règles	hard skills
+d'optimisation	hard skills
+de	hard skills
+volume	hard skills
+,	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+soin	hard skills
+des	hard skills
+unités	hard skills
+de	hard skills
+manutention	hard skills
+,	hard skills
+Trier	hard skills
+et	hard skills
+ventiler	hard skills
+les	hard skills
+unités	hard skills
+de	hard skills
+manutention	hard skills
+dans	hard skills
+les	hard skills
+travées	hard skills
+prévues	hard skills
+.	hard skills
+Alerter	hard skills
+son	hard skills
+management	hard skills
+en	hard skills
+cas	hard skills
+de	hard skills
+problème	hard skills
+/	hard skills
+d'anomalie	hard skills
+.	hard skills
+Respecter	hard skills
+les	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+des	hard skills
+biens	hard skills
+et	hard skills
+des	hard skills
+personnes	hard skills
+et	hard skills
+de	hard skills
+manutention	hard skills
+internes	hard skills
+,	hard skills
+ainsi	hard skills
+que	hard skills
+l'ensemble	hard skills
+des	hard skills
+processus	hard skills
+de	hard skills
+son	hard skills
+domaine	hard skills
+.	
+Caces	experience
+1	experience
+-LRB-	
+autoporté	experience
+-RRB-	O
+et	experience
+3	experience
+souhaités	experience
+Poste	experience
+de	experience
+nuit	experience
+Mission	O
+intérim	contrat_type
+de	O
+6	O
+mois	O
+Primes	O
+d'assiduite	O
+de	O
+65	O
+$	O
+:	O
+attribution	O
+si	O
+4	O
+semaines	O
+de	O
+mission	O
+Véhicule	O
+indispensable	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
++	O
+CDI	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+logistique	experience
+:	O
+1	experience
+an	experience

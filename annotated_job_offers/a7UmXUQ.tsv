@@ -1,0 +1,80 @@
+Fleuriste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+LES	company
+JARDINS	company
+D'ILHAN	company
+-	O
+Paris	city
+12e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+890	salary
+$	salary
+par	salary
+mois	salary
+Recherche	O
+fleuriste	position
+qualifié	position
+-LRB-	O
+e	O
+-RRB-	O
+,	O
+avec	experience
+expérience	experience
+sachant	experience
+réaliser	experience
+bouquet	experience
+rond	experience
+et	experience
+compositions	experience
+florales	experience
+.	O
+Préparation	hard skills
+des	hard skills
+commandes	hard skills
+.	O
+Accueil	hard skills
+et	hard skills
+ventes	hard skills
+à	hard skills
+la	hard skills
+clientèle	hard skills
+.	O
+Type	
+de	
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Commerce/Distribution	experience
+Fonction	experience
+Ouvrier/Artisan	experience
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+890	salary
+$	salary
+/	O
+mois	salary
+Expérience	
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

@@ -1,0 +1,136 @@
+Plongeur	position
+en	position
+restauration	position
+Centre	company
+Léon	company
+Bérard	company
+-	O
+Lyon	city
+8e	city
+-LRB-	O
+69	postal code
+-RRB-	
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+Centre	company
+hospitalier	company
+sur	O
+Lyon	city
+recherche	O
+pour	O
+son	O
+service	O
+restauration	O
+:	O
+Un	position
+-LRB-	O
+e	position
+-RRB-	O
+plongeur	position
+H/F	O
+Vous	hard skills
+êtes	hard skills
+chargé	hard skills
+de	hard skills
+réaliser	hard skills
+les	hard skills
+tâches	hard skills
+suivantes	hard skills
+:	
+-	O
+Nettoyage	hard skills
+et	hard skills
+rangement	hard skills
+de	hard skills
+la	hard skills
+vaisselle	hard skills
+-	hard skills
+Assurer	hard skills
+le	hard skills
+tri	hard skills
+et	hard skills
+la	hard skills
+propreté	hard skills
+des	hard skills
+ustensiles	hard skills
+de	hard skills
+cuisine	hard skills
+-	hard skills
+Nettoyage	hard skills
+de	hard skills
+votre	hard skills
+lave	hard skills
+vaisselle	hard skills
+-	hard skills
+Assurer	hard skills
+la	hard skills
+traçabilité	hard skills
+des	hard skills
+actions	hard skills
+de	hard skills
+nettoyage	hard skills
+via	hard skills
+la	hard skills
+démarche	hard skills
+HACCP	hard skills
+Poste	
+en	
+horaire	O
+continu	O
+.	O
+Travail	O
+le	O
+soir	O
+et	O
+les	O
+week	O
+end	O
+.	O
+Poste	O
+sur	O
+lyon	city
+avec	O
+accès	O
+métro	O
+,	O
+tram	O
+et	O
+bus	O
+à	O
+20m	O
+dans	O
+le	O
+quartier	O
+Grange	O
+Blanche	O
+.	O
+Candidature	O
+par	O
+mail	O
+:	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+plonge	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills

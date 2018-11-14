@@ -1,0 +1,93 @@
+Ouvrier	position
+paysagiste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+SARL	company
+GILLES	company
+PHALIP	company
+-	O
+Saint-Rémy	city
+-LRB-	O
+12	code postal
+-RRB-	O
+10	salary
+$	salary
+par	salary
+heure	salary
+Tous	hard skills
+les	hard skills
+travaux	hard skills
+espaces	hard skills
+verts	hard skills
+-LRB-	O
+taille	hard skills
+,	O
+tonte	hard skills
+,	O
+débroussaillage	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+Expérience	experience
+souhaitée	experience
+dans	experience
+le	experience
+métier	experience
+de	experience
+paysagiste	experience
+savoir	experience
+conduire	experience
+mini	experience
+pelle	experience
+,	O
+tracteur	experience
+,	O
+chargeur	experience
+.	O
+Si	hard skills
+possible	hard skills
+avoir	hard skills
+le	hard skills
+permis	hard skills
+PL	hard skills
+.	O
+Durée	O
+hebdomadaire	O
+39H00	O
+.	O
+Salaire	O
+SMIC	salary
+-LRB-	O
+à	O
+voir	O
+-RRB-	O
+Type	O
+de	O
+contrat	O
+CDD	contrat_type
+Secteur	O
+d'activité	O
+Services	O
+Fonction	O
+Ouvrier/Artisan	O
+Expérience	O
+0	O
+à	O
+2	experience
+ans	experience
+Niveau	experience
+d'études	experience
+BEP/CAP	experience
+Type	
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+10	salary
+$	salary
+/	O
+heure	salary

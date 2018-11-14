@@ -1,0 +1,195 @@
+Technicien	position
+du	position
+materiel	position
+de	position
+sante	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Medical	company
+Dalayrac	company
+-	O
+Fontenay-sous-Bois	city
+-LRB-	O
+94	postal code
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+DEPUIS	O
+1988	O
+,	O
+MEDICAL	company
+DALAYRAC	company
+BASEE	O
+A	O
+FONTENAY	city
+SOUS	O
+BOIS	O
+APPORTE	O
+AUX	O
+PERSONNES	O
+AGEES	O
+ET	O
+HANDICAPEES	O
+TOUTES	O
+LES	O
+AIDES	O
+TECHNIQUES	O
+PERMETTANT	O
+D	O
+AMELIORER	O
+LEUR	O
+BIEN	O
+ETREAVEC	O
+UNE	O
+CAMIONNETTE	O
+DE	O
+LA	O
+SOCIETE	O
+,	O
+LE	hard skills
+FUTUR	hard skills
+TECHNICIEN	hard skills
+AURA	hard skills
+LA	hard skills
+CHARGE	hard skills
+DE	hard skills
+LIVRER	hard skills
+,	
+D'INSTALLER	hard skills
+DE	hard skills
+FAIRE	hard skills
+ESSAYER	hard skills
+A	hard skills
+DOMICILE	hard skills
+LES	hard skills
+MATERIELS	hard skills
+TELS	hard skills
+QUE	hard skills
+LITS	hard skills
+MEDICAUX	hard skills
+,	
+FAUTEUILS	hard skills
+ROULANTS	hard skills
+,	O
+LEVE	hard skills
+MALADE	hard skills
+,	O
+DEAMBULATEUR	hard skills
+...	O
+UNE	experience
+EXPERIENCE	experience
+DANS	experience
+LE	experience
+DOMAINE	experience
+EST	experience
+SOUHAITABLE	experience
+MAIS	experience
+PAS	experience
+EXIGEE	experience
+UNE	hard skills
+CONNAISSANCE	hard skills
+MINIMALE	hard skills
+DE	hard skills
+LA	hard skills
+REALITE	hard skills
+SOCIO-ECONOMIQUE	hard skills
+EST	hard skills
+SOUHAITABLE	hard skills
+ETRE	soft skills
+UN	soft skills
+BON	soft skills
+``	
+BRICOLEUR	soft skills
+''	O
+ETRE	soft skills
+EN	soft skills
+BONNE	soft skills
+FORME	soft skills
+PHYSIQUE	soft skills
+Titulaire	experience
+du	experience
+permis	experience
+B	experience
+Prime	experience
+de	experience
+repas	experience
+-	O
+salaire	O
+fonction	O
+de	O
+l'expérience	O
+39	O
+heures	O
+hebdo	O
+-	O
+du	O
+lundi	O
+ou	O
+vendredi	O
+Adresser	O
+CV	O
++	O
+LETTRE	O
+MOTIVATION	O
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Médecine	O
+/	O
+Santé	O
+Fonction	O
+Commercial/Vente	O
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Niveau	experience
+d'études	experience
+Technicien/Employ	experience
+é	experience
+/	O
+Bac	experience
+2	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

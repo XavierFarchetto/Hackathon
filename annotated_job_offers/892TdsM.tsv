@@ -1,0 +1,473 @@
+TECHNICIEN	position
+QUALITÉ	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ICE	company
+TECH	company
+-	O
+Alençon	city
+-LRB-	O
+61	code postal
+-RRB-	O
+CDI	contrat_type
+Vous	O
+souhaitez	O
+mettre	O
+à	O
+profit	O
+vos	O
+compétences	O
+en	O
+conception	O
+mécanique	O
+dans	O
+le	O
+secteur	O
+industriel	O
+au	O
+sein	O
+d'un	O
+PME	O
+-LRB-	O
+250	O
+collaborateurs	O
+-RRB-	O
+spécialisée	O
+dans	O
+la	O
+conception	O
+et	O
+l'industrialisation	O
+de	O
+machines	O
+spéciales	O
+destinées	O
+au	O
+secteur	O
+de	O
+la	O
+métallurgie	O
+et	O
+de	O
+l'agroalimentaire	O
+?	O
+A	O
+ce	O
+titre	O
+:	O
+Rattaché	O
+au	O
+responsable	O
+du	O
+site	O
+,	O
+vous	O
+serez	O
+en	O
+charge	O
+:	O
+-	O
+Vous	hard skills
+réaliserez	hard skills
+le	hard skills
+contrôle	hard skills
+mécanique	hard skills
+de	hard skills
+pièces	hard skills
+des	hard skills
+machines	hard skills
+spéciales	hard skills
+-	O
+Vous	hard skills
+serez	hard skills
+responsable	hard skills
+de	hard skills
+tous	hard skills
+les	hard skills
+sujets	hard skills
+de	hard skills
+non	hard skills
+qualité	hard skills
+mécanique	hard skills
+-	O
+Vous	hard skills
+effectuerez	hard skills
+la	hard skills
+rédaction	hard skills
+ainsi	hard skills
+que	hard skills
+le	hard skills
+suivi	hard skills
+des	hard skills
+documents	hard skills
+de	hard skills
+contrôle	hard skills
+qualité	hard skills
+-	
+Vous	hard skills
+pourrez	hard skills
+être	hard skills
+amené	hard skills
+à	hard skills
+apporter	hard skills
+une	hard skills
+aide	hard skills
+à	hard skills
+la	hard skills
+production	hard skills
+du	hard skills
+site	hard skills
+-	O
+Vous	hard skills
+procéderez	hard skills
+à	hard skills
+la	hard skills
+maintenance	hard skills
+des	hard skills
+équipements	hard skills
+de	hard skills
+mesure	hard skills
+Profil	
+:	O
+Vous	experience
+êtes	experience
+issu	experience
+d'une	experience
+formation	experience
+BAC	experience
+2	experience
+Mécanique	experience
+Vous	experience
+maîtrisez	experience
+la	experience
+lecture	experience
+de	experience
+plan	experience
+et	experience
+l'utilisation	experience
+des	experience
+équipements	experience
+de	experience
+mesure	experience
+.	O
+La	hard skills
+maîtrise	hard skills
+de	hard skills
+l'anglais	hard skills
+écrit	hard skills
+est	hard skills
+indispensable	hard skills
+Pourquoi	O
+nous	O
+rejoindre	O
+?	O
+Pour	O
+développer	O
+le	O
+champ	O
+de	O
+vos	O
+responsabilités	O
+-LRB-	O
+projet	O
+,	O
+développement	O
+commercial	O
+,	O
+activités	O
+internes	O
+,	O
+...	O
+-RRB-	O
+dans	O
+une	O
+structure	O
+à	O
+taille	O
+humaine	O
+qui	O
+valorise	O
+l'initiative	O
+,	O
+l'innovation	O
+et	O
+la	O
+responsabilisation	O
+de	O
+chacun	O
+.	O
+Parce	O
+que	O
+nous	O
+attachons	O
+une	O
+grande	O
+importance	O
+à	O
+l'évolution	O
+et	O
+à	O
+la	O
+mobilité	O
+interne	O
+de	O
+nos	O
+collaborateurs	O
+:	O
+au-delà	O
+de	O
+l'expérience	O
+acquise	O
+chez	O
+nos	O
+clients	O
+,	O
+nous	O
+accompagnons	O
+nos	O
+consultants	O
+dans	O
+toutes	O
+les	O
+phases	O
+de	O
+leur	O
+développement	O
+-LRB-	O
+mentoring	O
+,	O
+plan	O
+de	O
+formation	O
+,	O
+investissement	O
+dans	O
+la	O
+vie	O
+du	O
+cabinet	O
+...	O
+-RRB-	O
+et	O
+offrons	O
+des	O
+perspectives	O
+de	O
+carrière	O
+attractives	O
+au	O
+sein	O
+des	O
+différentes	O
+entités	O
+du	O
+groupe	O
+en	O
+France	O
+et	O
+à	O
+l'international	O
+.	O
+Entreprise	O
+Qui	O
+sommes-nous	O
+?	O
+ICE-TECH	company
+est	O
+la	O
+1ère	O
+société	O
+à	O
+taille	O
+humaine	O
+de	O
+conseil	O
+en	O
+expertise	O
+technique	O
+ET	O
+de	O
+recrutement	O
+par	O
+approche	O
+directe	O
+.	O
+Elle	O
+a	O
+pour	O
+vocation	O
+de	O
+proposer	O
+à	O
+ses	O
+clients	O
+un	O
+accompagnement	O
+tout	O
+au	O
+long	O
+du	O
+cycle	O
+de	O
+développement	O
+de	O
+leurs	O
+produits	O
+et/ou	O
+services	O
+et	O
+dans	O
+le	O
+recrutement	O
+de	O
+leurs	O
+futurs	O
+collaborateurs	O
+.	O
+ICE-TECH	company
+fonde	O
+sa	O
+stratégie	O
+de	O
+développement	O
+-LRB-	O
+International	O
+--	O
+Expertise	O
+technique	O
+-RRB-	O
+sur	O
+la	O
+meilleure	O
+réponse	O
+possible	O
+à	O
+apporter	O
+à	O
+la	O
+stratégie	O
+industrielle	O
+de	O
+ses	O
+partenaires	O
+en	O
+particulier	O
+dans	O
+les	O
+secteurs	O
+de	O
+l'Energie	O
+et	O
+des	O
+Transports	O
+qui	O
+sont	O
+en	O
+plein	O
+essor	O
+.	O
+Notre	O
+implantation	O
+à	O
+Dubaï	O
+au	O
+Qatar	O
+et	O
+à	O
+Tanger	O
+-LRB-	O
+Maroc	O
+-RRB-	O
+nous	O
+permet	O
+de	O
+répondre	O
+aux	O
+demandes	O
+du	O
+marché	O
+du	O
+Moyen-Orient	O
+-LRB-	O
+Arabie-Saoudite	O
+,	O
+EAU	O
+,	O
+Qatar	O
+,	O
+de	O
+l'Asie	O
+et	O
+du	O
+Maghreb	O
+-RRB-	O
+par	O
+des	O
+interventions	O
+locales	O
+.	O
+Nos	O
+partenaires	O
+au	O
+Maroc	O
+,	O
+en	O
+Algérie	O
+et	O
+aux	O
+Emirats	O
+nous	O
+permettent	O
+de	O
+répondre	O
+au	O
+marché	O
+local	O
+et	O
+d'accompagner	O
+nos	O
+clients	O
+dans	O
+leur	O
+démarche	O
+de	O
+développement	O
+dans	O
+plusieurs	O
+pays	O
+.	O
+Notre	O
+volonté	O
+est	O
+de	O
+faire	O
+en	O
+sorte	O
+que	O
+ce	O
+réseau	O
+puisse	O
+s	O
+'	O
+étendre	O
+à	O
+d'autres	O
+pays	O
+pour	O
+proposer	O
+des	O
+interventions	O
+dans	O
+le	O
+monde	O
+entier	O
+depuis	O
+le	O
+pays	O
+projet	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

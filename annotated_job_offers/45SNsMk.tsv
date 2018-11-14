@@ -1,0 +1,333 @@
+Prospecteur	position
+foncier	position
+-LRB-	O
+h/f	O
+-RRB-	O
+ERID	company
+Promotion	company
+-	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	code postal
+-RRB-	O
+30	salary
+0	salary
+$	salary
+-	O
+40	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+ERID	company
+PROMOTION	company
+est	O
+une	O
+société	O
+indépendante	O
+,	O
+spécialisée	O
+dans	O
+la	O
+promotion	O
+immobilière	O
+résidentielle	O
+,	O
+qui	O
+bénéficie	O
+d'une	O
+solide	O
+expérience	O
+en	O
+Normandie	O
+et	O
+d'un	O
+réseau	O
+de	O
+commercialisation	O
+confiant	O
+.	O
+Souhaitant	O
+développer	O
+notre	O
+activité	O
+en	O
+Ile	O
+de	O
+France	O
+,	O
+nous	O
+recrutons	O
+un	position
+:	O
+Prospecteur	position
+foncier	position
+-LRB-	O
+h/f	O
+-RRB-	O
+.	O
+Rattaché	hard skills
+aux	hard skills
+dirigeants	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+,	O
+le	hard skills
+prospecteur	hard skills
+foncier	hard skills
+a	hard skills
+pour	hard skills
+missions	hard skills
+de	hard skills
+:	O
+Prospecter	hard skills
+sur	hard skills
+la	hard skills
+zone	hard skills
+confiée	hard skills
+";"	
+Détecter	hard skills
+des	hard skills
+opportunités	hard skills
+foncières	hard skills
+,	
+référencer	hard skills
+des	hard skills
+terrains	hard skills
+potentiels	hard skills
+,	
+des	hard skills
+sites	hard skills
+en	hard skills
+devenir	hard skills
+";"	
+Participer	hard skills
+aux	hard skills
+consultations	hard skills
+et	hard skills
+réponses	hard skills
+aux	hard skills
+appels	hard skills
+d'offres	hard skills
+";"	O
+Négocier	hard skills
+avec	hard skills
+les	hard skills
+collectivités	hard skills
+et	hard skills
+les	hard skills
+propriétaires	hard skills
+";"	
+Développer	hard skills
+et	hard skills
+animer	hard skills
+son	hard skills
+réseau	hard skills
+d'apporteurs	hard skills
+d'affaires	hard skills
+,	O
+ses	hard skills
+liens	hard skills
+avec	hard skills
+les	hard skills
+élus	hard skills
+,	O
+les	hard skills
+aménageurs	hard skills
+,	O
+les	hard skills
+architectes	hard skills
+et	hard skills
+notaires	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+institutionnels	hard skills
+";"	O
+Identifier	hard skills
+la	hard skills
+cible	hard skills
+de	hard skills
+clientèle	hard skills
+-LRB-	O
+propriétaire	hard skills
+vendeur	hard skills
+-RRB-	
+Analyser	hard skills
+et	hard skills
+étudier	hard skills
+la	hard skills
+faisabilité	hard skills
+d'opérations	hard skills
+immobilières	hard skills
+afin	hard skills
+d'assurer	hard skills
+l'approvisionnement	hard skills
+régulier	hard skills
+des	hard skills
+opérations	hard skills
+en	hard skills
+matière	hard skills
+première	hard skills
+de	hard skills
+qualité	hard skills
+et	hard skills
+dans	hard skills
+les	hard skills
+meilleures	hard skills
+conditions	hard skills
+de	hard skills
+rentabilité	hard skills
+,	
+en	hard skills
+termes	hard skills
+commerciaux	hard skills
+,	
+financiers	hard skills
+et	hard skills
+techniques	hard skills
+";"	
+Assurer	hard skills
+le	hard skills
+pré-montage	hard skills
+du	hard skills
+dossier	hard skills
+pour	hard skills
+le	hard skills
+comité	hard skills
+d'engagement	hard skills
+";"	
+Préparer	hard skills
+et	hard skills
+organiser	hard skills
+la	hard skills
+signature	hard skills
+de	hard skills
+la	hard skills
+promesse	hard skills
+de	hard skills
+vente	hard skills
+";"	O
+Transférer	hard skills
+le	hard skills
+dossier	hard skills
+au	hard skills
+service	hard skills
+programmes	hard skills
+de	hard skills
+la	hard skills
+direction	hard skills
+régionale	hard skills
+une	hard skills
+fois	hard skills
+la	hard skills
+promesse	hard skills
+de	hard skills
+vente	hard skills
+signée	hard skills
+.	O
+Il	hard skills
+est	hard skills
+garant	hard skills
+du	hard skills
+développement	hard skills
+diffus	hard skills
+de	hard skills
+150	hard skills
+logements	hard skills
+neufs	hard skills
+,	
+en	hard skills
+vente	hard skills
+en	hard skills
+blocs	hard skills
+par	hard skills
+an	hard skills
+.	
+Profil	O
+recherché	O
+:	O
+De	experience
+formation	experience
+Bac	experience
+3	experience
+minimum	experience
+,	O
+il	soft skills
+sera	soft skills
+autonome	soft skills
+,	O
+organisé	soft skills
+,	O
+curieux	soft skills
+et	soft skills
+probe	soft skills
+.	O
+Formation	experience
+dans	experience
+l'immobilier	experience
+ou	experience
+expérience	experience
+dans	experience
+le	experience
+secteur	experience
+de	experience
+l'immobilier	experience
+souhaitée	experience
+Un	soft skills
+excellent	soft skills
+relationnel	soft skills
+et	soft skills
+sens	soft skills
+commercial	soft skills
+développé	soft skills
+vous	O
+permettront	O
+de	O
+réussir	O
+à	O
+ce	O
+poste	O
+.	O
+Le	O
+poste	O
+sera	O
+basé	O
+à	O
+Boulogne	city
+Billancourt	city
+Salaire	O
+brut	salary
+annuel	salary
+30.000	salary
+à	O
+40.000	salary
+$	salary
+selon	O
+expérience	O
+,	O
+plus	O
+variable	O
+Nature	O
+du	O
+contrat	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+30	salary
+0	salary
+$	salary
+à	O
+40	salary
+0	salary
+$	salary
+/	O
+an	salary

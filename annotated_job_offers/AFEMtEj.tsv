@@ -1,0 +1,229 @@
+AGENT	position
+DE	position
+QUAI	position
+NUIT	position
+H/F	O
+STEF	company
+Transport	company
+Côte	company
+d'Azur	company
+-	O
+La	city
+Farlède	city
+-LRB-	O
+83	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+STEF	company
+Côte	company
+d'Azur	company
+,	O
+société	O
+de	O
+transports	O
+en	O
+température	O
+dirigée	O
+,	O
+recherche	O
+un	position
+agent	position
+de	position
+quai	position
+nuit	position
+-LRB-	O
+H/F	O
+-RRB-	O
+sur	O
+l'agence	O
+de	O
+La	O
+Farlède	city
+-LRB-	O
+83	postal code
+-RRB-	O
+.	O
+Démarrage	O
+:	O
+Dès	O
+que	O
+possible	O
+Lieu	O
+:	O
+La	city
+Farlède	O
+-LRB-	O
+83	postal code
+-RRB-	O
+Contrat	O
+:	O
+CDI	contrat_type
+Salaire	O
+global	O
+:	O
+environ	O
+1600	salary
+$	salary
+net	salary
+sur	salary
+13	salary
+mois	salary
++	O
+avantages	O
+Horaires	O
+types	O
+:	O
+0h	O
+--	O
+7h30	O
+Contexte	O
+:	O
+quai	O
+réfrigéré	O
+3	O
+°C	O
+à	O
+5	O
+°C	O
+Missions	hard skills
+/	O
+Responsabilités	hard skills
+Assurer	hard skills
+le	hard skills
+déchargement	hard skills
+et	hard skills
+le	hard skills
+chargement	hard skills
+Décharger	hard skills
+Contrôler	hard skills
+les	hard skills
+colis	hard skills
+non	hard skills
+livrés	hard skills
+Constituer	hard skills
+les	hard skills
+palettes	hard skills
+directionnelles	hard skills
+Charger	hard skills
+Utiliser	hard skills
+un	hard skills
+terminal	hard skills
+électronique	hard skills
+portatif	hard skills
+-LRB-	
+scan	hard skills
+palettes	hard skills
+-RRB-	O
+Contrôler	hard skills
+les	hard skills
+marchandises	hard skills
+Effectuer	hard skills
+le	hard skills
+contrôle	hard skills
+qualité	hard skills
+Effectuer	hard skills
+le	hard skills
+pointage	hard skills
+quantité	hard skills
+Effectuer	hard skills
+le	hard skills
+contrôle	hard skills
+température	hard skills
+Assurer	hard skills
+la	hard skills
+manutention	hard skills
+et	hard skills
+la	hard skills
+préparation	hard skills
+de	hard skills
+commande	hard skills
+Effectuer	hard skills
+la	hard skills
+palettisation	hard skills
+,	
+le	hard skills
+tri	hard skills
+,	O
+le	hard skills
+zonage	hard skills
+Effectuer	hard skills
+le	hard skills
+reste	hard skills
+à	hard skills
+quai	hard skills
+Tenir	hard skills
+le	hard skills
+quai	hard skills
+et	hard skills
+les	hard skills
+abords	hard skills
+propres	hard skills
+Effectuer	hard skills
+la	hard skills
+gestion	hard skills
+physique	hard skills
+des	hard skills
+palettes	hard skills
+,	
+rolls	hard skills
+...	O
+Profil	
+recherché	O
+Vous	hard skills
+acceptez	hard skills
+de	hard skills
+travailler	hard skills
+sur	hard skills
+un	hard skills
+quai	hard skills
+réfrigéré	hard skills
+.	O
+Vous	hard skills
+êtes	hard skills
+à	hard skills
+l'aise	hard skills
+dans	hard skills
+la	hard skills
+manipulation	hard skills
+d'engins	hard skills
+de	hard skills
+manutentions	hard skills
+électriques	hard skills
+.	O
+Motivé	soft skills
+,	O
+polyvalent	soft skills
+et	soft skills
+énergique	soft skills
+,	O
+vous	
+recherchez	
+un	
+travail	
+sur	
+des	O
+horaires	O
+de	O
+nuit	O
+.	O
+Vous	soft skills
+êtes	soft skills
+également	soft skills
+respectueux	soft skills
+des	soft skills
+procédures	soft skills
+et	soft skills
+soucieux	soft skills
+du	soft skills
+détail	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

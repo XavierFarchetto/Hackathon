@@ -1,0 +1,96 @@
+Ouvrier	position
+Viticole	position
+-LRB-	O
+H/F	O
+-RRB-	O
+SCEV	company
+BERTRAND	company
+DEVAVRY	company
+-	O
+Champillon	city
+-LRB-	O
+51	postal code
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+La	company
+SCEV	company
+Bertrand	company
+DEVAVRY	company
+recrute	O
+un	position
+ouvrier	position
+H/F	O
+pour	hard skills
+une	hard skills
+tâche	hard skills
+complète	hard skills
+.	O
+Les	hard skills
+vignes	hard skills
+sont	hard skills
+situées	hard skills
+dans	hard skills
+l'Aube	hard skills
+à	hard skills
+VILLENAUXE	hard skills
+LA	hard skills
+GRANDE	hard skills
+.	O
+Date	O
+d'embauche	O
+:	O
+1	O
+novembre	O
+2017	O
+Profil	O
+:	O
+Expérimenté	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+organisé	soft skills
+.	O
+-LRB-	O
+e	soft skills
+-RRB-	O
+Type	O
+de	O
+contrat	O
+CDD	contrat_type
+Secteur	O
+d'activité	O
+Agriculture	O
+Fonction	O
+Ouvrier/Artisan	O
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Référence	experience
+tacheron	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+480	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

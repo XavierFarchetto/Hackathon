@@ -1,0 +1,117 @@
+COIFFEUR	position
+COLORISTE	position
+H/F	O
+FABIO	company
+SALSA	company
+-	O
+Vélizy-Villacoublay	city
+-LRB-	O
+78	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Immédiat	O
+poste	O
+à	O
+pourvoir	O
+temps	contrat_type
+plein	contrat_type
+39h	O
+CDI	contrat_type
+,	O
+FABIO	company
+SALSA	company
+recrute	O
+pour	O
+son	O
+salon	O
+situé	O
+à	O
+Vélizy	city
+.	O
+Coloriste	position
+confirmé	position
+-LRB-	O
+e	position
+-RRB-	O
+,	O
+vous	hard skills
+avez	hard skills
+une	hard skills
+parfaite	hard skills
+autonomie	hard skills
+dans	hard skills
+le	hard skills
+diagnostic	hard skills
+,	O
+conseil	hard skills
+et	hard skills
+réalisation	hard skills
+des	hard skills
+services	hard skills
+.	
+Passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+par	soft skills
+la	soft skills
+colorimétrie	soft skills
+vous	hard skills
+serez	hard skills
+sublimé	hard skills
+la	hard skills
+chevelure	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+.	O
+Alors	O
+rejoignez	O
+nous	O
+!	O
+Contact	O
+au	O
+01.53.26.12.24	O
++	O
+envoi	O
+de	O
+la	O
+candidature	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Salaire	O
+:	
+1	salary
+600	salary
+$	salary
+à	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Coiffure	experience
+:	O
+2	experience
+ans	experience

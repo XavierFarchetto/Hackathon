@@ -1,0 +1,129 @@
+Chef	position
+de	position
+rang	position
+Hôtel	position
+Restaurant	position
+Spa	company
+CHALET	company
+MARANO	company
+Isola	company
+2000	O
+-	O
+Isola	city
+2000	city
+-LRB-	O
+6	code postal
+-RRB-	O
+10,5	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Le	company
+Chalet	company
+Marano	company
+,	O
+Hôtel	
+Restaurant	
+Spa	
+au	O
+pied	O
+des	O
+pistes	O
+de	O
+la	O
+station	O
+d'Isola	O
+2000	O
+recrute	O
+ses	O
+équipes	O
+en	O
+salle	O
+pour	O
+la	O
+saison	O
+d'hiver	O
+à	O
+venir	O
+...	O
+Plusieurs	O
+postes	O
+à	O
+pourvoir	O
+H/F	O
+Anglais	hard skills
+courant	hard skills
+impératif	hard skills
+,	O
+une	hard skills
+seconde	hard skills
+langue	hard skills
+-LRB-	O
+espagnol	hard skills
+italien	hard skills
+ou	O
+pays	O
+de	O
+l'est	O
+-RRB-	O
+sera	O
+appréciée	O
+.	O
+Excellente	soft skills
+présentation	soft skills
+et	soft skills
+élocution	soft skills
+avec	soft skills
+un	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+et	soft skills
+organisation	soft skills
+irréprochable	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+et	soft skills
+entreprenant	soft skills
+et	soft skills
+avez	
+une	
+déjà	experience
+expérience	experience
+dans	experience
+l'hôtellerie	experience
+4	experience
+****	O
+ou	O
+en	experience
+restaurant	experience
+gastronomique	experience
+Poste	
+Nourri	
+/	
+Logé	
+42h	
+/	O
+semaine	O
+/	O
+repos	O
+à	O
+déterminer	O
+/	O
+en	O
+coupure	O
+www.chaletmarano.fr	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+10,5	salary
+$	salary
+/	O
+heure	salary

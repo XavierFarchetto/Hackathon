@@ -1,0 +1,239 @@
+Assistante	position
+administrative	position
+La	company
+petite	company
+bretonne	company
+-	
+Paris	city
+14e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+400	salary
+$	salary
+-	O
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	
+/	O
+Secrétaire	position
+H/F	O
+La	company
+société	company
+DEMAT	company
+,	O
+est	O
+une	O
+entreprise	O
+familiale	O
+qui	O
+dispose	O
+d'une	O
+chaine	O
+de	O
+crêperies	O
+Bretonnes	O
+situées	O
+à	O
+Paris	city
+.	O
+ASSISTANT	position
+-LRB-	O
+E	O
+-RRB-	O
+/	O
+SECRÉTAIRE	position
+H/F	O
+Votre	hard skills
+Mission	hard skills
+:	O
+Rattaché	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+au	hard skills
+Directeur	hard skills
+général	hard skills
+,	O
+vous	hard skills
+aurez	hard skills
+comme	hard skills
+principales	hard skills
+missions	hard skills
+de	hard skills
+:	
+-	O
+Tâches	hard skills
+courantes	hard skills
+de	hard skills
+secrétariat	hard skills
+-	hard skills
+Traitement	hard skills
+administratif	hard skills
+de	hard skills
+dossiers	hard skills
+-LRB-	O
+frappe	hard skills
+de	hard skills
+courrier	hard skills
+,	
+mise	hard skills
+en	hard skills
+forme	hard skills
+de	hard skills
+document	hard skills
+,	
+mise	hard skills
+en	hard skills
+forme	hard skills
+des	hard skills
+suggestions	hard skills
+des	hard skills
+menus	hard skills
+...	O
+-RRB-	O
+-	O
+Faire	hard skills
+suivre	hard skills
+les	hard skills
+informations	hard skills
+-LRB-	
+e-mail	hard skills
+,	O
+notes	hard skills
+,	O
+fax	hard skills
+,	
+...	O
+-RRB-	O
+.	O
+-	O
+En	hard skills
+charge	hard skills
+du	hard skills
+suivi	hard skills
+complet	hard skills
+des	hard skills
+dossiers	hard skills
+-LRB-	O
+Dossiers	hard skills
+en	hard skills
+cours	hard skills
+-RRB-	O
+-	
+Vérifier	hard skills
+les	hard skills
+heures	hard skills
+avec	hard skills
+les	hard skills
+feuilles	hard skills
+d'émargements	hard skills
+-	O
+Gérer	hard skills
+les	hard skills
+annonces	hard skills
+de	hard skills
+recrutements	hard skills
+-	O
+Effectuer	hard skills
+le	hard skills
+journal	hard skills
+de	hard skills
+caisse	hard skills
+Votre	
+Profil	
+:	O
+Vous	experience
+avez	experience
+plus	experience
+de	experience
+5	experience
+ans	experience
+d'expériences	experience
+dans	experience
+le	experience
+domaine	experience
+!	
+Compétences	O
+:	O
+-	O
+A	hard skills
+l'aise	hard skills
+avec	hard skills
+les	hard skills
+outils	hard skills
+bureautiques	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+,	O
+Powerpoint	hard skills
+-RRB-	O
+-	O
+Notions	hard skills
+comptables	hard skills
+-	O
+Bonne	soft skills
+capacité	soft skills
+rédactionnelles	soft skills
+Conditions	
+d'emploi	
+:	O
+Contrat	O
+:	O
+CDD	contrat_type
+de	O
+6	O
+mois	O
+pouvant	O
+déboucher	O
+sur	O
+un	O
+CDI	contrat_type
+Durée	O
+:	O
+30	O
+heures	O
+par	O
+semaine	O
+Salaire	O
+:	O
+à	O
+négocier	O
+Poste	O
+basé	O
+à	O
+Paris	city
+75004	postal code
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+400	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+secrétariat	experience
+:	O
+5	experience
+ans	experience

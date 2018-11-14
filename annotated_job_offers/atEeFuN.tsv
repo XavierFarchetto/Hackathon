@@ -1,0 +1,169 @@
+Voiturier	position
+bagagiste	position
+H/F	O
+Hôtel	company
+Juana	company
+-	O
+Antibes	city
+-LRB-	O
+6	code postal
+-RRB-	O
+2	salary
+23	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+L'Hôtel	company
+Juana	company
+5	company
+*	company
+,	O
+recherche	O
+des	position
+Voituriers	position
+Bagagiste	position
+H/F	O
+à	O
+partir	O
+du	O
+mois	O
+de	O
+Janvier	O
+2018	O
+en	O
+CDD	contrat_type
+Vos	O
+principales	O
+missions	O
+seront	O
+:	O
+-	O
+Assurer	hard skills
+en	hard skills
+complément	hard skills
+de	hard skills
+la	hard skills
+Réception	hard skills
+,	O
+la	hard skills
+logistique	hard skills
+du	hard skills
+client	hard skills
+lors	hard skills
+de	hard skills
+son	hard skills
+arrivée	hard skills
+et	hard skills
+jusqu	hard skills
+'	O
+à	hard skills
+son	hard skills
+départ	hard skills
+,	
+-	
+Prendre	hard skills
+en	hard skills
+charge	hard skills
+leurs	hard skills
+véhicules	hard skills
+du	hard skills
+début	hard skills
+à	hard skills
+la	hard skills
+fin	hard skills
+du	hard skills
+séjour	hard skills
+,	
+-	
+Effectuer	hard skills
+les	hard skills
+courses	hard skills
+demandées	hard skills
+par	hard skills
+le	hard skills
+Concierge	hard skills
+,	O
+la	hard skills
+Réception	hard skills
+ou	hard skills
+par	hard skills
+les	hard skills
+clients	hard skills
+,	O
+-	
+Gérer	hard skills
+les	hard skills
+bagages	hard skills
+du	hard skills
+client	hard skills
+de	hard skills
+son	hard skills
+arrivée	hard skills
+au	hard skills
+départ	hard skills
+,	O
+-	O
+Livrer	hard skills
+les	hard skills
+bagages	hard skills
+et	hard skills
+les	hard skills
+messages	hard skills
+du	hard skills
+client	hard skills
+en	hard skills
+chambre	hard skills
+,	
+-	O
+Gérer	hard skills
+le	hard skills
+stockage	hard skills
+des	hard skills
+bagages	hard skills
+à	hard skills
+la	hard skills
+bagagerie	hard skills
+.	O
+Expérience	experience
+sur	experience
+ce	experience
+même	experience
+poste	experience
+en	experience
+hôtellerie	experience
+de	experience
+luxe	experience
+5	experience
+*	experience
+exigée	experience
+Bonne	hard skills
+connaissance	hard skills
+de	hard skills
+l'anglais	hard skills
+.	O
+Postes	O
+non	O
+logés	O
+.	O
+Salaire	O
+:	O
+2023,11	salary
+$	salary
+brut/mois	salary
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+23,11	salary
+$	salary
+/	O
+mois	salary
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

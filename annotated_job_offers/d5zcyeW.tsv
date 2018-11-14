@@ -1,0 +1,69 @@
+OUVRIER	position
+PAYSAGISTE	position
+vert	company
+passion	company
+-	O
+Orgeval	city
+-LRB-	O
+78	postal code
+-RRB-	O
+Entreprise	company
+d'espace	company
+vert	company
+à	O
+ORGEVAL	city
+-LRB-	O
+78	postal code
+-RRB-	O
+recherche	O
+un	position
+ouvrier	position
+-LRB-	O
+H/F	O
+-RRB-	O
+paysagiste	position
+qualifié	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+pour	hard skills
+des	hard skills
+travaux	hard skills
+de	hard skills
+création	hard skills
+et	hard skills
+d'entretien	hard skills
+de	hard skills
+jardins/espaces	hard skills
+verts	hard skills
+Expérience	experience
+et	O
+permis	hard skills
+B	hard skills
+exigés	hard skills
+CDD	contrat_type
+de	contrat_type
+3	contrat_type
+mois	contrat_type
+Poste	O
+à	O
+pourvoir	O
+dès	O
+aujourd	O
+`	O
+hui	O
+Envoyer	O
+nous	O
+votre	O
+CV	O
+!	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

@@ -1,0 +1,311 @@
+Cadre	position
+de	position
+santé	position
+formateur	position
+Association	company
+Educative	company
+pour	company
+l'Hospitalisation	company
+Privée	company
+-	O
+Castelnau-le-Lez	city
+-LRB-	O
+34	postal code
+-RRB-	O
+CDD	contrat_type
+Poste	O
+:	O
+Dans	O
+le	O
+cadre	O
+d'un	O
+remplacement	O
+,	O
+l'Institut	O
+de	O
+formation	O
+de	O
+l'AEHP	company
+,	O
+certifié	O
+ISO	O
+9001	O
+,	O
+recrute	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+cadre	position
+de	position
+santé	position
+formateur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	O
+CDD	contrat_type
+jusqu'au	O
+31	O
+janvier	O
+2018	O
+,	O
+à	O
+temps	contrat_type
+plein	contrat_type
+,	O
+rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+la	O
+Directrice	O
+des	O
+instituts	O
+de	O
+formation	O
+.	O
+Les	O
+activités	O
+principales	O
+du	O
+poste	O
+sont	O
+les	O
+suivantes	O
+:	O
+Concevoir	hard skills
+,	O
+mettre	hard skills
+en	hard skills
+œuvre	hard skills
+et	hard skills
+évaluer	hard skills
+des	hard skills
+unités	hard skills
+ou	hard skills
+modules	hard skills
+d'enseignement	hard skills
+Organiser	hard skills
+et	hard skills
+animer	hard skills
+les	hard skills
+enseignements	hard skills
+théoriques	hard skills
+et	hard skills
+cliniques	hard skills
+Évaluer	hard skills
+le	hard skills
+niveau	hard skills
+d'acquisition	hard skills
+des	hard skills
+compétences	hard skills
+des	hard skills
+étudiants	hard skills
+Conduire	hard skills
+un	hard skills
+suivi	hard skills
+pédagogique	hard skills
+et	hard skills
+mettre	hard skills
+en	hard skills
+œuvre	hard skills
+un	hard skills
+accompagnement	hard skills
+individualisé	hard skills
+si	hard skills
+besoin	hard skills
+tant	hard skills
+en	hard skills
+stage	hard skills
+qu	hard skills
+'	hard skills
+à	hard skills
+l'Institut	hard skills
+de	hard skills
+formation	hard skills
+Développer	hard skills
+et	hard skills
+guider	hard skills
+les	hard skills
+activités	hard skills
+de	hard skills
+recherche	hard skills
+en	hard skills
+soins	hard skills
+infirmiers	hard skills
+Participer	hard skills
+aux	hard skills
+instances	hard skills
+relatives	hard skills
+au	hard skills
+fonctionnement	hard skills
+de	hard skills
+l'Institut	hard skills
+de	hard skills
+formation	hard skills
+:	
+conseils	hard skills
+pédagogiques	hard skills
+et	hard skills
+techniques	hard skills
+,	
+conseil	hard skills
+de	hard skills
+discipline	hard skills
+,	
+commission	hard skills
+d'attribution	hard skills
+de	hard skills
+crédit	hard skills
+...	
+S'impliquer	hard skills
+dans	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+du	hard skills
+projet	hard skills
+pédagogique	hard skills
+et	hard skills
+des	hard skills
+projets	hard skills
+liés	hard skills
+Accompagner	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+des	hard skills
+nouvelles	hard skills
+technologies	hard skills
+dans	hard skills
+la	hard skills
+formation	hard skills
+Profil	
+:	O
+Titulaire	experience
+du	experience
+diplôme	experience
+d'Etat	experience
+infirmier	experience
+,	
+du	experience
+diplôme	experience
+de	experience
+cadre	experience
+de	experience
+santé	experience
+et	experience
+de	experience
+préférence	experience
+d'un	experience
+master	experience
+.	
+Vous	soft skills
+avez	soft skills
+des	soft skills
+capacités	soft skills
+de	soft skills
+création	soft skills
+,	O
+de	soft skills
+conception	soft skills
+et	soft skills
+d'innovation	soft skills
+,	
+l'appétence	soft skills
+pour	soft skills
+la	soft skills
+démarche	soft skills
+de	soft skills
+projet	soft skills
+et	soft skills
+une	soft skills
+culture	soft skills
+qualité	soft skills
+.	
+Force	soft skills
+de	soft skills
+proposition	soft skills
+et	soft skills
+proactif	soft skills
+,	O
+vous	soft skills
+saurez	soft skills
+vous	soft skills
+intégrer	soft skills
+dans	soft skills
+un	soft skills
+travail	soft skills
+collaboratif	soft skills
+et	soft skills
+coopératif	soft skills
+avec	soft skills
+l'ensemble	soft skills
+de	soft skills
+l'équipe	soft skills
+.	O
+Vous	hard skills
+avez	hard skills
+des	hard skills
+compétences	hard skills
+en	hard skills
+pédagogie	hard skills
+et	hard skills
+animation	hard skills
+de	hard skills
+groupe	hard skills
+.	
+Vous	hard skills
+avez	hard skills
+la	hard skills
+maîtrise	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+et	hard skills
+la	hard skills
+connaissance	hard skills
+des	hard skills
+technologies	hard skills
+numériques	hard skills
+.	O
+Candidatures	O
+à	O
+adresser	O
+par	O
+mail	O
+-LRB-	O
+CV	O
++	O
+LM	O
+-RRB-	O
+avant	O
+le	O
+1	O
+décembre	O
+2017	O
+.	O
+Salaire	O
+selon	O
+expérience	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Diplôme	experience
+cadre	experience
+de	experience
+santé	experience

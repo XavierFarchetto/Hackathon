@@ -1,0 +1,222 @@
+Menuisier	position
+plaquiste	position
+GEIQ	company
+BTP	company
+-	O
+Rouen	city
+-LRB-	O
+76	postal code
+-RRB-	O
+1	salary
+480	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Dans	O
+le	O
+cadre	O
+d'un	O
+contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+déterminée	contrat_type
+de	contrat_type
+minimum	contrat_type
+6	contrat_type
+mois	contrat_type
+,	O
+nous	O
+recherchons	O
+un	position
+Menuisier	position
+Plaquiste	position
+H/F	O
+pour	hard skills
+intervenir	hard skills
+sur	hard skills
+des	hard skills
+chantiers	hard skills
+neufs	hard skills
+ou	hard skills
+rénovations	hard skills
+de	hard skills
+bâtiment	hard skills
+,	
+pour	hard skills
+poser	hard skills
+les	hard skills
+plaques	hard skills
+de	hard skills
+cloisons	hard skills
+sèches	hard skills
+,	
+les	hard skills
+ouvertures	hard skills
+et	hard skills
+fermetures	hard skills
+-LRB-	
+portes	hard skills
+,	O
+fenêtres	hard skills
+...	O
+-RRB-	O
+.	O
+Votre	hard skills
+rôle	hard skills
+est	hard skills
+ainsi	hard skills
+de	hard skills
+séparer	hard skills
+,	
+d'aménager	hard skills
+les	hard skills
+pièces	hard skills
+et	hard skills
+d'en	hard skills
+assurer	hard skills
+l'isolation	hard skills
+thermique	hard skills
+et/ou	hard skills
+phonique	hard skills
+.	
+Vous	hard skills
+ferez	hard skills
+également	hard skills
+des	hard skills
+agencements	hard skills
+de	hard skills
+bureaux	hard skills
+,	O
+pose	hard skills
+de	hard skills
+parquets	hard skills
+,	
+plinthes	hard skills
+...	
+Vous	soft skills
+êtes	soft skills
+extrêmement	soft skills
+minutieux	soft skills
+lors	hard skills
+de	hard skills
+la	hard skills
+pose	hard skills
+comme	hard skills
+lors	hard skills
+des	hard skills
+finitions	hard skills
+pour	hard skills
+garantir	hard skills
+l'esthétique	hard skills
+final	hard skills
+du	hard skills
+bâtiment	hard skills
+.	O
+Le	hard skills
+métier	hard skills
+de	hard skills
+menuisier-plaquiste	hard skills
+impose	hard skills
+de	hard skills
+maîtriser	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+différents	hard skills
+matériaux	hard skills
+:	O
+plâtre	hard skills
+,	O
+bois	hard skills
+,	O
+aluminium	hard skills
+,	O
+matériaux	hard skills
+composites	hard skills
+.	O
+Il	hard skills
+lui	hard skills
+importe	hard skills
+aussi	hard skills
+de	hard skills
+se	hard skills
+tenir	hard skills
+régulièrement	hard skills
+informé	hard skills
+des	hard skills
+nouvelles	hard skills
+techniques	hard skills
+d'isolation	hard skills
+.	O
+Vous	hard skills
+travaillerez	hard skills
+sur	hard skills
+différents	hard skills
+types	hard skills
+de	hard skills
+chantiers	hard skills
+de	hard skills
+rénovation	hard skills
+auprès	hard skills
+d'une	hard skills
+clientèle	hard skills
+de	hard skills
+particuliers	hard skills
+ou	hard skills
+professionnels	hard skills
+.	
+Vous	experience
+devez	experience
+être	experience
+titulaire	experience
+ou	experience
+niveau	experience
+d'un	experience
+CAP	experience
+en	experience
+menuiserie	experience
+ou	experience
+en	experience
+plâtrerie	experience
+.	
+Vous	soft skills
+devez	soft skills
+être	soft skills
+autonome	soft skills
+et	soft skills
+polyvalent	soft skills
+et	soft skills
+avez	soft skills
+un	soft skills
+goût	soft skills
+prononcé	soft skills
+pour	soft skills
+le	soft skills
+travail	soft skills
+soigné	soft skills
+.	O
+Vous	hard skills
+devez	hard skills
+être	hard skills
+titulaire	hard skills
+d'un	hard skills
+permis	hard skills
+B	hard skills
+en	hard skills
+cours	hard skills
+de	hard skills
+validité	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+480,3	salary
+$	salary
+/	O
+mois	salary

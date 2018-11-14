@@ -1,0 +1,169 @@
+Hôtesse	position
+d'accueil	position
+en	position
+entreprise	position
+H/F	O
+ALLURE	compagny
+SERVICES	compagny
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+11,81	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDD	contrat_type
+L'agence	comp�ny
+Allure	comp�ny
+recherche	O
+des	position
+hôte	position
+-LRB-	O
+sse	position
+-RRB-	O
+s	position
+d'accueil	position
+en	position
+entreprise	position
+disponibles	position
+du	O
+lundi	O
+au	O
+vendredi	O
+pour	O
+des	O
+postes	O
+en	O
+temps	O
+complet	O
+au	O
+sein	O
+d'offices	O
+notariaux	O
+.	O
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+l'accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+ainsi	hard skills
+que	hard skills
+de	hard skills
+la	hard skills
+gestion	hard skills
+du	hard skills
+courrier	hard skills
+et	hard skills
+des	hard skills
+stocks	hard skills
+.
+Vous	hard skills
+aurez	hard skills
+également	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+salles	hard skills
+de	hard skills
+réunion	hard skills
+.
+Postes	O
+administratifs	O
+.	O
+D'un	soft skills
+naturel	soft skills
+souriant	soft skills
+,	O
+vos	soft skills
+capacités	soft skills
+d'adaptation	soft skills
+et	soft skills
+votre	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+seront	soft skills
+un	soft skills
+atout	soft skills
+pour	soft skills
+ce	soft skills
+poste	soft skills
+.	O
+Nous	O
+recherchons	O
+des	soft skills
+personnes	soft skills
+motivées	soft skills
+et	soft skills
+sérieuses	soft skills
+.	O
+Une	experience
+expérience	experience
+dans	experience
+l'accueil	experience
+est	experience
+impérative	experience
+.
+Contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+déterminée	contrat_type
+de	contrat_type
+6	contrat_type
+mois	contrat_type
+à	contrat_type
+un	contrat_type
+an	contrat_type
+.
+Rémunération	O
+:	O
+11.81	salary
+euros	salary
+brut	salary
+de	salary
+l'heure	salary
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDD	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+accueil	experience
+physique	experience
+et	experience
+téléphonique	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

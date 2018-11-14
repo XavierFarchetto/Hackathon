@@ -1,0 +1,143 @@
+Nous	O
+recrutons	O
+chauffeur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+My-Parking	company
+-	O
+Saint-Laurent-de-Mure	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+recrutons	O
+chauffeur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+notre	O
+parking	O
+proche	O
+de	O
+l'Aéroport	O
+de	O
+Lyon	O
+Saint-Exupéry	city
+.	O
+A	O
+Saint	O
+Laurent	O
+de	O
+Mure	O
+.	O
+Votre	O
+mission	O
+:	O
+Réception	hard skills
+des	hard skills
+clients	hard skills
+.	O
+État	hard skills
+des	hard skills
+lieux	hard skills
+des	hard skills
+véhicules	hard skills
+.	O
+Transfert	hard skills
+des	hard skills
+clients	hard skills
+en	hard skills
+navette	hard skills
+vers	hard skills
+l'aéroport	hard skills
+.	O
+Plus	hard skills
+différentes	hard skills
+tâches	hard skills
+.	
+Permis	hard skills
+de	hard skills
+conduire	hard skills
+valide	hard skills
+requis	hard skills
+.	O
+Notre	O
+offre	O
+:	O
+Nous	O
+offrons	O
+un	O
+contrat	O
+35H/Semaine	O
+en	O
+CDI	contrat_type
+5	O
+Jours	O
+de	O
+travail	O
+semaine	O
+week-end	O
+compris	O
+.	O
+2	O
+jours	O
+de	O
+repos	O
+semaine	O
+.	O
+Si	O
+vous	O
+êtes	O
+intéressé	O
+merci	O
+de	O
+nous	O
+faire	O
+parvenir	O
+dans	O
+un	O
+premier	O
+temps	O
+votre	O
+CV	O
+avec	O
+photo	O
+impérativement	O
+par	O
+mail	O
+ou	O
+par	O
+courrier	O
+,	O
+My-Parking	O
+7	O
+,	O
+Avenue	O
+d'Amsterdam	O
+-	O
+69720	code postal
+Saint	city
+Laurent	city
+De	city
+Mure	city
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+/	O
+mois	salary

@@ -1,0 +1,185 @@
+Opérateur	position
+de	position
+production	position
+Elis	company
+Méditerranée	company
+-	O
+La	city
+Farlède	city
+-LRB-	O
+83	postal code
+-RRB-	O
+CDD	contrat_type
+L'Etablissement	O
+Elis	company
+Méditerranée	company
+est	O
+spécialisé	O
+dans	O
+la	O
+location	O
+de	O
+linge	O
+professionnel	O
+pour	O
+les	O
+hôtels	O
+et	O
+les	O
+restaurants	O
+.	O
+Nous	O
+recherchons	O
+pour	O
+notre	O
+site	O
+de	O
+la	O
+Farlède	city
+-LRB-	O
+83	postal code
+-RRB-	O
+un	position
+Opérateur	position
+de	position
+Production	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Au	O
+sein	O
+de	O
+notre	O
+blanchisserie	O
+industrielle	O
+,	O
+vous	hard skills
+participez	hard skills
+aux	hard skills
+tâches	hard skills
+suivantes	hard skills
+:	O
+-	O
+contrôle	hard skills
+/	
+tri	hard skills
+,	O
+-	
+lavage	hard skills
+,	O
+-	
+finition	hard skills
+ou	hard skills
+préparation	hard skills
+des	hard skills
+articles	hard skills
+destinés	hard skills
+à	hard skills
+être	hard skills
+livrés	hard skills
+aux	hard skills
+clients	hard skills
+.	O
+Profil	O
+:	O
+Fiabilité	soft skills
+,	O
+ponctualité	soft skills
+,	O
+dynamisme	soft skills
+et	soft skills
+rigueur	soft skills
+sont	soft skills
+les	soft skills
+qualités	soft skills
+nécessaires	soft skills
+pour	soft skills
+mener	soft skills
+à	soft skills
+bien	soft skills
+vos	soft skills
+missions	soft skills
+.	O
+Horaires	O
+:	O
+Travail	O
+debout	O
+et	O
+posté	O
+en	O
+2	O
+équipes	O
+.	O
+Equipe	O
+du	O
+matin	O
+:	O
+5h00-13h00	O
+";"	O
+Equipe	O
+de	O
+l'après-midi	O
+:	O
+13h00-21h00	O
+Alternance	O
+matin/apr	O
+ès-midi	O
+une	O
+semaine	O
+sur	O
+deux	O
+.	O
+Moyen	O
+de	O
+locomotion	O
+indispensable	O
+-LRB-	O
+absence	O
+de	O
+transport	O
+en	O
+commun	O
+-RRB-	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+--	O
+1	O
+semaine	O
+-LRB-	O
+possibilités	O
+de	O
+renouvellement	O
+-RRB-	O
+Merci	O
+d'adresser	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+par	O
+e-mail	O
+Ou	O
+à	O
+l'adresse	O
+postale	O
+:	O
+ELIS	company
+MEDITERRANEE	O
+ZI	O
+TOULON	O
+EST	O
+--	O
+BP	O
+269	postal code
+83210	postal code
+LA	city
+FARLEDE	city
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

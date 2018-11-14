@@ -1,0 +1,141 @@
+RECRUTE	O
+UN	position
+ENSEIGNANT	position
+H/F	
+à	O
+Boulogne-Billancourt	city
+ARCO	company
+IRIS	company
+-	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	postal code
+-RRB-	O
+20	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+enthousiasme	soft skills
+,	O
+méthodique	soft skills
+,	O
+PARTAGEZ	
+NOTRE	O
+AVENTURE	O
+!	O
+Contribuez	O
+au	O
+bien-être	O
+des	O
+enfants	O
+à	O
+travers	O
+un	O
+accompagnement	O
+attentif	O
+et	O
+bienveillant	O
+:	O
+Mission	hard skills
+:	O
+suivi	hard skills
+des	hard skills
+devoirs	hard skills
+et	hard skills
+soutien	hard skills
+scolaire	hard skills
+d'un	hard skills
+petit	hard skills
+groupe	hard skills
+d'enfants	hard skills
+,	O
+en	hard skills
+complément	hard skills
+d'une	hard skills
+enseignante	hard skills
+déjà	hard skills
+en	hard skills
+place	hard skills
+.	
+Quand	hard skills
+:	O
+en	hard skills
+période	hard skills
+scolaire	hard skills
+-	hard skills
+2	hard skills
+soirs	hard skills
+par	hard skills
+semaine	hard skills
+-LRB-	
+lundi	hard skills
+,	
+mardi	hard skills
+ou	hard skills
+jeudi	hard skills
+-RRB-	O
+de	hard skills
+16h45	hard skills
+à	hard skills
+18h15	hard skills
+-LRB-	
+1h30	hard skills
+-RRB-	O
+-	O
+ou	hard skills
+1	hard skills
+soir	hard skills
+et	hard skills
+le	hard skills
+mercredi	hard skills
+de	hard skills
+15h15	hard skills
+à	hard skills
+16h15	hard skills
+-LRB-	O
+1h	hard skills
+-RRB-	
+selon	hard skills
+ce	hard skills
+qui	hard skills
+vous	hard skills
+convient	hard skills
+le	hard skills
+mieux	hard skills
+Profil	
+requis	O
+:	O
+Diplôme	experience
+de	experience
+professeur	experience
+-LRB-	
+e	experience
+-RRB-	O
+des	experience
+écoles	experience
+Expérience	experience
+avec	experience
+les	experience
+enfants	experience
+de	experience
+CP	experience
+à	experience
+CM2	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+20	salary
+$	salary
+/	
+heure	salary

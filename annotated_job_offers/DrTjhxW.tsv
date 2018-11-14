@@ -1,0 +1,188 @@
+Formateur	position
+en	position
+Institut	position
+de	position
+Formation	position
+en	position
+Soins	position
+Infirmiers	position
+Croix-Rouge	company
+Française	company
+-	O
+Quetigny	city
+-LRB-	O
+21	postal code
+-RRB-	O
+Formateur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+auprès	O
+d'étudiants	O
+en	O
+soins	O
+infirmiers	O
+,	O
+vous	hard skills
+accompagnez	hard skills
+les	hard skills
+futurs	hard skills
+soignants	hard skills
+dans	hard skills
+les	hard skills
+apprentissages	hard skills
+,	hard skills
+tant	hard skills
+théoriques	hard skills
+que	hard skills
+pratiques	hard skills
+ou	hard skills
+socio-comportementaux	hard skills
+.	hard skills
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+enseignements	hard skills
+,	hard skills
+à	hard skills
+l'évaluation	hard skills
+,	hard skills
+à	hard skills
+la	hard skills
+sélection	hard skills
+des	hard skills
+futurs	hard skills
+candidats	hard skills
+.	hard skills
+Vous	hard skills
+intégrez	hard skills
+une	hard skills
+équipe	hard skills
+dynamique	hard skills
+engagée	hard skills
+dans	hard skills
+un	hard skills
+projet	hard skills
+innovant	hard skills
+-LRB-	
+e-learning	hard skills
+,	
+apprentissage	hard skills
+par	hard skills
+simulation	hard skills
+,	O
+mobilité	hard skills
+internationale	hard skills
+,	O
+toucher-massage	hard skills
+,	O
+...	
+-RRB-	O
+.	O
+Infirmier	experience
+-LRB-	O
+e	experience
+-RRB-	O
+de	experience
+formation	experience
+initiale	experience
+,	O
+de	experience
+préférence	experience
+titulaire	experience
+du	experience
+Diplôme	experience
+de	experience
+Cadre	experience
+de	experience
+santé	experience
+et/ou	experience
+d'un	experience
+Master	experience
+de	experience
+niveau	experience
+II	experience
+,	experience
+vous	experience
+avez	experience
+des	experience
+compétences	experience
+dans	experience
+l'accompagnement	experience
+,	
+le	experience
+tutorat	experience
+,	O
+et	hard skills
+transmettez	hard skills
+vos	hard skills
+connaissances	hard skills
+avec	hard skills
+énergie	hard skills
+et	hard skills
+enthousiasme	hard skills
+.	
+Vous	hard skills
+vous	hard skills
+inscrivez	hard skills
+au	hard skills
+quotidien	hard skills
+dans	hard skills
+une	hard skills
+démarche	hard skills
+qui	hard skills
+promeut	hard skills
+les	hard skills
+valeurs	hard skills
+de	hard skills
+la	hard skills
+Croix-Rouge	hard skills
+française	hard skills
+et	hard skills
+appréciez	hard skills
+le	hard skills
+travail	hard skills
+d'équipe	hard skills
+.	O
+Vous	
+avez	
+soif	
+de	
+développer	
+de	
+nouvelles	
+connaissances	
+et	
+de	
+vous	
+engager	
+dans	
+une	
+dynamique	
+de	
+formation	
+individuelle	O
+et	O
+collective	O
+continue	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

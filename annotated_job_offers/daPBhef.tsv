@@ -1,0 +1,292 @@
+TÉLÉCONSEILLER	position
+VIVA	company
+DOUCHE	company
+-	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	postal code
+-RRB-	O
+19	salary
+0	salary
+$	salary
+-	O
+24	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Acteur	O
+de	O
+la	O
+Silver	O
+Economy	O
+,	O
+nous	O
+sommes	O
+spécialisés	O
+dans	O
+le	O
+marché	O
+en	O
+plein	O
+essor	O
+de	O
+l'aménagement	O
+du	O
+domicile	O
+des	O
+Seniors	O
+.	O
+Notre	O
+croissance	O
+soutenue	O
+nous	O
+amène	O
+à	O
+renforcer	O
+nos	O
+équipes	O
+.	O
+Ainsi	O
+,	O
+nous	O
+recherchons	O
+un	position
+TELECONSEILLER	position
+H/F	O
+MISSIONS	hard skills
+:	O
+traitement	hard skills
+des	hard skills
+contacts	hard skills
+entrant	hard skills
+et	hard skills
+prise	hard skills
+de	hard skills
+RDV	hard skills
+pour	hard skills
+les	hard skills
+commerciaux	hard skills
+suivi	hard skills
+des	hard skills
+dossiers	hard skills
+clients	hard skills
+gestion	hard skills
+des	hard skills
+plannings	hard skills
+,	hard skills
+gestion	hard skills
+des	hard skills
+stocks	hard skills
+facturation	hard skills
+appels	hard skills
+,	hard skills
+mails	hard skills
+et	hard skills
+courriers	hard skills
+divers	hard skills
+Développement	hard skills
+commercial	hard skills
+et	hard skills
+recherche	hard skills
+de	hard skills
+partenariats	hard skills
+...	
+COMPETENCES	O
+ET	O
+EXPERIENCE	O
+:	O
+Expérience	experience
+réussie	experience
+en	experience
+tant	experience
+que	experience
+téléconseiller	experience
+/	O
+conseiller	experience
+clientèle	experience
+à	experience
+distance	experience
+/	
+prise	hard skills
+de	hard skills
+RDV	hard skills
+par	hard skills
+téléphone	hard skills
+Très	soft skills
+bonne	soft skills
+élocution	soft skills
+,	
+aisance	soft skills
+téléphonique	soft skills
+,	O
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+Rigueur	soft skills
+,	O
+organisation	soft skills
+et	soft skills
+autonomie	soft skills
+Goût	soft skills
+marqué	soft skills
+pour	soft skills
+le	soft skills
+challenge	soft skills
+commercial	soft skills
+et	soft skills
+la	soft skills
+performance	soft skills
+Maîtrise	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+La	hard skills
+connaissance	hard skills
+du	hard skills
+web	hard skills
+marketing	hard skills
+est	hard skills
+un	hard skills
+plus	hard skills
+Idéalement	experience
+de	experience
+niveau	experience
+Bac	experience
+2	experience
+en	experience
+Négociation	experience
+et	experience
+Relation	experience
+Client	experience
+ou	experience
+équivalent	experience
+Plus	experience
+qu'un	experience
+diplôme	experience
+,	
+ce	O
+sont	O
+surtout	O
+vos	O
+compétences	O
+et	O
+votre	O
+expérience	O
+qui	O
+feront	O
+la	O
+différence	O
+Formation	O
+interne	O
+assurée	O
+Possibilité	O
+d'évolution	O
+Salaire	O
+:	O
+fixe	O
++	O
+primes	O
+Envoyer	O
+CV	O
++	O
+Photo	O
++	O
+LM	O
+par	O
+mail	O
+poste	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+--	O
+assistante	hard skills
+administrative	hard skills
+et	hard skills
+commerciale	hard skills
+-	
+conseiller	hard skills
+clientèle	hard skills
+à	hard skills
+distance	hard skills
+-	
+chargé	hard skills
+de	hard skills
+clientèle	hard skills
+à	hard skills
+distance	hard skills
+-	
+assistante	hard skills
+commerciale	hard skills
+-	
+télévente	hard skills
+-	O
+télévendeur	hard skills
+-	O
+téléconseiller	hard skills
+-	O
+téléconseillère	hard skills
+-	O
+conseiller	hard skills
+clientèle	hard skills
+à	hard skills
+distance	hard skills
+-	O
+téléacteur	hard skills
+-	O
+téléactrice	hard skills
+-	O
+chargé	hard skills
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+19	salary
+0	salary
+$	salary
+à	O
+24	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+92100	postal code
+Boulogne-Billancourt	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+assistante	experience
+administrative	experience
+et	experience
+commerciale	experience
+-	
+conseiller	experience
+client	experience
+:	O
+1	experience
+an	experience

@@ -1,0 +1,303 @@
+RESPONSABLE	position
+ADJOINT	position
+EXPLOITATION	position
+TRANSPORT	position
+H/F	O
+FASHION	company
+PARTNER	company
+NETWORK	company
+-	O
+Croissy-Beaubourg	city
+-LRB-	O
+77	code postal
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+2	salary
+100	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+La	O
+société	company
+DIMOTRANS	company
+recherche	O
+pour	O
+sa	O
+filiale	O
+Fashion	company
+Partner	company
+Network	company
+basée	O
+à	O
+Croissy-Beaubourg	city
+-LRB-	O
+77	code postal
+-RRB-	O
+,	O
+un	position
+RESPONSABLE	position
+ADJOINT	position
+D'EXPLOITATION	position
+TRANSPORT	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+CDI	contrat_type
+.	O
+Horaires	O
+de	O
+travail	O
+:	O
+22h-6h	O
+Missions	O
+:	O
+Le	position
+responsable	position
+adjoint	position
+d'exploitation	position
+transport	position
+organise	hard skills
+les	hard skills
+opérations	hard skills
+de	hard skills
+transport	hard skills
+du	hard skills
+site	hard skills
+selon	hard skills
+la	hard skills
+réglementation	hard skills
+et	hard skills
+les	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+,	hard skills
+avec	hard skills
+un	hard skills
+objectif	hard skills
+de	hard skills
+qualité	hard skills
+.	
+.	O
+Savoir-faire	hard skills
+:	O
+Constituer	hard skills
+le	hard skills
+dossier	hard skills
+de	hard skills
+transport	hard skills
+routier	hard skills
+ou	hard skills
+logistique	hard skills
+Organiser	hard skills
+ou	hard skills
+contrôler	hard skills
+le	hard skills
+chargement	hard skills
+des	hard skills
+marchandises	hard skills
+dans	hard skills
+le	hard skills
+véhicule	hard skills
+Identifier	hard skills
+les	hard skills
+anomalies	hard skills
+et	hard skills
+proposer	hard skills
+des	hard skills
+mesures	hard skills
+correctives	hard skills
+Suivre	hard skills
+la	hard skills
+bonne	hard skills
+réalisation	hard skills
+des	hard skills
+prestations	hard skills
+de	hard skills
+transport	hard skills
+à	hard skills
+caractère	hard skills
+national	hard skills
+et/ou	hard skills
+international	hard skills
+Contrôler	hard skills
+et	hard skills
+superviser	hard skills
+la	hard skills
+réalisation	hard skills
+d'opérations	hard skills
+de	hard skills
+quai	hard skills
+Actualiser	hard skills
+les	hard skills
+données	hard skills
+de	hard skills
+suivi	hard skills
+de	hard skills
+livraison	hard skills
+ou	hard skills
+de	hard skills
+l'enlèvement	hard skills
+-LRB-	O
+retour	hard skills
+,	O
+refus	hard skills
+de	hard skills
+livraison	hard skills
+-RRB-	O
+Renseigner	hard skills
+les	hard skills
+supports	hard skills
+de	hard skills
+suivi	hard skills
+d'activité	hard skills
+et	hard skills
+identifier	hard skills
+les	hard skills
+écarts	hard skills
+Maîtrise	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+routière	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+législation	hard skills
+du	hard skills
+transport	hard skills
+Connaissance	hard skills
+des	hard skills
+techniques	hard skills
+de	hard skills
+conduite	hard skills
+du	hard skills
+changement	hard skills
+Connaissance	hard skills
+de	hard skills
+la	hard skills
+réglementation	hard skills
+concernant	hard skills
+le	hard skills
+transport	hard skills
+Maitriser	hard skills
+le	hard skills
+logiciel	hard skills
+TMS	hard skills
+-LRB-	
+AS400	O
+,	O
+...	O
+-RRB-	O
+Maitrise	hard skills
+du	hard skills
+logiciel	hard skills
+Excel	hard skills
+Savoir-être	soft skills
+:	
+Qualités	soft skills
+managériales	soft skills
+Organisation	soft skills
+Réactivité	soft skills
+Responsabilité	soft skills
+Gestion	soft skills
+des	soft skills
+priorités	soft skills
+Profil	O
+recherché	O
+:	O
+-	O
+Bonnes	soft skills
+connaissances	soft skills
+du	soft skills
+monde	soft skills
+du	soft skills
+transport	soft skills
+,	O
+expérience	O
+de	O
+l'encadrement	O
+-	O
+Bac	experience
+2	experience
+minimum	experience
+-	O
+Poste	O
+basé	O
+à	O
+Croissy	city
+Beaubourg	city
+-LRB-	O
+77	code postal
+-RRB-	O
+-	O
+Salaire	O
+proposé	O
+:	O
+1800	salary
+à	
+2100	salary
+$	salary
+brut	salary
+sur	salary
+12	salary
+mois	salary
+-	O
+Avantages	O
+:	O
+tickets	O
+restaurants	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	
+1	salary
+800	salary
+$	salary
+à	O
+2	salary
+100	salary
+$	O
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	
+-LRB-	
+s	O
+-RRB-	
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+encadrement	experience
+:	O
+3	experience
+ans	experience
+TRANSPORT	experience
+:	O
+5	experience
+ans	experience

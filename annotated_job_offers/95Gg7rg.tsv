@@ -1,0 +1,292 @@
+POSEUR	position
+/	O
+technicien	position
+DE	position
+POÊLES	position
+&	position
+CHEMINEES	position
+-LRB-	
+H/F	O
+-RRB-	O
+Maxim	company
+`	O
+home	company
+-	O
+Villeneuve-d'Ascq	city
+-LRB-	O
+59	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Rattaché	hard skillls
+directement	hard skillls
+au	hard skillls
+gérant	hard skillls
+,	
+vous	hard skillls
+intervenez	hard skillls
+chez	hard skillls
+les	hard skillls
+clients	hard skillls
+pour	hard skillls
+la	hard skillls
+pose	hard skillls
+des	hard skillls
+cheminées	hard skillls
+&	hard skillls
+poêles	hard skillls
+-LRB-	
+à	hard skillls
+bois	hard skillls
+et	hard skillls
+granulés	hard skillls
+-RRB-	
+,	O
+sur	hard skillls
+des	hard skillls
+chantiers	hard skillls
+en	hard skillls
+neuf	hard skillls
+et	hard skillls
+en	hard skillls
+rénovation	hard skillls
+.	
+Vous	hard skillls
+aurez	hard skillls
+pour	hard skillls
+missions	hard skillls
+de	hard skillls
+:	
+Préparer	hard skillls
+le	hard skillls
+chantier	hard skillls
+:	
+sécurité	hard skillls
+,	O
+protection	hard skillls
+des	hard skillls
+biens	hard skillls
+du	hard skillls
+client	hard skillls
+,	O
+dépose	hard skillls
+de	hard skillls
+cheminées	hard skillls
+,	
+évacuation	hard skillls
+des	hard skillls
+gravats	hard skillls
+.	O
+Créer	hard skillls
+l'arrivée	hard skillls
+d'air	hard skillls
+extérieure	hard skillls
+,	O
+tuber	hard skillls
+un	hard skillls
+conduit	hard skillls
+de	hard skillls
+fumée	hard skillls
+existant	hard skillls
+ou	hard skillls
+poser	hard skillls
+un	hard skillls
+nouveau	hard skillls
+conduit	hard skillls
+de	hard skillls
+fumée	hard skillls
+inox	hard skillls
+isolé	hard skillls
+.	O
+Installer	hard skillls
+et	hard skillls
+raccorder	hard skillls
+les	hard skillls
+équipements	hard skillls
+:	
+foyer	hard skillls
+,	
+insert	hard skillls
+,	O
+poêle	hard skillls
+à	hard skillls
+bois	hard skillls
+,	O
+à	hard skillls
+granulés	hard skillls
+.	O
+Poser	hard skillls
+l'habillage	hard skillls
+et	hard skillls
+selon	hard skillls
+les	hard skillls
+projets	hard skillls
+des	hard skillls
+coffrages	hard skillls
+placo	hard skillls
+ou	hard skillls
+staff	hard skillls
+Assurer	hard skillls
+les	hard skillls
+finitions	hard skillls
+et	hard skillls
+le	hard skillls
+nettoyage	hard skillls
+du	hard skillls
+chantier	hard skillls
+.	O
+Procéder	hard skillls
+à	hard skillls
+l'entretien	hard skillls
+et	hard skillls
+au	hard skillls
+ramonage	hard skillls
+des	hard skillls
+équipements	hard skillls
+.	O
+Effectuer	hard skillls
+la	hard skillls
+réception	hard skillls
+du	hard skillls
+projet	hard skillls
+avec	hard skillls
+le	hard skillls
+client	hard skillls
+et	hard skillls
+réceptionner	hard skillls
+le	hard skillls
+règlement	hard skillls
+.	
+Vous	experience
+justifiez	experience
+d'au	experience
+moins	experience
+une	experience
+année	experience
+d'expérience	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+pose	experience
+de	experience
+poêles	experience
+/	experience
+cheminées	experience
+.	
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+et	soft skills
+savez	soft skills
+travailler	soft skills
+en	soft skills
+autonomie	soft skills
+et/ou	soft skills
+en	soft skills
+équipe	soft skills
+.	
+Rigoureux	soft skills
+et	soft skills
+responsable	soft skills
+,	O
+vous	soft skills
+respectez	soft skills
+les	soft skills
+règles	soft skills
+et	soft skills
+consignes	soft skills
+de	soft skills
+sécurité	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+également	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+et	soft skills
+êtes	hard skillls
+titulaire	hard skillls
+du	hard skillls
+permis	hard skillls
+B	hard skillls
+:	O
+un	hard skillls
+véhicule	hard skillls
+de	hard skillls
+fonction	hard skillls
+pourra	hard skillls
+vous	hard skillls
+être	hard skillls
+proposé	hard skillls
+.	O
+Le	O
+poste	O
+est	O
+à	O
+pourvoir	O
+en	O
+CDD	contrat_type
+avec	O
+possible	O
+reconduction	O
+en	O
+CDI	contrat_type
+,	O
+et	O
+est	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+pose	experience
+de	experience
+poêles	experience
+et	experience
+cheminées	experience
+:	O
+1	experience
+an	experience
+bâtiment	experience
+et	experience
+chantier	experience
+:	O
+1	experience
+an	experience

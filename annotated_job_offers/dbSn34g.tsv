@@ -1,0 +1,126 @@
+Apprenti	position
+comptable	position
+DPI	company
+Développement	company
+-	O
+Paris	city
+7e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+APPRENTI	
+-LRB-	O
+E	O
+-RRB-	O
+COMPTABLE	O
+-LRB-	O
+H/F	O
+-RRB-	O
+Vous	hard skills
+évoluerez	hard skills
+au	hard skills
+sein	hard skills
+d'une	hard skills
+petite	hard skills
+équipe	hard skills
+de	hard skills
+moins	hard skills
+de	hard skills
+10	hard skills
+personnes	hard skills
+,	hard skills
+au	hard skills
+sein	hard skills
+d'un	hard skills
+groupe	hard skills
+immobilier	hard skills
+établit	hard skills
+depuis	hard skills
+1996	hard skills
+.	hard skills
+Poste	
+:	O
+Saisie	hard skills
+comptable	hard skills
+dans	hard skills
+diverses	hard skills
+SCI	hard skills
+";"	
+Réalisation	hard skills
+de	hard skills
+divers	hard skills
+tableaux	hard skills
+liés	hard skills
+à	hard skills
+l'activité	hard skills
+du	hard skills
+Groupe	hard skills
+";"	
+Tâches	hard skills
+comptables	hard skills
+diverses	hard skills
+-LRB-	O
+facturation	hard skills
+,	O
+règlements	hard skills
+,	O
+relances	hard skills
+...	O
+-RRB-	O
+";"	O
+Tâches	hard skills
+administratives	hard skills
+diverses	hard skills
+-LRB-	O
+courriers	hard skills
+,	
+classements	hard skills
+...	O
+-RRB-	O
+.	O
+Profil	O
+:	O
+Une	experience
+première	experience
+expérience	experience
+est	experience
+souhaitable	experience
+";"	O
+Une	soft skills
+personne	soft skills
+rigoureuse	soft skills
+,	O
+ordonnée	soft skills
+et	soft skills
+motivée	soft skills
+.	
+Ce	O
+poste	O
+à	O
+des	O
+possibilités	O
+d'évolution	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+Formation	
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

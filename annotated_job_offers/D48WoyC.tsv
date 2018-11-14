@@ -1,0 +1,253 @@
+Menuisier	position
+poseur	position
+TAILLY	company
+Menuiserie	company
+-	O
+Acheux-en-Amiénois	city
+-LRB-	O
+80	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+MENUISIER	position
+POSEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Soigneux	soft skills
+,	O
+méticuleux	soft skills
+,	O
+précis	soft skills
+,	O
+vous	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+curiosité	soft skills
+avec	soft skills
+une	soft skills
+réelle	soft skills
+envie	soft skills
+d'apprendre	soft skills
+et	soft skills
+un	soft skills
+fort	soft skills
+esprit	soft skills
+d'équipe	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+respectueux	soft skills
+des	soft skills
+procédures	soft skills
+,	O
+volontaire	soft skills
+,	O
+courageux	soft skills
+et	
+souhaitez	
+vous	O
+intégrer	O
+au	O
+sein	O
+d'une	O
+entreprise	O
+en	O
+plein	O
+développement	O
+.	O
+Vos	hard skills
+missions	hard skills
+principales	hard skills
+seront	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+-	O
+Effectuer	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+menuiseries	hard skills
+bois	hard skills
+,	hard skills
+mixte	hard skills
+bois/alu	hard skills
+,	
+PVC	hard skills
+ou	hard skills
+aluminium	hard skills
+,	hard skills
+de	hard skills
+charpente	hard skills
+,	hard skills
+d'extension	hard skills
+en	hard skills
+ossature	hard skills
+bois	hard skills
+,	hard skills
+etc.	
+-	
+Assurer	hard skills
+une	hard skills
+qualité	hard skills
+de	hard skills
+finition	hard skills
+irréprochable	hard skills
+Vous	experience
+avez	experience
+de	experience
+par	experience
+le	experience
+passé	experience
+une	experience
+expérience	experience
+dans	experience
+ce	experience
+domaine	experience
+,	O
+vous	hard skills
+avez	hard skills
+déjà	hard skills
+travaillé	hard skills
+avec	hard skills
+l'outillage	hard skills
+spécifique	hard skills
+,	O
+vous	hard skills
+avez	hard skills
+connaissance	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+.	
+Vous	hard skills
+devez	hard skills
+avoir	hard skills
+l'aptitude	hard skills
+au	hard skills
+travail	hard skills
+en	hard skills
+hauteur	hard skills
+,	
+vous	soft skills
+avez	soft skills
+la	soft skills
+capacité	soft skills
+de	soft skills
+vous	soft skills
+organiser	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+,	
+soigneux	soft skills
+et	soft skills
+précis	soft skills
+.	O
+Vous	soft skills
+acceptez	soft skills
+les	soft skills
+déplacements	soft skills
+ainsi	soft skills
+que	soft skills
+les	soft skills
+découches	soft skills
+.	O
+De	experience
+formation	experience
+,	O
+menuisier	experience
+,	O
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+minimum	experience
+de	experience
+3	experience
+ans	experience
+en	experience
+entreprise	experience
+,	O
+voir	experience
+une	experience
+expérience	experience
+réussie	experience
+dans	experience
+un	experience
+poste	experience
+similaire	experience
+.	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+temps	contrat_type
+plein	contrat_type
+débouchant	O
+sur	O
+CDI	contrat_type
+Rémunération	O
+:	O
+1600	salary
+$	salary
+à	O
+1800	salary
+$	salary
+brut	salary
+négociation	
+selon	O
+compétences	O
+Expérience	O
+:	O
+3	experience
+ans	experience
+mini	experience
+Diplôme	experience
+souhaité	experience
+:	O
+BEP/CAP/Bac	experience
+Pro	experience
+en	experience
+menuiserie	experience
+Durée	
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35h	O
+HEBDO	O
+Permis	hard skills
+B	hard skills
+et	hard skills
+véhicule	hard skills
+exigé	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+menuiserie	experience
+:	O
+3	experience
+ans	experience

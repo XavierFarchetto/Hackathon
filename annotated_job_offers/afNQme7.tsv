@@ -1,0 +1,250 @@
+Chauffeur	position
+PL	position
+Union	company
+Primeurs	company
+Laurance	company
+-	O
+Lisses	city
+-LRB-	O
+91	postal code
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+2	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+ociété	O
+en	O
+fort	O
+développement	O
+,	O
+Grossiste	O
+en	O
+Fruits	O
+et	O
+Légumes	O
+,	O
+nous	O
+recherchons	O
+des	position
+Chauffeurs/Livreurs	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Poids	position
+Lourds	position
+-LRB-	O
+12	O
+tonnes	O
+-RRB-	O
+";"	O
+Professionnel	soft skills
+-LRB-	O
+le	soft skills
+-RRB-	O
+de	soft skills
+la	soft skills
+conduite	soft skills
+et	soft skills
+du	soft skills
+service	soft skills
+,	O
+vous	hard skills
+assurez	hard skills
+des	hard skills
+tournées	hard skills
+de	hard skills
+livraisons	hard skills
+régionales	hard skills
+.	O
+Vous	hard skills
+livrez	hard skills
+une	hard skills
+vingtaine	hard skills
+de	hard skills
+clients	hard skills
+par	hard skills
+jour	hard skills
+,	
+en	hard skills
+vous	hard skills
+assurant	hard skills
+de	hard skills
+la	hard skills
+cohérence	hard skills
+des	hard skills
+commandes	hard skills
+,	
+vous	hard skills
+veillerez	hard skills
+sur	hard skills
+les	hard skills
+marchandises	hard skills
+transportées	hard skills
+et	hard skills
+respecterez	hard skills
+les	hard skills
+délais	hard skills
+de	hard skills
+livraison	hard skills
+,	O
+en	hard skills
+suivant	hard skills
+votre	hard skills
+plan	hard skills
+de	hard skills
+tournée	hard skills
+.	O
+Vous	hard skills
+représenterez	hard skills
+l'entreprise	hard skills
+,	
+tant	hard skills
+sur	hard skills
+la	hard skills
+route	hard skills
+qu'envers	hard skills
+les	hard skills
+clients	hard skills
+qui	hard skills
+vous	hard skills
+seront	hard skills
+attitrés	hard skills
+,	O
+au	hard skills
+même	hard skills
+titre	hard skills
+que	hard skills
+votre	hard skills
+tournée	hard skills
+et	hard skills
+votre	hard skills
+camion	hard skills
+.	O
+Dans	hard skills
+certains	hard skills
+cas	hard skills
+,	
+vous	hard skills
+pourrez	hard skills
+être	hard skills
+chargé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+l'encaissement	hard skills
+.	O
+Vos	soft skills
+fortes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+vous	O
+permettront	O
+de	O
+réussir	O
+sur	O
+ce	O
+poste	O
+.	O
+Titulaire	hard skills
+du	hard skills
+Permis	hard skills
+PL	hard skills
+-LRB-	O
+FIMO	hard skills
+et	hard skills
+FCOS	hard skills
+-RRB-	O
+,	O
+votre	soft skills
+autonomie	soft skills
+,	O
+votre	soft skills
+rigueur	soft skills
+et	soft skills
+votre	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+sont	soft skills
+vos	soft skills
+atouts	soft skills
+pour	O
+réussir	O
+.	O
+Profil	O
+:	O
+Vous	experience
+avez	experience
+plus	experience
+de	experience
+2	experience
+ans	experience
+d'expérience	experience
+en	experience
+livraison	experience
+Poids	experience
+Lourds	experience
+sur	experience
+Paris	
+et	
+la	
+Région	
+Parisienne	O
+et	O
+possédez	hard skills
+le	hard skills
+permis	hard skills
+C	hard skills
+,	O
+la	hard skills
+FIMO	hard skills
+et	hard skills
+la	hard skills
+FCOS	hard skills
+.	O
+Vous	hard skills
+travaillerez	hard skills
+un	hard skills
+samedi	hard skills
+sur	hard skills
+2	hard skills
+.	hard skills
+Rémunération	
+brute	O
+mensuelle	O
+comprise	O
+entre	O
+2000	salary
+et	
+2400	salary
+euros	salary
+-LRB-	O
+primes	O
+et	O
+heures	O
+supplémentaires	O
+comprises	O
+-RRB-	O
+selon	O
+les	O
+tournées	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

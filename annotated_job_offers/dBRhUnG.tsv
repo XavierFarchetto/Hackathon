@@ -1,0 +1,280 @@
+Magasinier	position
+cariste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+SEFAC	company
+S.A	company
+-	O
+Monthermé	city
+-LRB-	O
+8	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Spécialiste	O
+de	O
+la	O
+fabrication	O
+et	O
+de	O
+la	O
+distribution	O
+de	O
+ponts	O
+élévateurs	O
+à	O
+colonnes	O
+mobiles	O
+et	O
+d'équipements	O
+de	O
+maintenance	O
+,	O
+la	company
+SEFAC	company
+se	O
+décline	O
+en	O
+3	O
+activités	O
+:	O
+SEFAC	
+Route	O
+-LRB-	O
+40	O
+%	O
+-RRB-	O
+";"	O
+SEFAC	O
+Rail	O
+-LRB-	O
+30	O
+%	O
+-RRB-	O
+et	O
+SEFAC	O
+Services	O
+-LRB-	O
+30	O
+%	O
+-RRB-	O
+Actuellement	O
+l'entreprise	O
+emploie	O
+environ	O
+70	O
+salariés	O
+et	O
+est	O
+présente	O
+par	O
+ses	O
+filiales	O
+en	O
+Grande-Bretagne	O
+,	O
+USA	O
+et	O
+Espagne	O
+.	O
+L'entreprise	O
+réalise	O
+près	O
+de	O
+70	O
+%	O
+de	O
+son	O
+CA	O
+à	O
+l'export	O
+.	O
+L'entreprise	O
+recherche	O
+,	O
+pour	O
+son	O
+pôle	O
+magasin	O
+:	O
+Magasinier	position
+cariste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+à	hard skills
+gérer	hard skills
+le	hard skills
+stock	hard skills
+et	hard skills
+les	hard skills
+commandes	hard skills
+pour	hard skills
+le	hard skills
+service	hard skills
+SAV	hard skills
+ainsi	hard skills
+que	hard skills
+pour	hard skills
+la	hard skills
+production	hard skills
+.	
+Vos	hard skills
+missions	hard skills
+principales	hard skills
+seront	hard skills
+:	O
+-	O
+Préparation	hard skills
+des	hard skills
+commandes	hard skills
+-	hard skills
+Chargement	hard skills
+/	hard skills
+déchargement	hard skills
+des	hard skills
+camions	hard skills
+-	hard skills
+Saisie	hard skills
+informatique	hard skills
+à	hard skills
+l'aide	hard skills
+de	hard skills
+notre	hard skills
+ERP	hard skills
+Divalto	hard skills
+des	hard skills
+commandes	hard skills
+clients	hard skills
+en	hard skills
+BL	hard skills
+";"	hard skills
+gérer	hard skills
+les	hard skills
+transferts	hard skills
+de	hard skills
+dépôt	hard skills
+à	hard skills
+dépôt	hard skills
+";"	hard skills
+préparation	hard skills
+des	hard skills
+expéditions	hard skills
+...	
+Profil	
+:	O
+De	experience
+formation	experience
+BAC	experience
+PRO	experience
+et/ou	experience
+une	experience
+expérience	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+d'au	experience
+moins	experience
+5	experience
+ans	experience
+.	
+Connaissances	hard skills
+informatiques	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+et	hard skills
+internet	hard skills
+-RRB-	O
+.	O
+La	hard skills
+connaissance	hard skills
+de	hard skills
+l'ERP	hard skills
+Divalto	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	O
+Autonome	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+,	
+polyvalent	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+assidu	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+possédez	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+.	
+Vous	experience
+devez	experience
+être	experience
+titulaire	experience
+du	experience
+permis	experience
+CACES	experience
+3	experience
+.	experience
+Le	experience
+permis	experience
+pont	experience
+roulant	experience
+serait	experience
+un	experience
+plus	experience
+.	
+CDD	contrat_type
+dans	O
+un	O
+premier	O
+temps	O
+à	O
+partir	O
+du	O
+08/01/2018	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+CACES	experience
+3	experience

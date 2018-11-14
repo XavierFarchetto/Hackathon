@@ -1,0 +1,317 @@
+CDI	contrat_type
+-	O
+Gestionnaire	position
+bases	position
+de	position
+données	position
+-	O
+H/F	O
+-LRB-	O
+Puteaux	city
+-RRB-	O
+REED	company
+EXPOSITIONS	company
+FRANCE	company
+-	O
+Puteaux	city
+-LRB-	O
+92	postal code
+-RRB-	O
+3	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Vous	hard skills
+gérez	hard skills
+la	hard skills
+base	hard skills
+de	hard skills
+données	hard skills
+des	hard skills
+visiteurs	hard skills
+professionnels	hard skills
+des	hard skills
+salons	hard skills
+Reed	hard skills
+-LRB-	
+2	hard skills
+millions	hard skills
+de	hard skills
+contacts	hard skills
+-RRB-	O
+.	O
+Vous	hard skills
+êtes	hard skills
+le	hard skills
+garant	hard skills
+du	hard skills
+flux	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+disponibilité	hard skills
+des	hard skills
+données	hard skills
+pour	hard skills
+la	hard skills
+promotion	hard skills
+des	hard skills
+différents	hard skills
+événements	hard skills
+et	hard skills
+leur	hard skills
+utilisation	hard skills
+par	hard skills
+les	hard skills
+services	hard skills
+internes	hard skills
+.	O
+Les	hard skills
+missions	hard skills
+:	hard skills
+Le	hard skills
+gestionnaire	hard skills
+bases	hard skills
+de	hard skills
+données	hard skills
+sera	hard skills
+encadré	hard skills
+par	hard skills
+le	hard skills
+responsable	hard skills
+du	hard skills
+service	hard skills
+bases	hard skills
+de	hard skills
+données	hard skills
+,	hard skills
+vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+missions	hard skills
+suivantes	hard skills
+:	O
+-	O
+Administrer	hard skills
+le	hard skills
+progiciel	hard skills
+de	hard skills
+gestion	hard skills
+de	hard skills
+données	hard skills
+visiteurs	hard skills
+et	hard skills
+former	hard skills
+les	hard skills
+utilisateurs	hard skills
+en	hard skills
+interne	hard skills
+.	
+-	
+Gérer	hard skills
+des	hard skills
+développements	hard skills
+spécifiques	hard skills
+-LRB-	
+outils	hard skills
+C#	hard skills
+pour	hard skills
+l'interne	hard skills
+-RRB-	O
+.	
+-	O
+Faire	hard skills
+le	hard skills
+lien	hard skills
+avec	hard skills
+les	hard skills
+services	hard skills
+marketing	hard skills
+des	hard skills
+différents	hard skills
+salons	hard skills
+et	hard skills
+les	hard skills
+chefs	hard skills
+de	hard skills
+projets	hard skills
+internet	hard skills
+.	O
+-	O
+Définir	hard skills
+les	hard skills
+besoins	hard skills
+.	
+-	O
+Gérer	hard skills
+des	hard skills
+requêtes	hard skills
+et	hard skills
+des	hard skills
+extractions	hard skills
+par	hard skills
+le	hard skills
+biais	hard skills
+d'une	hard skills
+base	hard skills
+de	hard skills
+données	hard skills
+SQL	hard skills
+server	hard skills
+de	hard skills
+2	hard skills
+millions	hard skills
+de	hard skills
+lignes-Gérer	hard skills
+des	hard skills
+webservices	hard skills
+.	O
+-	
+Maintenir	hard skills
+et	hard skills
+faire	hard skills
+évoluer	hard skills
+les	hard skills
+développements	hard skills
+existants	hard skills
+.	O
+Profil	O
+:	O
+-	O
+Bonne	hard skills
+maîtrise	hard skills
+des	hard skills
+principaux	hard skills
+outils	hard skills
+de	hard skills
+développement	hard skills
+et	hard skills
+langages	hard skills
+SQL	hard skills
+,	O
+PHP	hard skills
+,	O
+C#	hard skills
+,	O
+Access	hard skills
+,	O
+VBA	hard skills
+,	O
+Excel	hard skills
+.	
+-	O
+La	hard skills
+connaissance	hard skills
+de	hard skills
+l'outil	hard skills
+Sales	hard skills
+Force	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+ainsi	hard skills
+que	hard skills
+la	hard skills
+connaissance	hard skills
+d'un	hard skills
+outil	hard skills
+décisionnel	hard skills
+.	
+-	O
+Excellente	hard skills
+connaissance	hard skills
+des	hard skills
+bases	hard skills
+de	hard skills
+données	hard skills
+et	hard skills
+des	hard skills
+modèles	hard skills
+relationnels	hard skills
+-	O
+Anglais	hard skills
+opérationnel	hard skills
+.	O
+-	O
+Esprit	soft skills
+d'analyse	soft skills
+et	soft skills
+de	soft skills
+synthèse	soft skills
+.	O
+-	O
+Aisance	soft skills
+relationnelle	soft skills
+,	
+capacité	soft skills
+à	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+,	O
+rigueur	soft skills
+et	soft skills
+organisation	soft skills
+,	O
+proactivité	soft skills
+et	soft skills
+esprit	soft skills
+d'initiative	soft skills
+.	O
+-	O
+Formation	experience
+Bac	experience
++	experience
+3	experience
+/	experience
+5	experience
+:	O
+Ecole	experience
+d'ingénieurs	experience
+,	
+Master	experience
+Informatique	experience
+de	experience
+gestion	experience
+...	
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+3	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Puteaux	city
+-LRB-	O
+92	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+base	experience
+de	experience
+données	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

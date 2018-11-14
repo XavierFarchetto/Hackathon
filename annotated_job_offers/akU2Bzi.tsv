@@ -1,0 +1,54 @@
+Ouvrier	position
+-LRB-	O
+e	position
+-RRB-	O
+Viticole	position
+SAS	company
+DANIEL-ETIENNE	company
+DEFAIX	company
+-	O
+Chablis	coity
+-LRB-	O
+89	code postal
+-RRB-	O
+CDD	contrat_type
+Cherche	O
+Ouvrier	position
+Viticole	position
+-LRB-	O
+H/F	O
+-RRB-	O
+,	O
+expérimenté	
+,	O
+parmi	hard skills
+B	hard skills
+obligatoire	hard skills
+35	O
+H/semaine	O
+poste	O
+sur	O
+Chablis	O
+à	O
+pourvoir	O
+de	O
+suite	O
+Recrutement	O
+Paul-Etienne	O
+Defaix	O
+par	O
+email	O
+ou	O
+06 60 800 079	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+ouvrier	experience
+viticole	experience
+:	O
+1	experience
+an	experience

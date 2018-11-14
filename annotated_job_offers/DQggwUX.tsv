@@ -1,0 +1,212 @@
+Grimpeur	position
+Arboriste	position
+-	O
+Elagueur	position
+KERNE	company
+ELAGAGE	company
+UHEL	company
+-	O
+Plestan	city
+-LRB-	O
+22	postal code
+-RRB-	O
+10,09	salary
+$	salary
+-	O
+13	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Base	O
+salaire	O
+:	O
+entre	O
+10	salary
+$	salary
+9	salary
+à	
+13	salary
+$	salary
+00/heure	salary
+:	O
+évolutif	O
+et	O
+négociable	O
+selon	O
+compétences	O
+,	O
+expérience	O
+et	O
+permis	O
+.	O
+Entreprise	O
+spécialisée	O
+en	O
+arboriculture-élagage-abattage	O
+recherche	O
+en	O
+CDD	contrat_type
+évolutif	O
+en	O
+CDI	contrat_type
+H/F	O
+ELAGUEUR	experience
+GRIMPEUR	experience
+ARBORISTE	experience
+niveau	experience
+O4	experience
+minimum	experience
+,	O
+avec	experience
+expérience	experience
+-LRB-	
+de	experience
+préférence	experience
+-RRB-	
+et/ou	experience
+Certificat	experience
+de	experience
+Spécialisation	experience
+Tailles	experience
+et	experience
+Soins	experience
+aux	experience
+Arbres	experience
+.	O
+Taille	experience
+et	experience
+Soins	experience
+aux	experience
+arbres	experience
+,	O
+usage	experience
+et	experience
+affûtage	experience
+de	experience
+la	experience
+tronçonneuse	experience
+,	O
+élagage	experience
+en	experience
+grimper	experience
+ou	experience
+nacelle	experience
+,	
+travail	O
+en	O
+équipe	O
+,	O
+pour	hard skills
+chantiers	hard skills
+particuliers/march	hard skills
+és	hard skills
+publics/grands	hard skills
+comptes/BtoB	hard skills
+.	
+Le	hard skills
+permis	hard skills
+est	hard skills
+B	hard skills
+exigé	hard skills
+,	O
+permis	hard skills
+BE	hard skills
+,	
+C	hard skills
+,	O
+CE	hard skills
+souhaités	hard skills
+.	O
+Geste	hard skills
+et	hard skills
+posture	hard skills
+de	hard skills
+manutention	hard skills
+.	O
+Conduite	hard skills
+engin	hard skills
+forestier	hard skills
+.	
+Implication	soft skills
+,	O
+motivation	soft skills
+,	O
+rigueur	soft skills
+et	soft skills
+capacités	soft skills
+à	soft skills
+gérer	soft skills
+un	soft skills
+chantier	soft skills
+sont	soft skills
+des	soft skills
+qualités	soft skills
+recherchées	soft skills
+.	O
+Avantages	O
+:	O
+participation	O
+aux	O
+frais	O
+repas	O
+et	O
+déplacements	O
+indemnisés	O
+,	O
+complémentaires	O
+santé	O
+et	O
+prévoyance	O
+,	O
+formations	O
+,	O
+téléphone	O
+professionnel	O
+,	O
+travail	O
+en	O
+binôme	O
+,	O
+EPI	O
+fournit	O
+par	O
+l'entreprise	O
+,	O
+matériels	O
+individualisés	O
+.	O
+Evolution	O
+interne	O
+possible	O
+suivant	O
+autonomie	soft skills
+,	O
+compétences	soft skills
+et	soft skills
+motivation	soft skills
+.	O
+Renseignements	O
+complémentaires	O
+auprès	O
+de	O
+:	O
+Anne	O
+LE	O
+CORRE	O
+,	O
+Responsable	O
+Ressources	O
+Humaines	O
+02.98.55.83.95	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type

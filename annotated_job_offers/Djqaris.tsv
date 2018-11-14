@@ -1,0 +1,103 @@
+prothesiste	position
+ongulaire	position
+Le	company
+Boudoir	company
+de	company
+la	company
+Beauté	company
+-	O
+Cannes	city
+-LRB-	O
+6	postal code
+-RRB-	O
+1	salary
+300	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Prothésiste	position
+ongulaire	position
+/	O
+ESTHETICIENNE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+indéterminée	contrat_type
+6	postal code
+-	O
+CANNES	city
+vos	hard skills
+missions	hard skills
+:	O
+-	
+la	hard skills
+pose	hard skills
+d'ongles	hard skills
+-LRB-	
+résine	hard skills
+et	hard skills
+gel	hard skills
+-RRB-	
+,	
+la	hard skills
+manucure	hard skills
+et	hard skills
+pédicure	hard skills
+.	O
+-	O
+la	hard skills
+pose	hard skills
+d'extension	hard skills
+de	hard skills
+cils	hard skills
+et	hard skills
+les	hard skills
+différentes	hard skills
+épilations	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+300	salary
+$	salary
+à	O
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Langue	O
+exigée	O
+:	O
+Francais	hard skills
+,	O
+Anglais	hard skills
+,	O
+Russe	hard skills

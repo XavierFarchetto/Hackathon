@@ -1,0 +1,129 @@
+Réceptionniste	position
+H/F	O
+Hôtel	company
+Juana	company
+-	O
+Antibes	city
+-LRB-	O
+6	code postal
+-RRB-	O
+2	salary
+23	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+L'Hôtel	company
+Juana	company
+5	O
+*	O
+avec	O
+son	O
+restaurant	O
+``	O
+Bistrot	O
+Terrasse	O
+''	O
+,	O
+recherche	O
+un/une	position
+Réceptionniste	position
+H/F	O
+à	O
+partir	O
+du	O
+mois	O
+de	O
+Janvier	O
+2018	O
+en	O
+CDD	contrat_type
+.	O
+Vos	hard skills
+principales	hard skills
+missions	hard skills
+seront	hard skills
+d'assurer	hard skills
+le	hard skills
+check	hard skills
+in/check	hard skills
+out	hard skills
+,	
+la	hard skills
+facturation	hard skills
+,	
+la	hard skills
+visite	hard skills
+des	hard skills
+chambres	hard skills
+,	
+le	hard skills
+standard	hard skills
+et	hard skills
+le	hard skills
+relationnel	hard skills
+client	hard skills
+,	
+ainsi	hard skills
+que	hard skills
+la	hard skills
+promotion	hard skills
+des	hard skills
+services	hard skills
+de	hard skills
+l'hôtel	hard skills
+.	O
+Connaissance	hard skills
+du	hard skills
+logiciel	hard skills
+OPERA	hard skills
+demandée	hard skills
+.	O
+Expérience	experience
+dans	experience
+l'hôtellerie	experience
+de	experience
+luxe	experience
+5	experience
+*	experience
+exigée	experience
+.	O
+Une	hard skills
+seconde	hard skills
+langue	hard skills
+,	O
+en	hard skills
+plus	hard skills
+de	hard skills
+l'anglais	hard skills
+,	O
+est	hard skills
+souhaitée	hard skills
+.	O
+Poste	O
+non	O
+logé	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+2	salary
+23,11	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Réception	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

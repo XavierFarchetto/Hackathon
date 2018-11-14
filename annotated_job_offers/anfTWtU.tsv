@@ -1,0 +1,230 @@
+Conseiller	position
+en	position
+Economie	position
+Sociale	position
+et	position
+Familiale	position
+ACCUEIL	company
+SAVOIE	company
+HANDICAP	company
+SAMSAH	company
+-	O
+Chambéry	city
+-LRB-	O
+73	postal code
+-RRB-	O
+2	salary
+183	salary
+$	salary
+-	
+2	salary
+250	salary
+$	salary
+par	salary
+mois	salary
+Pour	hard skills
+le	hard skills
+Service	hard skills
+d'Accompagnement	hard skills
+Médico-Social	hard skills
+pour	hard skills
+Adultes	hard skills
+Handicapés	hard skills
+,	O
+nous	O
+recrutons	O
+un	position
+Conseiller	position
+en	position
+Economie	position
+Social	position
+et	position
+Familial	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Mission	hard skills
+:	O
+Accompagner	hard skills
+les	hard skills
+personnes	hard skills
+dans	hard skills
+la	hard skills
+réalisation	hard skills
+de	hard skills
+leur	hard skills
+projet	hard skills
+de	hard skills
+vie	hard skills
+:	
+dans	hard skills
+les	hard skills
+domaines	hard skills
+de	hard skills
+la	hard skills
+vie	hard skills
+sociale	hard skills
+et	hard skills
+familiale	hard skills
+,	
+dans	hard skills
+les	hard skills
+actes	hard skills
+de	hard skills
+la	hard skills
+vie	hard skills
+quotidienne	hard skills
+,	O
+dans	hard skills
+l'exercice	hard skills
+de	hard skills
+la	hard skills
+citoyenneté	hard skills
+,	
+dans	hard skills
+l'accès	hard skills
+aux	hard skills
+soins	hard skills
+,	
+dans	hard skills
+une	hard skills
+dynamique	hard skills
+de	hard skills
+projet	hard skills
+d'insertion	hard skills
+sociale	hard skills
+et	hard skills
+professionnelle	hard skills
+.	
+Travail	hard skills
+en	hard skills
+équipe	hard skills
+pluridisciplinaire	hard skills
+,	O
+participe	hard skills
+aux	hard skills
+réunions	hard skills
+d'équipe	hard skills
+,	
+élabore	hard skills
+et	hard skills
+nourrit	hard skills
+des	hard skills
+liens	hard skills
+partenariaux	hard skills
+,	
+travaille	hard skills
+en	hard skills
+réseau	hard skills
+.	
+Compétences	O
+et	O
+savoir-faire	O
+:	O
+Evaluer	hard skills
+les	hard skills
+besoins	hard skills
+individualisé	hard skills
+sur	hard skills
+un	hard skills
+versant	hard skills
+social	hard skills
+Elaborer	hard skills
+le	hard skills
+projet	hard skills
+d'accompagnement	hard skills
+individualisé	hard skills
+sur	hard skills
+le	hard skills
+champ	hard skills
+social	hard skills
+Réaliser	hard skills
+l'accompagnement	hard skills
+socio-éducatif	hard skills
+Construire	hard skills
+un	hard skills
+cadre	hard skills
+d'analyse	hard skills
+et	hard skills
+une	hard skills
+expertise	hard skills
+des	hard skills
+pratiques	hard skills
+éducatives	hard skills
+et	hard skills
+sociales	hard skills
+Assurer	hard skills
+les	hard skills
+relations	hard skills
+et	hard skills
+la	hard skills
+communication	hard skills
+partenariale	hard skills
+Diplôme	
+:	O
+Diplôme	experience
+d'état	experience
+conseiller	experience
+en	experience
+économie	experience
+sociale	experience
+et	experience
+familiale	experience
+.	
+Expérience	experience
+dans	experience
+le	experience
+handicap	experience
+psychique	experience
+appréciée	experience
+Type	
+d'emploi	
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+183	salary
+$	salary
+à	O
+2	salary
+250	salary
+$	salary
+/	
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+73000	postal code
+Chambéry	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Licence	experience
+Expérience	O
+exigée	O
+:	O
+ACCOMPAGNEMENT	experience
+PERSONNES	experience
+EN	experience
+SITUATION	experience
+DE	experience
+HADICAP	experience
+:	
+5	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+DE	hard skills
+CESF	hard skills

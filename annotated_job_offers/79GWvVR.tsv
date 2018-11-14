@@ -1,0 +1,74 @@
+INFIRMIER	position
+COORDINATEUR	position
+H/F	O
+MAISON	company
+D'ACCUEIL	company
+PIERRE	company
+GUICHENEY	company
+-	O
+Le	city
+Bourgneuf-la-Forêt	city
+-LRB-	O
+53	code postal
+-RRB-	O
+2	salary
+557	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Gestion	hard skills
+des	hard skills
+hébergements	hard skills
+Coordination	hard skills
+des	hard skills
+prestations	hard skills
+de	hard skills
+soin	hard skills
+Management	hard skills
+et	hard skills
+gestion	hard skills
+du	hard skills
+personnel	hard skills
+soignant	hard skills
+Organisation	hard skills
+du	hard skills
+travail	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+moyens	hard skills
+Suivi	hard skills
+des	hard skills
+règles	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+Pilotage	hard skills
+des	hard skills
+projets	hard skills
+Travail	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+557	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+infirmier	experience
+coordinateur	experience
+:	O
+1	experience
+an	experience

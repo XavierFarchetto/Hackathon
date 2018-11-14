@@ -1,0 +1,122 @@
+Infirmier	position
+DE	position
+de	position
+nuit	position
+H/F	O
+CLINIQUE	company
+MIRABEAU	company
+-	O
+Eaubonne	city
+-LRB-	O
+95	code postal
+-RRB-	O
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Infirmière	position
+de	position
+nuit	position
+.	
+Prise	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+patient	hard skills
+:	O
+-	O
+accueil	hard skills
+et	hard skills
+information	hard skills
+du	hard skills
+patient	hard skills
+et	hard skills
+son	hard skills
+entourage	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+charte	hard skills
+du	hard skills
+patient	hard skills
+hospitalisé	hard skills
+.	
+-	O
+Prise	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+la	hard skills
+douleur	hard skills
+.	
+-	O
+soins	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+bien	hard skills
+être	hard skills
+.	O
+-	O
+observation	hard skills
+de	hard skills
+l'état	hard skills
+de	hard skills
+santé	hard skills
+et	hard skills
+des	hard skills
+besoins	hard skills
+du	hard skills
+patient	hard skills
+.	O
+-	O
+organisation	hard skills
+de	hard skills
+la	hard skills
+continuité	hard skills
+des	hard skills
+activités	hard skills
+et	hard skills
+des	hard skills
+soins	hard skills
+.	
+-	O
+travail	hard skills
+en	hard skills
+équipe	hard skills
+,	O
+prise	hard skills
+d'initiative	hard skills
+.	
+-	
+contrôle	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+matériels	hard skills
+et	hard skills
+des	hard skills
+produits	hard skills
+,	O
+lutte	hard skills
+contre	hard skills
+les	hard skills
+infections	hard skills
+nosocomiales	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary

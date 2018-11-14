@@ -1,0 +1,284 @@
+TECHNICIEN	position
+SUPERIEUR	position
+DE	position
+LABORATOIRE	position
+AR2I	company
+-	O
+Le	city
+Plessis-Robinson	city
+-LRB-	O
+92	code postal
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+ANALYSES	company
+-	O
+RECEHRCHES	O
+-	O
+INNOVATION	O
+INSTRUMENTALE	O
+*	O
+Région	O
+:	O
+Ile-de-France	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+Durée	O
+:	O
+6	O
+mois	O
+-	O
+Poste	O
+pouvant	O
+déboucher	O
+sur	O
+une	O
+embauche	O
+définitive	O
+Rémunération	O
+:	O
+De	O
+22	salary
+0	salary
+à	O
+30	salary
+0	salary
+euros	salary
+selon	
+expérience	O
+Établissement	O
+pharmaceutique	O
+situé	O
+au	O
+Plessis	city
+Robinson	city
+-LRB-	
+92	code postal
+-RRB-	O
+,	O
+spécialisé	O
+dans	O
+la	O
+prestation	O
+analytique	O
+depuis	O
+1994	O
+";"	O
+Nous	O
+recherchons	O
+,	O
+dans	O
+le	O
+but	O
+de	O
+renforcer	O
+notre	O
+équipe	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+Supérieur	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+Laboratoire	position
+en	position
+développement	position
+analytique	position
+H/F	O
+.	O
+Sous	O
+la	O
+direction	O
+du	O
+Responsable	O
+du	O
+département	O
+-	O
+Vous	experience
+avez	experience
+une	experience
+expérience	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+préparation	experience
+des	experience
+échantillons	experience
+-LRB-	
+extraction	experience
+liquide/liquide	experience
+,	O
+SPE	experience
+,	O
+...	O
+-RRB-	O
+-	O
+Vous	hard skills
+participerez	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+au	hard skills
+point	hard skills
+et	hard skills
+à	hard skills
+l'optimisation	hard skills
+de	hard skills
+méthodes	hard skills
+de	hard skills
+contrôle	hard skills
+de	hard skills
+matières	hard skills
+premières	hard skills
+et	hard skills
+de	hard skills
+produits	hard skills
+finis	hard skills
+pharmaceutiques	hard skills
+.	
+-	O
+Vous	hard skills
+réaliserez	hard skills
+la	hard skills
+validation	hard skills
+des	hard skills
+méthodes	hard skills
+analytiques	hard skills
+selon	hard skills
+les	hard skills
+protocoles	hard skills
+bien	hard skills
+définies	hard skills
+.	
+Votre	O
+profil	O
+-	O
+Vous	experience
+avez	experience
+idéalement	experience
+un	experience
+Bac	experience
+2	experience
+à	experience
+Bac	experience
+4	experience
+.	
+-	O
+Vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+d'au	experience
+moins	experience
+1	experience
+ans	experience
+à	experience
+3	experience
+ans	experience
+dans	experience
+le	experience
+développement	experience
+analytique	experience
+.	
+-	O
+Vous	hard skills
+connaissez	hard skills
+les	hard skills
+principales	hard skills
+méthodes	hard skills
+d'analyse	hard skills
+-LRB-	
+CLHP	hard skills
+,	O
+GC/FID	hard skills
+,	O
+GC/MA	hard skills
+,	O
+SAA	hard skills
+,	O
+ICP	hard skills
+,	O
+...	
+-RRB-	O
+-	O
+Vous	hard skills
+maîtrisez	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	O
+Tableur	hard skills
+Excel	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+-	O
+Vous	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+rigueur	soft skills
+,	O
+de	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+et	soft skills
+vous	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+-	
+Vous	soft skills
+pouvez	soft skills
+comprendre	soft skills
+un	soft skills
+texte	soft skills
+scientifique	soft skills
+en	soft skills
+Anglais	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	O
+30	salary
+0	salary
+$	salary
+/	
+an	salary
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

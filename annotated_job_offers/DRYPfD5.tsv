@@ -1,0 +1,280 @@
+Diagnostiqueur	position
+immobilier	position
+H/F	O
+BOUVIER	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+13	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Entreprise	O
+:	O
+La	O
+société	O
+GRE	O
+est	O
+spécialisée	O
+dans	O
+le	O
+diagnostic	O
+technique	O
+immobilier	O
+.	O
+Nous	O
+accompagnons	O
+nos	O
+clients	O
+professionnels	O
+de	O
+l'administration	O
+des	O
+biens	O
+pour	O
+effectuer	O
+les	O
+diagnostics	O
+nécessaires	O
+sur	O
+les	O
+parties	O
+communes	O
+des	O
+immeubles	O
+dans	O
+le	O
+respect	O
+des	O
+textes	O
+de	O
+loi	O
+.	O
+Dans	O
+le	O
+cadre	O
+du	O
+développement	O
+de	O
+notre	O
+activité	O
+nous	O
+recherchons	O
+actuellement	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+:	O
+Diagnostiqueur	position
+immobilier	position
+H/F	O
+Missions	O
+:	O
+La	O
+société	O
+GRE	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+diagnostiqueur	position
+-LRB-	O
+euse	position
+-RRB-	O
+en	hard skills
+charge	hard skills
+de	hard skills
+réaliser	hard skills
+les	hard skills
+diagnostics	hard skills
+immobiliers	hard skills
+obligatoires	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+de	hard skills
+la	hard skills
+vente	hard skills
+ou	hard skills
+de	hard skills
+la	hard skills
+location	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+rattaché	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+à	hard skills
+notre	hard skills
+siège	hard skills
+situé	hard skills
+à	hard skills
+Gennevilliers	city
+-LRB-	
+92	postal code
+-RRB-	O
+et	hard skills
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+principales	hard skills
+:	O
+-	
+Vérifier	hard skills
+et	hard skills
+examiner	hard skills
+sur	hard skills
+site	hard skills
+les	hard skills
+éléments	hard skills
+d'ouvrages	hard skills
+concernés	hard skills
+,	
+-	O
+Mener	hard skills
+à	hard skills
+bien	hard skills
+les	hard skills
+diagnostics	hard skills
+,	
+-	O
+Etablir	hard skills
+les	hard skills
+rapports	hard skills
+correspondants	hard skills
+,	
+-	
+Renforcer	hard skills
+la	hard skills
+relation	hard skills
+client	hard skills
+et	hard skills
+contribuer	hard skills
+ainsi	hard skills
+au	hard skills
+développement	hard skills
+de	hard skills
+l'activité	hard skills
+.	
+Vous	hard skills
+interviendrez	hard skills
+dans	hard skills
+la	hard skills
+ville	hard skills
+de	hard skills
+Paris	hard skills
+.	
+Profil	O
+:	O
+Vous	experience
+êtes	experience
+impérativement	experience
+certifié	experience
+-LRB-	
+e	experience
+-RRB-	O
+plomb	experience
+,	O
+gaz	experience
+,	O
+termites	experience
+,	O
+Electricité	experience
+,	O
+DPE	experience
+,	O
+amiante	experience
+-LRB-	O
+toujours	experience
+en	experience
+cours	experience
+de	experience
+validité	experience
+-RRB-	O
+et	experience
+vous	experience
+justifiez	experience
+idéalement	experience
+d'une	experience
+première	experience
+expérience	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+.	O
+Vous	soft skills
+êtes	soft skills
+doté	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+d'un	soft skills
+bon	soft skills
+relationnel	soft skills
+,	
+d'une	soft skills
+autonomie	soft skills
+et	soft skills
+d'une	soft skills
+bonne	soft skills
+organisation	soft skills
+.	O
+Le	
+poste	O
+nécessite	O
+des	O
+déplacements	O
+ponctuels	O
+.	O
+Informations	O
+complémentaires	O
+:	O
+CDD	contrat_type
+de	contrat_type
+3	contrat_type
+mois	contrat_type
+Mutuelle	O
+familiale	O
+Prime	O
+de	O
+participation	O
+Prime	O
+panier	O
+de	O
+8,2	salary
+$	salary
+/	
+jours	salary
+travaillés	salary
+13e	salary
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Plomb	experience
+,	O
+Gaz	experience
+,	O
+Termites	experience
+,	O
+Electricité	experience
+,	O
+DPE	experience
+,	O
+Amiante	experience

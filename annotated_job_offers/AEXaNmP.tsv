@@ -1,0 +1,281 @@
+CDD	contrat_type
+-	O
+Poseur	position
+de	position
+matériel	position
+choisy	city
+94	code postal
+-	O
+Choisy-le-Roi	city
+-LRB-	O
+94	code postal
+-RRB-	O
+1	salary
+539	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+ELIS	company
+,	O
+société	O
+de	O
+Services	O
+aux	O
+Entreprises	O
+,	O
+leader	O
+européen	O
+sur	O
+son	O
+marché	O
+-LRB-	O
+plus	O
+d'	O
+1	O
+Milliard	O
+$	O
+de	O
+CA	O
+,	O
+150	O
+centres	O
+de	O
+production	O
+et	O
+de	O
+service	O
+,	O
+14550	O
+collaborateurs	O
+,	O
+plus	O
+de	O
+290	O
+0	O
+clients	O
+-RRB-	O
+,	O
+est	O
+spécialisé	O
+dans	O
+la	O
+location	O
+entretien	O
+d'équipements	O
+en	O
+hygiène	O
+et	O
+bien-être	O
+,	O
+de	O
+vêtements	O
+professionnels	O
+et	O
+d'articles	O
+textiles	O
+.	O
+Nous	O
+recherchons	O
+pour	O
+notre	O
+centre	O
+de	O
+Choisy	city
+le	city
+Roi	city
+-LRB-	O
+94	code postal
+-RRB-	O
+un	position
+:	O
+POSEUR	position
+DE	position
+MATERIEL	position
+H/F	O
+EN	O
+CDD	contrat_type
+DE	O
+2	O
+MOIS	O
+Rattaché	O
+directement	O
+au	O
+Chef	O
+Service	O
+logistique	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+principales	hard skills
+:	O
+D'assurer	hard skills
+la	hard skills
+pose	hard skills
+et/ou	hard skills
+la	hard skills
+dépose	hard skills
+de	hard skills
+notre	hard skills
+matériel	hard skills
+chez	hard skills
+nos	hard skills
+clients	hard skills
+répartis	hard skills
+dans	hard skills
+l'ensemble	hard skills
+de	hard skills
+la	hard skills
+région	hard skills
+parisienne	hard skills
+-LRB-	
+distributeurs	hard skills
+de	hard skills
+savons	hard skills
+,	
+sèches	hard skills
+mains	hard skills
+,	O
+dérouleurs	hard skills
+papier	hard skills
+hygiénique	hard skills
+,	O
+dérouleurs	hard skills
+essuie	hard skills
+mains	hard skills
+...	
+.	
+-RRB-	O
+D'assurer	hard skills
+la	hard skills
+bonne	hard skills
+tenue	hard skills
+du	hard skills
+véhicule	hard skills
+.	O
+De	hard skills
+tenir	hard skills
+à	hard skills
+jour	hard skills
+les	hard skills
+documents	hard skills
+administratifs	hard skills
+relatifs	hard skills
+à	hard skills
+l'activité	hard skills
+de	hard skills
+votre	hard skills
+tournée	hard skills
+-LRB-	
+bordereaux	hard skills
+d'intervention	hard skills
+-RRB-	
+et	hard skills
+réaliser	hard skills
+un	hard skills
+débriefing	hard skills
+journalier	hard skills
+de	hard skills
+votre	hard skills
+activité	hard skills
+.	
+PROFIL	O
+Permis	hard skills
+B	hard skills
+indispensable	hard skills
++	O
+véhicule	hard skills
+-LRB-	O
+expérience	experience
+de	experience
+la	experience
+conduite	experience
+VL	experience
+souhaitée	experience
+de	experience
+2	experience
+ans	experience
+-RRB-	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+et	soft skills
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+.	O
+Vous	soft skills
+disposez	soft skills
+d'un	soft skills
+excellent	soft skills
+relationnel	soft skills
+et	soft skills
+notions	soft skills
+de	soft skills
+service	soft skills
+.	
+Horaires	O
+:	O
+36	O
+heures	O
+hebdomadaires	O
+forfaitaires	O
+-LRB-	O
+lundi	O
+au	O
+vendredi	O
+-RRB-	O
+Salaire	O
+brut	O
+mensuel	O
+:	O
+1539.05	salary
+$	salary
+-LRB-	
++	salary
+prime	salary
+mensuelle	salary
+pouvant	O
+aller	O
+jusqu	O
+'	O
+à	O
+300	O
+$	O
+,	O
+intéressement	O
+,	O
+participation	O
+-RRB-	O
+Panier	O
+repas	O
+:	O
+7.90	O
+$	O
+-LRB-	O
+net	O
+-RRB-	O
+par	O
+jour	O
+travaillé	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+539	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+94600	code postal
+Choisy-le-Roi	city

@@ -1,0 +1,110 @@
+Fleuriste	position
+vendeuse	position
+Fleuriste	company
+-	O
+Saint-Avold	city
+-LRB-	O
+57	postal code
+-RRB-	O
+1	salary
+400	salary
+$	salary
+-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Fleuriste	position
+H/F	O
+CAP	experience
+Fleuriste	experience
+/	O
+BP	experience
+fleuriste	experience
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+l'accueil	hard skills
+du	hard skills
+conseil	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+vente	hard skills
+à	hard skills
+la	hard skills
+clientèle	hard skills
+.	O
+Vous	hard skills
+réaliserez	hard skills
+des	hard skills
+bouquets	hard skills
+,	
+des	hard skills
+compositions	hard skills
+piquées	hard skills
+,	
+des	hard skills
+pièces	hard skills
+de	hard skills
+deuil	hard skills
+et	hard skills
+de	hard skills
+mariage	hard skills
+.	
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+possédez	soft skills
+un	soft skills
+très	soft skills
+bon	soft skills
+sens	soft skills
+du	soft skills
+relationnel	soft skills
+Annualisation	soft skills
+des	soft skills
+heures	soft skills
+/	O
+rémunération	O
+selon	O
+profil	O
+Merci	O
+d'envoyer	O
+votre	O
+CV	O
+et	O
+LM	O
+par	O
+mail	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+400	salary
+$	salary
+à	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	
+fleuriste	experience
+:	
+2	experience
+ans	experience

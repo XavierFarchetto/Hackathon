@@ -1,0 +1,93 @@
+Pâtissier	position
+H/F	O
+LE	company
+PARFUM	company
+DU	company
+PAIN	company
+-	O
+Gières	city
+-LRB-	O
+38	code postal
+-RRB-	O
+1	salary
+747	salary
+$	salary
+par	salary
+mois	salary
+Vous	hard skills
+fabriquez	hard skills
+les	hard skills
+patisseries	hard skills
+pour	hard skills
+le	hard skills
+magasin	hard skills
+et	hard skills
+sur	hard skills
+commande	hard skills
+.	O
+Vous	hard skills
+pouvez	hard skills
+avoir	hard skills
+un	hard skills
+peu	hard skills
+de	hard skills
+polyvalence	hard skills
+dans	hard skills
+l'établissement	hard skills
+.	O
+Horaires	hard skills
+5h30	hard skills
+-	O
+13h	hard skills
+du	hard skills
+mardi	hard skills
+au	hard skills
+samedi	hard skills
+et	hard skills
+le	hard skills
+dimanche	hard skills
+de	hard skills
+manière	hard skills
+occasionnelle	hard skills
+.	O
+Prise	O
+de	O
+poste	O
+le	O
+1er	O
+décembre	O
+2017	O
+.	O
+CDI	contrat_type
+37.5	O
+h	O
+Expérience	O
+souhaitée	O
+,	O
+2	experience
+ans	experience
+après	experience
+le	experience
+CAP	experience
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+747	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+tant	experience
+que	experience
+patissier	experience
+qualifié	experience
+:	O
+2	experience
+ans	experience

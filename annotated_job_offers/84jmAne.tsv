@@ -1,0 +1,154 @@
+Infirmier	position
+/	O
+Infirmière	position
+DE	position
+à	position
+domicile	position
+-LRB-	O
+H/F	O
+-RRB-	O
+SSIAD	company
+de	O
+Survilliers	O
+-	O
+Survilliers	city
+-LRB-	O
+95	code postal
+-RRB-	O
+CDI	contrat_type
+Par	O
+délégation	O
+du	O
+Directeur	O
+ou	O
+de	O
+l'IDE	O
+Coordinateur	O
+référent	O
+:	O
+-	O
+Dispense	hard skills
+les	hard skills
+soins	hard skills
+de	hard skills
+nature	hard skills
+techniques	hard skills
+,	O
+relationnels	hard skills
+et	hard skills
+éducatifs	hard skills
+-	
+Participe	hard skills
+au	hard skills
+travail	hard skills
+d'évaluation	hard skills
+,	O
+au	hard skills
+diagnostic	hard skills
+infirmier	hard skills
+et	hard skills
+à	hard skills
+l'élaboration	hard skills
+des	hard skills
+projets	hard skills
+de	hard skills
+soins	hard skills
+individualisés	hard skills
+-	O
+Effectue	hard skills
+des	hard skills
+activités	hard skills
+administratives	hard skills
+liées	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+soins	hard skills
+-	O
+Participe	hard skills
+à	hard skills
+l'encadrement	hard skills
+des	hard skills
+aides-soignant	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+s	hard skills
+-	O
+Participe	hard skills
+à	hard skills
+l'animation	hard skills
+de	hard skills
+l'équipe	hard skills
+du	hard skills
+SSIAD	hard skills
+-	O
+Participe	hard skills
+à	hard skills
+la	hard skills
+coordination	hard skills
+du	hard skills
+service	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+-	O
+Expérience	experience
+souhaitée	experience
+en	experience
+milieu	experience
+hospitalier	experience
+,	O
+d'infirmier	experience
+libéral	experience
+ou	O
+d'infirmier	experience
+en	experience
+SSIAD	experience
+ou	O
+HAD	experience
+-	O
+Qualités	soft skills
+relationnelles	soft skills
+et	soft skills
+maîtrise	soft skills
+de	soft skills
+soi	soft skills
+-	O
+Diplomatie	soft skills
+,	O
+adaptabilité	soft skills
+,	O
+disponibilité	soft skills
+et	soft skills
+empathie	soft skills
+-	O
+Rigueur	soft skills
+,	O
+méthode	soft skills
+,	O
+dynamisme	soft skills
+et	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+POSTE	
+A	O
+TEMPS	O
+PARTIEL	O
+Débutant	O
+accepté	O
+Permis	hard skills
+B	hard skills
+et	O
+véhicule	O
+léger	O
+obligatoire	O
+Diplôme	experience
+d'état	experience
+Infirmier	experience
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

@@ -1,0 +1,340 @@
+ASSISTANT	position
+COMPTABLE	position
+-	O
+FACTURIER	position
+H/F	O
+JOHN	company
+LIBBEY	company
+EUROTEXT	company
+LIMITED	company
+-	O
+Montrouge	city
+-LRB-	O
+92	postal code
+-RRB-	O
+22	salary
+0	salary
+$	salary
+-	
+22	salary
+700	salary
+$	salary
+par	salary
+an	salary
+Le	O
+profilDe	experience
+formation	experience
+comptable	experience
+-LRB-	O
+BAC	experience
+STG	experience
+,	O
+BTS	experience
+-RRB-	O
+,	O
+vous	experience
+avez	experience
+déjà	experience
+une	experience
+expérience	experience
+aux	experience
+métiers	experience
+de	experience
+la	experience
+comptabilité.Vous	experience
+maitrisez	hard skills
+les	hard skills
+outils	hard skills
+bureautiques	hard skills
+courants	hard skills
+du	hard skills
+pack	hard skills
+office	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+,	
+Access	hard skills
+,	O
+Outlook	hard skills
+-RRB-	O
+,	O
+et	hard skills
+du	hard skills
+logiciel	hard skills
+SAGE.Vous	hard skills
+bénéficierez	hard skills
+d'une	hard skills
+formation	hard skills
+interne	hard skills
+à	hard skills
+notre	hard skills
+logiciel	hard skills
+de	hard skills
+contrôle	hard skills
+et	hard skills
+d'analyse	hard skills
+.	
+Vous	soft skills
+possédez	soft skills
+le	soft skills
+goût	soft skills
+et	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+.	O
+Adaptable	soft skills
+,	O
+vous	hard skills
+vous	hard skills
+intégrez	hard skills
+aisément	hard skills
+dans	hard skills
+un	hard skills
+groupe	hard skills
+de	hard skills
+travail.Une	hard skills
+connaissance	hard skills
+de	hard skills
+l'anglais	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	O
+Le	O
+poste	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+notre	O
+responsable	O
+comptable	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+:	O
+-	O
+La	hard skills
+prise	hard skills
+d'appels	hard skills
+téléphoniques	hard skills
+émanant	hard skills
+des	hard skills
+clients	hard skills
+externes	hard skills
+-	hard skills
+La	hard skills
+tenue	hard skills
+et	hard skills
+la	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+de	hard skills
+l'ensemble	hard skills
+des	hard skills
+informations	hard skills
+clients	hard skills
+,	
+et	hard skills
+produits	hard skills
+,	
+afin	hard skills
+d'en	hard skills
+assurer	hard skills
+une	hard skills
+gestion	hard skills
+cohérente	hard skills
+sur	hard skills
+notre	hard skills
+logiciel	hard skills
+SAGE	hard skills
+-	hard skills
+La	hard skills
+facturation	hard skills
+,	
+les	hard skills
+relances	hard skills
+	
+les	hard skills
+remises	hard skills
+de	hard skills
+chèques	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+des	hard skills
+dossiers	hard skills
+clients	hard skills
+.	
+-	O
+Le	hard skills
+suivi	hard skills
+des	hard skills
+dossiers	hard skills
+administratifs	hard skills
+tel	hard skills
+que	hard skills
+BNF	hard skills
+,	
+GIS	hard skills
+,	
+-	O
+le	hard skills
+reporting	hard skills
+mensuel	hard skills
+des	hard skills
+ventes	hard skills
+Présentation	hard skills
+de	hard skills
+l'entreprise	hard skills
+.	
+Les	O
+éditions	O
+John	O
+Libbey	O
+Eurotext	O
+ont	O
+une	O
+place	O
+privilégiée	O
+au	O
+sein	O
+de	O
+la	O
+presse	O
+et	O
+de	O
+l'édition	O
+spécialisées	O
+,	O
+figurant	O
+aujourd	O
+'	O
+hui	O
+parmi	O
+les	O
+principaux	O
+éditeurs	O
+dans	O
+le	O
+domaine	O
+scientifique	O
+et	O
+médical	O
+.	O
+Elles	O
+publient	O
+sous	O
+les	O
+marques	O
+John	O
+Libbey	O
+,	O
+Arnette	O
+,	O
+Doin	O
+et	O
+Pradel	O
+.	O
+Au	O
+catalogue	O
+,	O
+26	O
+revues	O
+publiées	O
+en	O
+partenariat	O
+avec	O
+de	O
+grandes	O
+sociétés	O
+savantes	O
+et	O
+un	O
+fonds	O
+de	O
+près	O
+de	O
+1	O
+0	O
+ouvrages	O
+faisant	O
+référence	O
+dans	O
+leurs	O
+spécialités	O
+respectives	O
+.	O
+A	O
+10	O
+minutes	O
+du	O
+métro	O
+lignes	O
+4	O
+et	O
+13	O
+,	O
+RER	O
+B.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+22	salary
+0	salary
+$	salary
+à	
+22	salary
+700	salary
+$	salary
+/	
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Montrouge	city
+-LRB-	O
+92	postal code
+-RRB-	
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+comptabilité	experience
+/	
+facturation	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

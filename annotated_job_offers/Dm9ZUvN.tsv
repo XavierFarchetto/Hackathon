@@ -1,0 +1,162 @@
+Dessinateur	position
+projeteur	position
+H/F	O
+DAO	company
+BE	company
+Haute	company
+Normandie	company
+-	O
+Petit-Couronne	city
+-LRB-	O
+76	postal code
+-RRB-	O
+1	salary
+660	salary
+$	salary
+-	O
+1	salary
+750	salary
+$	salary
+par	salary
+mois	salary
+Vous	hard skills
+maîtrisez	hard skills
+SolidWorks	hard skills
+-LRB-	
+toutes	hard skills
+versions	hard skills
+-RRB-	O
+et	hard skills
+si	hard skills
+possible	hard skills
+un	hard skills
+autre	hard skills
+logiciel	hard skills
+de	hard skills
+conception	hard skills
+-LRB-	
+idéalement	hard skills
+SolidEdge	hard skills
+,	
+Inventor	hard skills
+,	O
+Catia	hard skills
+-RRB-	O
+.	O
+Vous	hard skills
+travaillerez	hard skills
+pour	hard skills
+le	hard skills
+compte	hard skills
+d'une	hard skills
+clientèle	hard skills
+d'industriels	hard skills
+:	O
+conception	hard skills
+de	hard skills
+sous-ensembles	hard skills
+selon	hard skills
+le	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+du	hard skills
+client	hard skills
+,	
+mise	hard skills
+en	hard skills
+plans	hard skills
+,	hard skills
+vérification	hard skills
+à	hard skills
+toutes	hard skills
+les	hard skills
+étapes	hard skills
+de	hard skills
+la	hard skills
+conception	hard skills
+que	hard skills
+le	hard skills
+systèmes	hard skills
+répond	hard skills
+aux	hard skills
+exigences	hard skills
+.	
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+à	hard skills
+vous	hard skills
+déplacer	hard skills
+chez	hard skills
+les	hard skills
+clients	hard skills
+avec	hard skills
+un	hard skills
+maximum	hard skills
+d'1h	hard skills
+de	hard skills
+route	hard skills
+-LRB-	O
+véhicule	hard skills
+de	hard skills
+société	hard skills
+fourni	hard skills
+ou	hard skills
+frais	hard skills
+de	hard skills
+déplacements	hard skills
+payés	hard skills
+par	hard skills
+l'entreprise	hard skills
+-RRB-	
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+660	salary
+$	salary
+à	O
+1	salary
+750	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Petit-Couronne	city
+-LRB-	O
+76	postal code
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+dessin	experience
+industriel	experience
+:	O
+1	experience
+an	experience

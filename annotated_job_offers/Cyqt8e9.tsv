@@ -1,0 +1,142 @@
+Conducteur	position
+de	position
+trains	position
+Habilité	position
+REGIORAIL	company
+Provence	company
+-	O
+Fos-sur-Mer	city
+-LRB-	O
+13	postal code
+-RRB-	O
+36	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Dans	O
+le	O
+cadre	O
+du	O
+développement	O
+de	O
+son	O
+activité	O
+REGIORAIL	company
+,	O
+entreprise	O
+de	O
+transport	O
+ferroviaire	O
+de	O
+fret	O
+,	O
+recherche	O
+pour	O
+son	O
+site	O
+de	O
+FOS	O
+SUR	O
+MER	O
+-LRB-	O
+13	O
+-RRB-	O
+,	O
+un	position
+Conducteur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+de	position
+train	position
+formé	position
+,	O
+habilité	position
+et	position
+expérimenté	position
+IMPERATIVEMENT	position
+.	O
+Vous	hard skills
+effectuerez	hard skills
+toutes	hard skills
+les	hard skills
+opérations	hard skills
+relatives	hard skills
+à	hard skills
+la	hard skills
+préparation	hard skills
+des	hard skills
+trains	hard skills
+,	O
+aux	hard skills
+manœuvres	hard skills
+en	hard skills
+gare	hard skills
+et	hard skills
+la	hard skills
+conduite	hard skills
+de	hard skills
+ligne	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+tâches	hard skills
+administratives	hard skills
+inhérentes	hard skills
+aux	hard skills
+fonctions	hard skills
+.	O
+Expérience	experience
+d'un	experience
+an	experience
+minimum	experience
+post-formation	experience
+EXIGEE	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+36	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Fos-sur-Mer	city
+-LRB-	O
+13	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+Conduite	experience
+de	experience
+train	experience
+de	experience
+fret	experience
+:	O
+1	experience
+an	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Formation	experience
+initiale	experience
+Conduite	experience
+-LRB-	O
+Arrête	experience
+du	experience
+6	experience
+Août	experience
+2010	experience
+-RRB-	O

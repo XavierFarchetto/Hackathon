@@ -1,0 +1,91 @@
+Coiffeur	position
+/	O
+coiffeuse	position
+avec	position
+bp	position
+pour	O
+temps	contrat_type
+plein	contrat_type
+-LRB-	O
+H/F	O
+-RRB-	O
+Flow	company
+`	O
+hair	company
+-	O
+Saint-Jean-le-Blanc	city
+-LRB-	O
+45	code postal
+-RRB-	O
+RECHERCHONS	O
+POUR	O
+LE	O
+SALON	O
+DE	O
+ST	O
+JEAN	O
+LE	O
+BLANCCOIFFEUR	O
+/	O
+COIFFEUSE	position
+AVEC	position
+BP	position
++	experience
+5	experience
+ANS	experience
+D	experience
+EXPERIENCE	experience
+.	O
+VOUS	hard skills
+DEVREZ	hard skills
+MAITRISER1-COLORIMETRIE2-COUPES	hard skills
+H/F3-CHIGNONSETC	hard skills
+VOTRE	soft skills
+MOTIVATION	soft skills
+EST	soft skills
+REELLE	soft skills
+,	O
+ALORS	
+VENEZ	
+VOUS	
+PRESENTER	
+DIRECTEMENT	O
+AU	O
+SALON	O
+AVEC	O
+DES	O
+PHOTOS	O
+DE	O
+VOS	O
+REALISATIONS	O
+.	O
+SALAIRE	O
+EVOLUTIF	O
+FIXE+PRIMES	O
+CA	O
+ET	O
+VENTES	O
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Services	O
+à	O
+la	O
+personne	O
+Expérience	experience
+5	experience
+ans	experience
+et	experience
+plus	experience
+Niveau	experience
+d'études	experience
+BEP/CAP	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

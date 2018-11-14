@@ -1,0 +1,152 @@
+AGENT	position
+DE	position
+SECURITE	position
+TRIOMPHE	company
+SECURITE	company
+-	O
+Lieusaint	city
+-LRB-	O
+77	postal code
+-RRB-	O
+1	salary
+501	salary
+$	salary
+-	O
+1	salary
+546	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+agent	position
+de	position
+sécurité	position
+H/F	O
+-	O
+pour	hard skills
+une	hard skills
+enseigne	hard skills
+de	hard skills
+magasin	hard skills
+.	
+Vos	hard skills
+missions	hard skills
+:	
+Assurer	hard skills
+la	hard skills
+prévention	hard skills
+et	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+personnes	hard skills
+et	hard skills
+des	hard skills
+biens	hard skills
+.	
+Lutter	hard skills
+contre	hard skills
+la	hard skills
+démarque	hard skills
+inconnue	hard skills
+et	hard skills
+tout	hard skills
+type	hard skills
+de	hard skills
+vol	hard skills
+dans	hard skills
+le	hard skills
+magasin	hard skills
+.	
+Votre	hard skills
+prestance	hard skills
+et	hard skills
+votre	hard skills
+sens	hard skills
+de	hard skills
+la	hard skills
+communication	hard skills
+vous	hard skills
+permettent	hard skills
+de	hard skills
+prévenir	hard skills
+et	hard skills
+de	hard skills
+désamorcer	hard skills
+les	hard skills
+situations	hard skills
+conflictuelles	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+avec	soft skills
+les	soft skills
+clients	soft skills
+.	
+Vous	experience
+êtes	experience
+obligatoirement	experience
+titulaire	experience
+du	experience
+CQP	experience
+/	
+APS	experience
+et	experience
+de	experience
+la	experience
+carte	experience
+professionnelle	experience
+``	O
+surveillance	experience
+humaine	experience
+''	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+à	O
+temps	contrat_type
+complet	contrat_type
+.	O
+Vous	experience
+avez	experience
+si	experience
+possible	experience
+de	experience
+l'expérience	experience
+en	experience
+grande	experience
+distribution	experience
+ou	experience
+distribution	experience
+spécialisée	experience
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+501	salary
+$	salary
+à	O
+1	salary
+546	salary
+$	salary
+/	O
+mois	salary

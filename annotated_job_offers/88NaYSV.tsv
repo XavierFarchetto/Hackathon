@@ -1,0 +1,271 @@
+Préparateur	position
+en	position
+pharmacie	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Polyclinique	company
+de	company
+l'Europe	company
+-	O
+Saint-Nazaire	city
+-LRB-	O
+44	code postal
+-RRB-	O
+CDI	contrat_type
+La	company
+Polyclinique	company
+de	company
+l'Europe	company
+à	O
+Saint-Nazaire	city
+,	O
+recherche	O
+un	position
+Préparateur	position
+en	position
+Pharmacie	position
+-LRB-	O
+H/F	O
+-RRB-	O
+,	O
+à	O
+temps	O
+partiel	O
+-LRB-	O
+26	O
+heures	O
+par	O
+semaine	O
+-RRB-	O
+,	O
+à	O
+compter	O
+du	O
+1er	O
+septembre	O
+2017	O
+en	O
+CDI	contrat_type
+.	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+pharmacien	O
+gérant	O
+et	O
+du	O
+pharmacien	O
+assistant	O
+,	O
+vous	hard skills
+serez	hard skills
+amené	hard skills
+à	hard skills
+:	
+-	O
+Gérer	hard skills
+et	O
+suivre	hard skills
+les	hard skills
+stocks	hard skills
+pharmaceutiques	hard skills
+-LRB-	O
+contrôle	hard skills
+des	hard skills
+stocks	hard skills
+,	O
+étude	hard skills
+de	hard skills
+consommation	hard skills
+,	O
+inventaire	hard skills
+régulier	hard skills
+-RRB-	O
+,	O
+-	O
+Passer	hard skills
+les	hard skills
+commandes	hard skills
+-LRB-	
+saisie	hard skills
+des	hard skills
+commandes	hard skills
+,	O
+contrôle	hard skills
+des	hard skills
+réceptions	hard skills
+,	O
+rangement	hard skills
+approprié	hard skills
+,	O
+contrôle	hard skills
+informatique	hard skills
+des	hard skills
+factures	hard skills
+et	hard skills
+des	hard skills
+prix	hard skills
+marchés	hard skills
+auprès	hard skills
+de	hard skills
+la	hard skills
+centrale	hard skills
+d'achat	hard skills
+-RRB-	
+,	O
+-	O
+Distribuer	hard skills
+globalement	hard skills
+et/ou	hard skills
+nominativement	hard skills
+les	hard skills
+médicaments	hard skills
+,	
+-	O
+Sécuriser	hard skills
+le	hard skills
+circuit	hard skills
+du	hard skills
+médicament	hard skills
+et/ou	hard skills
+des	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+stériles	hard skills
+,	
+-	O
+Assurer	hard skills
+la	hard skills
+traçabilité	hard skills
+des	hard skills
+lots	hard skills
+au	hard skills
+patient	hard skills
+,	
+-	
+Garantir	hard skills
+la	hard skills
+continuité	hard skills
+des	hard skills
+soins	hard skills
+pour	hard skills
+le	hard skills
+patient	hard skills
+,	O
+-	O
+Gérer	hard skills
+les	hard skills
+alertes	hard skills
+ascendantes	hard skills
+ou	hard skills
+descendantes	hard skills
+de	hard skills
+pharmacovigilance	hard skills
+et/ou	hard skills
+matériovigilance	hard skills
+,	O
+-	O
+Participer	hard skills
+à	hard skills
+l'élaboration	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+révision	hard skills
+de	hard skills
+documents	hard skills
+qualité	hard skills
+et	hard skills
+les	hard skills
+appliquer	hard skills
+.	O
+Vous	O
+êtes	O
+titulaire	experience
+du	experience
+Brevet	experience
+Professionnel	experience
+de	experience
+Préparateur	experience
+en	experience
+pharmacie	experience
+.	O
+Vous	hard skills
+êtes	hard skills
+à	hard skills
+l'aise	hard skills
+avec	hard skills
+le	hard skills
+Pack	hard skills
+Office	hard skills
+et	hard skills
+avec	hard skills
+un	hard skills
+logiciel	hard skills
+de	hard skills
+gestion	hard skills
+des	hard skills
+stocks	hard skills
+pharmaceutique	hard skills
+.	O
+Une	O
+expérience	experience
+en	experience
+milieu	experience
+hospitalier	experience
+est	experience
+préférable	experience
+.	O
+Vous	soft skills
+êtes	soft skills
+rigoureux	soft skills
+,	O
+méthodique	soft skills
+et	soft skills
+force	soft skills
+de	soft skills
+proposition	soft skills
+et	soft skills
+vous	soft skills
+possédez	soft skills
+un	soft skills
+bon	soft skills
+sens	soft skills
+relationnel	soft skills
+.	O
+Le	
+salaire	
+est	O
+fixé	O
+selon	O
+la	O
+convention	O
+applicable	O
+au	O
+sein	O
+de	O
+la	O
+structure	O
+et	O
+selon	O
+votre	O
+expérience	O
+.	O
+Merci	O
+de	O
+nous	O
+adresser	O
+votre	O
+CV	O
+,	O
+votre	O
+lettre	O
+de	O
+motivation	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

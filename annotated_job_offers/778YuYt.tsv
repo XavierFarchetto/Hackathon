@@ -1,0 +1,250 @@
+Business	position
+Developer	position
+/	O
+Commercial	position
+-LRB-	O
+H/F	O
+-RRB-	O
+110	company
+pourcent	company
+-	O
+Paris	city
+8e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+55	salary
+0	salary
+$	salary
+-	O
+75	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Freelance	O
+/	O
+Indépendant	O
+Votre	O
+Mission	O
+:	O
+Développement	hard skills
+Commercial	hard skills
+sur	hard skills
+le	hard skills
+secteur	hard skills
+de	hard skills
+l'Ile	hard skills
+de	hard skills
+France	hard skills
+:	O
+-	O
+Mise	hard skills
+en	hard skills
+place	hard skills
+d'un	hard skills
+discours	hard skills
+commercial	hard skills
+-	
+Ciblage	hard skills
+prospects	hard skills
+-	
+Prospection	hard skills
+téléphonique	hard skills
+,	O
+Prise	hard skills
+de	hard skills
+Rendez-vous	hard skills
+Clients	hard skills
+-	O
+Développement	hard skills
+et	hard skills
+gestion	hard skills
+de	hard skills
+votre	hard skills
+portefeuille	hard skills
+clients	hard skills
+-	O
+Effectuer	hard skills
+les	hard skills
+Rendez-vous	hard skills
+clients	hard skills
+-	
+Conseiller	hard skills
+et	hard skills
+Evaluer	hard skills
+les	hard skills
+besoins	hard skills
+des	hard skills
+clients	hard skills
+en	hard skills
+termes	hard skills
+de	hard skills
+recrutement	hard skills
+-	O
+Closing	hard skills
+des	hard skills
+deals	hard skills
+-	O
+Mise	hard skills
+à	hard skills
+jour	hard skills
+du	hard skills
+CRM	hard skills
+-	
+Reportings	hard skills
+Profil	O
+Recherché	O
+:	O
+Vous	soft skills
+êtes	soft skills
+un	soft skills
+``	O
+Chasseur	soft skills
+dans	soft skills
+l'âme	soft skills
+''	O
+,	O
+vous	soft skills
+avez	soft skills
+l'esprit	soft skills
+Start-up	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+efficace	soft skills
+,	O
+vous	soft skills
+aimez	soft skills
+les	soft skills
+challenges	soft skills
+,	O
+votre	soft skills
+but	soft skills
+:	
+Dépasser	soft skills
+les	soft skills
+objectifs	soft skills
+!	O
+Vous	soft skills
+possédez	soft skills
+d'excellentes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+,	O
+vous	soft skills
+faîtes	soft skills
+preuve	soft skills
+de	soft skills
+ténacité	soft skills
+,	O
+de	soft skills
+réactivité	soft skills
+,	O
+de	soft skills
+méthodologie	soft skills
+de	soft skills
+travail	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+et	soft skills
+vous	soft skills
+êtes	soft skills
+capable	soft skills
+de	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+en	soft skills
+autonomie	soft skills
+,	
+Le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+,	O
+l'écoute	soft skills
+,	
+l'aspect	soft skills
+humain	soft skills
+font	
+parties	
+intégrantes	O
+de	O
+vos	O
+valeurs	O
+.	O
+Vous	experience
+justifiez	experience
+de	experience
+deux	experience
+années	experience
+d'expérience	experience
+réussie	experience
+minimum	experience
+dans	experience
+une	experience
+fonction	experience
+similaire	experience
+,	
+idéalement	experience
+au	experience
+sein	experience
+d'un	experience
+Cabinet	experience
+de	experience
+Recrutement	experience
+ou	experience
+d'une	experience
+Start-Up	experience
+.	O
+Nous	O
+vous	O
+proposons	O
+:	O
+De	O
+très	O
+bonnes	O
+conditions	O
+de	O
+travail	O
+,	O
+une	O
+rémunération	O
+motivante	O
++	O
+téléphone	O
+et	O
+ordinateur	O
+portable	O
+.	O
+Possibilité	O
+d'évolution	O
+sur	O
+un	O
+CDI	contrat_type
+.	O
+Type	O
+d'emploi	O
+:	O
+Freelance	contrat_type
+/	
+Indépendant	contrat_type
+Salaire	O
+:	O
+55	salary
+0	salary
+$	salary
+à	O
+75	salary
+0	salary
+$	salary
+/	O
+an	salary

@@ -1,0 +1,288 @@
+Technicien	position
+contrôle	position
+qualité	position
+/	O
+production	position
+pharmaceutique	position
+H/F	O
+Advanced	company
+Accelerator	company
+Applications	company
+-	O
+Marseille	city
+5e	city
+-LRB-	O
+13	code postal
+-RRB-	O
+CDI	contrat_type
+Nous	O
+recrutons	O
+aujourd	O
+`	O
+hui	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+Contrôle	position
+Qualité	position
+/	O
+Production	position
+Pharmaceutique	position
+pour	O
+notre	O
+site	O
+de	O
+Marseille	city
+-LRB-	O
+13	city
+-RRB-	O
+dans	O
+le	O
+cadre	O
+d'un	O
+contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+indéterminée	contrat_type
+.	O
+Poste	O
+et	O
+missions	O
+:	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Pharmacien	O
+de	O
+Production	O
+,	O
+vous	hard skills
+assurez	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:	O
+Réaliser	hard skills
+la	hard skills
+fabrication	hard skills
+des	hard skills
+produits	hard skills
+pharmaceutiques	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+Bonnes	hard skills
+Pratiques	hard skills
+de	hard skills
+Fabrication	hard skills
+et	hard skills
+des	hard skills
+procédures	hard skills
+.	
+Piloter	hard skills
+le	hard skills
+cyclotron	hard skills
+Préparer	hard skills
+les	hard skills
+isolateurs	hard skills
+en	hard skills
+vue	hard skills
+des	hard skills
+opérations	hard skills
+de	hard skills
+synthèse	hard skills
+et	hard skills
+de	hard skills
+répartition	hard skills
+aseptique	hard skills
+.	
+Réaliser	hard skills
+les	hard skills
+activités	hard skills
+de	hard skills
+contrôle	hard skills
+qualité	hard skills
+Etre	hard skills
+responsable	hard skills
+de	hard skills
+l'expédition	hard skills
+des	hard skills
+matières	hard skills
+radioactives	hard skills
+.	
+Participer	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+matières	hard skills
+premières	hard skills
+.	
+Participer	hard skills
+à	hard skills
+l'entretien	hard skills
+de	hard skills
+la	hard skills
+zone	hard skills
+d'atmosphère	hard skills
+contrôlée	hard skills
+-LRB-	O
+ZAC	hard skills
+-RRB-	O
+.	O
+Travail	hard skills
+posté	hard skills
+-LRB-	O
+travail	hard skills
+sur	hard skills
+cycles	hard skills
+alternés	hard skills
+de	hard skills
+jour	hard skills
+et	hard skills
+de	hard skills
+nuit	hard skills
+-RRB-	O
+.	O
+Profil	O
+:	O
+De	O
+formation	O
+Bac	experience
+2	experience
+/	O
+Bac	experience
+3	experience
+Chimie	experience
+ou	experience
+Mesures	experience
+Physiques	experience
+,	
+vous	experience
+avez	experience
+acquis	experience
+des	experience
+notions	experience
+de	experience
+base	experience
+en	experience
+Radioprotection	experience
+,	O
+Bonnes	experience
+Pratiques	experience
+de	experience
+Fabrication	experience
+et	experience
+en	experience
+Contrôle	experience
+Qualité	experience
+-LRB-	O
+CCM	experience
+,	O
+HPLC	experience
+...	O
+-RRB-	O
+.	O
+Vous	soft skills
+êtes	soft skills
+un	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+homme/femme	soft skills
+de	soft skills
+terrain	soft skills
+et	soft skills
+appréciez	soft skills
+évoluer	soft skills
+dans	soft skills
+des	soft skills
+environnements	soft skills
+dynamiques	soft skills
+.	O
+La	experience
+maîtrise	experience
+de	experience
+Word	experience
+et	experience
+Excel	experience
+est	
+indispensable	O
+et	O
+des	O
+connaissances	experience
+en	experience
+anglais	experience
+seront	O
+un	O
+atout	O
+supplémentaire	O
+.	O
+Travailler	O
+pour	O
+AAA	O
+vous	O
+donnerait	O
+l'opportunité	O
+de	O
+faire	O
+évoluer	O
+votre	O
+savoir-faire	O
+et	O
+de	O
+poursuivre	O
+une	O
+carrière	O
+scientifique	O
+dans	O
+une	O
+société	O
+de	O
+haute	O
+technologie	O
+en	O
+forte	O
+croissance	O
+.	O
+Si	O
+vous	O
+êtes	O
+intéressé	O
+-LRB-	O
+e	O
+-RRB-	O
+merci	O
+d'envoyer	O
+vos	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

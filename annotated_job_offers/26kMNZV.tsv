@@ -1,0 +1,123 @@
+ASSISTANT	position
+DE	position
+VIE	position
+AUX	position
+FAMILLES	position
+H/F	O
+VITASSISTANCE	company
+-	O
+Pontault-Combault	city
+-LRB-	
+77	code postal
+-RRB-	O
+CDI	contrat_type
+Des	O
+Intervenants	O
+à	O
+domicile	O
+H/F	O
+à	O
+temps	
+plein	
+ou	
+temps	
+partiel	
+en	O
+CDI	contrat_type
+!	O
+Vous	O
+assurerez	O
+en	O
+toute	hard skills 
+autonomie	hard skills 
+l'entretien	hard skills 
+de	hard skills 
+domicile	hard skills 
+,	O
+l'accompagnement	hard skills 
+de	hard skills 
+personnes	hard skills 
+âgées	hard skills 
+ou	O
+en	hard skills 
+situation	hard skills 
+de	hard skills 
+handicap	hard skills 
+au	hard skills 
+sein	hard skills 
+des	hard skills 
+bénéficiaires	hard skills 
+de	
+notre	
+agence	
+.	O
+Les	O
+missions	O
+qui	O
+vous	O
+seront	O
+confiées	O
+dépendront	O
+de	O
+votre	O
+disponibilité	hard skills 
+,	hard skills 
+de	hard skills 
+votre	hard skills 
+mobilité	hard skills 
+,	O
+de	hard skills 
+votre	hard skills 
+expérience	hard skills 
+et	hard skills 
+de	hard skills 
+vos	hard skills 
+qualifications	hard skills 
+.	O
+Types	O
+d'interventions	O
+:	O
+-	O
+Ménage	soft skills
+,	O
+entretien	soft skills
+du	soft skills
+linge	soft skills
+,	O
+repassage	soft skills
+-	O
+Élaboration	soft skills
+et	soft skills
+préparation	soft skills
+de	soft skills
+repas	soft skills
+-	O
+Accompagnement	soft skills
+de	soft skills
+public	soft skills
+fragile	soft skills
+livraison	soft skills
+de	soft skills
+courses	soft skills
+animation	soft skills
+:	O
+mise	soft skills
+en	soft skills
+place	soft skills
+d'activités	soft skills
+,	
+sorties	soft skills
+,	
+loisirs	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills 
+B	hard skills 

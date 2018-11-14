@@ -1,0 +1,334 @@
+Employée	position
+de	position
+maison	position
+familiale	position
+-	O
+38	company
+heures	company
+hebdo	company
+Tidoudou	company
+-	O
+Paris	city
+17e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+1	salary
+400	salary
+$	salary
+-	O
+1	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+Une	O
+de	O
+nos	O
+familles	O
+résidant	O
+dans	O
+le	O
+17ème	O
+arrondissement	O
+de	O
+Paris	O
+recherche	O
+une	position
+gouvernant	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+maison	position
+H/F	O
+afin	O
+de	O
+prendre	O
+son	O
+poste	O
+dès	O
+septembre	O
+2017	O
+.	O
+La	O
+famille	O
+est	O
+composée	O
+de	O
+deux	O
+adultes	O
+et	O
+trois	O
+enfants	O
+âgés	O
+de	O
+8	O
+,	O
+11	O
+et	O
+13	O
+ans	O
+.	O
+Tâches	O
+et	O
+responsabilités	O
+:	O
+-	O
+préparer	hard skills
+les	hard skills
+déjeuners	hard skills
+des	hard skills
+enfants	hard skills
+et	hard skills
+dîners	hard skills
+de	hard skills
+la	hard skills
+famille	hard skills
+-	hard skills
+aller	hard skills
+chercher	hard skills
+le	hard skills
+benjamin	hard skills
+à	hard skills
+l'école	hard skills
+le	hard skills
+midi	hard skills
+et	hard skills
+le	hard skills
+raccompagner	hard skills
+après	hard skills
+le	hard skills
+déjeuner	hard skills
+-	hard skills
+assurer	hard skills
+la	hard skills
+sortie	hard skills
+d'école	hard skills
+de	hard skills
+l'enfant	hard skills
+de	hard skills
+8	hard skills
+ans	hard skills
+-	hard skills
+accompagnement	hard skills
+des	hard skills
+enfants	hard skills
+à	hard skills
+diverses	hard skills
+activités	hard skills
+extra	hard skills
+scolaires	hard skills
+-LRB-	
+le	hard skills
+mercredi	hard skills
+-RRB-	O
+-	hard skills
+entretenir	hard skills
+quotidiennement	hard skills
+l'appartement	hard skills
+et	hard skills
+plus	hard skills
+minutieusement	hard skills
+en	hard skills
+fin	hard skills
+de	hard skills
+semaine	hard skills
+-	hard skills
+étendre	hard skills
+le	hard skills
+linge	hard skills
+,	
+repassage	hard skills
+et	hard skills
+rangement	hard skills
+des	hard skills
+vêtements	hard skills
+de	hard skills
+la	hard skills
+famille	hard skills
+-	hard skills
+réceptionner	hard skills
+les	hard skills
+livraisons	hard skills
+de	hard skills
+courses	hard skills
+-	hard skills
+effectuer	hard skills
+quelques	hard skills
+courses	hard skills
+d'agrément	hard skills
+Le	
+poste	
+ne	
+requiert	
+pas	O
+de	O
+suivi	O
+scolaire	O
+des	O
+enfants	O
+.	O
+Profil	O
+recherché	O
+:	O
+-	O
+expérience	experience
+similaire	experience
+confirmée	experience
+-	
+bon	soft skills
+esprit	soft skills
+et	soft skills
+fiabilité	soft skills
+-	O
+dynamisme	soft skills
+et	soft skills
+discrétion	soft skills
+-	O
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+-	
+autonomie	soft skills
+et	soft skills
+prise	soft skills
+d'initiatives	soft skills
+-	O
+respect	soft skills
+des	soft skills
+horaires	soft skills
+-	O
+communication	soft skills
+avec	soft skills
+les	soft skills
+enfants	soft skills
+et	soft skills
+les	soft skills
+parents	soft skills
+Horaires	
+:	O
+Période	O
+scolaire	O
+:	O
+lundi	O
+,	O
+mardi	O
+,	O
+jeudi	O
+et	O
+vendredi	O
+de	O
+11h00	O
+à	O
+18h45	O
+et	O
+le	O
+mercredi	O
+de	O
+8h30	O
+à	O
+18h45	O
+Vacances	O
+scolaires	O
+:	O
+6	O
+semaines	O
+par	O
+an	O
+du	O
+lundi	O
+au	O
+vendredi	O
+de	O
+8h30	O
+à	O
+18h45	O
+.	O
+Salaire	O
+:	O
+A	O
+négocier	O
+entre	O
+1400	salary
+et	O
+1500	salary
+euros	salary
+nets	salary
+mensuels	salary
++	salary
+50	salary
+%	salary
+du	salary
+titre	salary
+de	salary
+transport	salary
+Congés	salary
+payés	salary
+:	O
+10	O
+semaines	O
+par	O
+an	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+400	salary
+$	salary
+à	O
+1	salary
+500	salary
+$	salary
+/	
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+75017	postal code
+Paris	city
+17e	city
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	
+niveau	experience
+Bac	experience
+-RRB-	
+Expérience	O
+exigée	O
+:	O
+employé	experience
+-LRB-	
+e	experience
+-RRB-	O
+familiale	experience
+,	O
+femme/homme	experience
+de	experience
+ménage	experience
+,	O
+chez	experience
+des	experience
+particuliers	experience
+ou	experience
+en	experience
+hôtellerie	experience
+de	experience
+luxe	experience
+:	O
+2	experience
+ans	experience

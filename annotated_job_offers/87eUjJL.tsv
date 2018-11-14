@@ -1,0 +1,163 @@
+Electricien	position
+en	position
+bâtiment	position
+SOLAR	company
+TECHNIC	company
+ELEC	company
+-	O
+Lorris	city
+-LRB-	O
+45	code postal
+-RRB-	O
+1	salary
+200	salary
+$	salary
+-	O
+1	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Nous	O
+recherchons	O
+un	position
+électricien	position
+H/F	O
+.	O
+Vous	hard skills
+serez	hard skills
+chargé	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+de	hard skills
+réaliser	hard skills
+des	hard skills
+travaux	hard skills
+d'installations	hard skills
+et	hard skills
+de	hard skills
+mises	hard skills
+en	hard skills
+services	hard skills
+des	hard skills
+équipements	hard skills
+électrique	hard skills
+dans	hard skills
+des	hard skills
+bâtiments	hard skills
+à	hard skills
+usage	hard skills
+domestique	hard skills
+,	
+tertiaire	hard skills
+et	hard skills
+industriel	hard skills
+selon	hard skills
+les	hard skills
+réglementations	hard skills
+de	hard skills
+sécurité	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+de	soft skills
+l'expérience	soft skills
+afin	soft skills
+de	soft skills
+travailler	soft skills
+seul	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+ou	soft skills
+en	soft skills
+équipe	soft skills
+sur	soft skills
+des	soft skills
+chantiers	soft skills
+chez	soft skills
+des	soft skills
+particuliers	soft skills
+ou	soft skills
+en	soft skills
+entreprise	soft skills
+.	
+Compétences	O
+du	O
+poste	O
+:	O
+-	O
+Fixer	hard skills
+des	hard skills
+éléments	hard skills
+de	hard skills
+basse	hard skills
+tension	hard skills
+,	O
+-	
+Positionner	hard skills
+une	hard skills
+armoire	hard skills
+électrique	hard skills
+de	hard skills
+locaux	hard skills
+domestiques	hard skills
+ou	hard skills
+tertiaires	hard skills
+,	
+-	O
+Raccorder	hard skills
+une	hard skills
+armoire	hard skills
+électrique	hard skills
+aux	hard skills
+équipements	hard skills
+de	hard skills
+locaux	hard skills
+domestiques	hard skills
+ou	hard skills
+tertiaires	hard skills
+,	O
+-	O
+Réaliser	hard skills
+et	hard skills
+poser	hard skills
+des	hard skills
+chemins	hard skills
+de	hard skills
+câbles	hard skills
+et	hard skills
+des	hard skills
+conduits	hard skills
+électriques	hard skills
+en	hard skills
+apparent	hard skills
+ou	hard skills
+en	hard skills
+encastré	hard skills
+...	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+200	salary
+$	salary
+à	O
+1	salary
+400	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+exigée	O
+:	O
+électricité	experience
+:	O
+2	experience
+ans	experience

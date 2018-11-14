@@ -1,0 +1,126 @@
+chauffeur	position
+de	position
+car	position
+PARKER	company
+INTERIM	company
+-	O
+Saint-Fargeau-Ponthierry	city
+-LRB-	O
+77	postal code
+-RRB-	O
+12	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+de	position
+plusieurs	position
+conducteurs	position
+de	position
+cars	position
+-LRB-	O
+H/F	O
+-RRB-	O
+,	O
+pour	O
+l'un	O
+de	O
+nos	O
+clients	O
+situé	O
+à	O
+st	city
+Fargeau	city
+-LRB-	O
+77	postal code
+-RRB-	O
+Profil	O
+:	O
+o	O
+Expérience	experience
+:	
+1	experience
+an	experience
+o	experience
+Diplôme	experience
+:	O
+chauffeur	experience
+de	experience
+bus	experience
+-LRB-	
+fimo	experience
++	experience
+carte	experience
+conducteur	experience
++	experience
+permis	experience
+D	experience
+-RRB-	O
+à	experience
+jour	experience
+o	O
+Connaissance	
+spécifique	
+:	O
+conduite	O
+o	O
+Qualités	O
+:	O
+souriant	soft skills
+,	O
+ponctuel	soft skills
+";"	O
+bonne	soft skills
+présentation	soft skills
+Missions	O
+:	O
+o	O
+Conduire	hard skills
+des	hard skills
+lignes	hard skills
+régulières	hard skills
+de	hard skills
+voyageurs	hard skills
+,	
+encaisser	hard skills
+les	hard skills
+clients	hard skills
+Horaire	
+:	O
+une	O
+vacationSalaire	O
+:	O
+11.85	salary
+$	salary
+Dispo	O
+:	O
+de	O
+suiteContrat	O
+en	O
+Intérim	contrat_type
+Un	hard skills
+moyen	hard skills
+de	hard skills
+locomotion	hard skills
+est	hard skills
+indispensable	hard skills
+pour	hard skills
+rejoindre	hard skills
+le	hard skills
+dépôt	hard skills
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+12	salary
+$	salary
+/	O
+heure	salary

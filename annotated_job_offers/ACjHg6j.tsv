@@ -1,0 +1,78 @@
+Prothésiste	position
+dentaire	position
+en	position
+adjointe	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Techno-Dental	company
+-	O
+Lieusaint	city
+cires	city
+77	postal code
+-RRB-	O
+CDI	contrat_type
+Laboratoire	O
+situé	O
+à	O
+Lieusaint	city
+-LRB-	O
+77	postal code
+-RRB-	O
+cherche	O
+prothésiste	position
+dentaire	position
+H/F	O
+en	O
+secteur	O
+adjointe	O
+.	O
+Vous	hard skills
+effectuerez	hard skills
+les	hard skills
+montages	hard skills
+,	
+finitions	hard skills
+,	O
+PEI	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+cires	hard skills
+et	hard skills
+réparations	hard skills
+.	
+La	hard skills
+maitrise	hard skills
+des	hard skills
+crochets	hard skills
+acétal	hard skills
+et	hard skills
+Valplast	hard skills
+serait	O
+un	O
+plus.Expérience	experience
+requise	experience
+,	O
+minimum	experience
+5	experience
+ans	experience
+.	O
+Salaire	O
+selon	O
+compétences.Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+adjointe	experience
+:	O
+2	experience
+ans	experience

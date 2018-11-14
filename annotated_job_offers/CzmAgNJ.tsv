@@ -1,0 +1,176 @@
+Gestionnaire	position
+de	position
+stocks	position
+h/f	O
+Pierre	company
+Hermé	company
+Paris	company
+-	
+Paris	city
+-LRB-	
+75	postal code
+-RRB-	O
+Missions	O
+:	O
+-	O
+Réception	hard skills
+et	hard skills
+contrôle	hard skills
+des	hard skills
+livraisons	hard skills
+de	hard skills
+marchandises	hard skills
+-	hard skills
+remontée	hard skills
+des	hard skills
+anomalies	hard skills
+-	hard skills
+Réassort	hard skills
+,	hard skills
+suivi	hard skills
+et	hard skills
+rangement	hard skills
+des	hard skills
+stocks	hard skills
+-LRB-	hard skills
+réception	hard skills
+,	hard skills
+vérification	hard skills
+et	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+produits	hard skills
+en	hard skills
+stock	hard skills
+-RRB-	
+,	O
+passation	hard skills
+des	hard skills
+commandes	hard skills
+,	hard skills
+inventaires	hard skills
+-	O
+Organisation	hard skills
+optimale	hard skills
+de	hard skills
+l'espace	hard skills
+de	hard skills
+stockage	hard skills
+-	O
+Suivi	hard skills
+des	hard skills
+commandes	hard skills
+-LRB-	
+validation	hard skills
+des	hard skills
+commandes	hard skills
+reçues	hard skills
+/	hard skills
+calcul	hard skills
+de	hard skills
+la	hard skills
+quantité	hard skills
+des	hard skills
+marchandises	hard skills
+à	hard skills
+commander	hard skills
+selon	hard skills
+les	hard skills
+besoins	hard skills
+/	hard skills
+saisie	hard skills
+des	hard skills
+commandes	hard skills
+à	hard skills
+venir	hard skills
+après	hard skills
+validation	hard skills
+des	hard skills
+responsables	hard skills
+-RRB-	O
+-	O
+Entretien	hard skills
+,	hard skills
+maintenance	hard skills
+et	hard skills
+nettoyage	hard skills
+des	hard skills
+espaces	hard skills
+de	hard skills
+stockage	hard skills
+-	hard skills
+Détection	hard skills
+des	hard skills
+problèmes	hard skills
+de	hard skills
+stockage	hard skills
+,	hard skills
+de	hard skills
+livraison	hard skills
+et	hard skills
+d'approvisionnement	hard skills
+-	hard skills
+Interlocuteur	hard skills
+du	hard skills
+service	hard skills
+logistique	hard skills
+pour	hard skills
+les	hard skills
+corners	hard skills
+GLH	hard skills
+Profil	
+:	O
+-	O
+Maîtrise	hard skills
+des	hard skills
+outils	hard skills
+bureautiques	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+-RRB-	
+-	O
+Maitrise	hard skills
+des	hard skills
+techniques	hard skills
+de	hard skills
+stockage	hard skills
+-LRB-	O
+délai	
+de	
+stockage	
+selon	
+les	
+types	
+de	
+produits	
+,	O
+conditionnement	O
+de	O
+chaque	O
+produit	O
+-RRB-	O
+-	O
+Capacité	soft skills
+d'anticipation	soft skills
+-	O
+Autonomie	soft skills
+et	soft skills
+réactivité	soft skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+Gestion	experience
+De	experience
+Stock	experience
+:	O
+1	experience
+an	experience

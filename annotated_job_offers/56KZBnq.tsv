@@ -1,0 +1,284 @@
+Technicien	position
+Support	company
+Hotline	company
+Niveau	company
+1	company
+-LRB-	O
+H/F	O
+-RRB-	O
+dormakaba	
+France	O
+-	O
+Le	city
+Mesnil-Saint-Denis	city
+-LRB-	
+78	code postal
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	O
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Le	
+poste	O
+à	O
+pourvoir	O
+Dans	O
+le	O
+cadre	O
+d'un	O
+remplacement	O
+en	O
+CDI	contrat_type
+-LRB-	O
+Technicien	position
+-	O
+37	O
+heures	O
+-RRB-	O
+au	O
+sein	O
+de	O
+l'équipe	O
+support	company
+Hotline	company
+sur	O
+le	O
+site	O
+du	O
+Mesnil	city
+Saint	city
+Denis	city
+.	O
+Principales	O
+missions	O
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+:	O
+-	
+Assurer	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+clients	hard skills
+dans	hard skills
+les	hard skills
+délais	hard skills
+fixés	hard skills
+par	hard skills
+les	hard skills
+contrats	hard skills
+de	hard skills
+maintenance	hard skills
+.	
+-	
+Effectuer	hard skills
+le	hard skills
+diagnostic	hard skills
+et/ou	hard skills
+le	hard skills
+dépannage	hard skills
+à	hard skills
+distance	hard skills
+.	
+-	O
+Définir	hard skills
+les	hard skills
+moyens	hard skills
+nécessaires	hard skills
+à	hard skills
+la	hard skills
+résolution	hard skills
+.	
+-	O
+Déclencher	hard skills
+si	hard skills
+besoin	hard skills
+l'envoi	hard skills
+de	hard skills
+matériel	hard skills
+et/ou	hard skills
+l'intervention	hard skills
+sur	hard skills
+site	hard skills
+d'un	hard skills
+technicien	hard skills
+.	O
+-	O
+Enregistrer	hard skills
+les	hard skills
+informations	hard skills
+sur	hard skills
+le	hard skills
+progiciel	hard skills
+afin	hard skills
+de	hard skills
+constituer	hard skills
+un	hard skills
+historique	hard skills
+et	hard skills
+assurer	hard skills
+un	hard skills
+suivi	hard skills
+détaillé	hard skills
+du	hard skills
+client	hard skills
+.	O
+-	O
+Informer	hard skills
+le	hard skills
+client	hard skills
+du	hard skills
+délai	hard skills
+et	hard skills
+des	hard skills
+solutions	hard skills
+apportés	hard skills
+au	hard skills
+problème	hard skills
+signalé	hard skills
+.	O
+-	O
+Assurer	hard skills
+un	hard skills
+support	hard skills
+Niveau	hard skills
+1	hard skills
+pour	hard skills
+les	hard skills
+techniciens	hard skills
+intervenants	hard skills
+.	O
+-	O
+Assurer	hard skills
+ponctuellement	hard skills
+des	hard skills
+tâches	hard skills
+de	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+et	hard skills
+prestations	hard skills
+technique	hard skills
+.	O
+Spécificités	
+du	
+poste	
+:	O
+Amplitude	
+jours	
+travaillés	
+:	O
+du	
+lundi	
+au	O
+samedi	O
+*	O
+Travail	O
+sur	O
+certains	O
+jours	O
+fériés	O
+*	O
+Astreinte	O
+Salaire	O
+fixe	O
++	O
+prime	O
+objectif	O
+Profil	O
+recherché	O
+Vous	O
+disposez	O
+:	O
+De	hard skills
+bonnes	hard skills
+connaissances	hard skills
+des	hard skills
+environnements	hard skills
+Microsoft	hard skills
+Windows	hard skills
+.	O
+*	O
+De	hard skills
+connaissances	hard skills
+des	hard skills
+environnements	hard skills
+UNIX	hard skills
+&	hard skills
+LINUX	hard skills
+.	O
+*	O
+De	hard skills
+connaissances	hard skills
+Réseau	hard skills
+TCP/IP	hard skills
+et	hard skills
+Administrations	hard skills
+des	hard skills
+périphériques	hard skills
+sur	hard skills
+environnements	hard skills
+Windows	hard skills
+,	
+Unix	hard skills
+,	O
+Linux	hard skills
+*	O
+D'un	hard skills
+bon	hard skills
+niveau	hard skills
+d'anglais	hard skills
+*	O
+Du	hard skills
+Permis	hard skills
+B	hard skills
+et	hard skills
+d'un	hard skills
+véhicule	hard skills
+personnel	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+20	salary
+0	salary
+$	salary
+à	O
+25	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+78320	code postal
+Le	city
+Mesnil-Saint-Denis	city
+Expérience	
+exigée	O
+:	O
+UNIX	experience
+&	experience
+LINUX	experience
+&	experience
+MICROSOFT	experience
+WINDOW	experience
+:	O
+1	experience
+an	experience

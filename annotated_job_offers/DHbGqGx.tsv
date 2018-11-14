@@ -1,0 +1,201 @@
+VENDEUR	position
+-LRB-	O
+SE	position
+-RRB-	O
+BAGAGISTE	position
+FSB	company
+SERVICE	company
+SARL	company
+-	O
+Aéroport	O
+Paris-Roissy-Charles-de-Gaulle	city
+-LRB-	O
+95	postal code
+-RRB-	O
+CDD	contrat_type
+Société	O
+implantée	O
+à	O
+l'international	O
+,	O
+dans	O
+les	O
+plus	O
+grands	O
+aéroports	O
+européens	O
+recherche	O
+pour	O
+son	O
+aéroport	O
+de	O
+Roissy	city
+CDG	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+bagagiste	position
+--	O
+vendeur	position
+-LRB-	O
+se	position
+-RRB-	O
+de	position
+prestations	position
+de	position
+service.Le	position
+futur	hard skills
+collaborateur	hard skills
+-LRB-	O
+H/F	O
+-RRB-	O
+devra	hard skills
+vendre	hard skills
+des	hard skills
+prestations	hard skills
+de	hard skills
+confort	hard skills
+aux	hard skills
+voyageurs	hard skills
+tels	hard skills
+que	hard skills
+des	hard skills
+cadenas	hard skills
+,	
+une	hard skills
+traçabilité	hard skills
+du	hard skills
+bagage	hard skills
+,	O
+des	hard skills
+emballages	hard skills
+pour	hard skills
+bagages.La	hard skills
+manipulation	hard skills
+régulière	hard skills
+de	hard skills
+bagages	hard skills
+pouvant	hard skills
+peser	hard skills
+entre	hard skills
+20kg	hard skills
+et	hard skills
+32	hard skills
+kg	hard skills
+est	hard skills
+requise	hard skills
+afin	hard skills
+de	hard skills
+filmer	hard skills
+les	hard skills
+bagages.La	hard skills
+connaissance	hard skills
+d'une	hard skills
+troisième	hard skills
+langue	hard skills
+étrangère	hard skills
+sera	hard skills
+appréciée.A	hard skills
+compétences	hard skills
+égales	hard skills
+,	O
+priorité	hard skills
+aux	hard skills
+travailleurs	hard skills
+handicapés	hard skills
+et	hard skills
+autres	hard skills
+bénéficiaires	hard skills
+de	hard skills
+l'obligation	hard skills
+d'emploi	
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+.	O
+Plage	O
+horaire	O
+:	O
+05:00	O
+-	O
+22h30	O
+.	O
+Disponibilité	hard skills
+requise	hard skills
+.	O
+Package	
+:	O
+fixe	
++	
+commission	
++	
+mutuelle	
++	O
+primes	O
+repas	O
++	O
+50	O
+%	O
+du	O
+titre	O
+transport	O
+ou	O
+carte	O
+parking	O
+.	O
+Pour	O
+postuler	O
+,	O
+merci	O
+de	O
+contacter	O
+le	O
+numéro	O
+suivant	O
+:	O
+7	O
+81	O
+61	O
+19	O
+14	O
+du	O
+lundi	O
+au	O
+jeudi	O
+entre	O
+9h	O
+et	O
+17h	O
+afin	O
+de	O
+procéder	O
+à	O
+un	O
+premier	O
+entretien	O
+téléphonique	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Type	O
+d'emploi	O
+:	
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+vente	experience
+:	O
+1	experience
+an	experience

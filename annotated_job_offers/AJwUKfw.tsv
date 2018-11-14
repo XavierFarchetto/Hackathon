@@ -1,0 +1,250 @@
+employé	position
+de	position
+ménage	position
+servizen	company
+-	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+1	salary
+550	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Depuis	O
+2009	O
+,	O
+SERVIZEN	company
+,	O
+entreprise	O
+agréée	O
+par	O
+l'Etat	O
+,	O
+se	O
+consacre	O
+aux	O
+métiers	O
+des	O
+services	O
+à	O
+la	O
+personne	O
+avec	O
+une	O
+priorité	O
+``	O
+recentrer	O
+l'humain	O
+au	O
+cœur	O
+de	O
+nos	O
+activités	O
+''	O
+.	O
+Nous	O
+proposons	O
+diverses	O
+prestations	O
+telles	O
+que	O
+l'entretien	O
+du	O
+logement	O
+,	O
+la	O
+garde	O
+d'enfants	O
+,	O
+l'assistance	O
+de	O
+vie	O
+aux	O
+familles	O
+,	O
+le	O
+bricolage	O
+ou	O
+encore	O
+le	O
+jardinage.Pour	O
+répondre	O
+à	O
+la	O
+demande	O
+croissante	O
+de	O
+nos	O
+clients	O
+,	O
+nous	O
+recherchons	O
+plusieurs	position
+aide-ménager	position
+-LRB-	O
+ères	position
+-RRB-	O
+H/F	O
+.	O
+Date	O
+:	O
+Poste	O
+à	O
+pourvoir	O
+IMMEDIATEMENT	O
+Secteur	O
+:	O
+Grand	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+Conditions	O
+de	O
+travail	O
+:	O
+-	O
+CDI	contrat_type
+à	O
+temps	O
+plein	O
+de	O
+25	O
+heures	O
+minimum	O
+-	O
+Rémunération	O
+horaire	O
+brut	O
+:	O
+SMIC	O
+-	O
+Prime	O
+d'assiduité	O
++	O
+remboursement	O
+à	O
+hauteur	O
+de	O
+50	O
+%	O
+de	O
+l'abonnement	O
+de	O
+transport	O
+en	O
+commun	O
++	O
+mutuelle	O
++	O
+tickets	O
+restaurant	O
+-	O
+Missions	hard skills
+principales	hard skills
+:	O
+-	
+Entretien	hard skills
+du	hard skills
+logement	hard skills
+-	hard skills
+Entretien	hard skills
+du	hard skills
+linge	hard skills
+-	hard skills
+Aide	hard skills
+aux	hard skills
+courses	hard skills
+-	hard skills
+Elaboration	hard skills
+des	hard skills
+repas	hard skills
+.	
+Profil	O
+recherché	O
+:	O
+-	O
+Expérience	experience
+minimum	experience
+d'un	experience
+an	experience
+sur	experience
+le	experience
+même	experience
+type	experience
+de	experience
+poste	experience
+-	
+Formation	experience
+souhaitée	experience
+dans	experience
+les	experience
+arts	experience
+ménagers	experience
+Qualités	
+requises	O
+:	O
+-	O
+Assiduité	soft skills
+,	
+rigueur	soft skills
+,	
+dynamisme	soft skills
+,	O
+bonne	soft skills
+aisance	soft skills
+relationnelle	soft skills
+.	O
+Vous	soft skills
+vous	soft skills
+reconnaissez	soft skills
+au	soft skills
+travers	soft skills
+des	soft skills
+qualités	soft skills
+requises	soft skills
+et	soft skills
+avez	soft skills
+le	soft skills
+bon	soft skills
+profil	soft skills
+?	
+Rejoignez	O
+alors	O
+notre	O
+groupe	O
+,	O
+en	O
+plein	O
+essor	O
+avec	O
+l'assurance	O
+de	O
+missions	O
+régulières	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDISalaire	contrat_type
+:	O
+1	salary
+550	salary
+$	salary
+/	O
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	O
+1	experience
+an	experience

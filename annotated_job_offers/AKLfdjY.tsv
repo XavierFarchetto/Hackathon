@@ -1,0 +1,379 @@
+Graphiste	position
+junior	position
+COPY-TOP	company
+-	O
+Paris	city
+10e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+654	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Depuis	O
+40	O
+ans	O
+,	O
+COPY-TOP	company
+propose	O
+à	O
+sa	O
+clientèle	O
+de	O
+professionnels	O
+une	O
+large	O
+gamme	O
+de	O
+supports	O
+de	O
+communication	O
+-LRB-	O
+cartes	O
+de	O
+visites	O
+,	O
+flyers	O
+,	O
+affiches	O
+,	O
+dossiers	O
+,	O
+plaquettes	O
+,	O
+brochures	O
+,	O
+etc.	O
+-RRB-	O
+ainsi	O
+que	O
+des	O
+prestations	O
+graphiques	O
+sur	O
+mesure	O
+,	O
+dans	O
+le	O
+respect	O
+de	O
+la	O
+qualité	O
+et	O
+des	O
+délais	O
+.	O
+Entreprise	O
+à	O
+taille	O
+humaine	O
+,	O
+COPY-TOP	company
+rassemble	O
+180	O
+collaborateurs	O
+passionnés	O
+et	O
+dédiés	O
+aux	O
+clients	O
+,	O
+à	O
+travers	O
+un	O
+réseau	O
+de	O
+38	O
+agences	O
+sur	O
+Paris	city
+,	O
+Lille	O
+,	O
+Lyon	O
+,	O
+Marseille	O
+et	O
+Nantes	O
+,	O
+un	O
+atelier	O
+d'imprimerie	O
+et	O
+un	O
+studio	O
+de	O
+création	O
+.	O
+Notre	O
+Siège	O
+Social	O
+recherche	O
+actuellement	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+:	O
+GRAPHISTE	position
+JUNIOR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CDI	contrat_type
+,	O
+temps	O
+plein	O
+,	O
+basé	O
+à	O
+Paris	city
+10e	city
+Au	O
+sein	O
+d'une	O
+équipe	O
+de	O
+5	O
+personnes	O
+,	O
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+principale	hard skills
+de	hard skills
+réaliser	hard skills
+et	hard skills
+décliner	hard skills
+l'ensemble	hard skills
+des	hard skills
+supports	hard skills
+de	hard skills
+communication	hard skills
+pour	hard skills
+nos	hard skills
+clients	hard skills
+,	O
+en	hard skills
+respectant	hard skills
+le	hard skills
+brief	hard skills
+.	
+Vous	hard skills
+travaillerez	hard skills
+sur	hard skills
+divers	hard skills
+documents	hard skills
+:	
+carte	hard skills
+de	hard skills
+visite	hard skills
+,	
+flyers	hard skills
+,	O
+plaquette	hard skills
+,	O
+brochure	hard skills
+,	O
+livre	hard skills
+,	O
+affiche	hard skills
+,	O
+etc.	
+.	O
+La	hard skills
+majorité	hard skills
+des	hard skills
+commandes	hard skills
+que	hard skills
+vous	hard skills
+traiterez	hard skills
+seront	hard skills
+en	hard skills
+``	hard skills
+exe	hard skills
+''	O
+et	hard skills
+en	hard skills
+print	hard skills
+-LRB-	
+mise	hard skills
+en	hard skills
+page	hard skills
+-RRB-	O
+.	O
+Vous	hard skills
+serez	hard skills
+également	hard skills
+garant	hard skills
+du	hard skills
+contrôle	hard skills
+qualité	hard skills
+de	hard skills
+vos	hard skills
+réalisations	hard skills
+-LRB-	
+vérification	hard skills
+,	O
+relecture	hard skills
+et	hard skills
+intégration	hard skills
+des	hard skills
+corrections	hard skills
+-RRB-	O
+avant	hard skills
+leur	hard skills
+envoi	hard skills
+en	hard skills
+agence	hard skills
+ou	hard skills
+chez	hard skills
+le	hard skills
+client	hard skills
+.	O
+Vous	experience
+disposez	experience
+d'une	experience
+première	experience
+expérience	experience
+souhaitée	experience
+en	experience
+tant	experience
+que	experience
+graphiste	experience
+.	O
+Vous	soft skills
+êtes	soft skills
+doté	soft skills
+-LRB-	
+e	soft skills
+-RRB-	
+de	soft skills
+réelles	soft skills
+capacités	soft skills
+de	soft skills
+production	soft skills
+.	
+Rigueur	soft skills
+,	O
+autonomie	soft skills
+et	soft skills
+adaptabilité	soft skills
+sont	soft skills
+des	soft skills
+qualités	soft skills
+essentielles	soft skills
+à	
+ce	
+poste	
+.	O
+Vous	soft skills
+êtes	soft skills
+capable	soft skills
+de	soft skills
+suivre	soft skills
+les	soft skills
+projets	soft skills
+avec	soft skills
+souplesse	soft skills
+et	soft skills
+réactivité	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+très	soft skills
+bon	soft skills
+niveau	soft skills
+d'orthographe	soft skills
+et	soft skills
+savez	soft skills
+identifier	soft skills
+les	soft skills
+erreurs	soft skills
+et	soft skills
+fautes	soft skills
+à	soft skills
+la	soft skills
+relecture	soft skills
+.	O
+Vous	soft skills
+possédez	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+et	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Des	O
+références	O
+sont	O
+exigées	O
+:	O
+book	hard skills
+,	O
+site	hard skills
+,	O
+ou	hard skills
+autre	hard skills
+support	hard skills
+de	hard skills
+présentation	hard skills
+.	O
+Compétences	
+requises	O
+:	O
+Connaissance	hard skills
+de	hard skills
+la	hard skills
+chaîne	hard skills
+graphique	hard skills
+Logiciels	hard skills
+:	O
+Illustrator	hard skills
+,	O
+Indesign	hard skills
+-LRB-	O
+impératif	hard skills
+-RRB-	O
+,	O
+Photoshop	hard skills
+et	hard skills
+Mac	hard skills
+OS	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+654	salary
+$	salary
+à	O
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+graphisme	experience
+:	O
+2	experience
+ans	experience

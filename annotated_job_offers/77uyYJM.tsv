@@ -1,0 +1,424 @@
+Conseiller	position
+-LRB-	O
+ère	position
+-RRB-	O
+Emploi	position
+Formation	position
+UNIFAF	company
+-	O
+Rennes	city
+-LRB-	O
+35	code postal
+-RRB-	O
+26	salary
+0	salary
+$	salary
+-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+UNIFAF	company
+,	O
+organisme	O
+paritaire	O
+collecteur	O
+agréé	O
+-LRB-	O
+OPCA	O
+-RRB-	O
+,	O
+chargé	O
+de	O
+l'accompagnement	O
+des	O
+structures	O
+du	O
+secteur	O
+sanitaire	O
+et	O
+social	O
+privé	O
+à	O
+but	O
+non-lucratif	O
+recherche	O
+:	O
+Un	position
+-LRB-	O
+e	position
+-RRB-	O
+Conseiller	position
+-LRB-	O
+ère	position
+-RRB-	O
+Emploi	position
+Formation	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+le	O
+service	O
+régional	O
+Bretagne	O
+--	O
+à	O
+Rennes	city
+CDD	O
+de	O
+12	O
+mois	O
+à	O
+temps	O
+plein	O
+Sous	O
+l'autorité	O
+de	O
+la	O
+responsable	O
+du	O
+pôle	O
+gestion-conseil	O
+et	O
+au	O
+sein	O
+d'une	O
+équipe	O
+d'une	O
+douzaine	O
+de	O
+collaborateurs	O
+,	O
+vous	hard skills
+êtes	hard skills
+chargé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+d'assurer	hard skills
+la	hard skills
+conduite	hard skills
+,	O
+le	hard skills
+suivi	hard skills
+et	hard skills
+l'aboutissement	hard skills
+de	hard skills
+projets	hard skills
+régionaux	hard skills
+sur	hard skills
+les	hard skills
+thèmes	hard skills
+de	hard skills
+l'emploi	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+formation	hard skills
+.	O
+Pour	
+cela	
+vous	
+procédez	hard skills
+:	O
+A	hard skills
+l'identification	hard skills
+des	hard skills
+besoins	hard skills
+en	hard skills
+accompagnement	hard skills
+RH	hard skills
+et	hard skills
+en	hard skills
+formation	hard skills
+des	hard skills
+adhérents	hard skills
+A	hard skills
+la	hard skills
+conception	hard skills
+des	hard skills
+projets	hard skills
+à	hard skills
+déployer	hard skills
+et	hard skills
+des	hard skills
+solutions	hard skills
+financières	hard skills
+à	hard skills
+mettre	hard skills
+en	hard skills
+œuvre	hard skills
+:	
+EDEC	hard skills
+,	O
+POEC	hard skills
+,	O
+prestation	hard skills
+RH	hard skills
+,	O
+actions	hard skills
+collectives	hard skills
+...	O
+Au	hard skills
+suivi	hard skills
+de	hard skills
+l'ingénierie	hard skills
+financière	hard skills
+et	hard skills
+administrative	hard skills
+des	hard skills
+dossiers	hard skills
+A	hard skills
+la	hard skills
+promotion	hard skills
+des	hard skills
+actions	hard skills
+et	hard skills
+des	hard skills
+projets	hard skills
+développés	hard skills
+A	hard skills
+l'entretien	hard skills
+des	hard skills
+dynamiques	hard skills
+partenariales	hard skills
+utiles	hard skills
+au	hard skills
+développement	hard skills
+de	hard skills
+ces	hard skills
+projets	hard skills
+Vous	hard skills
+intervenez	hard skills
+face	hard skills
+à	hard skills
+des	hard skills
+interlocuteurs	hard skills
+variés	hard skills
+-LRB-	
+équipes	O
+Unifaf	company
+régionale	O
+et	O
+nationale	O
+,	O
+organismes	O
+de	O
+formation	O
+,	O
+adhérents	O
+,	O
+partenaires	O
+institutionnels	O
+...	O
+-RRB-	O
+.	O
+Vous	soft skills
+êtes	soft skills
+capable	soft skills
+d'articuler	soft skills
+autonomie	soft skills
+et	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+d'assurer	soft skills
+une	soft skills
+information	soft skills
+régulière	soft skills
+aux	soft skills
+différents	soft skills
+collaborateurs	soft skills
+associés	soft skills
+à	soft skills
+ces	soft skills
+projets	soft skills
+.	
+Comme	O
+les	O
+autres	O
+membres	O
+de	O
+l'équipe	O
+,	O
+vous	O
+participez	hard skills
+activement	hard skills
+au	hard skills
+fonctionnement	hard skills
+du	hard skills
+service	hard skills
+régional	hard skills
+,	O
+êtes	hard skills
+amené	hard skills
+à	hard skills
+renseigner	hard skills
+les	hard skills
+adhérents	hard skills
+et	hard skills
+promouvoir	hard skills
+l'offre	hard skills
+de	hard skills
+services	hard skills
+d'Unifaf	hard skills
+.	O
+PROFIL	O
+Bac	experience
+4	experience
+ou	O
+5	experience
+en	experience
+Ingénierie	experience
+de	experience
+projets	experience
+/	O
+Ressources	experience
+Humaines	experience
+Spécialiste	experience
+de	experience
+la	experience
+gestion	experience
+de	experience
+projets	experience
+et/ou	experience
+de	experience
+partenariat	experience
+,	O
+disposant	experience
+de	experience
+bonnes	experience
+connaissances	experience
+sur	experience
+la	experience
+formation	experience
+professionnelle	experience
+continue	experience
+vous	O
+êtes	O
+en	O
+mesure	O
+d'accompagner	O
+nos	O
+adhérents	O
+sur	O
+des	O
+problématiques	O
+RH	O
+,	O
+emploi	O
+et	O
+compétences	O
+.	O
+Votre	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+,	
+associé	soft skills
+à	soft skills
+une	soft skills
+aptitude	soft skills
+à	soft skills
+créer	soft skills
+des	soft skills
+synergies	soft skills
+,	O
+sont	
+le	O
+gage	O
+de	O
+votre	O
+réussite	O
+sur	O
+ce	O
+poste	O
+.	O
+Vous	soft skills
+êtes	soft skills
+à	soft skills
+l'aise	soft skills
+avec	soft skills
+la	soft skills
+communication	soft skills
+,	O
+tant	soft skills
+orale	soft skills
+qu	soft skills
+'	
+écrite	soft skills
+,	O
+et	hard skills
+maniez	hard skills
+sans	hard skills
+difficulté	hard skills
+les	hard skills
+principaux	hard skills
+logiciels	hard skills
+bureautiques	hard skills
+-LRB-	O
+Word	hard skills
+,	O
+Excel	hard skills
+,	O
+Outlook	hard skills
+-RRB-	O
+.	O
+La	hard skills
+connaissance	hard skills
+du	hard skills
+secteur	hard skills
+sanitaire	hard skills
+,	O
+social	hard skills
+et	hard skills
+médico-social	hard skills
+n'est	hard skills
+pas	O
+indispensable	O
+mais	O
+serait	O
+appréciée	O
+.	O
+CONDITIONS	O
+CDD	contrat_type
+de	O
+12	O
+mois	O
+à	O
+pourvoir	O
+à	O
+compter	O
+du	O
+1er	O
+novembre	O
+2017	O
+Rémunération	O
+selon	O
+expérience	O
+-LRB-	O
+26/30	O
+k	O
+$	O
+-RRB-	O
+Poste	O
+basé	O
+à	O
+Rennes	city
+Déplacements	O
+à	O
+prévoir	O
+sur	O
+la	O
+région	O
+Bretagne	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

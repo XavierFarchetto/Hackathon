@@ -1,0 +1,152 @@
+Agent	position
+Général	position
+d'Assurances	position
+MUTUELLE	company
+DE	company
+POITIERS	company
+ASSURANCES	company
+-	O
+Auch	city
+-LRB-	O
+32	code postal
+-RRB-	O
+65	salary
+0	salary
+$	salary
+par	salary
+an	salary
+Niveau	O
+de	O
+formation	experience
+générale	experience
+minimum	experience
+:	O
+BAC	experience
++	experience
+2	experience
+Expérience	experience
+commerciale	experience
+réussie	experience
+Bonnes	hard skills
+qualités	hard skills
+commerciales	hard skills
+,	O
+état	hard skills
+d'esprit	hard skills
+d'entrepreneur	hard skills
+et	hard skills
+de	hard skills
+gestionnaire	hard skills
+.	O
+Volonté	hard skills
+de	hard skills
+développer	hard skills
+un	hard skills
+point	hard skills
+de	hard skills
+vente	hard skills
+en	hard skills
+autonomie	hard skills
+,	O
+en	
+concertation	
+avec	O
+les	O
+services	O
+du	O
+Siège	O
+.	O
+Bonnes	hard skills
+qualités	hard skills
+relationnelles	hard skills
+à	hard skills
+la	hard skills
+fois	hard skills
+pour	hard skills
+l'accueil	hard skills
+des	hard skills
+clients	hard skills
+mais	hard skills
+aussi	hard skills
+pour	hard skills
+le	hard skills
+développement	hard skills
+du	hard skills
+réseau	hard skills
+relationnel	hard skills
+local	hard skills
+.	O
+expérience	hard skills
+managériale	hard skills
+d'une	hard skills
+équipe	hard skills
+de	hard skills
+2	hard skills
+à	hard skills
+3	hard skills
+personnes	hard skills
+.	O
+Minimum	experience
+8	experience
+ans	experience
+d	experience
+expérience	experience
+Pour	experience
+ce	experience
+poste	experience
+,	O
+aucun	O
+apport	O
+personnel	O
+n'est	O
+requis	O
+.	O
+Localisation	O
+du	O
+poste	O
+:	O
+AUCH	city
+32000	code postal
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+65	salary
+0	salary
+$	salary
+/	O
+an	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Auch	city
+-LRB-	O
+32	code postal
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	
+exigée	O
+:	O
+COMMERCIAL	experience
+,	O
+MANAGEMENT	experience
+:	O
+8	experience
+ans	experience

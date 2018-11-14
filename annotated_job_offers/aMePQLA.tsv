@@ -1,0 +1,185 @@
+Technicien	position
+d3	position
+fibre	position
+Optique	position
+-LRB-	O
+H/F	O
+-RRB-	O
+KICHA	company
+HAMZA	company
+-	O
+Limoges	city
+-LRB-	O
+87	code postal
+-RRB-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+Type	O
+de	O
+contrat	
+Indépendant	
+/	O
+Franchise	experience
+Secteur	experience
+d'activité	experience
+Télécom	experience
+/	
+Internet/M	experience
+édias	experience
+Fonction	experience
+Informatique/Internet	experience
+Expérience	experience
+0	experience
+à	experience
+2	experience
+ans	experience
+Niveau	experience
+d'études	experience
+Technicien/Employ	experience
+é	experience
+/	experience
+Bac	experience
+2	experience
+Entreprise	
+en	
+plein	
+expansion	
+cherche	
+des	position
+techniciens	position
+de	position
+raccordement	position
+client	position
+en	position
+fibre	position
+optique	position
+,	O
+votre	hard skills
+mission	hard skills
+consiste	hard skills
+à	hard skills
+raccorder	hard skills
+le	hard skills
+client	hard skills
+sur	hard skills
+le	hard skills
+réseau	hard skills
+fibre	hard skills
+de	hard skills
+la	hard skills
+ville.Lors	hard skills
+du	hard skills
+raccordement	hard skills
+vous	hard skills
+aurez	hard skills
+plusieurs	hard skills
+taches	hard skills
+à	hard skills
+faire	hard skills
+:	O
+Tirage	hard skills
+de	hard skills
+câble	hard skills
+chez	hard skills
+le	hard skills
+client	hard skills
+et	hard skills
+dans	hard skills
+les	hard skills
+parties	hard skills
+communes	hard skills
+-LRB-	O
+apparent	hard skills
+,	O
+fourreaux	hard skills
+,	O
+aérien	hard skills
+,	O
+façade	hard skills
+...	O
+-RRB-	
+Soudures	hard skills
+au	hard skills
+BP	hard skills
+-LRB-	O
+intérieur	hard skills
+et	hard skills
+extérieur	hard skills
+-RRB-	
+Raccordement	hard skills
+PMZ	hard skills
+Mise	hard skills
+en	hard skills
+service	hard skills
+du	hard skills
+matériel	hard skills
+chez	hard skills
+le	hard skills
+client	hard skills
+-LRB-	O
+internet	hard skills
+,	O
+téléphone	hard skills
+,	O
+télévision	hard skills
+-RRB-	O
+Aide	hard skills
+au	hard skills
+client	hard skills
+a	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+main	hard skills
+de	hard skills
+la	hard skills
+nouvelle	hard skills
+installation	hard skills
+.	O
+Rémunération	
+très	O
+intéressante	O
+à	O
+l'intervention	O
+,	O
+pour	O
+nous	O
+contacter	O
+veuillez	O
+nous	O
+envoyer	O
+votre	O
+CV	O
+à	O
+Settou	O
+Salim	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

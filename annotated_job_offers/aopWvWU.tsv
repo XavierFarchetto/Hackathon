@@ -1,0 +1,187 @@
+Agents/Agentes	position,
+de	position,
+sécurité	position,
+événementiel	position,
+-LRB-	O
+H/F	O
+-RRB-	O
+Abscisse	company
+Sécurité	company
+Groupe	company
+-	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+9,76	salary
+$	salary
+-	
+9,9	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Vous	experience
+êtes	experience
+titulaire	experience
+d'un	experience
+CQP	experience
+APS	experience
+et	experience
+d'une	experience
+carte	experience
+professionnelle	experience
+valide	experience
+,	O
+rejoignez	O
+notre	O
+équipe	O
+pour	O
+nos	O
+nombreux	O
+événements	O
+culturels	O
+et	O
+sportifs	O
+de	O
+la	O
+saison	O
+2017/2018	O
+:	O
+*	O
+TOP14	O
+--	O
+LOU	O
+Rugby	O
+:	O
+Matmut	O
+Stadium	O
+de	O
+Gerland	O
+*	O
+Parc	O
+Olympique	O
+Lyonnais	O
+:	O
+Groupama	O
+Stadium	O
+*	O
+Football	O
+Bourg-en-Bresse	O
+Péronnas	O
+:	O
+Stade	O
+de	O
+Verchère	O
+*	O
+Fête	O
+des	O
+Lumières	O
+:	O
+Lyon	O
+*	O
+Concerts	O
+,	O
+Salons	O
+,	O
+Forums	O
+,	O
+Réceptions	O
+et	O
+plein	O
+d'autres	O
+tout	O
+au	O
+long	O
+de	O
+la	O
+saison	O
+Nous	O
+recherchons	O
+des	O
+profils	O
+de	O
+type	O
+:	O
+Agent	position,
+de	position,
+sécurité	position,
+,	O
+Agent	position,
+de	position,
+sécurité	position,
+PALPATION	O
+,	O
+STADIER	O
+.	O
+Motivés	soft skills
+,	O
+rigoureux	soft skills
+et	soft skills
+PONCTUELS	soft skills
+sont	soft skills
+des	soft skills
+qualités	soft skills
+primordiales	soft skills
+.	O
+Les	hard skills
+missions	hard skills
+que	hard skills
+nous	hard skills
+pourrons	hard skills
+vous	hard skills
+confier	hard skills
+:	O
+Filtrage	hard skills
+et	hard skills
+contrôle	hard skills
+d'accès	hard skills
+Inspection	hard skills
+visuelle	hard skills
+et	hard skills
+palpation	hard skills
+Gestion	hard skills
+des	hard skills
+flux	hard skills
+Intervention	hard skills
+et	hard skills
+médiation	hard skills
+sur	hard skills
+incident	hard skills
+Réception	hard skills
+de	hard skills
+clients	hard skills
+VIP	hard skills
+Accueil	hard skills
+,	
+orientation	hard skills
+et	hard skills
+information	hard skills
+Surveillance	hard skills
+et	hard skills
+gardiennage	hard skills
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+9,76	salary
+$	salary
+à	O
+9,9	salary
+$	salary
+/	O
+heure	salary
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Carte	hard skills
+Professionnelle	hard skills
+délivrée	hard skills
+par	hard skills
+le	hard skills
+CNAPS	hard skills

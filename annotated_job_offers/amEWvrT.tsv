@@ -1,0 +1,113 @@
+chauffeur	position
+livreur	position
+F/H	O
+SARL	company
+CHEVALLIER	company
+-	O
+Allonzier-la-Caille	city
+-LRB-	O
+74	code postal
+-RRB-	O
+1	salary
+562	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+un/e	position
+Chauffeur	position
+/	O
+Chauffeuse	position
+de	position
+véhicule	position
+léger	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	O
+notre	O
+laboratoire	O
+basé	O
+à	O
+Allonzier-la-Caille	O
+.	O
+Vos	O
+missions	O
+:	O
+-	O
+Chargement	hard skills
+des	hard skills
+commandes	hard skills
+de	hard skills
+pâtisserie	hard skills
+du	hard skills
+laboratoire	hard skills
+au	hard skills
+camion	hard skills
+-	
+Livraison	hard skills
+dans	hard skills
+les	hard skills
+magasins	hard skills
+,	
+déchargement	hard skills
+des	hard skills
+palettes	hard skills
+et	hard skills
+chariots	hard skills
+-	
+Au	hard skills
+retour	hard skills
+de	hard skills
+livraison	hard skills
+,	
+déchargement	hard skills
+des	hard skills
+chariots	hard skills
+vides	hard skills
+-	
+Identifier	hard skills
+un	hard skills
+trajet	hard skills
+et	hard skills
+pouvoir	hard skills
+anticiper	hard skills
+un	hard skills
+changement	hard skills
+Du	hard skills
+lundi	hard skills
+au	hard skills
+dimanche	hard skills
+avec	hard skills
+2	hard skills
+jours	hard skills
+de	hard skills
+repos	hard skills
+hebdomadaires	hard skills
+Pour	
+postuler	
+,	O
+merci	O
+de	O
+nous	O
+faire	O
+parvenir	O
+CV	O
++	O
+Lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+562	salary
+$	salary
+/	
+mois	salary

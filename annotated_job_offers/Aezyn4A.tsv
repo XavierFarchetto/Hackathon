@@ -1,0 +1,175 @@
+Chauffeur	position
+SPL	position
+H/F	O
+Aderim	company
+Chartres	company
+-	O
+Santeuil	city
+-LRB-	O
+28	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+2	salary
+300	salary
+$	salary
+par	salary
+mois	salary
+Le	position
+conducteur	position
+super	position
+poids	position
+lourd	position
+,	O
+comme	O
+le	position
+chauffeur	position
+poids	position
+lourd	position
+,	O
+transporte	hard skills
+dans	hard skills
+un	hard skills
+camion	hard skills
+des	hard skills
+marchandises	hard skills
+d'un	hard skills
+point	hard skills
+à	hard skills
+un	hard skills
+autre	hard skills
+.	
+Il	hard skills
+conduit	hard skills
+un	hard skills
+véhicule	hard skills
+de	hard skills
+38	hard skills
+tonnes	hard skills
+,	hard skills
+et	hard skills
+par	hard skills
+dérogation	hard skills
+jusqu	hard skills
+'	hard skills
+à	hard skills
+44	hard skills
+tonnes	hard skills
+.	
+Son	hard skills
+tracteur	hard skills
+peut	hard skills
+tirer	hard skills
+une	hard skills
+remorque	hard skills
+seule	hard skills
+ou	hard skills
+complétée	hard skills
+d'une	hard skills
+semi-remorque	hard skills
+pour	hard skills
+les	hard skills
+titulaires	hard skills
+du	hard skills
+permis	hard skills
+E.	O
+Les	hard skills
+conducteurs	hard skills
+de	hard skills
+super	hard skills
+poids	hard skills
+lourd	hard skills
+très	hard skills
+expérimentés	hard skills
+peuvent	hard skills
+être	hard skills
+amenés	hard skills
+à	hard skills
+conduire	hard skills
+des	hard skills
+catégories	hard skills
+de	hard skills
+véhicules	hard skills
+à	hard skills
+masse	hard skills
+indivisible	hard skills
+:	O
+les	hard skills
+convois	hard skills
+exceptionnels	hard skills
+.	
+Comme	hard skills
+pour	hard skills
+les	hard skills
+conducteurs	hard skills
+poids	hard skills
+lourd	hard skills
+,	O
+la	hard skills
+conduite	hard skills
+occupe	hard skills
+une	hard skills
+grande	hard skills
+partie	hard skills
+du	hard skills
+temps	hard skills
+.	
+Le	hard skills
+conducteur	hard skills
+SPL	hard skills
+veille	hard skills
+au	hard skills
+chargement	hard skills
+de	hard skills
+son	hard skills
+camion	hard skills
+ou	hard skills
+de	hard skills
+sa	hard skills
+remorque	hard skills
+au	hard skills
+départ	hard skills
+et	hard skills
+à	hard skills
+l'arrivée	hard skills
+.	O
+Il	hard skills
+a	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+tâches	hard skills
+administratives	hard skills
+et	hard skills
+joue	hard skills
+parfois	hard skills
+un	hard skills
+rôle	hard skills
+commercial	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+2	salary
+300	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+exigée	O
+:	O
+chauffeur	experience
+SPL	experience
+:	O
+4	experience
+ans	experience

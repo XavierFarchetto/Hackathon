@@ -1,0 +1,181 @@
+Agent	position
+au	position
+Sol	position
+ferroviaire	position
+REGIORAIL	company
+Rhône-Alpes	company
+-	O
+Ambérieu-en-Bugey	city
+-LRB-	O
+1	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	O
+1	salary
+850	salary
+$	salary
+par	salary
+mois	salary
+Dans	O
+le	O
+cadre	O
+du	O
+développement	O
+de	O
+son	O
+activité	O
+REGIORAIL	company
+,	O
+entreprise	O
+de	O
+transport	O
+ferroviaire	O
+de	O
+fret	O
+,	O
+recherche	O
+pour	O
+son	O
+site	O
+sur	O
+AMBERIEU	city
+EN	city
+BUGEY	city
+-LRB-	O
+1	postal code
+-RRB-	O
+des	position
+Agents	position
+au	position
+Sol	position
+-LRB-	O
+H/F	O
+-RRB-	O
+qui	
+bénéficieront	
+d'une	
+formation	
+de	
+7	
+semaines	
+à	
+la	O
+fonction	O
+pour	O
+une	O
+prise	O
+de	O
+fonction	O
+en	O
+CDI	contrat_type
+sous	O
+réserve	O
+de	O
+réussite	O
+de	O
+la	O
+formation	O
+.	O
+Vous	hard skills
+effectuerez	hard skills
+notamment	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:	
+formation	hard skills
+de	hard skills
+la	hard skills
+rame	hard skills
+,	hard skills
+vérification	hard skills
+de	hard skills
+l'absence	hard skills
+d'anomalies	hard skills
+sur	hard skills
+les	hard skills
+véhicules	hard skills
+et	hard skills
+marchandises	hard skills
+transportées	hard skills
+,	hard skills
+accrochage	hard skills
+et	hard skills
+décrochage	hard skills
+des	hard skills
+véhicules	hard skills
+,	hard skills
+autorisations	hard skills
+de	hard skills
+départ	hard skills
+.	hard skills
+Vous	hard skills
+serez	hard skills
+également	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+et	hard skills
+du	hard skills
+bon	hard skills
+déroulement	hard skills
+des	hard skills
+opérations	hard skills
+au	hard skills
+sol	hard skills
+.	
+Mais	hard skills
+surtout	hard skills
+un	hard skills
+formidable	hard skills
+challenge	hard skills
+dans	hard skills
+un	hard skills
+groupe	hard skills
+dynamique	hard skills
+en	hard skills
+plein	hard skills
+développement	hard skills
+!	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+1	salary
+850	salary
+$	salary
+/	O
+mois	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Ambérieu-en-Bugey	city
+-LRB-	O
+1	postal code
+-RRB-	O
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	
+niveau	experience
+Bac	experience
+-RRB-	O

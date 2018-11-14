@@ -1,0 +1,130 @@
+Agent	position
+-	O
+Opérateur	position
+de	position
+production	position
+H/F	O
+MAISON	company
+KAYSER	company
+PARIS	company
+-	O
+Paris	city
+6e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+CDI	contrat_type
+En	O
+relation	O
+directe	O
+avec	O
+le	O
+chef	O
+de	O
+production	O
+,	O
+vos	hard skills
+missions	hard skills
+seront	hard skills
+d'effectuer	hard skills
+une	hard skills
+ou	hard skills
+plusieurs	hard skills
+des	hard skills
+opérations	hard skills
+suivantes	hard skills
+en	hard skills
+fonction	hard skills
+du	hard skills
+produit	hard skills
+à	hard skills
+fabriquer	hard skills
+:	
+Dépose	hard skills
+manuelle	hard skills
+d'ingrédients	hard skills
+,	
+mise	hard skills
+en	hard skills
+cartons	hard skills
+,	
+étiquetage	hard skills
+,	
+surveillance	hard skills
+machines	hard skills
+-LRB-	O
+port	hard skills
+de	hard skills
+charges	hard skills
+possible	hard skills
+-RRB-	O
+.	O
+Profil	O
+Agent	position
+--	O
+Opérateur	position
+de	position
+production	position
+,	O
+c’est	O
+votre	soft skills
+motivation	soft skills
+,	O
+votre	soft skills
+endurance	soft skills
+et	soft skills
+votre	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+qui	soft skills
+feront	soft skills
+la	soft skills
+différence	soft skills
+.	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+35	O
+h.	O
+Vous	O
+bénéficiez	O
+d'horaires	O
+sans	O
+coupure	O
+avec	O
+deux	O
+jours	O
+de	O
+repos	O
+par	O
+semaine	O
+tous	O
+les	O
+samedis	O
+et	O
+dimanches	O
+.	O
+Prise	O
+de	O
+poste	O
+à	O
+8	O
+h	O
+0	O
+le	O
+matin	O
+Lieu	O
+de	O
+travail	O
+:	O
+IVRY	city
+SUR	city
+SEINE	city
+94200	postal code
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

@@ -1,0 +1,112 @@
+Aide	position
+-	O
+Soignant	position
+-LRB-	position
+e	position
+-RRB-	O
+Résidence	company
+La	company
+Tournelle	company
+-	O
+La	city
+Garenne-Colombes	city
+-LRB-	O
+92	postal code
+-RRB-	O
+1	salary
+865	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+La	company
+Résidence	company
+La	company
+Tournelle	company
+recrute	O
+un	position
+AIDE	position
+SOIGNANT	position
+-LRB-	O
+H/F	O
+--	O
+CDI	contrat_type
+--	O
+temps	contrat_type
+plein	contrat_type
+-RRB-	O
+-LRB-	O
+EHPAD	O
+avec	O
+UHR	O
+et	O
+PASA	O
+en	O
+développement	O
+-RRB-	O
+Missions	hard skills
+:	O
+Contribuer	hard skills
+au	hard skills
+bien-être	hard skills
+des	hard skills
+résidents	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+du	hard skills
+projet	hard skills
+de	hard skills
+vie	hard skills
+et	hard skills
+de	hard skills
+soins	hard skills
+de	hard skills
+la	hard skills
+résidence	hard skills
+et	hard skills
+du	hard skills
+projet	hard skills
+individualisé	hard skills
+du	hard skills
+résident	hard skills
+en	hard skills
+insufflant	hard skills
+la	hard skills
+vie	hard skills
+.	
+Profil	O
+:	O
+--	O
+Titulaire	experience
+du	experience
+DEAS	experience
+--	
+Vous	soft skills
+possédez	soft skills
+une	soft skills
+forte	soft skills
+éthique	soft skills
+professionnelle	soft skills
+.	O
+Poste	O
+à	O
+pourvoir	O
+:	O
+immédiatement	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	
+1	salary
+865,1	salary
+$	salary
+/	O
+mois	salary

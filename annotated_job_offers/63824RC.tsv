@@ -1,0 +1,188 @@
+Formateur	position
+en	position
+Institut	position
+de	position
+Formation	position
+en	position
+Soins	position
+Infirmiers	position
+Croix-Rouge	company
+Française	company
+-	O
+Quetigny	city
+-LRB-	O
+21	code postal
+-RRB-	O
+Formateur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+auprès	O
+d'étudiants	O
+en	O
+soins	O
+infirmiers	O
+,	O
+vous	hard skills
+accompagnez	hard skills
+les	hard skills
+futurs	hard skills
+soignants	hard skills
+dans	hard skills
+les	hard skills
+apprentissages	hard skills
+,	
+tant	hard skills
+théoriques	hard skills
+que	hard skills
+pratiques	hard skills
+ou	hard skills
+socio-comportementaux	hard skills
+.	
+Vous	hard skills
+participez	hard skills
+aux	hard skills
+enseignements	hard skills
+,	
+à	hard skills
+l'évaluation	hard skills
+,	
+à	hard skills
+la	hard skills
+sélection	hard skills
+des	hard skills
+futurs	hard skills
+candidats	hard skills
+.	
+Vous	hard skills
+intégrez	hard skills
+une	hard skills
+équipe	hard skills
+dynamique	hard skills
+engagée	hard skills
+dans	hard skills
+un	hard skills
+projet	hard skills
+innovant	hard skills
+-LRB-	O
+e-learning	hard skills
+,	O
+apprentissage	hard skills
+par	hard skills
+simulation	hard skills
+,	O
+mobilité	hard skills
+internationale	hard skills
+,	
+toucher-massage	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+Infirmier	experience
+-LRB-	O
+e	experience
+-RRB-	O
+de	experience
+formation	experience
+initiale	experience
+,	O
+de	experience
+préférence	experience
+titulaire	experience
+du	experience
+Diplôme	experience
+de	experience
+Cadre	experience
+de	experience
+santé	experience
+et/ou	experience
+d'un	experience
+Master	experience
+de	experience
+niveau	experience
+II	experience
+,	O
+vous	soft skills
+avez	soft skills
+des	soft skills
+compétences	soft skills
+dans	soft skills
+l'accompagnement	soft skills
+,	
+le	soft skills
+tutorat	soft skills
+,	O
+et	soft skills
+transmettez	soft skills
+vos	soft skills
+connaissances	soft skills
+avec	soft skills
+énergie	soft skills
+et	soft skills
+enthousiasme	soft skills
+.	
+Vous	hard skills
+vous	hard skills
+inscrivez	hard skills
+au	hard skills
+quotidien	hard skills
+dans	hard skills
+une	hard skills
+démarche	hard skills
+qui	hard skills
+promeut	hard skills
+les	hard skills
+valeurs	hard skills
+de	hard skills
+la	hard skills
+Croix-Rouge	hard skills
+française	hard skills
+et	hard skills
+appréciez	hard skills
+le	hard skills
+travail	hard skills
+d'équipe	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+soif	soft skills
+de	soft skills
+développer	soft skills
+de	soft skills
+nouvelles	soft skills
+connaissances	soft skills
+et	soft skills
+de	soft skills
+vous	soft skills
+engager	soft skills
+dans	soft skills
+une	soft skills
+dynamique	soft skills
+de	soft skills
+formation	soft skills
+individuelle	soft skills
+et	soft skills
+collective	soft skills
+continue	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

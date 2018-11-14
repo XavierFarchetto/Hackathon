@@ -1,0 +1,152 @@
+technicien	position
+de	position
+laboratoire	position
+préleveur	position
+h/f	O
+LAB78	company
+-	O
+Vigneux-sur-Seine	city
+-LRB-	O
+91	postal code
+-RRB-	O
+CDI	contrat_type
+Missions	O
+:	O
+Effectuer	hard skills
+des	hard skills
+prélèvements	hard skills
+au	hard skills
+laboratoire	hard skills
+et	hard skills
+à	hard skills
+domicile	hard skills
+Réaliser	hard skills
+les	hard skills
+analyses	hard skills
+et	hard skills
+en	hard skills
+assurer	hard skills
+la	hard skills
+validation	hard skills
+analytique	hard skills
+Entretenir	hard skills
+le	hard skills
+matériel	hard skills
+notamment	hard skills
+par	hard skills
+la	hard skills
+réalisation	hard skills
+des	hard skills
+maintenances	hard skills
+Participer	hard skills
+à	hard skills
+l'élaboration	hard skills
+,	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+et	hard skills
+à	hard skills
+l'amélioration	hard skills
+du	hard skills
+système	hard skills
+qualité	hard skills
+du	hard skills
+laboratoire	hard skills
+Réaliser	hard skills
+des	hard skills
+activités	hard skills
+simples	hard skills
+de	hard skills
+secrétariat	hard skills
+-LRB-	
+accueil	hard skills
+,	
+enregistrement	hard skills
+du	hard skills
+dossier	hard skills
+patient	hard skills
+,	O
+prise	hard skills
+de	hard skills
+rendez-vous	hard skills
+,	
+remise	hard skills
+des	hard skills
+résultats	hard skills
+-RRB-	
+quand	hard skills
+l'activité	hard skills
+du	hard skills
+laboratoire	hard skills
+l'exige	hard skills
+.	O
+Formations	O
+obligatoires	O
+:	O
+Pour	experience
+les	experience
+techniciens	experience
+Diplôme	experience
+de	experience
+technicien	experience
+supérieur	experience
+en	experience
+biologie	experience
+médicale	experience
+Certificat	experience
+de	experience
+capacité	experience
+de	experience
+prélèvement	experience
+sanguin	experience
+AFGSU	experience
+1	experience
+et	experience
+2	experience
+Pour	experience
+les	experience
+infirmiers	experience
+Attestation	experience
+ARS	experience
+Diplôme	experience
+d'infirmier	experience
+AFGSU	experience
+1	experience
+et	experience
+2	experience
+Savoir	
+être	
+:	
+Être	soft skills
+sérieux	soft skills
+,	O
+motivé	soft skills
+,	
+dynamique	soft skills
+,	
+tenue	soft skills
+correcte	soft skills
+et	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+.	O
+Conditions	O
+du	O
+poste	O
+:	O
+Travail	O
+du	O
+lundi	O
+au	O
+samedi	O
+selon	O
+planning	O
+35h/semaine	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

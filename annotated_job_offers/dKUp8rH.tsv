@@ -1,0 +1,116 @@
+Caissier	position
+-LRB-	O
+e	position
+-RRB-	O
+-LRB-	O
+H/F	O
+-RRB-	O
+LN	company
+SOCIETY	company
+-	O
+Château-Arnoux-Saint-Auban	city
+-LRB-	O
+4	postal code
+-RRB-	O
+915	salary
+$	salary
+par	salary
+mois	salary
+Recherche	
+employé	position
+-LRB-	O
+e	position
+-RRB-	O
+de	position
+station	position
+en	O
+contrat	
+CDI	contrat_type
+21h	O
+.	O
+Vous	hard skills
+serez	hard skills
+capable	hard skills
+d'encaisser	hard skills
+,	
+rendre	hard skills
+la	hard skills
+monnaie	hard skills
+,	
+participer	hard skills
+au	hard skills
+nettoyage	hard skills
+de	hard skills
+la	hard skills
+station	hard skills
+,	
+réapprovisionner	hard skills
+la	hard skills
+boutique	hard skills
+et	hard skills
+surveiller	hard skills
+les	hard skills
+dates	hard skills
+limites	hard skills
+de	hard skills
+consommations	hard skills
+des	hard skills
+produits	hard skills
+.	
+Il	O
+faut	O
+que	O
+vous	soft skills
+soyez	soft skills
+souriant	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+,	O
+dynamique	soft skills
+,	O
+responsable	soft skills
+et	soft skills
+autonome	soft skills
+.	O
+Le	O
+poste	O
+est	O
+à	O
+pouvoir	O
+pour	O
+le	O
+1er	O
+août	O
+.	O
+Merci	O
+de	O
+laisser	O
+un	O
+CV	O
+-LRB-	O
+avec	O
+photo	O
+de	O
+préférence	O
+-RRB-	O
+et	O
+lettre	O
+de	O
+motivation	O
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	
+:	O
+915	salary
+$	salary
+/	
+mois	salary

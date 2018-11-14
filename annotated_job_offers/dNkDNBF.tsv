@@ -1,0 +1,183 @@
+Chef	position
+de	position
+chantier	position
+H/F	O
+ACASS	company
+-	O
+Marseille	city
+-LRB-	O
+13	postal code
+-RRB-	O
+32	salary
+0	salary
+$	salary
+-	O
+34	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Acass	company
+,	O
+agence	O
+de	O
+recrutement	O
+,	O
+recherche	O
+pour	O
+son	O
+client	O
+,	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Chef	position
+de	position
+chantier	position
+H/F	O
+dans	O
+le	O
+cadre	O
+d'un	O
+CDI	contrat_type
+.	O
+Poste	O
+basé	O
+sur	O
+Aubagne	city
+-	O
+13	postal code
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+vos	O
+missions	O
+,	O
+vous	hard skills
+avez	hard skills
+en	hard skills
+charge	hard skills
+la	hard skills
+gestion	hard skills
+simultanée	hard skills
+de	hard skills
+plusieurs	hard skills
+chantiers	hard skills
+de	hard skills
+rénovation	hard skills
+-LRB-	
+gros	hard skills
+oeuvre	hard skills
+,	
+type	hard skills
+ERP	hard skills
+entre	hard skills
+50K	hard skills
+$	hard skills
+et	hard skills
+400K	hard skills
+$	hard skills
+.	
+Zone	hard skills
+géographique	hard skills
+d'intervention	hard skills
+:	
+Bouches	hard skills
+du	hard skills
+Rhone	hard skills
+et	hard skills
+Var	hard skills
+-RRB-	
+Vous	hard skills
+gérez	hard skills
+des	hard skills
+problèmes	hard skills
+de	hard skills
+toutes	hard skills
+natures	hard skills
+-LRB-	
+humains	hard skills
+,	O
+retard	hard skills
+de	hard skills
+délai	hard skills
+,	
+clients	hard skills
+-RRB-	
+et	O
+êtes	hard skills
+impliqués	hard skills
+dans	hard skills
+la	hard skills
+réussite	hard skills
+des	hard skills
+affaires	hard skills
+en	hard skills
+termes	hard skills
+de	hard skills
+respect	hard skills
+des	hard skills
+heures	hard skills
+,	O
+délai	hard skills
+et	hard skills
+satisfaction	hard skills
+des	hard skills
+clients	hard skills
+.	
+De	experience
+formation	experience
+technique	experience
+,	
+vous	experience
+justifiez	experience
+d'une	experience
+expérience	experience
+de	experience
+plus	experience
+de	experience
+5	experience
+ans	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+.	O
+Vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+pour	soft skills
+votre	soft skills
+sens	soft skills
+relationnel	soft skills
+,	O
+vos	soft skills
+qualités	soft skills
+d'écoute	soft skills
+et	soft skills
+d'organisation	soft skills
+,	O
+un	soft skills
+esprit	soft skills
+d'initiative	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+32	salary
+0	salary
+$	salary
+à	O
+34	salary
+0	salary
+$	salary
+/	O
+an	salary

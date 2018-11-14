@@ -1,0 +1,252 @@
+s	company
+Groupe	company
+Ysiis	company
+-	O
+Montsoult	city
+-LRB-	O
+95	code postal
+-RRB-	O
+35	salary
+0	salary
+$	salary
+-	O
+65	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Infirmière	position
+Polyvalente	position
+PosteDans	O
+le	O
+cadre	O
+du	O
+développement	O
+du	O
+groupe	company
+Ysiis	company
+,	O
+nous	O
+recherchons	O
+:	O
+Un	position
+Infirmier	position
+-LRB-	O
+e	position
+-RRB-	O
+coordinateur	position
+-LRB-	O
+rice	position
+-RRB-	O
+-	O
+H/F	O
+-LRB-	O
+Ref	O
+.	O
+Val	O
+d'Oise	O
+-RRB-	O
+L'infirmière	position
+coordinatrice	position
+devra	hard skills
+un	hard skills
+rôle	hard skills
+d'organisation	hard skills
+et	hard skills
+d'assistance	hard skills
+médico-technique	hard skills
+:	O
+relation	hard skills
+avec	hard skills
+les	hard skills
+prescripteurs	hard skills
+,	O
+recherche	hard skills
+de	hard skills
+l'infirmière	hard skills
+libérale	hard skills
+qui	hard skills
+effectuera	hard skills
+les	hard skills
+soins	hard skills
+à	hard skills
+domicile	hard skills
+,	O
+fourniture	hard skills
+,	O
+installation	hard skills
+et	hard skills
+formation	hard skills
+des	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+prescrits	hard skills
+,	O
+suivi	hard skills
+du	hard skills
+patient	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+d'une	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+globale	hard skills
+de	hard skills
+l'hôpital	hard skills
+à	hard skills
+domicile	hard skills
+.	O
+Profil	
+recherché	O
+:	O
+Infirmier	experience
+-LRB-	O
+e	experience
+-RRB-	O
+diplômé	experience
+-LRB-	O
+e	experience
+-RRB-	O
+d'Etat	experience
+,	O
+l'infirmier	experience
+-LRB-	O
+e	experience
+-RRB-	O
+coordinateur	experience
+-LRB-	O
+rice	experience
+-RRB-	O
+devra	experience
+être	experience
+dotée	experience
+d'une	experience
+double	experience
+compétence	experience
+:	O
+-	O
+Infirmière	experience
+experte	experience
+:	O
+vous	experience
+avez	experience
+une	experience
+excellente	experience
+connaissance	experience
+des	experience
+divers	experience
+traitements	experience
+et	experience
+des	experience
+dispositifs	experience
+médicaux	experience
+associés	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+la	experience
+perfusion	experience
+,	O
+de	experience
+l'assistance	experience
+nutritionnelle	experience
+.	O
+-	O
+Infirmière	soft skills
+active	soft skills
+:	O
+de	hard skills
+par	hard skills
+votre	hard skills
+expérience	hard skills
+réussie	hard skills
+,	O
+vous	soft skills
+vous	soft skills
+distinguez	soft skills
+par	soft skills
+vos	soft skills
+excellentes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+avec	soft skills
+les	soft skills
+établissements	soft skills
+hospitaliers	soft skills
+et	soft skills
+les	soft skills
+infirmiers	soft skills
+libéraux	soft skills
+.	O
+AVANTAGES	O
+:	O
+-	O
+CDI	contrat_type
+avec	O
+période	O
+d'essai	O
+-	O
+Mutuelle	O
+-	O
+Véhicule	O
+de	O
+fonction	O
+-	O
+Primes	O
+en	O
+fin	O
+d'année	O
+selon	O
+objectifs	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Infirmier	experience
+-LRB-	O
+H-F	O
+-RRB-	O
+DE	experience
+avec	experience
+minimum	experience
+2	experience
+ans	experience
+d'expérience	O
+Envoyer	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+35	salary
+0	salary
+$	salary
+à	O
+65	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+Infirmière	experience
+:	O
+2	experience
+ans	experience

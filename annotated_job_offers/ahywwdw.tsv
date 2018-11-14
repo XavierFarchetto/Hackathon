@@ -1,0 +1,93 @@
+Préparateur	position
+-LRB-	O
+trice	position
+-RRB-	O
+en	position
+Pharmacie	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Pharmacie	company
+du	company
+Faubourg	company
+-	O
+Meaux	city
+-LRB-	O
+77	code postal
+-RRB-	O
+Pharmacie	company
+du	company
+Faubourg	company
+à	O
+Meaux	city
+,	O
+centre	O
+villerecherche	O
+préparateur	position
+-LRB-	O
+trice	position
+-RRB-	O
+temps	O
+plein	O
+en	O
+CDI	contrat_type
+à	O
+partir	O
+du	O
+1	O
+mars	O
+2018	O
+,	O
+équipe	hard skills
+dynamique	hard skills
+de	hard skills
+huit	hard skills
+personnes	hard skills
+,	O
+connaissances	hard skills
+en	hard skills
+phytothérapie	hard skills
+,	
+homéopathie	hard skills
+et	hard skills
+aromathérapie	hard skills
+souhaitées	hard skills
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	hard skills
+d'activité	hard skills
+Médecine	hard skills
+/	O
+Santé	hard skills
+Fonction	hard skills
+Médecine	hard skills
+/	O
+Santé	hard skills
+Expérience	experience
+5	experience
+ans	experience
+et	experience
+plus	experience
+Niveau	experience
+d'études	experience
+Technicien/Employ	experience
+é	experience
+/	O
+Bac	experience
+2	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Expérience	O
+exigée	O
+:	O
+poste	experience
+similaire	experience
+:	O
+2	experience
+ans	experience

@@ -1,0 +1,171 @@
+Maçon	position
+coffreur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+A.S.E.C.	company
+Interim	company
+-	O
+Saint-Amand-les-Eaux	city
+-LRB-	O
+59	postal code
+-RRB-	O
+11,67	salary
+$	salary
+-	O
+13,8	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+L'ASEC	company
+Intérim	company
+de	O
+Denain	O
+recherche	O
+pour	O
+l'un	O
+de	O
+ses	O
+clients	O
+basé	O
+sur	O
+le	O
+secteur	O
+de	O
+Saint-Amand-Les-Eaux	city
+un	position
+maçon	position
+coffreur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Mission	hard skills
+:	O
+*	O
+Réaliser	hard skills
+de	hard skills
+murs	hard skills
+,	
+façades	hard skills
+,	O
+cloison	hard skills
+par	hard skills
+maçonnerie	hard skills
+d'éléments	hard skills
+portés	hard skills
+-LRB-	O
+briques	hard skills
+,	O
+parpaings	hard skills
+,	O
+pierres	hard skills
+...	O
+-RRB-	O
+.	O
+*	O
+Réaliser	hard skills
+des	hard skills
+enduits	hard skills
+.	
+*	O
+Effectuer	hard skills
+les	hard skills
+différentes	hard skills
+phases	hard skills
+de	hard skills
+fabrication	hard skills
+-LRB-	O
+Etayer	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+*	O
+Mise	hard skills
+en	hard skills
+œuvre	hard skills
+d'éléments	hard skills
+préfabriqués	hard skills
+-LRB-	
+plancher	hard skills
+béton	hard skills
+,	O
+...	O
+-RRB-	O
+.	O
+*	O
+Réaliser	hard skills
+de	hard skills
+différents	hard skills
+coffrages	hard skills
+et	hard skills
+éléments	hard skills
+de	hard skills
+ferraillage	hard skills
+.	O
+*	O
+Effectuer	hard skills
+l'étanchéité	hard skills
+des	hard skills
+locaux	hard skills
+Profil	
+:	O
+*	O
+Vous	experience
+êtes	experience
+titulaire	experience
+d'une	experience
+qualification	experience
+``	
+Maçon	experience
+''	O
+.	O
+*	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+sur	soft skills
+chantier	soft skills
+.	
+*	O
+Vous	hard skills
+possédez	hard skills
+le	hard skills
+permis	hard skills
+B	hard skills
+en	hard skills
+cours	hard skills
+de	hard skills
+validité	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+11,67	salary
+$	salary
+à	O
+13,8	salary
+$	salary
+/	O
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Saint-Amand-les-Eaux	city
+-LRB-	O
+59	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+maçonnerie	experience
+:	O
+3	experience
+ans	experience

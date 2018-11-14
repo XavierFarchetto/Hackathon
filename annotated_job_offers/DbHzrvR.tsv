@@ -1,0 +1,215 @@
+Pharmacien	position
+PUI	position
+Maison	company
+de	company
+santé	company
+d'Epinay	company
+-	O
+Épinay-sur-Seine	city
+-LRB-	O
+93	postal code
+-RRB-	O
+CDD	contrat_type
+Pharmacien	position
+-	O
+H/F	O
+Etablissement	O
+:	O
+Maison	company
+de	company
+Santé	company
+d'Epinay	city
+-LRB-	O
+93	postal code
+-RRB-	O
+,	O
+LNA	O
+Santé	O
+Type	O
+de	O
+contrat	O
+:	O
+CDD	contrat_type
+Durée	O
+:	O
+15	O
+jours	O
+La	company
+Maison	company
+de	company
+Santé	company
+d'Epinay	city
+est	O
+un	O
+établissement	O
+de	O
+186	O
+lits	O
+spécialisé	O
+dans	O
+la	O
+prise	O
+en	O
+charge	O
+des	O
+personnes	O
+adultes	O
+atteintes	O
+de	O
+troubles	O
+psychiatriques	O
+.	O
+Rattaché	O
+au	O
+Directeur	O
+de	O
+l'établissement	O
+vous	hard skills
+êtes	hard skills
+garant	hard skills
+de	hard skills
+l'ensemble	hard skills
+des	hard skills
+activités	hard skills
+de	hard skills
+la	hard skills
+pharmacie	hard skills
+,	O
+de	hard skills
+son	hard skills
+organisation	hard skills
+et	hard skills
+de	hard skills
+son	hard skills
+développement	hard skills
+.	
+Missions	hard skills
+principales	hard skills
+:	O
+Garantir	hard skills
+la	hard skills
+bonne	hard skills
+application	hard skills
+et	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+règlementations	hard skills
+en	hard skills
+vigueur	hard skills
+pour	hard skills
+sécuriser	hard skills
+le	hard skills
+circuit	hard skills
+du	hard skills
+médicament	hard skills
+et	hard skills
+des	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+stériles	hard skills
+.	
+Assurer	hard skills
+,	O
+gérer	hard skills
+et	hard skills
+tracer	hard skills
+les	hard skills
+dotations	hard skills
+de	hard skills
+médicaments	hard skills
+,	O
+les	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+Maîtriser	hard skills
+les	hard skills
+dépenses	hard skills
+pharmaceutiques	hard skills
+Analyser	hard skills
+les	hard skills
+prescriptions	hard skills
+médicales	hard skills
+-LRB-	
+logiciel	hard skills
+de	hard skills
+prescription	hard skills
+Ideomed	hard skills
+-RRB-	
+Participer	hard skills
+aux	hard skills
+vigilances	hard skills
+sanitaires	hard skills
+Management	hard skills
+des	hard skills
+équipes	hard skills
+-LRB-	
+1	hard skills
+préparateur	hard skills
+en	hard skills
+pharmacie	hard skills
+.	
+.	O
+-RRB-	O
+en	hard skills
+respectant	hard skills
+les	hard skills
+règles	hard skills
+définies	hard skills
+dans	hard skills
+l'établissement	hard skills
+Profil	
+Poste	O
+CDD	contrat_type
+Statut	O
+cadre	O
+Forfait	O
+annuel	O
+en	O
+jours	O
+.	O
+Titulaire	experience
+du	experience
+diplôme	experience
+de	experience
+Docteur	experience
+en	experience
+Pharmacie	experience
+et	experience
+Titulaire	experience
+du	experience
+DES	experience
+option	experience
+pharmacie	experience
+hospitalière	experience
+Expérience	experience
+de	experience
+2	experience
+ans	experience
+dans	experience
+une	experience
+structure	experience
+hospitalière	experience
+Durée	
+de	
+travail	O
+:	O
+temps	contrat_type
+plein	contrat_type
+ou	O
+temps	contrat_type
+partiel	contrat_type
+Salaire	O
+Selon	O
+profil	O
+Poste	O
+à	O
+pourvoir	O
+dès	O
+vendredi	O
+8	O
+septembre	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

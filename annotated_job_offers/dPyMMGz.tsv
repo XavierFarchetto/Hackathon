@@ -1,0 +1,75 @@
+Facturier	position
+-LRB-	O
+e	position
+-RRB-	O
+en	position
+clinique	position
+MCO	company
+HOPITAL	company
+PRIVE	company
+D	
+EVRY	city
+-	O
+Évry	city
+-LRB-	O
+91	postal code
+-RRB-	O
+CDD	contrat_type
+Nous	O
+recherchons	O
+pour	O
+un	O
+CDD	contrat_type
+de	contrat_type
+10	contrat_type
+mois	contrat_type
+un	position
+agent	position
+administratif	position
+pour	hard skills
+réaliser	hard skills
+les	hard skills
+factures	hard skills
+de	hard skills
+sorties	hard skills
+des	hard skills
+patients	hard skills
+et	hard skills
+tiers	hard skills
+payant	hard skills
+.	
+Une	experience
+expérience	experience
+administrative	experience
+dans	experience
+le	experience
+milieu	experience
+médical	experience
+est	experience
+fortement	experience
+souhaitée	experience
+.	
+Poste	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+.	O
+35	O
+heures	O
+par	O
+semaine	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Évry	city
+-LRB-	O
+91	postal code
+-RRB-	O

@@ -1,0 +1,177 @@
+ALTERNANT	position
+Commercial	position
+-LRB-	O
+H/F	O
+-RRB-	O
+agence	company
+Plus	company
+-	O
+Levallois-Perret	city
+-LRB-	O
+92	postal code
+-RRB-	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+MISSIONS	hard skills
+Atteindre	hard skills
+les	hard skills
+objectifs	hard skills
+quantitatifs	hard skills
+et	hard skills
+qualitatifs	hard skills
+fixés	hard skills
+par	hard skills
+le	hard skills
+responsable	hard skills
+commercial	hard skills
+,	O
+tout	hard skills
+en	hard skills
+mettant	hard skills
+en	hard skills
+oeuvre	hard skills
+la	hard skills
+stratégie	hard skills
+commerciale	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+.	O
+Prospecter	hard skills
+par	hard skills
+téléphone	hard skills
+afin	hard skills
+de	hard skills
+prendre	hard skills
+des	hard skills
+RDV	hard skills
+avec	hard skills
+les	hard skills
+prospects	hard skills
+pour	hard skills
+des	hard skills
+démonstrations	hard skills
+du	hard skills
+logiciel	hard skills
+.	
+Conseiller	hard skills
+,	O
+argumenter	hard skills
+et	hard skills
+répondre	hard skills
+aux	hard skills
+objections	hard skills
+.	O
+Développer	hard skills
+,	
+suivre	hard skills
+et	hard skills
+effectuer	hard skills
+la	hard skills
+relation	hard skills
+clientèle	hard skills
+.	O
+PROFIL	O
+Vous	experience
+possédez	experience
+une	experience
+formation	experience
+Bac	experience
+2	experience
+à	experience
+Bac	experience
+3	experience
+.	
+Vous	experience
+disposez	experience
+déjà	experience
+d'	experience
+1	experience
+ou	experience
+2	experience
+ans	experience
+d'expérience	experience
+dans	experience
+la	experience
+gestion	experience
+de	experience
+la	experience
+relation	experience
+clientèle	experience
+.	O
+Vous	soft skills
+avez	soft skills
+un	soft skills
+esprit	soft skills
+commercial	soft skills
+prononcé	soft skills
+,	O
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+,	
+ainsi	soft skills
+que	soft skills
+de	soft skills
+réelles	soft skills
+capacités	soft skills
+de	soft skills
+communication	soft skills
+.	O
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	O
+impliqué	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+,	O
+persuasif	soft skills
+-LRB-	O
+ive	soft skills
+-RRB-	O
+,	O
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+et	soft skills
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+.	O
+Une	hard skills
+connaissance	hard skills
+dans	hard skills
+le	hard skills
+secteur	hard skills
+de	hard skills
+l'immobilier	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	
+REMUNERATION	O
+:	O
+Brut	O
+mensuel	O
++	O
+commissions	O
++	O
+chèques	O
+repas	O
++	O
+mutuelle	O
+Type	O
+d'emploi	O
+:	O
+Apprentissage	contrat_type
+/	O
+Alternance	contrat_type
+Langue	O
+exigée	O
+:	O
+Anglais	hard skills

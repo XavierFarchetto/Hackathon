@@ -1,0 +1,250 @@
+PLONGEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+SSP	company
+France	company
+-	O
+Aéroport	company
+de	company
+Nice	company
+-	O
+Nice	city
+-LRB-	O
+6	postal code
+-RRB-	O
+1	salary
+481	salary
+$	salary
+-	O
+1	salary
+482	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+SSP	company
+France	company
+--	O
+Select	O
+Service	O
+Partner	O
+,	O
+The	O
+Food	O
+Travel	O
+Experts	O
+est	O
+leader	O
+de	O
+la	O
+restauration	O
+sur	O
+sites	O
+de	O
+transports	O
+.	O
+SSP	O
+gère	O
+des	O
+restaurants	O
+,	O
+bars	O
+,	O
+cafés	O
+,	O
+food-courts	O
+,	O
+lounge	O
+et	O
+convenience-store	O
+dans	O
+125	O
+aéroports	O
+,	O
+et	O
+270	O
+gares	O
+à	O
+travers	O
+le	O
+monde	O
+.	O
+SSP	company
+Province	O
+recherche	O
+pour	O
+le	O
+restaurant	O
+Jamie	O
+'s	O
+Italian	O
+situé	O
+en	O
+zone	O
+réservée	O
+au	O
+cœur	O
+du	O
+Terminal	O
+2	O
+de	O
+l'Aéroport	O
+de	O
+Nice	city
+:	O
+UN	position
+PLONGEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+MISSIONS	O
+:	O
+Sous	O
+la	O
+direction	O
+du	O
+chef	O
+de	O
+cuisine	O
+et	O
+de	O
+l'équipe	O
+encadrante	O
+:	O
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+nettoyage	hard skills
+de	hard skills
+la	hard skills
+vaisselle	hard skills
+et	hard skills
+des	hard skills
+couverts	hard skills
+utilisés	hard skills
+lors	hard skills
+du	hard skills
+service	hard skills
+,	hard skills
+ainsi	hard skills
+que	hard skills
+tout	hard skills
+le	hard skills
+matériel	hard skills
+utilisé	hard skills
+en	hard skills
+cuisine	hard skills
+.	hard skills
+Vous	hard skills
+assurez	hard skills
+également	hard skills
+le	hard skills
+nettoyage	hard skills
+des	hard skills
+locaux	hard skills
+de	hard skills
+cuisine	hard skills
+et	hard skills
+annexes	hard skills
+,	hard skills
+ainsi	hard skills
+que	hard skills
+le	hard skills
+débarrassage	hard skills
+des	hard skills
+poubelles	hard skills
+et	hard skills
+ordures	hard skills
+.	hard skills
+Vous	hard skills
+respectez	hard skills
+les	hard skills
+normes	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+alimentaires	hard skills
+.	
+PROFIL	O
+ET	O
+COMPÉTENCES	O
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	
+rigoureux	soft skills
+et	soft skills
+savez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+.	
+Une	experience
+expérience	experience
+confirmée	experience
+en	experience
+tant	experience
+que	experience
+plongeur	experience
+.	
+Vous	soft skills
+gardez	soft skills
+votre	soft skills
+calme	soft skills
+et	soft skills
+votre	soft skills
+efficacité	soft skills
+dans	soft skills
+les	soft skills
+moments	soft skills
+de	soft skills
+pression	soft skills
+.	
+Vous	hard skills
+connaissez	hard skills
+et	hard skills
+appliquez	hard skills
+les	hard skills
+règles	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+,	
+vous	soft skills
+avez	soft skills
+une	soft skills
+tenue	soft skills
+et	soft skills
+un	soft skills
+comportement	soft skills
+conformes	soft skills
+aux	soft skills
+règles	soft skills
+des	soft skills
+zones	soft skills
+de	soft skills
+production	soft skills
+.	O
+Casier	hard skills
+judiciaire	hard skills
+vierge	hard skills
+obligatoire	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+481	salary
+$	salary
+à	O
+1	salary
+482	salary
+$	salary
+/	O
+mois	salary

@@ -1,0 +1,160 @@
+Réceptionniste	position
+en	position
+hôtellerie	position
+Hôtel	company
+Best	company
+Western	company
+Premier	company
+Faubourg	company
+88	O
+-	O
+Paris	city
+10e	city
+-LRB-	O
+75	postal code
+-RRB-	
+9,86	salary
+$	salary
+par	salary
+heure	salary
+Boutique	O
+hôtel	O
+4	O
+*	O
+Design	O
+Paris	city
+10ème	city
+recrute	O
+dans	O
+son	O
+équipe	O
+:	O
+Un	position
+-LRB-	O
+e	position
+-RRB-	O
+RÉCEPTIONNISTE	position
+de	position
+jour	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CDI	contrat_type
+à	O
+Plein	contrat_type
+Temps	contrat_type
+en	O
+39h/semaine	O
+avec	O
+une	soft skills
+excellente	soft skills
+présentation	soft skills
+,	O
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+,	O
+l'anglais	hard skills
+exigé	hard skills
+et	
+une	experience
+1ère	experience
+expérience	experience
+à	experience
+poste	experience
+similaire	experience
+souhaitée	experience
+.	O
+Poste	O
+à	O
+pourvoir	O
+dès	O
+maintenant	O
+!	O
+Deux	O
+jours	O
+de	O
+repos	O
+consécutifs	O
+par	O
+semaine	O
+à	O
+définir	O
+,	O
+shift	O
+de	O
+7h15	O
+à	O
+15h45	O
+ou	O
+12h15	O
+à	O
+20h45	O
+.	O
+Envoyer	O
+votre	O
+lettre	O
+de	O
+motivation	O
+ainsi	O
+que	O
+votre	O
+CV	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Langue	O
+exigée	O
+:	O
+anglais	hard skills
+-	
+Accueil	hard skills
+clients	hard skills
++	hard skills
+Conciergerie	hard skills
+parisienne	hard skills
+-	O
+Saisie	hard skills
+de	hard skills
+réservation	hard skills
+-	O
+Gestion	hard skills
+emails/t	hard skills
+éléphone	hard skills
+-	
+Facturation	hard skills
+/	
+Départ	hard skills
+clients	hard skills
+-	O
+Mise	hard skills
+en	hard skills
+pratique	hard skills
+au	hard skills
+quotidien	hard skills
+des	hard skills
+normes	hard skills
+internes	hard skills
+et	hard skills
+BestWestern	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+9,86	salary
+$	salary
+/	O
+heure	salary
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

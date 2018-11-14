@@ -1,0 +1,156 @@
+Employé	position
+polyvalent	position
+de	position
+restauration	position
+-	O
+Livreur	company
+Pavillon	company
+Gourmet	company
+-	O
+Les	city
+Essarts-le-Roi	city
+-LRB-	O
+78	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Traiteur	O
+et	O
+organisateur	O
+de	O
+réceptions	O
+en	O
+pleine	O
+expansion	O
+,	O
+à	O
+taille	O
+humaine	O
+,	O
+recrute	O
+pour	O
+son	O
+laboratoire	O
+de	O
+production	O
+,	O
+un	position
+employé	position
+polyvalent	position
+de	position
+restauration-livreur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vous	hard skills
+travaillerez	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+notre	hard skills
+équipe	hard skills
+de	hard skills
+cuisiniers	hard skills
+et	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+principalement	hard skills
+:	
+-	O
+d'apporter	hard skills
+votre	hard skills
+aide	hard skills
+aux	hard skills
+cuisiniers	hard skills
+pour	hard skills
+la	hard skills
+confection	hard skills
+et	hard skills
+le	hard skills
+dressage	hard skills
+des	hard skills
+plateaux-repas	hard skills
+,	
+cocktails	hard skills
+et	hard skills
+buffets	hard skills
+-	O
+De	hard skills
+la	hard skills
+préparation	hard skills
+des	hard skills
+commandes	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+livraison	hard skills
+en	hard skills
+camion	hard skills
+frigorifique	hard skills
+,	O
+principalement	hard skills
+sur	hard skills
+Paris	hard skills
+et	hard skills
+petite	hard skills
+couronne	hard skills
+-	
+Autonomie	soft skills
+et	soft skills
+rigueur	soft skills
+sont	soft skills
+les	soft skills
+qualités	soft skills
+recherchées	soft skills
+pour	soft skills
+ce	soft skills
+poste	soft skills
+.	O
+Travail	O
+du	O
+lundi	O
+au	O
+vendredi	O
+,	O
+de	O
+06h00	O
+à	O
+13h00	O
+.	O
+Salaire	O
+1600/1700	salary
+$	salary
+brut	salary
+pour	
+35	
+heures	O
++	O
+heures	O
+supplémentaires	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+78690	code postal
+Les	city
+Essarts-le-Roi	city

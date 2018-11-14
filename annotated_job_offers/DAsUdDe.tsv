@@ -1,0 +1,323 @@
+assistant	position
+de	position
+gestion	position
+administrative	position
+du	position
+personnel	position
+H/F	O
+LUSTRAL	company
+-	O
+Metz	city
+-LRB-	O
+57	postal code
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+900	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Avec	O
+plus	O
+de	O
+1800	O
+collaborateurs	O
+dans	O
+le	O
+Grand-Est	O
+français	O
+,	O
+Lustral	company
+accompagne	O
+les	O
+organisations	O
+publiques	O
+et	O
+privées	O
+dans	O
+leurs	O
+problématiques	O
+d'externalisation	O
+en	O
+matière	O
+de	O
+Propreté	O
+et	O
+d'Hygiène	O
+.	O
+Ces	O
+10	O
+dernières	O
+années	O
+,	O
+Lustral	O
+est	O
+passée	O
+d'une	O
+agence	O
+de	O
+proximité	O
+à	O
+huit	O
+,	O
+ce	O
+qui	O
+en	O
+fait	O
+un	O
+des	O
+leaders	O
+sur	O
+son	O
+territoire	O
+d'intervention	O
+.	O
+Entreprise	O
+à	O
+dimension	O
+humaine	O
+,	O
+dynamique	O
+et	O
+poursuivant	O
+son	O
+développement	O
+grâce	O
+à	O
+sa	O
+forte	O
+culture	O
+du	O
+service	O
+,	O
+Lustral	company
+est	O
+à	O
+la	O
+recherche	O
+d'un	position
+assistant	position
+d'agence	position
+H/F	O
+pour	hard skills
+renforcer	hard skills
+ses	hard skills
+équipes	hard skills
+de	hard skills
+l'agence	hard skills
+de	hard skills
+Metz	hard skills
+.	O
+Le	O
+poste	O
+est	O
+un	O
+CDD	contrat_type
+de	O
+6	O
+mois	O
+à	O
+temps	contrat_type
+plein	contrat_type
+dans	O
+le	O
+cadre	O
+d'un	O
+remplacement	O
+de	O
+congé	O
+maternité	O
+.	O
+Au	O
+quotidien	O
+vos	O
+missions	O
+seront	O
+les	O
+suivantes	O
+:	O
+ADMINISTRATION	hard skills
+DU	hard skills
+PERSONNEL	hard skills
+:	
+Etablissement	hard skills
+des	hard skills
+formalités	hard skills
+liées	hard skills
+à	hard skills
+l'embauche	hard skills
+-LRB-	O
+DPAE	hard skills
+,	O
+RDV	hard skills
+Visites	hard skills
+médicales	hard skills
+,	O
+déclaration	hard skills
+pour	hard skills
+les	hard skills
+travailleurs	hard skills
+étrangers	hard skills
+,	O
+mutuelles	hard skills
+,	O
+...	O
+-RRB-	
+,	
+Etablissement	hard skills
+des	hard skills
+contrats	hard skills
+de	hard skills
+travail	hard skills
+,	
+Suivi	hard skills
+des	hard skills
+procédures	hard skills
+liées	hard skills
+à	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+contrats	hard skills
+et	hard skills
+des	hard skills
+dossiers	hard skills
+salariés	hard skills
+,	O
+Déclaration	hard skills
+des	hard skills
+AT	hard skills
+,	
+maladie	hard skills
+professionnelle	hard skills
+,	O
+Saisie	hard skills
+des	hard skills
+soldes	hard skills
+de	hard skills
+tout	hard skills
+compte	hard skills
+,	O
+o	hard skills
+Rédaction	hard skills
+des	hard skills
+courriers	hard skills
+disciplinaires	hard skills
+,	
+Contrôle	hard skills
+,	O
+saisie	hard skills
+et	hard skills
+traitement	hard skills
+des	hard skills
+pointages	hard skills
+paies	hard skills
+,	O
+Gestion	hard skills
+des	hard skills
+plannings	hard skills
+Suivi	hard skills
+des	hard skills
+procédures	hard skills
+Qualité	O
+,	O
+Assurer	hard skills
+l'atteinte	hard skills
+des	hard skills
+objectifs	hard skills
+Qualité	hard skills
+dans	hard skills
+son	hard skills
+domaine	hard skills
+Gestion	hard skills
+de	hard skills
+l'accueil	hard skills
+et	hard skills
+du	hard skills
+standard	hard skills
+Classement	hard skills
+,	O
+archivage	hard skills
+,	O
+COMPETENCES	
+DE	O
+BASE	O
+:	O
+Formation	experience
+initiale	experience
+:	O
+BAC	experience
+2	experience
+/	experience
+3	experience
+ou	experience
+expérience	experience
+équivalente	experience
+Utilisation	experience
+d'outils	experience
+bureautiques	experience
+-LRB-	O
+traitement	experience
+de	experience
+texte	experience
+Word	experience
+,	O
+tableur	experience
+Excel	experience
+,	O
+logiciels	experience
+métiers	experience
+,	O
+...	O
+-RRB-	O
+.	O
+Eléments	hard skills
+de	hard skills
+base	hard skills
+en	hard skills
+gestion	hard skills
+des	hard skills
+Ressources	hard skills
+Humaines	hard skills
+.	O
+Législation	hard skills
+sociale	hard skills
+.	O
+Normes	hard skills
+rédactionnelles	hard skills
+.	O
+Bon	soft skills
+relationnel	soft skills
+,	O
+organisation	soft skills
+Expérience	
+demandées	O
+:	O
+2	experience
+ans	experience
+en	experience
+gestion	experience
+administrative	experience
+du	experience
+personnel	experience
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+à	O
+1	salary
+900	salary
+$	salary
+/	O
+mois	salary

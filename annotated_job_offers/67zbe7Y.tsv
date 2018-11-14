@@ -1,0 +1,268 @@
+Superviseur	position
+maintenance	position
+H/F	O
+Lisi	company
+Automotive	company
+-	O
+Cergy-Pontoise	city
+-LRB-	O
+95	code postal
+-RRB-	O
+40	salary
+0	salary
+$	salary
+-	O
+45	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Responsable	O
+UAP	O
+,	O
+vous	hard skills
+assurez	hard skills
+l'ensemble	hard skills
+des	hard skills
+opérations	hard skills
+de	hard skills
+maintenance	hard skills
+générale	hard skills
+au	hard skills
+niveau	hard skills
+des	hard skills
+moyens	hard skills
+de	hard skills
+production	hard skills
+,	hard skills
+et	hard skills
+êtes	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+l'état	hard skills
+du	hard skills
+parc	hard skills
+matériel	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+disponibilité	hard skills
+des	hard skills
+machines	hard skills
+.	
+A	hard skills
+ce	hard skills
+titre	hard skills
+,	O
+vos	hard skills
+missions	hard skills
+principales	hard skills
+consisteront	hard skills
+à	hard skills
+:	hard skills
+-	O
+Organiser	hard skills
+et	hard skills
+assurer	hard skills
+la	hard skills
+maintenance	hard skills
+curative	hard skills
+et	hard skills
+préventive	hard skills
+des	hard skills
+installations	hard skills
+de	hard skills
+l'UAP	hard skills
+";"	hard skills
+-	hard skills
+Gérer	hard skills
+l'équipe	hard skills
+de	hard skills
+Techniciens	hard skills
+de	hard skills
+Maintenance	hard skills
+de	hard skills
+l'UAP	hard skills
+-LRB-	
+4	hard skills
+personnes	hard skills
+-RRB-	O
+";"	
+-	hard skills
+Assurer	hard skills
+le	hard skills
+fonctionnement	hard skills
+des	hard skills
+machines	hard skills
+en	hard skills
+sécurité	hard skills
+";"	hard skills
+-	hard skills
+Assurer	hard skills
+la	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+et	hard skills
+le	hard skills
+classement	hard skills
+des	hard skills
+documents	hard skills
+techniques	hard skills
+pour	hard skills
+les	hard skills
+équipements	hard skills
+de	hard skills
+l'UAP	hard skills
+";"	hard skills
+-	hard skills
+Gérer	hard skills
+l'approvisionnement	hard skills
+des	hard skills
+pièces	hard skills
+de	hard skills
+rechange	hard skills
+pour	hard skills
+les	hard skills
+interventions	hard skills
+et	hard skills
+réparations	hard skills
+sur	hard skills
+le	hard skills
+parc	hard skills
+machine	hard skills
+";"	hard skills
+-	hard skills
+Améliorer	hard skills
+la	hard skills
+fiabilité	hard skills
+des	hard skills
+machines	hard skills
+et	hard skills
+installations	hard skills
+avec	hard skills
+les	hard skills
+nouvelles	hard skills
+technologies	hard skills
+";"	hard skills
+-	hard skills
+Sélectionner	hard skills
+les	hard skills
+fournisseurs	hard skills
+d'équipement	hard skills
+et	hard skills
+de	hard skills
+prestations	hard skills
+techniques	hard skills
+";"	hard skills
+-	hard skills
+Garantir	hard skills
+la	hard skills
+sécurité	hard skills
+,	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+l'environnement	hard skills
+et	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+d'hygiène	hard skills
+&	hard skills
+sécurité	hard skills
+de	hard skills
+l'UAP	hard skills
+et	hard skills
+du	hard skills
+site	hard skills
+.	
+Formation	experience
+technique	experience
+en	experience
+électromécanique	experience
+type	experience
+Bac	experience
+Pro	experience
+MAI	experience
+/	O
+MGMA	experience
+,	O
+Bac	experience
+Pro	experience
+électrotechnique	experience
+,	
+BTS	experience
+maintenance	experience
+industrielle	experience
+,	O
+produits	experience
+industriels	experience
+ou	experience
+équivalents	experience
+.	
+Expérience	experience
+significative	experience
+de	experience
+5	experience
+ans	experience
+minimum	experience
+en	experience
+tant	experience
+que	experience
+responsable	experience
+maintenance	experience
+dans	experience
+une	experience
+industrie	experience
+de	experience
+production	experience
+,	O
+avec	experience
+des	experience
+compétences	experience
+en	experience
+mécaniques	experience
+,	
+électricité	experience
+et	experience
+hydraulique	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+40	salary
+0	salary
+$	salary
+à	O
+45	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+tant	experience
+que	experience
+responsable	experience
+maintenance	experience
+en	experience
+industrie	experience
+de	experience
+production	experience
+:	O
+5	experience
+ans	experience

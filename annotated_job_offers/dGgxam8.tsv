@@ -1,0 +1,265 @@
+Technicien	position
+SAV	company
+OVELO	company
+-	O
+Antony	city
+-LRB-	O
+92	postal code
+-RRB-	O
+1	salary
+750	salary
+$	salary
+-	O
+1	salary
+850	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+OVELO	company
+,	O
+le	O
+spécialiste	O
+du	O
+vélo	O
+électrique	O
+,	O
+c'est	O
+avant	O
+tout	O
+une	O
+équipe	O
+jeune	O
+et	O
+dynamique	O
+.	O
+Passionné	O
+et	O
+en	O
+quête	O
+de	O
+nouveaux	O
+challenges	O
+,	O
+OVELO	company
+bouscule	O
+le	O
+marché	O
+du	O
+VAE	O
+.	O
+Au	O
+sein	O
+d'une	O
+équipe	O
+dont	O
+le	O
+management	O
+se	O
+fait	O
+dans	O
+un	O
+esprit	O
+startup	O
+,	O
+vous	hard skills
+serez	hard skills
+rattaché	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+au	hard skills
+département	hard skills
+Service-Après-Vente	hard skills
+,	
+en	hard skills
+tant	hard skills
+que	hard skills
+technicien	hard skills
+SAV	hard skills
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Missions	hard skills
+Réception	hard skills
+des	hard skills
+SAV	hard skills
+et	hard skills
+traitement	hard skills
+Achat	hard skills
+du	hard skills
+matériel	hard skills
+pour	hard skills
+l'atelier	hard skills
+/	hard skills
+SAV	hard skills
+Entrée	hard skills
+et	hard skills
+sortie	hard skills
+des	hard skills
+stocks	hard skills
+Assurer	hard skills
+une	hard skills
+assistance	hard skills
+technique	hard skills
+auprès	hard skills
+des	hard skills
+différentes	hard skills
+équipes	hard skills
+Assurer	hard skills
+un	hard skills
+support	hard skills
+SAV	hard skills
+de	hard skills
+qualité	hard skills
+pour	hard skills
+les	hard skills
+clients	hard skills
+de	hard skills
+l'enseigne	hard skills
+:	hard skills
+les	hard skills
+tenir	hard skills
+informer	hard skills
+du	hard skills
+suivi	hard skills
+de	hard skills
+leur	hard skills
+SAV	hard skills
+,	hard skills
+établir	hard skills
+les	hard skills
+devis	hard skills
+et	hard skills
+leur	hard skills
+présenter	hard skills
+,	hard skills
+les	hard skills
+conseiller	hard skills
+sur	hard skills
+des	hard skills
+éléments	hard skills
+techniques	hard skills
+Assurer	hard skills
+le	hard skills
+reporting	hard skills
+avec	hard skills
+les	hard skills
+commerciaux	hard skills
+Effectuer	hard skills
+les	hard skills
+commandes	hard skills
+de	hard skills
+réassort	hard skills
+pour	hard skills
+les	hard skills
+pièces	hard skills
+SAV	hard skills
+chez	hard skills
+les	hard skills
+fournisseurs	hard skills
+S'assurer	hard skills
+du	hard skills
+suivi	hard skills
+des	hard skills
+expéditions	hard skills
+via	hard skills
+le	hard skills
+logiciel	hard skills
+WMS	hard skills
+Formations	hard skills
+chez	hard skills
+YAMAHA	hard skills
+,	
+BOSCH	hard skills
+-LRB-	O
+...	O
+-RRB-	O
+offerts	hard skills
+par	hard skills
+l'entreprise	hard skills
+.	
+Profil	O
+recherché	O
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+milieu	soft skills
+du	soft skills
+cycle	soft skills
+et	soft skills
+êtes	soft skills
+à	soft skills
+l'aise	soft skills
+techniquement	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+l'habitude	soft skills
+de	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+savez	soft skills
+prendre	soft skills
+des	soft skills
+initiatives	soft skills
+.	
+Un	hard skills
+bon	hard skills
+niveau	hard skills
+en	hard skills
+orthographe	hard skills
+est	hard skills
+indispensable	hard skills
+.	O
+Pour	O
+réussir	O
+dans	O
+ce	O
+poste	O
+,	O
+vous	soft skills
+saurez	soft skills
+faire	soft skills
+preuve	soft skills
+:	O
+D'écoute	soft skills
+,	O
+de	soft skills
+disponibilité	soft skills
+et	soft skills
+d'amabilité	soft skills
+D'organisation	soft skills
+et	soft skills
+de	soft skills
+rigueur	soft skills
+D'initiative	soft skills
+et	soft skills
+d'autonomie	soft skills
+Type	
+d'emploi	
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+750	salary
+$	salary
+à	
+1	salary
+850	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+mécanique	experience
+cycle	experience
+:	O
+1	experience
+an	experience

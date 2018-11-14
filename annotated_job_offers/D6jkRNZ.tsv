@@ -1,0 +1,309 @@
+Technicien	position
+de	position
+maintenance	position
+industrielle	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Viapost	company
+Industries	company
+-	O
+Le	city
+Kremlin-Bicêtre	city
+-LRB-	O
+94	postal code
+-RRB-	O
+28	salary
+0	salary
+$	salary
+-	O
+32	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Viapost	company
+Industries	company
+,	O
+filiale	O
+de	O
+La	O
+Poste	O
+,	O
+assure	O
+la	O
+logistique	O
+entre	O
+un	O
+e-commerçant	O
+et	O
+ses	O
+particuliers	O
+:	O
+tri	O
+de	O
+colis	O
+et	O
+de	O
+paquets	O
+,	O
+assemblage	O
+de	O
+documents	O
+et	O
+de	O
+presse	O
+.	O
+MISSIONS	hard skills
+PRINCIPALES	hard skills
+:	O
+Contrôler	hard skills
+,	O
+surveiller	hard skills
+et	hard skills
+entretenir	hard skills
+les	hard skills
+équipements	hard skills
+-LRB-	O
+entretien	hard skills
+préventif	hard skills
+-RRB-	O
+Détecter	hard skills
+l'origine	hard skills
+d'une	hard skills
+panne	hard skills
+et	hard skills
+la	hard skills
+corriger	hard skills
+-LRB-	O
+correctif	hard skills
+-RRB-	O
+Etablir	hard skills
+des	hard skills
+procédures	hard skills
+d'amélioration	hard skills
+ou	hard skills
+de	hard skills
+fiabilisation	hard skills
+Utiliser	hard skills
+la	hard skills
+GMAO	hard skills
+Gestion	hard skills
+des	hard skills
+stocks	hard skills
+des	hard skills
+pièces	hard skills
+détachées	hard skills
+Intervenir	hard skills
+en	hard skills
+cas	hard skills
+de	hard skills
+panne	hard skills
+ou	hard skills
+coordonner	hard skills
+les	hard skills
+équipes	hard skills
+Proposer	hard skills
+des	hard skills
+solutions	hard skills
+pour	hard skills
+optimiser	hard skills
+la	hard skills
+performance	hard skills
+des	hard skills
+équipements	hard skills
+Conseiller	hard skills
+et	hard skills
+former	hard skills
+les	hard skills
+utilisateurs	hard skills
+aux	hard skills
+matériels	hard skills
+Actualiser	hard skills
+les	hard skills
+données	hard skills
+techniques	hard skills
+Apporter	hard skills
+un	hard skills
+appui	hard skills
+technique	hard skills
+aux	hard skills
+équipes	hard skills
+opérationnelles	hard skills
+Organiser	hard skills
+et	hard skills
+programmer	hard skills
+les	hard skills
+activités	hard skills
+et	hard skills
+opérations	hard skills
+de	hard skills
+maintenance	hard skills
+Contrôler	hard skills
+la	hard skills
+réalisation	hard skills
+des	hard skills
+fournisseurs	hard skills
+et	hard skills
+sous-traitants	hard skills
+Déplacement	hard skills
+occasionnelles	hard skills
+sur	hard skills
+les	hard skills
+sites	hard skills
+VI	hard skills
+en	hard skills
+France	O
+COMPETENCES	O
+:	O
+Connaissances	hard skills
+techniques	hard skills
+en	hard skills
+automatismes	hard skills
+,	O
+mécanique	hard skills
+,	O
+pneumatique	hard skills
+,	O
+électricité	hard skills
+industrielle	hard skills
+Maîtrise	hard skills
+de	hard skills
+l'informatique	hard skills
+industrielle	hard skills
+Connaissance	hard skills
+de	hard skills
+la	hard skills
+GMAO	hard skills
+-LRB-	
+gestion	hard skills
+de	hard skills
+la	hard skills
+maintenance	hard skills
+assistée	hard skills
+par	hard skills
+ordinateur	hard skills
+-RRB-	O
+Capacité	hard skills
+à	hard skills
+raisonner	hard skills
+avec	hard skills
+méthode	hard skills
+et	hard skills
+à	hard skills
+détecter	hard skills
+une	hard skills
+situation	hard skills
+anormale	hard skills
+Travail	hard skills
+en	hard skills
+équipe	hard skills
+-LRB-	
+3	O
+*	O
+8	O
+-RRB-	O
+et	O
+le	O
+week-end	O
+.	O
+Astreinte	O
+Capacité	O
+d'adaptation	O
+.	O
+De	O
+formation	O
+Bac	experience
+à	experience
+Bac	experience
+2	experience
+en	experience
+maintenance	experience
+ou	experience
+électromécanique	experience
+,	O
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+minimum	experience
+de	experience
+3	experience
+ans	experience
+dans	experience
+l'activité	experience
+maintenance	experience
+et	experience
+plus	experience
+particulièrement	experience
+dans	experience
+un	experience
+secteur	experience
+orienté	experience
+mécanique	experience
+industrielle	experience
+,	O
+systèmes	experience
+de	experience
+convoyage	experience
+ou	experience
+de	experience
+tri	experience
+de	experience
+type	experience
+BEUMER	experience
+,	O
+FIVES	experience
+,	O
+SITMA	experience
+ou	experience
+FERAG	experience
+.	O
+HORAIRE	O
+DE	O
+TRAVAIL	O
+:	O
+Horaire	O
+de	O
+journée	O
+Travail	O
+en	O
+horaire	O
+décalée	O
+et	O
+de	O
+week-end	O
+occasionnel	O
+Travail	O
+principalement	O
+sur	O
+les	O
+plateformes	O
+d'Ile-de-France	O
+et	O
+ponctuellement	O
+en	O
+Provins	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+CDI	contrat_type
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+à	O
+32	salary
+0	salary
+$	salary
+/	
+an	salary

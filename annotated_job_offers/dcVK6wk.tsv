@@ -1,0 +1,145 @@
+Manutentionnaire	position
+polyvalent	position
+H/F	O
+INTERIOR	company
+'S	company
+-	O
+Bordeaux	city
+-LRB-	O
+33	postal code
+-RRB-	O
+9,76	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Nous	O
+recrutons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+manutentionnaire	O
+15h/semaine	O
+pour	O
+notre	O
+magasin	O
+de	O
+Mérignac	O
+Vos	O
+missions	O
+:	O
+Vous	hard skills
+serez	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+arrivages	hard skills
+,	
+du	hard skills
+contrôle	hard skills
+des	hard skills
+marchandises	hard skills
+,	hard skills
+du	hard skills
+rangement	hard skills
+de	hard skills
+la	hard skills
+réserve	hard skills
+,	hard skills
+des	hard skills
+enlèvements	hard skills
+,	O
+de	hard skills
+l'entretien	hard skills
+de	hard skills
+la	hard skills
+surface	hard skills
+de	hard skills
+vente.Doté	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	
+d'un	soft skills
+bon	soft skills
+relationnel	soft skills
+client	soft skills
+,	
+vous	soft skills
+êtes	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+,	
+manuel	soft skills
+-LRB-	O
+le	soft skills
+-RRB-	O
+et	soft skills
+travailleur.Port	soft skills
+de	soft skills
+charges	soft skills
+lourdes	soft skills
+à	soft skills
+prévoir	soft skills
+.	O
+La	hard skills
+connaissance	hard skills
+en	hard skills
+menuiserie	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	O
+CDI	contrat_type
+15h/semaine	O
+,	O
+idéal	O
+pour	O
+compléter	O
+une	O
+activité	O
+ou	O
+pour	O
+un	O
+-LRB-	O
+e	O
+-RRB-	O
+étudiant	O
+-LRB-	O
+e	O
+-RRB-	O
+Rémunération	O
+:	O
+9.76	salary
+$	salary
+/	
+heure	salary
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Bordeaux	city
+-LRB-	O
+33	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+manutention	experience
+:	
+1	experience
+an	experience

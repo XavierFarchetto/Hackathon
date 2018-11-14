@@ -1,0 +1,343 @@
+Chauffeur-Livreur	position
+Poids	position
+Lourd	position
+H/F	O
+Pomona	company
+Terre	company
+Azur	company
+IDF	company
+Restauration	company
+-	O
+Rungis	city
+-LRB-	O
+94	code postal
+-RRB-	O
+2	salary
+100	salary
+$	salary
+-	O
+2	salary
+250	salary
+$	salary
+par	salary
+mois	salary
+Chauffeur	position
+Poids	position
+Lourd	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Pomona	company
+TerreAzur	company
+Rungis	company
+-LRB-	O
+94	code postal
+-RRB-	O
+Cours	O
+d'Alsace	O
+Bâtiment	O
+B4B	O
+Notre	O
+société	O
+,	O
+POMONA	O
+TERREAZUR	O
+,	O
+est	O
+spécialisée	O
+dans	O
+la	O
+distribution/livraison	O
+de	O
+fruits	O
+et	O
+légumes	O
+pour	O
+la	O
+restauration	O
+hors	O
+domicile	O
+.	O
+Leader	O
+sur	O
+le	O
+marché	O
+,	O
+nous	O
+sommes	O
+situés	O
+sur	O
+le	O
+marché	O
+de	O
+Rungis	O
+.	O
+Nous	O
+comptons	O
+plus	O
+de	O
+260	O
+collaborateurs	O
+répartis	O
+entre	O
+les	O
+services	O
+Logistique	O
+,	O
+Commerce	O
+,	O
+Achats	O
+et	O
+fonctions	O
+supports	O
+.	O
+Notre	O
+équipe	O
+transport	O
+composées	O
+d'une	O
+soixantaine	O
+de	O
+chauffeurs	O
+,	O
+se	O
+tient	O
+à	O
+votre	O
+disposition	O
+pour	O
+vous	O
+accueillir	O
+,	O
+vous	O
+informer	O
+et	O
+vous	O
+accompagner	O
+vers	O
+une	O
+réussite	O
+commune	O
+.	O
+Descriptif	O
+de	O
+poste	O
+:	O
+Dans	O
+le	O
+cadre	O
+de	O
+leurs	O
+fonctions	O
+nos	O
+chauffeurs	O
+PL	O
+réalisent	O
+notamment	O
+les	O
+tâches	O
+suivantes	O
+:	O
+Contrôle	hard skills
+de	hard skills
+l'état	hard skills
+de	hard skills
+fonctionnement	hard skills
+du	hard skills
+véhicule	hard skills
+";"	
+Vérification	hard skills
+de	hard skills
+la	hard skills
+présence	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+conformité	hard skills
+des	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+et	hard skills
+de	hard skills
+transport	hard skills
+";"	
+Définition	hard skills
+d'un	hard skills
+itinéraire	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+consignes	hard skills
+de	hard skills
+livraison	hard skills
+";"	
+Pré-chargement	hard skills
+effectué	hard skills
+par	hard skills
+notre	hard skills
+équipe	hard skills
+de	hard skills
+chargement	hard skills
+Livraison	hard skills
+des	hard skills
+commandes	hard skills
+chez	hard skills
+nos	hard skills
+clients	hard skills
+-LRB-	O
+15	hard skills
+à	hard skills
+20	hard skills
+clients	hard skills
+à	hard skills
+livrer	hard skills
+en	hard skills
+moyenne	hard skills
+par	hard skills
+tournée	hard skills
+-RRB-	
+sur	hard skills
+un	hard skills
+secteur	hard skills
+géographique	hard skills
+défini	hard skills
+et	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+chaîne	hard skills
+du	hard skills
+froid	hard skills
+";"	hard skills
+Déchargement	hard skills
+chez	hard skills
+les	hard skills
+clients	hard skills
+";"	O
+Contrôle	hard skills
+des	hard skills
+bons	hard skills
+de	hard skills
+livraison	hard skills
+";"	O
+Remontée	hard skills
+des	hard skills
+informations	hard skills
+clients	hard skills
+.	
+Horaires	O
+de	O
+travail	O
+:	O
+Du	O
+lundi	O
+au	O
+vendredi	O
+de	O
+5h	O
+à	O
+13h	O
+Contrat	O
+et	O
+conditions	O
+salariales	O
+:	O
+Contrat	contrat_type
+à	contrat_type
+Durée	contrat_type
+Indéterminée	contrat_type
+-LRB-	O
+CDI	contrat_type
+-RRB-	O
+sur	O
+une	O
+base	O
+horaire	O
+de	O
+37h/semaine	O
+Salaire	O
+:	O
+2	salary
+100	salary
+à	
+2	salary
+250	salary
+$	salary
+Avantages	O
+sociaux	O
+:	O
+tickets	O
+restaurant	O
+,	O
+mutuelle	O
+,	O
+participation/int	O
+éressement	O
+Profil	O
+recherché	O
+:	O
+Titulaire	
+du	
+permis	hard skills
+C	hard skills
+,	O
+FIMO/FCO	hard skills
+,	O
+vous	soft skills
+êtes	soft skills
+organisé	
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+rigoureux	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+consciencieux	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+autonome	soft skills
+et	soft skills
+avez	soft skills
+des	soft skills
+qualités	soft skills
+relationnelles	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+par	soft skills
+ailleurs	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+et	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	
+plein	
+Salaire	O
+:	O
+2	salary
+100	salary
+$	salary
+à	O
+2	salary
+250	salary
+$	salary
+/	O
+mois	salary

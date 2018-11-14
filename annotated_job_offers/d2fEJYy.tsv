@@ -1,0 +1,324 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+PAO	position
+et	position
+production	position
+print	position
+PaperMint	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+PaperMint	company
+est	O
+une	O
+jeune	O
+marque	O
+de	O
+papier	O
+peint	O
+au	O
+style	O
+ludique	O
+,	O
+joyeux	O
+et	O
+coloré	O
+.	O
+Avec	O
+ses	O
+décors	O
+graphiques	O
+,	O
+la	O
+marque	O
+offre	O
+une	O
+vision	O
+moderne	O
+et	O
+dynamique	O
+du	O
+papier	O
+peint	O
+à	O
+la	O
+française	O
+!	O
+L'atelier	O
+de	O
+fabrication	O
+est	O
+basé	O
+à	O
+Paris	O
+10e	O
+.	O
+Pour	O
+en	O
+savoir	O
+plus	O
+réf	O
+compte	O
+Instagram	O
+Le	O
+poste	O
+:	O
+Dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+,	O
+PaperMint	company
+recrute	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+infographiste	position
+/	O
+PAO	position
+également	O
+chargé	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+de	hard skills
+production	hard skills
+print	hard skills
+.	
+Le	O
+poste	O
+est	O
+proposé	O
+dans	O
+le	O
+cadre	O
+d'un	O
+CDI	contrat_type
+mi-temps	O
+Votre	hard skills
+mission	hard skills
+:	O
+Vous	hard skills
+assisterez	hard skills
+le	hard skills
+responsable	hard skills
+de	hard skills
+production	hard skills
+.	
+Vous	hard skills
+travaillerez	hard skills
+sur	hard skills
+nos	hard skills
+outils	hard skills
+d'impression	hard skills
+-LRB-	
+traceur	hard skills
+numérique	hard skills
+et	hard skills
+le	hard skills
+plotter	hard skills
+-RRB-	
+après	hard skills
+une	hard skills
+formation	hard skills
+à	hard skills
+nos	hard skills
+technologies	hard skills
+.	O
+Vous	hard skills
+interviendrez	hard skills
+sur	hard skills
+nos	hard skills
+décors	hard skills
+muraux	hard skills
+et	hard skills
+stickers	hard skills
+ainsi	hard skills
+que	hard skills
+sur	hard skills
+des	hard skills
+projets	hard skills
+sur-mesure	hard skills
+pour	hard skills
+nos	hard skills
+clients	hard skills
+.	
+Vos	hard skills
+activités	hard skills
+:	O
+-	hard skills
+Réaliser	hard skills
+des	hard skills
+tests	hard skills
+et	hard skills
+des	hard skills
+démonstrations	hard skills
+clients	hard skills
+avec	hard skills
+préparation	hard skills
+et	hard skills
+retouches	hard skills
+de	hard skills
+fichiers	hard skills
+-	hard skills
+Concevoir	hard skills
+des	hard skills
+outils	hard skills
+de	hard skills
+communication	hard skills
+-LRB-	
+fiches	hard skills
+,	O
+plans	hard skills
+de	hard skills
+pose	hard skills
+,	O
+packaging	hard skills
+...	O
+-RRB-	O
+-	O
+Concevoir	hard skills
+et	hard skills
+contrôler	hard skills
+des	hard skills
+fichiers	hard skills
+d'impression	hard skills
+-	hard skills
+Réaliser	hard skills
+des	hard skills
+découpes	hard skills
+vectorielles	hard skills
+-	hard skills
+Participer	hard skills
+à	hard skills
+la	hard skills
+production	hard skills
+-LRB-	
+impression	hard skills
+,	O
+découpe	hard skills
+,	
+façonnage	hard skills
+-RRB-	O
+et	hard skills
+à	hard skills
+la	hard skills
+préparation	hard skills
+des	hard skills
+commandes	hard skills
+Profil	
+recherché	O
+:	O
+-	O
+Vous	experience
+avez	experience
+une	experience
+première	experience
+expérience	experience
+professionnelle	experience
+ou	experience
+un	experience
+stage	experience
+significatif	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+l	experience
+infographisme	experience
+-	O
+Vous	hard skills
+maîtrisez	hard skills
+les	hard skills
+outils	hard skills
+de	hard skills
+la	hard skills
+suite	hard skills
+Adobe	hard skills
+Print	hard skills
+Vous	hard skills
+êtes	hard skills
+familier	hard skills
+de	hard skills
+l'univers	hard skills
+de	hard skills
+l'impression	hard skills
+Vous	hard skills
+avez	hard skills
+envie	hard skills
+de	hard skills
+participer	hard skills
+au	hard skills
+développement	hard skills
+d	hard skills
+une	hard skills
+petite	hard skills
+entreprise	hard skills
+,	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+investi	soft skills
+,	O
+attentif	soft skills
+et	soft skills
+rigoureux	soft skills
+Rémunération	
+brute	O
+:	O
+Smic	salary
+horaire	O
++	O
+prime	O
+de	O
+résultat	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	
+:	O
+imprimerie	experience
+:	O
+1	experience
+an	experience
+pao	experience
+:	
+1	experience
+an	experience

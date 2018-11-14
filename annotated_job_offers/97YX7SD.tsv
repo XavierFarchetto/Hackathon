@@ -1,0 +1,322 @@
+RECEPTIONNAIRE	position
+/	O
+CONSEILLER	position
+SERVICE	position
+APRES-VENTE	position
+AUTOMOBILE	position
+ITINERANT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Mercedes-Benz	company
+-	O
+Groupe	company
+de	company
+Willermin	company
+-	O
+Marseille	city
+-LRB-	O
+13	code postal
+-RRB-	O
+28	salary
+0	salary
+$	salary
+-	O
+32	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Le	O
+groupe	company
+de	company
+Willermin	company
+,	O
+distributeur	O
+des	O
+marques	O
+Mercedes-Benz	O
+et	O
+de	O
+ses	O
+marques	O
+partenaires	O
+recherche	O
+:	O
+RÉCEPTIONNAIRE	position
+/	O
+CONSEILLER	position
+SERVICE	position
+APRES-VENTE	position
+AUTOMOBILE	position
+ITINERANT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+sur	O
+le	O
+secteur	O
+Arles	O
+,	O
+Vitrolles	O
+,	O
+Aix-en-Provence	O
+et	O
+Marseille	city
+-LRB-	O
+13	code postal
+-RRB-	O
+pour	O
+renforcer	O
+l'activité	O
+croissante	O
+des	O
+ateliers	O
+du	O
+groupe	O
+.	O
+Description	O
+du	O
+poste	O
+:	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+Responsable	O
+transverse	O
+SAV	O
+véhicules	O
+particuliers	O
+du	O
+groupe	O
+,	O
+vous	O
+prenez	hard skills
+en	hard skills
+charge	hard skills
+la	hard skills
+réception	hard skills
+complète	hard skills
+des	hard skills
+clients	hard skills
+pour	hard skills
+l'atelier	hard skills
+.	O
+A	O
+ce	O
+titre	O
+vous	O
+prenez	hard skills
+les	hard skills
+RDV	hard skills
+sur	hard skills
+l'outil	hard skills
+informatique	hard skills
+,	O
+réalisez	hard skills
+la	hard skills
+facturation	hard skills
+,	O
+l'Ordre	hard skills
+de	hard skills
+Réparation	hard skills
+et	hard skills
+conseiller	hard skills
+le	hard skills
+client	hard skills
+sur	hard skills
+les	hard skills
+travaux	hard skills
+.	O
+Missions	O
+:	O
+-LRB-	O
+non	O
+limitatives	O
+-RRB-	
+Accueillir	hard skills
+les	hard skills
+clients	hard skills
+atelier	hard skills
+et	hard skills
+les	hard skills
+conseiller	hard skills
+sur	hard skills
+les	hard skills
+travaux	hard skills
+Prise	hard skills
+de	hard skills
+rendez-vous	hard skills
+sur	hard skills
+l'outil	hard skills
+informatique	hard skills
+Contrôler	hard skills
+l'exécution	hard skills
+des	hard skills
+réparations	hard skills
+avant	hard skills
+restitution	hard skills
+du	hard skills
+véhicule	hard skills
+et	hard skills
+assurer	hard skills
+le	hard skills
+règlement	hard skills
+des	hard skills
+litiges	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+,	O
+des	hard skills
+règles	hard skills
+,	O
+et	hard skills
+des	hard skills
+consignes	hard skills
+.	O
+Effectuer	hard skills
+les	hard skills
+facturations	hard skills
+suivant	hard skills
+les	hard skills
+codes	hard skills
+et	hard skills
+les	hard skills
+garanties	hard skills
+constructeurs	hard skills
+Réaliser	hard skills
+des	hard skills
+ventes	hard skills
+additionnelles	hard skills
+de	hard skills
+produits	hard skills
+et	hard skills
+services	hard skills
+en	hard skills
+liaison	hard skills
+avec	hard skills
+la	hard skills
+maintenance	hard skills
+de	hard skills
+véhicules	hard skills
+.	O
+Profil	O
+recherché	O
+:	O
+Vous	O
+maîtrisez	soft skills
+l'utilisation	soft skills
+des	soft skills
+outils	soft skills
+informatiques	soft skills
+et	soft skills
+justifiez	soft skills
+d'une	soft skills
+expérience	soft skills
+professionnelle	soft skills
+sur	soft skills
+ce	soft skills
+type	soft skills
+de	soft skills
+poste	soft skills
+.	O
+Débutant	soft skills
+accepté	soft skills
+à	O
+condition	O
+de	O
+justifier	O
+d'excellentes	O
+connaissances	soft skills
+techniques	soft skills
+.	O
+Une	soft skills
+formation	soft skills
+sera	soft skills
+assurée	soft skills
+sur	soft skills
+les	soft skills
+outils	soft skills
+et	soft skills
+méthodes	soft skills
+MB	soft skills
+.	O
+Doté	soft skills
+-LRB-	O
+e	O
+-RRB-	O
+d'un	soft skills
+très	soft skills
+bon	soft skills
+relationnel	soft skills
+et	soft skills
+d'un	soft skills
+grand	soft skills
+sens	soft skills
+de	soft skills
+l'écoute	soft skills
+,	
+vous	O
+aimez	O
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+placez	soft skills
+le	soft skills
+client	soft skills
+au	soft skills
+centre	soft skills
+de	soft skills
+votre	soft skills
+mission	soft skills
+.	O
+Salaire	O
+selon	O
+profil	O
+Véhicule	O
+de	O
+service	O
+et	O
+carburant	O
+Envoyer	O
+CV	O
++	O
+lettre	O
+de	O
+motivation	O
+par	O
+mail	O
+ou	O
+à	O
+:	O
+MASA	O
+108	O
+bd	O
+de	O
+Pont	O
+de	O
+Vivaux	O
+13010	O
+Marseille	city
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+28	salary
+0	salary
+$	salary
+à	O
+32	salary
+0	salary
+$	salary
+/	O
+an	salary

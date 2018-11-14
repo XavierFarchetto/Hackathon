@@ -1,0 +1,309 @@
+Conducteur	position
+de	position
+personnes	position
+secteur	O
+Île-de-France	O
+-LRB-	O
+H/F	O
+-RRB-	O
+Adiate	company
+Evolution	company
+-	O
+Massy	city
+-LRB-	O
+91	code postal
+-RRB-	O
+1	salary
+268	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Description	O
+de	O
+l'offre	O
+Société	O
+spécialisée	O
+dans	O
+le	O
+transport	O
+de	O
+personnes	O
+au	O
+service	O
+de	O
+grands	O
+comptes	O
+et	O
+disposant	O
+d'une	O
+flotte	O
+de	O
+plus	O
+de	O
+800	O
+véhicules	O
+,	O
+recherche	O
+:	O
+Des	position
+chauffeurs	position
+-LRB-	p
+H/F	O
+-RRB-	O
+avec	O
+Permis	hard skills
+B	hard skills
+minimum	hard skills
+3	hard skills
+ans	hard skills
+sur	O
+secteur	O
+de	O
+l'Ile	O
+de	O
+France	O
+-LRB-	O
+petite	O
+et	O
+grande	O
+couronne	O
+-RRB-	O
+.	O
+Qualités	O
+requises	O
+:	O
+Ponctualité	soft skills
+,	
+professionnalisme	soft skills
+,	O
+rigueur	soft skills
+,	O
+sens	soft skills
+de	soft skills
+la	soft skills
+relation	soft skills
+client	soft skills
+,	O
+du	soft skills
+service	soft skills
+,	O
+bonne	soft skills
+presentation	soft skills
+.	
+Flexibilité	soft skills
+sur	soft skills
+les	soft skills
+plages	soft skills
+horaires	
+:	O
+19h00-07h00	O
+et/ou	O
+07h00-19h00	O
+.	O
+travail	hard skills
+le	hard skills
+week	hard skills
+end	hard skills
+repos	hard skills
+en	hard skills
+semaine	hard skills
+Véhicule	hard skills
+de	hard skills
+service	hard skills
+mis	hard skills
+à	hard skills
+disposition	hard skills
+Compétences	hard skills
+du	hard skills
+poste	hard skills
+Accueillir	hard skills
+la	hard skills
+clientèle	hard skills
+Assurer	hard skills
+la	hard skills
+propreté	hard skills
+du	hard skills
+véhicule	hard skills
+Conduire	hard skills
+et	hard skills
+déposer	hard skills
+le	hard skills
+client	hard skills
+à	hard skills
+son	hard skills
+lieu	hard skills
+de	hard skills
+destination	hard skills
+Déterminer	hard skills
+un	hard skills
+itinéraire	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+délais	hard skills
+et	hard skills
+des	hard skills
+particularités	hard skills
+du	hard skills
+trafic	hard skills
+Maintenance	hard skills
+de	hard skills
+premier	hard skills
+niveau	hard skills
+Renseigner	hard skills
+les	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+d'un	hard skills
+véhicule	hard skills
+Respect	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+des	hard skills
+biens	hard skills
+et	hard skills
+des	hard skills
+personnes	hard skills
+Réaliser	hard skills
+des	hard skills
+déplacements	hard skills
+régionaux	hard skills
+Renseigner	hard skills
+et	hard skills
+transmettre	hard skills
+les	hard skills
+feuilles	hard skills
+de	hard skills
+route	hard skills
+Réglementation	hard skills
+du	hard skills
+transport	hard skills
+de	hard skills
+personnes	hard skills
+Utilisation	hard skills
+de	hard skills
+matériel	hard skills
+de	hard skills
+navigation	hard skills
+Lieu	
+de	
+travail	
+Ile	
+de	O
+France	O
+Type	O
+de	O
+contrat	O
+C	contrat_type
+D	contrat_type
+D	contrat_type
+temps	O
+partiel	O
+Nature	O
+d'offre	O
+Contrat	O
+tout	O
+public	O
+Date	O
+de	O
+prise	O
+de	O
+poste	O
+immediat	O
+Expérience	O
+Expérience	experience
+exigée	experience
+de	experience
+3	experience
+année	experience
+-LRB-	O
+s	experience
+-RRB-	O
+Formation	O
+Niveau	O
+:	O
+BEPC	experience
+ou	O
+3ème	experience
+achevée	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+L'anglais	hard skills
+est	hard skills
+souhaitable	hard skills
+Permis	hard skills
+B	hard skills
+-	
+Véhicule	hard skills
+léger	hard skills
+exigé	hard skills
+Salaire	
+indicatif	O
+Taux	O
+:	O
+smic	salary
+horaire	O
+et	O
+majoration	O
+de	O
+nuit	O
+Complément	O
+-LRB-	O
+s	O
+-RRB-	O
+de	O
+salaire	O
+Véhicule	O
+de	O
+service	O
+et	O
+carte	O
+carburant	O
+/	O
+péage	O
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+de130	O
+heures	O
+mensuel	O
+Temps	O
+partiel	O
+Déplacements	O
+Quotidiens	O
+-LRB-	O
+départemental	O
+-RRB-	O
+Taille	O
+de	O
+l'entreprise	O
+700	O
+à	O
+800	O
+salariés	O
+Secteur	O
+d'activité	O
+Autres	O
+transports	O
+routiers	O
+de	O
+voyageurs	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+268	salary
+$	salary
+/	O
+mois	salary

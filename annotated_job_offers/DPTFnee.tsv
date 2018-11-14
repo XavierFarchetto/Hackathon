@@ -1,0 +1,170 @@
+CHAUFFEUR	position
+LIVREUR	position
+h/f	O
+CONFLUENT	company
+-	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+10	salary
+$	salary
+-	O
+13	salary
+$	salary
+par	salary
+heure	salary
+CHAUFFEUR	position
+LIVREUR	position
+h/f	O
+Principales	hard skills
+missions	hard skills
+:	O
+Chargement	hard skills
+et	hard skills
+déchargement	hard skills
+de	hard skills
+pièces	hard skills
+industrielles	hard skills
+dans	hard skills
+le	hard skills
+véhicule	hard skills
+,	
+Assurer	hard skills
+les	hard skills
+livraisons	hard skills
+dans	hard skills
+les	hard skills
+délais	hard skills
+en	hard skills
+région	hard skills
+Rhone	hard skills
+Alpes	hard skills
+,	hard skills
+Conduite	hard skills
+d'un	hard skills
+véhicule	hard skills
+léger	hard skills
+inférieur	hard skills
+à	hard skills
+3.5	hard skills
+tonnes	hard skills
+,	hard skills
+Respecter	hard skills
+la	hard skills
+qualité	hard skills
+des	hard skills
+produits	hard skills
+livrés	hard skills
+,	hard skills
+Respecter	hard skills
+les	hard skills
+feuilles	hard skills
+de	hard skills
+route	hard skills
+.	
+Compétences	
+requises	
+et	O
+Savoir-être	O
+:	O
+Etre	experience
+titulaire	experience
+d'un	experience
+permis	experience
+B	experience
+valide	experience
+,	O
+Justifier	experience
+d'une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+en	experience
+livraison	experience
+.	
+Formation	O
+:	O
+Niveau	experience
+Cap	experience
+à	experience
+Bac	experience
+Pro	experience
+en	experience
+logistique	experience
+,	
+transport	experience
+ou	experience
+équivalent	experience
+.	O
+Environnement	
+de	
+travail	
+:	
+Déplacement	O
+en	O
+région	O
+Rhone	O
+Alpes	O
+sans	O
+découchés	O
+.	O
+Horaire	O
+:	O
+Journée	O
+.	O
+Salaire	O
+,	O
+durée	O
+:	O
+Entre	O
+10	salary
+$	salary
+et	O
+13	salary
+$	salary
+/	O
+heure	salary
+en	O
+fonction	O
+de	O
+vos	O
+prétentions	O
++	O
+panier	O
++	O
+13ème	O
+mois	O
+au	O
+bout	O
+de	O
+8	O
+mois	O
+d'ancienneté	O
+,	O
+Mission	O
+d'intérim	O
+longue	O
+durée	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+Expérience	O
+exigée	O
+:	O
+livraison	experience
+:	O
+1	experience
+an	experience

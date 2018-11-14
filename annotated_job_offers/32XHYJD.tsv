@@ -1,0 +1,165 @@
+Aide	position
+ménager	position
+/	position
+ménagère	position
+à	position
+domicile	position
+TOULOUSE	city
+31200	code postal
+-LRB-	O
+H/F	O
+-RRB-	O
+SHIVA	company
+-	O
+Toulouse	city
+-LRB-	O
+31	code postal
+-RRB-	O
+10,5	salary
+$	salary
+-	O
+11,5	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Pour	hard skills
+répondre	hard skills
+à	hard skills
+sa	hard skills
+forte	hard skills
+croissance	hard skills
+,	O
+Shiva	company
+sélectionne	
+en	O
+permanence	O
+,	O
+pour	O
+le	O
+compte	O
+de	O
+ses	O
+clients	O
+particuliers	O
+employeurs	O
+,	O
+des	position
+employé	position
+-LRB-	O
+e	position
+-RRB-	O
+s	position
+de	position
+maison	position
+dynamiques	soft skills
+,	O
+motivé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+s	soft skills
+,	
+rigoureux/ses	soft skills
+et	
+ayant	experience
+une	experience
+expérience	experience
+probante	experience
+dans	experience
+le	experience
+ménage	experience
+et	experience
+le	experience
+repassage	experience
+.	O
+Votre	hard skills
+activité	hard skills
+consiste	hard skills
+à	hard skills
+:	O
+-	O
+Entretenir	hard skills
+le	hard skills
+domicile	hard skills
+:	O
+aérer	hard skills
+,	
+ranger	hard skills
+et	hard skills
+nettoyer	hard skills
+-LRB-	O
+dépoussiérer	hard skills
+,	O
+aspirer	hard skills
+,	O
+laver	hard skills
+-RRB-	
+les	hard skills
+pièces	hard skills
+,	O
+meubles	hard skills
+,	O
+équipements	hard skills
+et	hard skills
+objets	hard skills
+de	hard skills
+décoration	hard skills
+.	O
+-	O
+Entretenir	hard skills
+le	hard skills
+linge	hard skills
+:	O
+trier	hard skills
+,	O
+laver	hard skills
+,	O
+étendre	hard skills
+,	O
+détendre	hard skills
+et	hard skills
+repasser	hard skills
+le	hard skills
+linge	hard skills
+.	O
+-	O
+Respecter	hard skills
+les	hard skills
+normes	hard skills
+de	hard skills
+sécurité	hard skills
+liées	hard skills
+à	hard skills
+l'utilisation	hard skills
+du	hard skills
+matériel	hard skills
+et	hard skills
+des	hard skills
+produits	hard skills
+ménagers	hard skills
+.	O
+Contactez-nous	O
+au	O
+561502704	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+10,5	salary
+$	salary
+à	O
+11,5	salary
+$	salary
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+ménage	experience
+:	O
+1	experience
+an	experience

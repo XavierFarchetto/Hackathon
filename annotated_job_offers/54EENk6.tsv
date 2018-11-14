@@ -1,0 +1,185 @@
+DESSINATEUR	position
+D'ÉTUDES	position
+INDUSTRIELLES	position
+-LRB-	O
+H/F	O
+-RRB-	O
+BEI	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+25	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+Intérim	contrat_type
+Descriptif	O
+:	O
+Société	O
+spécialisé	O
+dans	O
+l'ingénierie	O
+,	O
+notre	O
+client	O
+,	O
+existant	O
+depuis	O
+plus	O
+de	O
+40	O
+ans	O
+évolue	O
+d'une	O
+logique	O
+de	O
+moyen	O
+a	O
+une	O
+logique	O
+de	O
+projet	O
+.	O
+La	O
+mission	O
+:	O
+Dessinateur	position
+projeteur	position
+d'études	position
+industrielles	position
+Etudes	hard skills
+multi	hard skills
+projets	hard skills
+sur	hard skills
+les	hard skills
+logiciels	hard skills
+SOLIWORKS	hard skills
+et	hard skills
+CATIA	hard skills
+V5	hard skills
+-LRB-	
+Mécanique	hard skills
+,	O
+Machine	hard skills
+Spéciale	hard skills
+,	O
+Ferrage	hard skills
+et	hard skills
+Outillage	hard skills
+-RRB-	
+Création	hard skills
+d'avant-projet	hard skills
+destiné	hard skills
+essentiellement	hard skills
+au	hard skills
+secteur	hard skills
+de	hard skills
+l'automobile	hard skills
+,	O
+conception	hard skills
+de	hard skills
+pré-études	hard skills
+,	O
+modélisation	hard skills
+d'outils	hard skills
+.	
+Profil	O
+:	O
+De	experience
+formation	experience
+bac	experience
+2	experience
+ou	experience
+bac	experience
+3	experience
+type	experience
+conception	experience
+mécanique	experience
+,	O
+vous	experience
+justifiez	experience
+d'une	experience
+première	experience
+expérience	experience
+ou	experience
+un	experience
+apprentissage	experience
+significatif	experience
+idéalement	experience
+dans	experience
+le	experience
+secteur	experience
+du	experience
+ferroviaire	experience
+ou	experience
+de	experience
+l'automobile	experience
+.	O
+La	hard skills
+maîtrise	hard skills
+d'un	hard skills
+outil	hard skills
+de	hard skills
+conception	hard skills
+3D	hard skills
+type	hard skills
+Catia	hard skills
+v5	hard skills
+,	
+SolidWorks	hard skills
+est	hard skills
+indispensable	hard skills
+.	O
+Logiciels	hard skills
+Maîtrisés	hard skills
+:	O
+CAO	hard skills
+sur	hard skills
+SOLIDWORKS	hard skills
+CAO	hard skills
+sur	hard skills
+CATIA	hard skills
+V5	hard skills
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Salaire	O
+:	O
+25	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DESSINATEUR	experience
+D'ETUDES	experience
+INDUSTRIELLES	experience
+:	O
+2	experience
+ans	experience
+CAO	experience
+sur	experience
+SOLIDWORKS	experience
+:	O
+2	experience
+ans	experience
+CAO	experience
+sur	experience
+CATIA	experience
+V5	experience
+:	O
+2	experience
+ans	experience

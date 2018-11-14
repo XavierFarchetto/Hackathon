@@ -1,0 +1,263 @@
+Cuisinier	position
+-LRB-	O
+H/F	O
+-RRB-	O
+AUBERGE	company
+DU	company
+CHÂTEAU	company
+BLEU	company
+-	O
+Tremblay-en-France	city
+-LRB-	O
+93	postal code
+-RRB-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+Restaurant	O
+CUISINE	O
+TRADITIONNELLE	O
+HAUT	O
+DE	O
+GAMME	O
+situé	O
+à	O
+Tremblay	city
+en	O
+France	O
+-LRB-	O
+93	postal code
+-RRB-	O
+entre	O
+la	O
+parc	O
+des	O
+expositions	O
+de	O
+Villepinte	O
+et	O
+l'aéroport	O
+CDG	O
+,	O
+recevant	O
+une	O
+clientèle	O
+exigeante	O
+,	O
+recherche	O
+pour	O
+son	O
+développement	O
+un	position
+CUISINIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+ayant	O
+un	experience
+CAP	experience
++	experience
+un	experience
+Bac	experience
+pro	experience
+en	experience
+cuisine	experience
+et	experience
+une	experience
+expérience	experience
+de	experience
+2	experience
+ans	experience
+minimum	experience
+dans	experience
+établissement	experience
+-LRB-	
+s	experience
+-RRB-	O
+similaire	experience
+-LRB-	O
+s	experience
+-RRB-	O
+.	O
+VOTRE	hard skills
+MISSION	hard skills
+:	O
+Participer	hard skills
+à	hard skills
+l'élaboration	hard skills
+des	hard skills
+menus	hard skills
+Préparer	hard skills
+les	hard skills
+plats	hard skills
+chauds/froids	hard skills
+Fournir	hard skills
+de	hard skills
+l'entrée	hard skills
+au	hard skills
+dessert	hard skills
+Assure	hard skills
+la	hard skills
+présentation	hard skills
+pour	hard skills
+le	hard skills
+service	hard skills
+Respecter	hard skills
+strictement	hard skills
+les	hard skills
+règles	hard skills
+d'hygiène	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+alimentaires	hard skills
+Gérer	hard skills
+les	hard skills
+stocks	hard skills
+Contrôler	hard skills
+la	hard skills
+réception	hard skills
+des	hard skills
+denrées	hard skills
+VOTRE	
+PROFIL	
+:	O
+Être	soft skills
+méthodique	soft skills
+et	soft skills
+organisé	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+Être	soft skills
+dynamique	soft skills
+et	soft skills
+passionné	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+par	soft skills
+le	soft skills
+métier	soft skills
+Avoir	experience
+de	experience
+l'expérience	experience
+dans	experience
+la	experience
+tenue	experience
+d'un	experience
+service	experience
+et	experience
+de	experience
+sa	experience
+cadence	experience
+Être	soft skills
+créatif	soft skills
+-LRB-	O
+ve	soft skills
+-RRB-	O
+dans	soft skills
+les	soft skills
+réalisations	soft skills
+culinaires	soft skills
+Allier	soft skills
+rapidité	soft skills
+et	soft skills
+exécution	soft skills
+parfaite	soft skills
+Savoir	soft skills
+se	soft skills
+faire	soft skills
+assister	soft skills
+par	soft skills
+un	soft skills
+ou	soft skills
+des	soft skills
+commis	soft skills
+.	
+CONTRAT	O
+PROPOSE	O
+:	O
+CDI	contrat_type
+à	O
+temps	contrat_type
+complet	contrat_type
+Salaire	O
+BRUT	O
+:	O
+environ	O
+2000	salary
+$	salary
+selon	
+vos	O
+compétences	O
+Possibilité	O
+d'hébergement	O
+après	O
+la	O
+période	O
+d'essai	O
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Hôtellerie	experience
+/	
+Restauration	experience
+Fonction	experience
+Hôtellerie	experience
+/	O
+Restauration	experience
+Expérience	experience
+2	experience
+à	experience
+5	experience
+ans	experience
+Niveau	experience
+d'études	experience
+Employé	experience
+/	O
+Ouvrier	experience
+spécialisé	experience
+/	O
+Bac	experience
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O
+Expérience	experience
+exigée	experience
+:	O
+poste	experience
+similaire	experience
+:	
+2	experience
+ans	experience

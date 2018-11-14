@@ -1,0 +1,324 @@
+CHARGE	position
+-LRB-	O
+E	position
+-RRB-	O
+DES	position
+CONTRATS	position
+DE	position
+PROFESSIONNALISATION	position
+H/F	O
+Galileo-Studialis	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+26	salary
+0	salary
+$	salary
+-	O
+27	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDD	contrat_type
+Troisième	O
+acteur	O
+mondial	O
+de	O
+l'enseignement	O
+supérieur	O
+privé	O
+,	O
+Galiléo-Studialis	company
+est	O
+un	O
+groupe	O
+de	O
+47	O
+écoles	O
+de	O
+référence	O
+,	O
+réparties	O
+dans	O
+sept	O
+pays	O
+dans	O
+le	O
+monde	O
+.	O
+Dans	O
+le	O
+cadre	O
+d'un	O
+accroissement	O
+temporaire	O
+d'activité	O
+,	O
+l'une	O
+de	O
+nos	O
+écoles	O
+,	O
+Grande	O
+Ecole	O
+de	O
+Management	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+chargé	position
+-LRB-	O
+e	position
+-RRB-	O
+des	position
+contrats	position
+de	position
+professionnalisation	position
+pour	hard skills
+renforcer	hard skills
+son	hard skills
+équipe	hard skills
+.	
+Sous	O
+la	O
+responsabilité	O
+du	O
+Directeur	O
+du	O
+service	O
+,	O
+vous	hard skills
+êtes	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+contrats	hard skills
+de	hard skills
+professionnalisation	hard skills
+pour	hard skills
+les	hard skills
+étudiants	hard skills
+en	hard skills
+alternance	hard skills
+.	
+Descriptif	hard skills
+de	hard skills
+poste	hard skills
+Vos	hard skills
+principales	hard skills
+missions	hard skills
+:	O
+Relations	hard skills
+Etudiants	hard skills
+Recevoir	hard skills
+les	hard skills
+étudiants	hard skills
+qui	hard skills
+ont	hard skills
+une	hard skills
+entreprise	hard skills
+d'accueil	hard skills
+et	hard skills
+gérer	hard skills
+individuellement	hard skills
+le	hard skills
+process	hard skills
+administratif	hard skills
+Tenir	hard skills
+un	hard skills
+tableau	hard skills
+de	hard skills
+suivi	hard skills
+des	hard skills
+signatures	hard skills
+et	hard skills
+des	hard skills
+bulletins	hard skills
+de	hard skills
+salaire	hard skills
+Recevoir	hard skills
+les	hard skills
+étudiants	hard skills
+en	hard skills
+rupture	hard skills
+de	hard skills
+contrat	hard skills
+et	hard skills
+leur	hard skills
+expliquer	hard skills
+les	hard skills
+conséquences	hard skills
+financières	hard skills
+Relations	hard skills
+Entreprises	hard skills
+Conseils	hard skills
+et	hard skills
+accompagnement	hard skills
+des	hard skills
+entreprises	hard skills
+dans	hard skills
+le	hard skills
+montage	hard skills
+de	hard skills
+contrats	hard skills
+de	hard skills
+professionnalisation	hard skills
+.	
+Transmission	hard skills
+des	hard skills
+informations	hard skills
+Contrats	hard skills
+de	hard skills
+professionnalisation	hard skills
+aux	hard skills
+entreprises	hard skills
+pour	hard skills
+montage	hard skills
+des	hard skills
+contrats	hard skills
+Administration	hard skills
+des	hard skills
+contrats	hard skills
+Montage	hard skills
+,	
+saisie	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+contrats	hard skills
+de	hard skills
+professionnalisation	hard skills
+.	
+-LRB-	O
+CERFA	hard skills
+,	O
+conventions	hard skills
+,	O
+calendriers	hard skills
+alternance	hard skills
+et	hard skills
+programmes	hard skills
+de	hard skills
+formation	hard skills
+,	
+envoi	hard skills
+aux	hard skills
+OPCA	hard skills
+-RRB-	
+Classement	hard skills
+de	hard skills
+tous	hard skills
+les	hard skills
+dossiers	hard skills
+de	hard skills
+contrat	hard skills
+de	hard skills
+professionnalisation	hard skills
+dans	hard skills
+le	hard skills
+service	hard skills
+et	hard skills
+archivage	hard skills
+chaque	hard skills
+année	hard skills
+Profil	
+du	O
+candidat	O
+:	O
+Diplômée	experience
+Bac	experience
++	experience
+2	experience
+assistant	experience
+-LRB-	O
+e	experience
+-RRB-	O
+de	experience
+direction	experience
+,	
+RH	experience
+ou	experience
+équivalent	experience
+,	O
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+réussie	experience
+,	
+idéalement	experience
+dans	experience
+le	experience
+secteur	experience
+de	experience
+la	experience
+formation	experience
+,	O
+qui	O
+vous	O
+a	O
+permis	O
+de	O
+développer	O
+votre	soft skills
+rigueur	soft skills
+,	O
+pro-activité	soft skills
+et	soft skills
+votre	soft skills
+capacité	soft skills
+à	soft skills
+répondre	soft skills
+à	soft skills
+diverses	soft skills
+problématiques	soft skills
+et	soft skills
+demandes	soft skills
+d'étudiants	soft skills
+et	soft skills
+entreprises	soft skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+26	salary
+0	salary
+$	salary
+à	O
+27	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Expérience	O
+exigée	O
+:	O
+assistanat	experience
+de	experience
+direction	experience
+:	O
+2	experience
+ans	experience

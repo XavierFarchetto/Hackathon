@@ -1,0 +1,165 @@
+SECRETAIRE	position
+MEDICALE	position
+Clinique	company
+conti	company
+-	O
+L'Isle-Adam	city
+-LRB-	O
+95	code postal
+-RRB-	O
+CDD	contrat_type
+Recherche	O
+secrétaire	position
+médicale	position
+-LRB-	O
+H/F	O
+-RRB-	O
+en	position
+chirurgie	position
+-LRB-	O
+viscéral	position
+,	O
+...	O
+-RRB-	O
+.	O
+Sous	O
+la	O
+direction	O
+de	O
+la	O
+responsable	O
+du	O
+secrétariat	O
+médical	O
+,	O
+vous	O
+serez	O
+en	O
+lien	O
+direct	O
+avec	O
+les	O
+médecins	O
+.	O
+Les	O
+principales	O
+missions	O
+:	O
+Assure	hard skills
+l'accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+des	hard skills
+patients	hard skills
+et	hard skills
+des	hard skills
+familles	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+consultations	hard skills
+des	hard skills
+médecins	hard skills
+Assure	hard skills
+la	hard skills
+bonne	hard skills
+tenue	hard skills
+des	hard skills
+dossiers	hard skills
+médicaux	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+la	hard skills
+règlementation	hard skills
+actuelle	hard skills
+Frappe	hard skills
+des	hard skills
+comptes	hard skills
+rendus	hard skills
+opératoires	hard skills
+et	hard skills
+d'hospitalisation	hard skills
+Assure	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+ordonnances	hard skills
+et	hard skills
+des	hard skills
+comptes	hard skills
+rendus	hard skills
+Archivage	hard skills
+des	hard skills
+dossiers	hard skills
+Participe	hard skills
+à	hard skills
+la	hard skills
+démarche	hard skills
+qualité	hard skills
+Cette	hard skills
+liste	hard skills
+n'est	hard skills
+pas	hard skills
+exhaustive	hard skills
+.	O
+Compétences	O
+requises	O
+:	O
+bonne	hard skills
+maîtrise	hard skills
+du	hard skills
+vocabulaire	hard skills
+médical	hard skills
+,	O
+orthographe	hard skills
++	O
++	O
++	O
+,	O
+prise	soft skills
+d'initiative	soft skills
+,	O
+discrétion	soft skills
+et	soft skills
+respect	soft skills
+de	soft skills
+la	soft skills
+confidentialité	soft skills
+.	O
+Horaire	
+de	O
+travail	O
+:	O
+En	O
+cycle	O
+,	O
+du	O
+lundi	O
+au	O
+samedi	O
+-LRB-	O
+matin	O
+-RRB-	O
+alternant	O
+journée	O
+de	O
+12h	O
+et	O
+repos	O
+Si	O
+notre	O
+offre	O
+vous	O
+intéresse	O
+n'hésitez	O
+pas	O
+à	O
+nous	O
+contacter	O
+!	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

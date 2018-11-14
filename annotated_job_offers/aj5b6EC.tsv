@@ -1,0 +1,204 @@
+Assistante	position
+administrative	position
+AUTO	company
+ECOLE	company
+CONDUIRE	company
+FACILE	company
+-	O
+Antony	city
+-LRB-	O
+92	postal code
+-RRB-	O
+Offre	O
+d'emploi	O
+URGENT	O
+ASSISTANT	position
+ADMINISTRATIF	position
+COMMERCIAL	position
+-LRB-	O
+H/F	O
+-RRB-	O
+AUTO	company
+ECOLE	company
+CONDUIRE	company
+FACILE	company
+,	O
+recherche	O
+pour	O
+son	O
+Agence	O
+située	O
+au	O
+7	O
+rue	O
+Robert	
+Scherrer	
+-	O
+92160	postal code
+ANTONY	city
+.	O
+1	position
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Vous	experience
+avez	experience
+:	
+Dut	experience
+/	O
+Bac	experience
+2	experience
+à	experience
+Bac	experience
+3	experience
+en	experience
+Gestion/Commerce	experience
+/	O
+Vente.Vous	soft skills
+êtes	soft skills
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+autonome	soft skills
+et	
+à	
+la	
+recherche	
+d'une	
+entreprise	
+dans	O
+laquel	O
+vous	O
+pourrez	O
+vous	O
+impliquer	O
+pleinement.Vos	O
+missions	O
+:	O
+➢	O
+Vous	hard skills
+participerez	hard skills
+à	hard skills
+toute	hard skills
+l'activité	hard skills
+commerciale	hard skills
+en	hard skills
+mettant	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+actions	hard skills
+de	hard skills
+prospection	hard skills
+et	hard skills
+de	hard skills
+promotion	hard skills
+auprès	hard skills
+des	hard skills
+clients	hard skills
+et	hard skills
+potentiels	hard skills
+clients	hard skills
+-LRB-	
+service	hard skills
+de	hard skills
+la	hard skills
+promotion	hard skills
+des	hard skills
+ventes	hard skills
+et	hard skills
+publicité	hard skills
+-RRB-	
+➢	hard skills
+Gestion	hard skills
+/	
+Inscription	hard skills
+/	O
+Relance	hard skills
+/	O
+Facturation	hard skills
+clients	hard skills
+➢	hard skills
+Gestion	hard skills
+Planning	hard skills
+élèves	hard skills
+et	hard skills
+enseignants	hard skills
+➢	hard skills
+Assurer	hard skills
+le	hard skills
+support	hard skills
+de	hard skills
+l'équipe	hard skills
+commerciale	hard skills
+➢	hard skills
+Organiser	hard skills
+avec	hard skills
+le	hard skills
+responsable	hard skills
+,	
+les	hard skills
+marketings	hard skills
+et	hard skills
+toutes	hard skills
+relations	hard skills
+avec	hard skills
+les	hard skills
+prestataires	hard skills
+externes	hard skills
+➢	hard skills
+Assurer	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+flux	hard skills
+d'informations	hard skills
+aux	hard skills
+clients	hard skills
+et	hard skills
+prospects	hard skills
+,	O
+➢	hard skills
+Participer	hard skills
+à	hard skills
+la	hard skills
+veille	hard skills
+concurrentielle	hard skills
+.	
+➢	hard skills
+Assurer	hard skills
+le	hard skills
+développement	hard skills
+de	hard skills
+la	hard skills
+visibilité	hard skills
+de	hard skills
+nos	hard skills
+prestations	hard skills
+sur	hard skills
+des	hard skills
+événements	hard skills
+professionnels	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

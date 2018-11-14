@@ -1,0 +1,87 @@
+Prothésiste	position
+dentaire	position
+15	experience
+ans	experience
+d'expérience	experience
+au	experience
+moins	experience
+-LRB-	O
+H/F	O
+-RRB-	O
+Vega	company
+Dentaire	company
+-	O
+Toulouse	city
+-LRB-	O
+31	code postal
+-RRB-	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	
+Médecine	
+/	
+Santé	
+Fonction	
+Médecine	
+/	
+Santé	
+Expérience	
+5	
+ans	
+et	
+plus	
+Niveau	
+d'études	
+BEP/CAP	
+Je	
+recherche	
+prothésiste	position
+dentaire	position
+sachant	hard skills
+déjà	hard skills
+manager	hard skills
+un	hard skills
+laboratoire	hard skills
+de	hard skills
+prothèse	hard skills
+dentaire	hard skills
+.	O
+Il	hard skills
+ou	hard skills
+elle	hard skills
+saura	hard skills
+occuper	hard skills
+tous	hard skills
+les	hard skills
+postes	hard skills
+:	O
+Céramique	hard skills
+Implantologie	hard skills
+Usage	hard skills
+d'un	hard skills
+scanner	hard skills
+Adjointe	hard skills
+Liste	hard skills
+non	hard skills
+exhaustive	hard skills
+Envoyer	O
+CV	O
+et	O
+coordonnées	O
+,	O
+Non	O
+sérieux	O
+ou	O
+sérieuse	O
+,	O
+s	O
+`	O
+abstenir	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

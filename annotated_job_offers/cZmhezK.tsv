@@ -1,0 +1,159 @@
+ergotherapeuthe	position
+ASSOCIATION	company
+AURORE	company
+-	O
+Septèmes-les-Vallons	city
+-LRB-	O
+13	postal code
+-RRB-	O
+1	salary
+28	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+L'association	company
+l'Aurore	company
+,	O
+créée	O
+en	O
+1992	O
+,	O
+accueille	O
+50	O
+résidents	O
+adultes	O
+handicapés	O
+à	O
+Septèmes	O
+les	O
+Vallons	city
+-LRB-	O
+13	postal code
+-RRB-	O
+.	O
+Pour	O
+notre	O
+service	O
+de	O
+rééducation	O
+nous	O
+recrutons	O
+un	position
+ergothérapeute	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Atelier	hard skills
+pour	hard skills
+confection	hard skills
+d'adaptations	hard skills
+,	
+Elaboration	hard skills
+d'ortho	hard skills
+prothèses	hard skills
+-LRB-	
+corsets	hard skills
+sièges	hard skills
+et	hard skills
+chaussures	hard skills
+-RRB-	
+et	hard skills
+recherche	hard skills
+de	hard skills
+matériels	hard skills
+médical	hard skills
+-LRB-	O
+fauteuils	hard skills
+,	O
+lits	hard skills
+...	O
+-RRB-	
+,	O
+repas	hard skills
+thérapeutiques	hard skills
+.	O
+Travail	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+l'équipe	hard skills
+éducative	hard skills
+.	O
+Ce	O
+poste	O
+est	O
+à	O
+pourvoir	O
+immédiatement	O
+à	O
+temps	contrat_type
+plein	contrat_type
+ou	O
+à	O
+temps	O
+partiel	O
+avec	O
+des	O
+horaires	O
+modulables	O
+.	O
+Condition	O
+:	O
+C.C.N.	O
+1966	O
+-LRB-	O
+9	O
+semaines	O
+de	O
+congés	O
+-RRB-	O
+Les	O
+candidatures	O
+sont	O
+à	O
+envoyer	O
+à	O
+Mme	O
+MOUROU	O
+-	O
+RH	O
+-	O
+Association	company
+l'Aurore	company
+-	O
+29	O
+,	O
+chemin	O
+de	O
+la	O
+bédoule	O
+-	O
+13240	O
+SEPTEMES	O
+LES	O
+VALLONS	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+1	salary
+28	salary
+$	salary
+à	O
+1	salary
+800	salary
+$	salary
+/	O
+mois	salary

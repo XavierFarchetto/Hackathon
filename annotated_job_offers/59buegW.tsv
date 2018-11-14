@@ -1,0 +1,373 @@
+CONDUCTEUR	position
+DE	position
+TRAVAUX	position
+EXPÉRIMENTE	position
+TCE	position
+SECOND	position
+OEUVRE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+BEI	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+50	salary
+0	salary
+$	salary
+-	O
+60	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Description	O
+:	O
+Entreprise	O
+générale	O
+de	O
+rénovation	O
+et	O
+de	O
+réhabilitation	O
+tous	O
+corps	O
+d'état	O
+,	O
+notre	O
+client	O
+,	O
+existant	O
+depuis	O
+plus	O
+de	O
+16	O
+ans	O
+réalise	O
+la	O
+totalité	O
+des	O
+projets	O
+-LRB-	O
+résidentiel	O
+et	O
+tertiaire	O
+-RRB-	O
+grâce	O
+à	O
+leur	O
+savoir-faire	O
+dans	O
+tous	O
+les	O
+corps	O
+d'état	O
+.	O
+La	hard skills
+mission	hard skills
+:	O
+Rattaché	hard skills
+-LRB-	O
+e	hard skills
+-RRB-	O
+au	hard skills
+Responsable	hard skills
+des	hard skills
+travaux	hard skills
+,	O
+porteur	hard skills
+de	hard skills
+l'image	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+auprès	hard skills
+des	hard skills
+clients	hard skills
+et	hard skills
+travaillant	hard skills
+en	hard skills
+vue	hard skills
+d'instaurer	hard skills
+une	hard skills
+relation	hard skills
+à	hard skills
+long	hard skills
+terme	hard skills
+avec	hard skills
+vos	hard skills
+interlocuteurs	hard skills
+.	O
+-	O
+PREPARATION	hard skills
+DE	hard skills
+CHANTIERS	hard skills
+Assistez	hard skills
+le	hard skills
+responsable	hard skills
+des	hard skills
+travaux	hard skills
+Réceptionnez	hard skills
+et	hard skills
+étudiez	hard skills
+les	hard skills
+éléments	hard skills
+du	hard skills
+dossier	hard skills
+technique	hard skills
+Réévaluez	hard skills
+l'étude	hard skills
+technique	hard skills
+,	
+le	hard skills
+budget	hard skills
+prévisionnel	hard skills
+et	hard skills
+élaborez	hard skills
+le	hard skills
+budget	hard skills
+détaillé	hard skills
+du	hard skills
+chantier	hard skills
+Effectuez	hard skills
+les	hard skills
+demandes	hard skills
+d'autorisation	hard skills
+nécessaires	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+chantiers	hard skills
+Contactez	hard skills
+,	
+évaluez	hard skills
+les	hard skills
+prestations	hard skills
+et	hard skills
+sélectionnez	hard skills
+les	hard skills
+fournisseurs	hard skills
+appartenant	hard skills
+à	hard skills
+chaque	hard skills
+corps	hard skills
+de	hard skills
+métier	hard skills
+en	hard skills
+lien	hard skills
+avec	hard skills
+les	hard skills
+achats	hard skills
+-	
+PLANIFICATION	hard skills
+DES	hard skills
+TRAVAUX	hard skills
+Fixez	hard skills
+les	hard skills
+objectifs	hard skills
+des	hard skills
+chefs	hard skills
+de	hard skills
+chantier	hard skills
+Définissez	hard skills
+les	hard skills
+plans	hard skills
+de	hard skills
+charge	hard skills
+et	hard skills
+planifiez	hard skills
+les	hard skills
+actions	hard skills
+à	hard skills
+Organisez	hard skills
+les	hard skills
+postes	hard skills
+de	hard skills
+travail	hard skills
+Optimisez	hard skills
+afin	hard skills
+de	hard skills
+répondre	hard skills
+aux	hard skills
+normes	hard skills
+de	hard skills
+sécurité	hard skills
+,	
+de	hard skills
+qualité	hard skills
+et	hard skills
+de	hard skills
+budget	hard skills
+prévues	hard skills
+au	hard skills
+cahier	hard skills
+des	hard skills
+charges	hard skills
+Effectuez	hard skills
+un	hard skills
+suivi	hard skills
+de	hard skills
+l'activité	hard skills
+des	hard skills
+chantiers	hard skills
+et	hard skills
+de	hard skills
+l'avancement	hard skills
+des	hard skills
+différents	hard skills
+lots	hard skills
+Contrôlez	hard skills
+la	hard skills
+réalisation	hard skills
+et	hard skills
+la	hard skills
+qualité	hard skills
+des	hard skills
+plans	hard skills
+de	hard skills
+Veiller	hard skills
+à	hard skills
+la	hard skills
+bonne	hard skills
+application	hard skills
+des	hard skills
+procédures	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+d'hygiène	hard skills
+Effectuez	hard skills
+les	hard skills
+rapports	hard skills
+de	hard skills
+chantier	hard skills
+auprès	hard skills
+du	hard skills
+responsable	hard skills
+des	hard skills
+travaux	hard skills
+et/ou	hard skills
+du	hard skills
+client	hard skills
+-	
+GESTION	hard skills
+DES	hard skills
+PROJETS	hard skills
+Encadrez	hard skills
+les	hard skills
+équipes	hard skills
+sous	hard skills
+votre	hard skills
+et	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+la	hard skills
+gestion	hard skills
+opérationnelle	hard skills
+du	hard skills
+personnel	hard skills
+-LRB-	
+congés	hard skills
+,	O
+mesures	hard skills
+disciplinaires	hard skills
+-RRB-	O
+Assurez	hard skills
+la	hard skills
+gestion	hard skills
+administrative	hard skills
+et	hard skills
+financière	hard skills
+des	hard skills
+chantiers	hard skills
+Menez	hard skills
+les	hard skills
+négociations	hard skills
+d'achat	hard skills
+avec	hard skills
+les	hard skills
+différents	hard skills
+prestataires	hard skills
+Assurez	hard skills
+l'interface	hard skills
+avec	hard skills
+les	hard skills
+différentes	hard skills
+parties	hard skills
+prenantes	hard skills
+du	hard skills
+projet	hard skills
+d'ouvrage	hard skills
+Participez	hard skills
+à	hard skills
+la	hard skills
+réception	hard skills
+de	hard skills
+l'ouvrage	hard skills
+en	hard skills
+présence	hard skills
+du	hard skills
+client	hard skills
+et	hard skills
+du	hard skills
+responsable	hard skills
+des	hard skills
+travaux	hard skills
+Profil	
+:	O
+Chantiers	experience
+de	experience
+10K	experience
+$	experience
+à	experience
+500K	experience
+$	experience
+Maintenance	experience
+et	experience
+Rénovation	experience
+Plus	experience
+de	experience
+7	experience
+ans	experience
+d'expérience	experience
+Salaire	
+selon	
+le	O
+profil	O
+50-60k	salary
+$	salary
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+50	salary
+0	salary
+$	salary
+à	O
+60	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+CONDUCTEUR	experience
+DE	experience
+TRAVAUX	experience
+TCE	experience
+SECOND	experience
+OEUVRE	experience
+:	O
+7	experience
+ans	experience

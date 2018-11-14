@@ -1,0 +1,319 @@
+Standardiste-Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+admin	position
+et	position
+commercial	position
+-LRB-	
+e	position
+-RRB-	O
+SUN	company
+INSTITUTE	company
+-	O
+Lyon	city
+-LRB-	O
+69	postal code
+-RRB-	O
+1	salary
+800	salary
+$	salary
+-	
+2	salary
+100	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+POSTE	O
+SUN	company
+INSTITUTE	company
+/	O
+MALDONN	company
+est	O
+une	O
+société	O
+familiale	O
+située	O
+à	O
+Lyon	city
+créée	O
+en	O
+2004	O
+,	O
+fabricant	O
+du	O
+matériel	O
+et	O
+des	O
+produits	O
+cosmétiques	O
+.	O
+SUN	company
+INSTITUTE	company
+travaille	O
+en	O
+étroite	O
+collaboration	O
+avec	O
+les	O
+LABORATOIRES	O
+SUN	company
+INSTITUTE	company
+,	O
+autre	O
+entité	O
+créée	O
+en	O
+2008	O
+.	O
+Dans	O
+le	O
+cadre	O
+d'une	O
+réorganisation	O
+interne	O
+,	O
+nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Standardiste-Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+administratif	position
+-LRB-	O
+ve	position
+-RRB-	O
+et	position
+commercial	position
+-LRB-	O
+e	position
+-RRB-	O
+.	O
+Pierre	O
+angulaire	O
+de	O
+la	O
+société	O
+,	O
+vous	hard skills
+intervenez	hard skills
+sur	hard skills
+différents	hard skills
+pôles	hard skills
+:	
+-	O
+Logistique	hard skills
+:	
+gestion	hard skills
+des	hard skills
+réceptions	hard skills
+et	hard skills
+des	hard skills
+expéditions	hard skills
+-	hard skills
+Assistance	hard skills
+commerciale	hard skills
+:	
+support	hard skills
+des	hard skills
+commerciaux	hard skills
+terrain	hard skills
+,	
+enregistrement	hard skills
+des	hard skills
+commandes	hard skills
+,	hard skills
+mise	hard skills
+à	hard skills
+jour	hard skills
+de	hard skills
+la	hard skills
+base	hard skills
+de	hard skills
+données	hard skills
+clients	hard skills
+,	hard skills
+envois	hard skills
+d'échantillons	hard skills
+,	
+etc	
+...	
+-	O
+Relation	hard skills
+Clients	hard skills
+et	hard skills
+SAV	hard skills
+-	hard skills
+Accueil	hard skills
+et	hard skills
+secrétariat	hard skills
+:	hard skills
+standard	hard skills
+téléphonique	hard skills
+,	hard skills
+accueil	hard skills
+des	hard skills
+clients	hard skills
+,	
+fournisseurs	hard skills
+,	O
+visiteurs	hard skills
+-	O
+Administratif	hard skills
+:	O
+gestion	hard skills
+courante	hard skills
+et	hard skills
+tenue	hard skills
+de	hard skills
+certains	hard skills
+dossiers	hard skills
+sous	hard skills
+la	hard skills
+supervision	hard skills
+directe	hard skills
+du	hard skills
+gérant	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+.	O
+Horaires	O
+de	O
+bureau	O
+-LRB-	O
+pas	O
+d'horaire	O
+décalé	O
+,	O
+pas	O
+de	O
+travail	O
+le	O
+samedi	O
+-RRB-	O
+:	O
+-	O
+Lundi	O
+au	O
+Jeudi	O
+:	O
+9h/13h	O
+/	O
+/	O
+14h/18h15	O
+-	O
+Vendredi	O
+:	O
+9h/13h	O
+/	O
+/	O
+14h/16h	O
+CDI	contrat_type
+-	O
+39h/semaine	O
+PROFIL	O
+H/F	O
+expérimenté	O
+-LRB-	O
+e	O
+-RRB-	O
+De	experience
+formation	experience
+bac	experience
+2	experience
+minimum	experience
+,	
+ou	experience
+expérience	experience
+similaire	experience
+,	
+vous	experience
+avez	experience
+impérativement	experience
+déjà	experience
+occupé	experience
+un	experience
+poste	experience
+de	experience
+standardiste	experience
+ou	experience
+assistante	experience
+commerciale	experience
+en	experience
+petite	experience
+ou	experience
+moyenne	experience
+entreprise	experience
+,	O
+idéalement	experience
+pendant	experience
+3	experience
+à	experience
+5	experience
+ans	experience
+minimum	experience
+.	
+Dynamique	soft skills
+,	O
+polyvalent	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	
+vous	soft skills
+êtes	soft skills
+très	soft skills
+à	soft skills
+l'aise	soft skills
+,	
+souriant	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+courtois	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+au	soft skills
+téléphone	soft skills
+.	O
+Vous	hard skills
+êtes	hard skills
+performant	hard skills
+avec	hard skills
+l'outil	hard skills
+informatique	hard skills
+,	O
+en	hard skills
+particulier	hard skills
+avec	hard skills
+Excel	hard skills
+.	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+800	salary
+$	salary
+à	O
+2	salary
+100	salary
+$	salary
+/	O
+mois	salary

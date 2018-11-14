@@ -1,0 +1,187 @@
+Boulanger	position
+Tourier	position
+H/F	O
+MAISON	company
+KAYSER	company
+PARIS	O
+-	O
+Ivry-sur-Seine	city
+-LRB-	O
+94	code postal
+-RRB-	O
+CDI	contrat_type
+BOULANGER	position
+TOURIER	position
+H/F	O
+Au	O
+sein	O
+du	O
+laboratoire	O
+d'un	O
+site	O
+de	O
+production	O
+,	O
+en	O
+relation	O
+directe	O
+avec	O
+le	O
+chef	O
+de	O
+production	O
+,	O
+vos	O
+missions	O
+seront	O
+:	O
+La	hard skills
+sélection	hard skills
+et	hard skills
+le	hard skills
+dosage	hard skills
+des	hard skills
+ingrédients	hard skills
+destinés	hard skills
+à	hard skills
+la	hard skills
+réalisation	hard skills
+des	hard skills
+pâtes	hard skills
+Le	hard skills
+mélange	hard skills
+des	hard skills
+ingrédients	hard skills
+Le	hard skills
+pétrissage	hard skills
+La	hard skills
+division	hard skills
+des	hard skills
+pâtes	hard skills
+Le	hard skills
+façonnement	hard skills
+des	hard skills
+pâtes	hard skills
+Cuisson	hard skills
+et	hard skills
+pré-cuisson	hard skills
+des	hard skills
+produits	hard skills
+possibles	hard skills
+de	hard skills
+façon	hard skills
+occasionnelle	hard skills
+.	O
+Profil	
+CAP	experience
+pâtisserie	experience
+/	
+boulangerie	experience
+avec	experience
+1	experience
+ans	experience
+d'expérience	experience
+minimum	experience
+ou	O
+Bac	experience
+/	O
+Bac	experience
+Pro	experience
+pâtisserie	experience
+avec	experience
+minimum	experience
+1	experience
+ans	experience
+d'expérience	experience
+sur	experience
+poste	experience
+de	experience
+tourier	experience
+,	O
+vous	soft skills
+avez	soft skills
+déjà	soft skills
+évolué	soft skills
+en	soft skills
+milieu	soft skills
+industriel	soft skills
+ou	soft skills
+le	soft skills
+souhaitez	soft skills
+.	O
+Passionné	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+par	soft skills
+votre	soft skills
+métier	soft skills
+,	O
+vous	soft skills
+aimez	soft skills
+travailler	soft skills
+des	soft skills
+produits	soft skills
+de	soft skills
+qualité	soft skills
+et	soft skills
+êtes	soft skills
+soucieux	soft skills
+de	soft skills
+l'hygiène	soft skills
+et	soft skills
+des	soft skills
+bonnes	soft skills
+pratiques	soft skills
+de	soft skills
+fabrication	soft skills
+.	
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+42	O
+h.	O
+Vous	O
+bénéficiez	O
+d'horaires	O
+sans	O
+coupure	O
+avec	O
+deux	O
+jours	O
+de	O
+repos	O
+consécutifs	O
+.	O
+Prise	O
+de	O
+poste	O
+à	O
+6	O
+h	O
+30	O
+le	O
+matin	O
+Poste	O
+basé	O
+à	O
+Ivry	city
+Sur	O
+Seine	O
+94200	code postal
+.	O
+Métro	O
+Ligne	O
+7	O
+Arrêt	O
+Pierre	O
+et	O
+Marie	O
+Curie	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

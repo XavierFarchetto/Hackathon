@@ -1,0 +1,150 @@
+PROTHÉSISTE	position
+ONGULAIRE	position
+H/F	O
+MANPOWER	company
+MONACO	city
+-	O
+Monaco	city
+-LRB-	O
+6	postal code
+-RRB-	O
+Intérim	contrat_type
+MANPOWER	company
+MONACO	city
+recherche	O
+sur	O
+Monaco	city
+,	O
+pour	O
+un	O
+Bar	O
+à	O
+ongles	O
+de	O
+prestige	O
+,	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+PROTHÉSISTE	position
+ONGULAIRE	position
+CONFIRME	position
+LUXE	position
+H/F	O
+La	hard skills
+mission	hard skills
+:	O
+Manucure	hard skills
+confirmée	hard skills
+,	O
+vous	hard skills
+maîtrisez	hard skills
+parfaitement	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+gel	hard skills
+,	O
+pose	hard skills
+de	hard skills
+vernis	hard skills
+semi	hard skills
+permanent	hard skills
+...	O
+Excellente	hard skills
+manucure	hard skills
+et	hard skills
+pédicure	hard skills
+,	O
+briffé	hard skills
+à	hard skills
+toutes	hard skills
+les	hard skills
+techniques	hard skills
+avec	
+une	soft skills
+excellente	soft skills
+présentation	soft skills
+,	O
+vous	
+souhaitez	
+travailler	
+dans	O
+le	O
+monde	O
+du	O
+luxe	O
+.	O
+Vous	soft skills
+devez	soft skills
+impérativement	soft skills
+aimer	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+Vous	soft skills
+travaillez	soft skills
+très	soft skills
+efficacement	soft skills
+mais	soft skills
+également	soft skills
+très	soft skills
+rapidement	soft skills
+.	O
+La	hard skills
+rapidité	hard skills
+est	hard skills
+une	hard skills
+exigence	hard skills
+clef	hard skills
+.	
+Avoir	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+l'écoute	soft skills
+et	soft skills
+être	soft skills
+rapide	soft skills
+Expérience	experience
+exigée	experience
+sur	experience
+le	experience
+poste	experience
+La	hard skills
+maîtrise	hard skills
+de	hard skills
+l'anglais	hard skills
+et	hard skills
+l'italien	hard skills
+sont	hard skills
+un	hard skills
+plus	hard skills
+Prise	hard skills
+de	hard skills
+poste	hard skills
+urgente	hard skills
+Faites-nous	O
+dès	O
+à	O
+présent	O
+parvenir	O
+votre	O
+candidature	O
+00377.97.97.47.47	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+anglais	hard skills
+italien	hard skills

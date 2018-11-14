@@ -1,0 +1,206 @@
+Plongeur	position
+en	position
+EHPAD	position
+Résidence	company
+Sainte	company
+Elisabeth	company
+-	O
+Fondation	O
+Partage	O
+et	O
+Vie	O
+-	O
+Lyon	city
+8e	city
+-LRB-	O
+69	code postal
+-RRB-	O
+650	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Plongeur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Nous	O
+recherchons	O
+actuellement	O
+un	position
+Plongeur	position
+en	O
+CDI	contrat_type
+à	O
+temps	O
+partiel	O
+-LRB-	O
+19h15	O
+par	O
+semaine	O
+,	O
+soit	O
+environ	O
+80h	O
+par	O
+mois	O
+-RRB-	O
+à	O
+compter	O
+du	O
+1er	O
+décembre	O
+2017	O
+.	O
+Le	position
+plongeur	position
+aura	O
+pour	O
+mission	O
+:	O
+-	O
+d'assurer	hard skills
+le	hard skills
+nettoyage	hard skills
+de	hard skills
+la	hard skills
+vaisselle	hard skills
+et	hard skills
+des	hard skills
+couverts	hard skills
+utilisés	hard skills
+lors	hard skills
+du	hard skills
+service	hard skills
+,	
+ainsi	hard skills
+que	hard skills
+tout	hard skills
+le	hard skills
+matériel	hard skills
+utilisé	hard skills
+par	hard skills
+les	hard skills
+résidents	hard skills
+et	hard skills
+le	hard skills
+personnel	hard skills
+-LRB-	
+assiettes	hard skills
+,	O
+verres	hard skills
+,	O
+couverts	hard skills
+...	O
+-RRB-	O
+.	O
+-	O
+d'assurer	hard skills
+également	hard skills
+le	hard skills
+nettoyage	hard skills
+de	hard skills
+la	hard skills
+salle	hard skills
+à	hard skills
+manger	hard skills
+,	
+de	hard skills
+certains	hard skills
+locaux	hard skills
+de	hard skills
+la	hard skills
+Résidence	hard skills
+en	hard skills
+fonction	hard skills
+du	hard skills
+planning	hard skills
+,	
+et	hard skills
+annexes	hard skills
+-LRB-	O
+carrelages	hard skills
+et	hard skills
+sols	hard skills
+,	O
+tables	hard skills
+à	hard skills
+manger	hard skills
+...	O
+-RRB-	O
+.	O
+-	O
+de	hard skills
+dresser	hard skills
+la	hard skills
+salle	hard skills
+à	hard skills
+manger	hard skills
+.	O
+Le	hard skills
+Plongeur	O
+doit	
+avoir	
+une	
+:	O
+-	O
+Connaissance	soft skills
+parfaite	soft skills
+de	soft skills
+l'hygiène	soft skills
+et	soft skills
+de	soft skills
+la	soft skills
+propreté	soft skills
+-	O
+Discipline	soft skills
+et	soft skills
+grande	soft skills
+capacité	soft skills
+de	soft skills
+travail	soft skills
+-	O
+Bonne	soft skills
+condition	soft skills
+physique	soft skills
+Aucun	
+diplôme	
+n'est	O
+nécessaire	O
+mais	O
+une	experience
+expérience	experience
+en	experience
+plonge	experience
+est	experience
+requise	experience
+.	O
+Salaire	O
+:	O
+environ	O
+650	salary
+$	salary
+net/mois	salary
+Type	O
+d'emploi	O
+:	O
+Temps	O
+partiel	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+650	salary
+$	O
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+plonge	experience
+:	O
+1	experience
+an	experience

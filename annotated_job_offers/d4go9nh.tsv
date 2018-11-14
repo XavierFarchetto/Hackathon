@@ -1,0 +1,254 @@
+ESTHÉTICIENNE	position
+PROTHÉSISTE	position
+ONGULAIRE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+-LRB-	O
+35h	O
+-RRB-	O
+CMA	O
+du	O
+Rhône	O
+-	O
+Lyon	city
+6e	city
+-LRB-	O
+69	postal code
+-RRB-	O
+CDI	contrat_type
+Dans	O
+le	O
+cadre	O
+d'un	O
+remplacement	O
+,	O
+nous	O
+recherchons	O
+,	O
+une	position
+Esthéticienne	position
+Prothésiste	position
+Ongulaire	position
+.	O
+Vous	O
+intégrez	O
+un	O
+Institut	O
+haut	O
+de	O
+gamme	O
+,	O
+très	O
+bien	O
+situé	O
+,	O
+proposant	O
+des	O
+produits	O
+et	O
+des	O
+prestations	O
+de	O
+qualité	O
+et	O
+une	O
+équipe	O
+conviviale	O
+.	O
+Au	O
+sein	O
+de	O
+cet	O
+Institut	O
+,	O
+vous	hard skills
+effectuez	hard skills
+des	hard skills
+missions	hard skills
+de	hard skills
+:	O
+Manucure	hard skills
++	hard skills
+beauté	hard skills
+des	hard skills
+pieds	hard skills
+:	O
+ongles	hard skills
+en	hard skills
+gel	hard skills
+,	
+semi-permanent	hard skills
+,	O
+idéalement	hard skills
+résine	hard skills
+-LRB-	O
+possibilité	hard skills
+de	hard skills
+formation	hard skills
+-RRB-	O
+Épilation	hard skills
+toutes	hard skills
+zones	hard skills
+:	O
+cire	hard skills
+tiède	hard skills
+traditionnelle	hard skills
+Soins	hard skills
+du	hard skills
+visage	hard skills
+Massages	hard skills
+:	
+relaxant	hard skills
+,	O
+californien	hard skills
+,	O
+palpé	hard skills
+roulé	hard skills
+,	O
+cellu	hard skills
+M6	hard skills
+-LRB-	O
+facultatif	hard skills
+-RRB-	
+Vous	hard skills
+effectuez	hard skills
+l'accueil	hard skills
+,	
+l'installation	hard skills
+des	hard skills
+client	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+s	hard skills
+,	O
+l'encaissement	hard skills
+,	
+l'entretien	hard skills
+de	hard skills
+votre	hard skills
+poste	hard skills
+de	hard skills
+travail	hard skills
+,	O
+matériel	hard skills
+et	hard skills
+locaux	hard skills
+.	O
+Vous	soft skills
+êtes	soft skills
+une	soft skills
+personne	soft skills
+autonome	soft skills
+,	O
+soignée	soft skills
+,	O
+rigoureuse	soft skills
+,	O
+souriante	soft skills
+,	O
+sachant	soft skills
+prendre	soft skills
+des	soft skills
+initiatives	soft skills
+.	O
+Vous	soft skills
+pouvez	soft skills
+proposer	soft skills
+de	soft skills
+nouvelles	soft skills
+prestations	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+des	soft skills
+compétences	soft skills
+commerciales	soft skills
+-LRB-	O
+formation	soft skills
+possible	soft skills
+sur	soft skills
+les	soft skills
+produits	soft skills
+de	soft skills
+la	soft skills
+marque	soft skills
+Darphin	soft skills
+-RRB-	
+.	O
+Vous	experience
+avez	experience
+une	experience
+formation	experience
+CAP	experience
+et	experience
+un	experience
+Brevet	experience
+Professionnel	experience
+-LRB-	O
+idéalement	experience
+-RRB-	
+,	O
+une	experience
+formation	experience
+sur	experience
+les	experience
+ongles	experience
+et	experience
+de	experience
+3	experience
+à	experience
+5	experience
+années	experience
+d'expérience	experience
+.	O
+Vous	hard skills
+travaillez	hard skills
+35h	hard skills
+par	hard skills
+semaine	hard skills
+:	
+4	hard skills
+jours	hard skills
+par	hard skills
+semaine	hard skills
+du	hard skills
+mercredi	hard skills
+au	hard skills
+samedi	hard skills
+.	O
+Salaire	O
+:	O
+SMIC	salary
+.	O
+Possibilité	O
+d'évolution	O
+.	O
+Prime	O
+envisagée	O
+sur	O
+le	O
+pourcentage	O
+des	O
+ventes	O
+.	O
+Ce	O
+poste	O
+est	O
+à	O
+pourvoir	O
+pour	O
+le	O
+15	O
+octobre	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

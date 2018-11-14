@@ -1,0 +1,181 @@
+Coiffeur/coiffeuse	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Salon	company
+Delphine	company
+THOMAS	company
+-	O
+Lège-Cap-Ferret	city
+-LRB-	O
+33	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Salon	company
+de	company
+coiffure	company
+Sur	O
+la	O
+Presqu	O
+'	O
+île	O
+du	O
+Cap	O
+Ferret	O
+,	O
+recherche	O
+un	position
+coiffeur	position
+-LRB-	O
+homme	O
+ou	O
+femme	O
+-RRB-	O
+confirmé	O
+,	O
+avec	O
+BP	O
+.	O
+Une	experience
+expérience	experience
+de	experience
+plus	experience
+de	experience
+5ans	experience
+est	experience
+exigée	experience
+.	
+Nous	O
+cherchons	O
+une	soft skills
+personne	soft skills
+appliquée	soft skills
+,	
+investie	soft skills
+,	O
+motivée	soft skills
+et	soft skills
+passionnée	soft skills
+par	soft skills
+son	soft skills
+métier	soft skills
+afin	soft skills
+de	soft skills
+partager	soft skills
+nos	soft skills
+différentes	soft skills
+connaissances	soft skills
+.	O
+Nous	O
+vous	O
+offrons	O
+un	O
+salaire	O
+motivant	O
+avec	O
+des	O
+primes	O
+sur	O
+votre	O
+chiffre	O
+d'affaires	O
+et	O
+vente	O
+,	O
+des	O
+formations	O
+,	O
+un	O
+travail	O
+dans	O
+un	O
+salon	O
+de	O
+qualité	O
+avec	O
+des	O
+produits	O
+haut	O
+de	O
+gamme	O
+.	O
+Possibilité	O
+d'évolution	O
+vers	O
+un	O
+poste	O
+de	O
+manager	O
+.	O
+Une	O
+équipe	O
+dynamique	O
+et	O
+conviviale	O
+et	O
+une	O
+clientèle	O
+fidèle	O
+toute	O
+l'année	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+à	O
+partir	O
+début	O
+octobre	O
+2017	O
+.	O
+Merci	O
+de	O
+nous	O
+adresser	O
+votre	O
+CV	O
+par	O
+mail	O
+,	O
+contact	O
+téléphonique	O
+,	O
+Facebook	O
+ou	O
+se	O
+présenter	O
+au	O
+salon	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+1	salary
+800	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+Coiffure	experience
+:	O
+5	experience
+ans	experience

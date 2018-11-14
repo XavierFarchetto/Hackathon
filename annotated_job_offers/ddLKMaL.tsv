@@ -1,0 +1,155 @@
+Assistante	position
+documentaliste	position
+Comptoir	company
+Des	company
+Voyages	company
+-	O
+Paris	city
+-LRB-	O
+75	postal code
+-RRB-	O
+CDD	contrat_type
+Nous	O
+recherchons	O
+pour	O
+travailler	O
+à	O
+notre	O
+siège	O
+à	O
+Paris	city
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Documentaliste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Responsable	O
+Photothèque	O
+au	O
+sein	O
+de	O
+notre	O
+service	O
+Communication	O
+,	O
+vous	hard skills
+participez	hard skills
+au	hard skills
+fonctionnement	hard skills
+de	hard skills
+la	hard skills
+photothèque	hard skills
+et	hard skills
+aurez	hard skills
+pour	hard skills
+principales	hard skills
+missions	hard skills
+:	
+-	O
+La	hard skills
+recherche	hard skills
+de	hard skills
+visuels	hard skills
+et	hard skills
+contacts	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+hôteliers	hard skills
+et	hard skills
+prestataires	hard skills
+";"	
+-	O
+Gestion	hard skills
+des	hard skills
+retouches	hard skills
+";"	
+-	O
+L'indexation	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+notre	hard skills
+outil	hard skills
+interne	hard skills
+.	O
+Documentaliste	hard skills
+de	hard skills
+formation	hard skills
+,	
+vous	soft skills
+êtes	soft skills
+sensible	soft skills
+à	soft skills
+l'univers	soft skills
+de	soft skills
+la	soft skills
+photographie	soft skills
+et	soft skills
+du	soft skills
+voyage	soft skills
+.	
+Vous	hard skills
+maitrisez	hard skills
+les	hard skills
+règles	hard skills
+d'indexation	hard skills
+et	hard skills
+êtes	hard skills
+à	hard skills
+l'aise	hard skills
+avec	hard skills
+Photoshop	hard skills
+.	O
+Vous	hard skills
+avez	hard skills
+connaissance	hard skills
+du	hard skills
+cadre	hard skills
+juridique	hard skills
+.	
+Enfin	O
+,	O
+vous	soft skills
+disposez	soft skills
+de	soft skills
+bonnes	soft skills
+capacités	soft skills
+d'adaptation	soft skills
+et	soft skills
+êtes	soft skills
+rigoureux	soft skills
+.	
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDD	contrat_type
+-LRB-	O
+8	contrat_type
+mois	contrat_type
+-RRB-	O
+dès	O
+que	O
+possible	O
+Poste	O
+basé	O
+à	O
+Paris	city
+75005	postal code
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

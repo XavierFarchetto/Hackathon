@@ -1,0 +1,53 @@
+Peintre	position
+en	position
+bâtiment	position
+Ovalie	company
+deco	company
+-	O
+Villefranche-de-Lauragais	city
+-LRB-	O
+31	postal code
+-RRB-	O
+CDD	contrat_type
+Entreprise	O
+de	O
+peinture	O
+en	O
+bâtiment	O
+cherche	O
+peintre	position
+h/f	O
+pour	hard skills
+travaux	hard skills
+de	hard skills
+peinture	hard skills
+.	O
+Chantiers	hard skills
+sur	hard skills
+la	hard skills
+région	hard skills
+Toulousaine	hard skills
+39h	
+smic	
+horaire	
+et	O
+paniers	O
+repas	O
+Nous	O
+contacter	O
+par	O
+téléphone	O
+Svp	O
+au	O
+06.31.73.99.41	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Expérience	O
+exigée	O
+:	O
+peinture	experience
+:	O
+2	experience
+ans	experience

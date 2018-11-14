@@ -1,0 +1,110 @@
+Secrétaire	position
+médicale	position
+CENTRE	company
+MEDICAL	company
+LYON	company
+-	O
+Lyon	city
+-LRB-	O
+69	code postal
+-RRB-	O
+CDI	contrat_type
+Nous	O
+recherchons	O
+pour	O
+un	O
+cabinet	company
+médical	company
+à	O
+Lyon	city
+une	position
+secrétaire	position
+médicale	position
+-LRB-	O
+H/F	O
+-RRB-	O
+.	O
+Vos	O
+principales	O
+missions	O
+seront	O
+:	O
+-	O
+L'accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+/	O
+gestion	hard skills
+du	hard skills
+standard	hard skills
+-	O
+Frappe	hard skills
+des	hard skills
+comptes-rendus	hard skills
+et	hard skills
+des	hard skills
+courriers	hard skills
+-	O
+Gestion	hard skills
+des	hard skills
+agendas	hard skills
+et	hard skills
+des	hard skills
+rendez-vous	hard skills
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+facturation	hard skills
+et	hard skills
+suivi/relance	hard skills
+des	hard skills
+impayés	hard skills
+-	O
+Coordination	hard skills
+avec	hard skills
+les	hard skills
+partenaires	hard skills
+et	hard skills
+les	hard skills
+fournisseurs	hard skills
+-	O
+Préparation	hard skills
+et	hard skills
+archivage	hard skills
+des	hard skills
+dossiers	hard skills
+administratifs	hard skills
+-	
+Gestion	hard skills
+des	hard skills
+stocks	hard skills
+Salaire	hard skills
+selon	
+expérience	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+novembre	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	
+niveau	experience
+Bac	experience
+-RRB-	O

@@ -1,0 +1,117 @@
+Poseur	position
+d'armatures	position
+PRO	company
+ARMATURE	company
+POSE	company
+-	O
+Arles	city
+-LRB-	O
+13	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+1	salary
+750	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Entreprise	O
+spécialisée	O
+en	O
+pose	O
+d'armatures	O
+sur	O
+chantier	O
+,	O
+recherche	O
+pour	O
+sa	O
+société	O
+un	position
+poseur	position
+H/F	O
+justifiant	O
+d'une	experience
+année	experience
+d'expérience	experience
+dans	experience
+le	experience
+métier	experience
+.	O
+Réactif	soft skills
+,	O
+organisé	soft skills
+et	soft skills
+rigoureux	soft skills
+,	O
+vous	O
+assurez	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+d'armatures	hard skills
+dans	hard skills
+des	hard skills
+coffrages	hard skills
+avant	hard skills
+bétonnage	hard skills
+à	hard skills
+partir	hard skills
+d'instructions	hard skills
+données	hard skills
+par	hard skills
+votre	hard skills
+supérieur	hard skills
+hiérarchique	hard skills
+.	O
+Respectueux	soft skills
+des	soft skills
+règles	soft skills
+d'hygiène	soft skills
+et	soft skills
+de	soft skills
+sécurité	soft skills
+,	O
+vous	O
+êtes	soft skills
+motivés	soft skills
+par	soft skills
+le	soft skills
+travail	soft skills
+sur	soft skills
+chantier	soft skills
+.	O
+Poste	O
+en	O
+CDI	contrat_type
+Horaire	O
+hebdomadaire	O
+:	O
+39h	O
+Rémunération	O
+:	O
+SMIC	O
++	O
+indemnités	O
+de	O
+déplacement	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+1	salary
+750	salary
+$	salary
+/	O
+mois	salary

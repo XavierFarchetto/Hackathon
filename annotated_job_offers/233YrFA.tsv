@@ -1,0 +1,202 @@
+Technicien	position
+de	position
+laboratoire	position
+DYOMEDEA	company
+-	O
+Lyon	city
+-LRB-	O
+69	code postal
+-RRB-	O
+CDD	contrat_type
+TECHNICIEN	position
+/	O
+TECHNICIENNE	position
+DE	position
+LABORATOIRE	position
+PLATEAU	position
+TECHNIQUE	position
+H/F	O
+/	O
+LYON	city
+Poste	O
+en	O
+CDD	contrat_type
+à	O
+pourvoir	O
+au	O
+sein	O
+du	O
+Plateau	O
+Technique	O
+de	O
+la	O
+Sauvegarde	O
+Plateau	O
+technique	O
+polyvalent	O
+du	O
+groupe	O
+DYOMEDEA	company
+:	O
+27	O
+laboratoires	O
+d'analyses	O
+médicales	O
+http://www.dyomedea.eu/	O
+Missions	O
+du	O
+poste	O
+:	O
+Poste	O
+polyvalent	O
+en	O
+hématologie	O
+-	O
+hémostase	O
+-	O
+immuno-hématologie	O
+ou	O
+biochimie	O
+--	O
+immunologie	O
+-LRB-	O
+selon	O
+expérience	O
+-RRB-	O
+.	O
+Gestion	hard skills
+des	hard skills
+automates	hard skills
+,	O
+validation	hard skills
+analytique	hard skills
+Assurer	hard skills
+la	hard skills
+réception	hard skills
+et	hard skills
+le	hard skills
+tri	hard skills
+des	hard skills
+échantillons	hard skills
+Participer	hard skills
+à	hard skills
+des	hard skills
+tâches	hard skills
+diverses	hard skills
+liées	hard skills
+à	hard skills
+l'organisation	hard skills
+du	hard skills
+laboratoire	hard skills
+Appliquer	hard skills
+la	hard skills
+démarche	hard skills
+qualité	hard skills
+en	hard skills
+respectant	hard skills
+la	hard skills
+norme	hard skills
+-LRB-	O
+mise	hard skills
+en	hard skills
+œuvre	hard skills
+des	hard skills
+recommandations	hard skills
+,	
+fiches	hard skills
+anomalies	hard skills
+-RRB-	
+Participer	hard skills
+au	hard skills
+roulement	hard skills
+de	hard skills
+garde	hard skills
+-LRB-	
+nuits	hard skills
+/	O
+week-end	hard skills
+-RRB-	O
+Pré	O
+requis	O
+du	O
+poste	O
+Diplôme	experience
+de	experience
+technicien	experience
+de	experience
+laboratoire	experience
+-LRB-	O
+arrêté	O
+du	O
+21/10/1992	O
+-RRB-	O
+:	O
+BTS	experience
+Analyses	experience
+biologiques	experience
+ou	O
+IFTLM	experience
+de	experience
+préférence	experience
+.	O
+-LRB-	O
+Certificat	experience
+de	experience
+prélèvement	experience
+facultatif	experience
+-RRB-	O
+Qualités	soft skills
+Méthodique	soft skills
+et	soft skills
+organisé	soft skills
+Volontaire	soft skills
+/	O
+Dynamique	soft skills
+/	O
+Apte	soft skills
+au	soft skills
+changement	soft skills
+Rigueur	soft skills
+et	soft skills
+esprit	soft skills
+d'équipe	soft skills
+Horaires	soft skills
+/	O
+Spécificités	soft skills
+du	soft skills
+poste	soft skills
+Salaire	O
+suivant	O
+profil	O
+et	O
+expérience	O
+--	O
+Prime	O
+de	O
+participation	O
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+Possibilité	O
+d'évolution	O
+en	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

@@ -1,0 +1,257 @@
+Coach	position
+sportif/conseiller	position
+nutritionniste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Fitcorp	company
+-	O
+Vallauris	city
+-LRB-	O
+6	code postal
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+2	salary
+500	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+L'ENTREPRISE	company
+Fitadium	company
+est	O
+un	O
+site	O
+de	O
+vente	O
+en	O
+ligne	O
+entièrement	O
+dédié	O
+au	O
+fitness	O
+et	O
+à	O
+la	O
+musculation	O
+,	O
+qui	O
+propose	O
+des	O
+compléments	O
+alimentaire	O
+,	O
+du	O
+matériel	O
+,	O
+des	O
+vêtements	O
+et	O
+des	O
+accessoires	O
+fitness	O
+.	O
+Créé	O
+en	O
+2006	O
+par	O
+des	O
+passionnés	O
+pour	O
+des	O
+passionnés	O
+,	O
+ce	O
+site	O
+n'est	O
+pas	O
+que	O
+marchand	O
+,	O
+mais	O
+offre	O
+aussi	O
+gratuitement	O
+et	O
+sans	O
+compter	O
+ses	O
+conseils	O
+et	O
+ses	O
+informations	O
+.	O
+DESCRIPTION	O
+DE	O
+L'OFFRE	O
+De	O
+formation	O
+BPJEPS	experience
+AGFF	experience
+/	O
+Mention	experience
+D	experience
+:	O
+``	
+Haltère	experience
+,	O
+musculation	experience
+et	experience
+forme	experience
+sur	experience
+plateau	experience
+''	O
+ou	experience
+équivalence	experience
+vous	experience
+avez	experience
+acquis	experience
+au	experience
+moins	experience
+3	experience
+ans	experience
+d'expérience	experience
+en	experience
+tant	experience
+que	experience
+coach	experience
+sportif	experience
+et	experience
+avez	experience
+acquis	experience
+de	experience
+solides	experience
+compétences	experience
+en	experience
+nutrition	experience
+sportive	experience
+et	experience
+techniques	experience
+alimentaires	experience
+.	O
+Vos	O
+missions	O
+seront	O
+les	O
+suivantes	O
+:	O
+Réalisation	hard skills
+de	hard skills
+coachings	hard skills
+alimentaires	hard skills
+et	hard skills
+d'entrainements	hard skills
+personnalisés	hard skills
+et	hard skills
+payants	hard skills
+Conseil	hard skills
+client	hard skills
+par	hard skills
+téléphone	hard skills
+,	O
+mail	hard skills
+et	hard skills
+sur	hard skills
+les	hard skills
+réseaux	hard skills
+sociaux	hard skills
+Renfort	hard skills
+service	hard skills
+client	hard skills
+QUALITES	O
+RECHERCHEES	O
+Excellente	hard skills
+maitrise	hard skills
+du	hard skills
+français	hard skills
+à	hard skills
+l'oral	hard skills
+et	hard skills
+à	hard skills
+l'écrit	hard skills
+Excellent	soft skills
+sens	soft skills
+relationnel	soft skills
+Autonome	soft skills
+,	O
+dynamique	soft skills
+,	O
+conciliant	soft skills
+et	soft skills
+empathique	soft skills
+Lieu	O
+de	O
+travail	O
+:	O
+SOPHIA	
+ANTIPOLIS	city
+Type	O
+de	O
+contrat	O
+:	O
+CDI	contrat_type
+Date	O
+de	O
+début	O
+de	O
+contrat	O
+:	O
+Le	O
+plus	O
+tôt	O
+possible	O
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35h	O
+HEBDO	O
+Processus	O
+de	O
+recrutement	O
+avec	O
+l'équipe	O
+technique	O
+:	O
+-	O
+Entretien	O
+au	O
+siège	O
+de	O
+Sophia	company
+Antipolis	city
+-LRB-	O
+6	code postal
+-RRB-	O
+-	O
+Le	O
+candidat	O
+devra	O
+démontrer	O
+ses	O
+compétences	O
+CV	O
++	O
+Lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+0	salary
+$	salary
+à	
+2	salary
+500	salary
+$	salary
+/	O
+mois	salary

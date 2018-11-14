@@ -1,0 +1,77 @@
+Ouvrier	position
+agricole	position
+saisonnier	position
+GROUPEMENT	company
+D'EMPLOYEURS	company
+-	O
+Rubempré	city
+-LRB-	O
+80	code postal
+-RRB-	O
+Temps	contrat_type
+plein	contrat_type
+,	O
+Intérim	O
+,	O
+CDD	contrat_type
+URGENT	O
+.	O
+Nous	O
+recherchons	O
+un	position
+ouvrier	position
+agricole	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+la	hard skills
+fin	hard skills
+de	hard skills
+la	hard skills
+saison	hard skills
+choux	hard skills
+.	O
+Durée	hard skills
+de	hard skills
+la	hard skills
+mission	hard skills
+:	
+3	hard skills
+semaines	hard skills
+-	O
+1	hard skills
+mois	hard skills
+.	O
+Si	O
+vous	O
+êtes	O
+motivé	O
+,	O
+envoyez-nous	O
+votre	O
+CV	O
+.	O
+Lieu	O
+du	O
+poste	O
+non	O
+desservi	O
+par	O
+les	O
+transports	O
+en	O
+commun	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+B	hard skills

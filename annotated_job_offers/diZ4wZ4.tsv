@@ -1,0 +1,202 @@
+Agent	position
+logistique	position
+polyvalent	position
+confluent	position
+interim	company
+Lyon	company
+7ème	company
+-	O
+Vénissieux	city
+-LRB-	O
+69	postal code
+-RRB-	O
+10	salary
+$	salary
+-	
+12	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Intérim	contrat_type
+Description	O
+du	O
+poste	O
+Offre	O
+d'emploi	O
+d'ouvrier	O
+tôlier	O
+Confluent	O
+intérim	O
+,	O
+CDD	contrat_type
+,	O
+CDI	contrat_type
+sur	O
+Lyon	city
+,	O
+Rhône	city
+69	postal code
+.	O
+L'agence	company
+d'intérim	company
+Confluent	company
+à	company
+Lyon	company
+7ème	company
+,	O
+spécialiste	O
+des	O
+profils	O
+qualifiés	O
+en	O
+industrie	O
+,	O
+logistique	O
+et	O
+bâtiment	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+préparateur	position
+de	position
+commandes	position
+de	position
+matériel	position
+industriel	position
+sur	O
+Vénissieux	city
+.	O
+Préparateur	hard skills
+de	hard skills
+commandes	hard skills
+pièces	hard skills
+industrielles	hard skills
+emballage	hard skills
+saisie	hard skills
+h/f	hard skills
+Principales	hard skills
+missions	hard skills
+:	O
+En	hard skills
+atelier	hard skills
+dépôt	hard skills
+:	hard skills
+Préparation	hard skills
+des	hard skills
+commandes	hard skills
+pour	hard skills
+les	hard skills
+professionnels	hard skills
+Contrôle	hard skills
+visuel	hard skills
+/	
+comptage	hard skills
+/	
+assemblage	hard skills
+de	hard skills
+kit	hard skills
+Emballage	hard skills
+Saisie	hard skills
+informatique	hard skills
+Compétences	hard skills
+requises	hard skills
+et	
+Savoir-être	soft skills
+Expérience	experience
+en	experience
+environnement	experience
+industriel	experience
+et	experience
+logistique	experience
+Application	hard skills
+des	hard skills
+consignes	hard skills
+et	hard skills
+respect	hard skills
+des	hard skills
+normes	hard skills
+clients	hard skills
+Attention	hard skills
+/	
+petit	hard skills
+matériel	hard skills
+à	hard skills
+manipuler	hard skills
+/	
+vigilance	hard skills
+/	O
+concentration	hard skills
+.	O
+Formation	
+:	O
+Formation	experience
+dans	experience
+les	experience
+métiers	experience
+de	experience
+la	experience
+logistique	experience
+ou	experience
+de	experience
+l'atelier	experience
+Ou	
+passionné	soft skills
+-LRB-	
+e	soft skills
+-RRB-	O
+par	soft skills
+cet	soft skills
+environnement	soft skills
+Environnement	soft skills
+de	soft skills
+travail	soft skills
+:	
+Atelier	hard skills
+/	O
+dépôt	hard skills
+Horaire	O
+:	O
+Horaires	hard skills
+de	hard skills
+journée	hard skills
+Lundi	hard skills
+au	hard skills
+vendredi	hard skills
+35h/semaine	hard skills
+Salaire	
+,	
+nature	O
+du	O
+contrat	O
+:	O
+intérim	contrat_type
+avec	O
+projet	O
+d'intégration	O
+Salaire	O
+:	O
+10	salary
+$	salary
+/	
+12	salary
+$	salary
+selon	
+expérience	O
+Type	O
+d'emploi	O
+:	O
+Intérim	contrat_type
+Type	O
+d'emploi	O
+:	
+Intérim	contrat_type
+Expérience	O
+exigée	O
+:	O
+logistique	experience
+:	
+5	experience
+ans	experience

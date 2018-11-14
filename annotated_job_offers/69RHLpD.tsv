@@ -1,0 +1,307 @@
+ASSISTANT	position
+FONDEUR	position
+h/f	O
+CONFLUENT	company
+-	O
+Villeurbanne	city
+-LRB-	O
+69	code postal
+-RRB-	O
+Offre	O
+d'emploi	O
+Confluent	O
+intérim	O
+,	O
+CDD	contrat_type
+,	
+CDI	contrat_type
+sur	O
+Lyon	city
+,	O
+Rhône	O
+69	code postal
+.	O
+L'agence	company
+d'intérim	company
+Confluent	company
+à	c
+VILLEURBANNE	city
+,	O
+spécialiste	O
+des	O
+profils	O
+qualifiés	O
+en	O
+industrie	O
+,	O
+logistique	O
+et	O
+bâtiment	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+ASSISTNT	position
+FONDEUR	position
+sur	
+VILLEURBANNE	city
+en	O
+CDD	contrat_type
+.	O
+ASSISTANT	position
+FONDEUR	position
+h/f	O
+Principales	hard skills
+missions	hard skills
+:	
+Assister	hard skills
+le	hard skills
+fondeur	hard skills
+dans	hard skills
+ses	hard skills
+missions	hard skills
+,	O
+dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+procédures	hard skills
+de	hard skills
+fabrication	hard skills
+et	hard skills
+de	hard skills
+sécurité	hard skills
+:	
+-	hard skills
+Découper	hard skills
+de	hard skills
+tige	hard skills
+d'alimentation	hard skills
+au	hard skills
+bocfil	hard skills
+,	
+-	hard skills
+Contrôler	hard skills
+les	hard skills
+pièces	hard skills
+en	hard skills
+sortie	hard skills
+de	hard skills
+fonderie	hard skills
+,	
+-	hard skills
+Découper	hard skills
+les	hard skills
+arbres	hard skills
+,	
+-	hard skills
+Echantillonner	hard skills
+les	hard skills
+témoins	hard skills
+de	hard skills
+titre	hard skills
+,	
+-	hard skills
+Réaliser	hard skills
+les	hard skills
+mesures	hard skills
+de	hard skills
+titrage	hard skills
+,	
+-	hard skills
+Garantit	hard skills
+la	hard skills
+restitution	hard skills
+du	hard skills
+métal	hard skills
+confié	hard skills
+,	
+-	hard skills
+Assurer	hard skills
+la	hard skills
+plus	hard skills
+grande	hard skills
+confidentialité	hard skills
+sur	hard skills
+le	hard skills
+process	hard skills
+de	hard skills
+fabrication	hard skills
+,	
+-	hard skills
+Effectuer	hard skills
+le	hard skills
+nettoyage	hard skills
+des	hard skills
+cylindres	hard skills
+de	hard skills
+fonte	hard skills
+-LRB-	
+décochage	hard skills
+-RRB-	O
+dans	hard skills
+des	hard skills
+cabines	hard skills
+de	hard skills
+nettoyage	hard skills
+haute	hard skills
+pression	hard skills
+à	hard skills
+eau	hard skills
+et	hard skills
+à	hard skills
+sable	hard skills
+,	
+-	O
+Actions	hard skills
+de	hard skills
+polyvalence	hard skills
+avec	hard skills
+le	hard skills
+fondeur	hard skills
+,	O
+-	hard skills
+Miser	hard skills
+en	hard skills
+plâtre	hard skills
+,	
+-	hard skills
+Fontes	hard skills
+rapides	hard skills
+,	
+-	hard skills
+Polissage	hard skills
+mécanique	hard skills
+de	hard skills
+certaines	hard skills
+pièces	hard skills
+-LRB-	
+tribologie	hard skills
+-RRB-	O
+.	O
+Compétences	O
+requises	O
+et	O
+Savoir-être	O
+Une	experience
+expérience	experience
+en	experience
+industrie	experience
+de	experience
+production	experience
+sur	experience
+commandes	experience
+numériques	experience
+ou	experience
+sur	experience
+machine	experience
+est	experience
+fortement	experience
+souhaitée	experience
+,	O
+Vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+pour	soft skills
+votre	soft skills
+sens	soft skills
+de	soft skills
+la	soft skills
+minutie	soft skills
+,	O
+votre	soft skills
+stabilité	soft skills
+,	O
+votre	soft skills
+rigueur	soft skills
+,	O
+votre	soft skills
+transparence	soft skills
+et	soft skills
+votre	soft skills
+capacité	soft skills
+de	soft skills
+contrôle	soft skills
+,	
+Compréhension	soft skills
+et	soft skills
+application	soft skills
+des	soft skills
+consignes	soft skills
+.	O
+Formation	O
+:	O
+Niveau	O
+Bac	experience
+Professionnel	experience
+dans	experience
+un	experience
+secteur	experience
+technique	experience
+-LRB-	O
+couture	experience
+,	O
+milieu	experience
+médical	experience
+,	O
+cosmétique	experience
+,	O
+prothèse	experience
+dentaire	experience
+-RRB-	O
+.	O
+Environnement	
+de	
+travail	
+:	
+atelier	
+Horaire	O
+:	O
+7h30	O
+--	O
+12h00	O
+/	O
+13h30	O
+--	O
+16h30	O
+.	O
+Fin	O
+à	O
+12h00	O
+le	O
+vendredi	O
+.	O
+Salaire	O
+,	O
+nature	O
+du	O
+contrat	O
+:	O
+Mission	O
+en	O
+CDD	contrat_type
+longue	O
+durée	O
+,	O
+Salaire	O
+de	O
+base	O
+au	O
+SMIC	salary
+sur	O
+une	O
+base	O
+de	O
+35h00	O
+évolutif	O
+,	O
+Possibilité	O
+de	O
+formation	O
+sur	O
+les	O
+postes	O
+de	O
+travail	O
+.	O

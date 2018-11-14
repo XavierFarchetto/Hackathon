@@ -1,0 +1,195 @@
+Plombier	position
+chauffagiste	position
+H/F	O
+Société	company
+spécialisée	company
+en	company
+génie	company
+climatique	company
+-	O
+Évry	city
+-LRB-	O
+91	postal code
+-RRB-	O
+1	salary
+690	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Société	company
+spécialisée	company
+en	company
+génie	company
+climatique	company
+située	O
+à	O
+Evry	city
+-LRB-	O
+91	postal code
+-RRB-	O
+recrute	O
+un	position
+plombier/chauffagiste	position
+H/F	O
+en	O
+CDD	contrat_type
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDD	contrat_type
+de	O
+2	O
+mois	O
+,	O
+35	O
+heures	O
+par	O
+semaine	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+rapidement	O
+.	O
+Rémunération	O
+:	O
+1700	salary
+euros	salary
+bruts	salary
+-LRB-	O
+hors	O
+prime	O
+précarité	O
+et	O
+congés	O
+payés	O
+-RRB-	O
+--	O
+tickets	O
+restaurants	O
+Vos	hard skills
+missions	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Diverses	hard skills
+missions	hard skills
+de	hard skills
+plomberie	hard skills
+et	hard skills
+chauffage	hard skills
+sur	hard skills
+différents	hard skills
+chantiers	hard skills
+situés	hard skills
+en	hard skills
+île	hard skills
+de	hard skills
+France	hard skills
+.	O
+Profil	O
+recherché	O
+:	O
+-	O
+Plombier	experience
+chauffagiste	experience
+h/f	experience
+2	experience
+ans	experience
+d'expérience	experience
+minimum	experience
+-	O
+Permis	hard skills
+B	hard skills
+-	O
+Parfaite	hard skills
+connaissance	hard skills
+sur	hard skills
+les	hard skills
+raccords	hard skills
+à	hard skills
+Sertir	hard skills
+-	
+Connaissances	hard skills
+sur	hard skills
+les	hard skills
+PVC	hard skills
+pression	hard skills
+à	hard skills
+coller	hard skills
+et	hard skills
+HTA	hard skills
+-	O
+Connaissance	hard skills
+brasage	hard skills
+fort	hard skills
+et	hard skills
+soudure	hard skills
+acier	hard skills
+-	O
+Savoir	hard skills
+utiliser	hard skills
+la	hard skills
+sertisseuse	hard skills
+-LRB-	
+pour	hard skills
+cuivre	hard skills
+et	hard skills
+multicouche	hard skills
+-RRB-	O
+-	O
+Savoir	hard skills
+raccorder	hard skills
+un	hard skills
+radiateur	hard skills
+-	
+Bon	soft skills
+esprit	soft skills
+d'équipe	soft skills
+,	
+sens	soft skills
+du	soft skills
+contact	soft skills
+et	soft skills
+du	soft skills
+service	soft skills
+-	O
+dynamique	soft skills
+et	soft skills
+motive/e	soft skills
+-	O
+ponctuel/le	soft skills
+-	
+polyvalent/e	soft skills
+*	O
+*	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+690	salary
+$	salary
+à	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+plombier/chauffagiste	experience
+:	
+2	experience
+ans	experience

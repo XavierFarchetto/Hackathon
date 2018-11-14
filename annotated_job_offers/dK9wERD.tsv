@@ -1,0 +1,135 @@
+AGENT	position
+DE	position
+SECURITE	position
+H/F	O
+DISTRI	company
+SECURITE	company
+-	O
+Châtres	city
+-LRB-	O
+77	postal code
+-RRB-	O
+1	salary
+502	salary
+$	salary
+par	salary
+mois	salary
+Au	O
+sein	O
+d'une	O
+plateforme	O
+logistique	O
+,	O
+vous	hard skills
+assurez	hard skills
+une	hard skills
+mission	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+de	hard skills
+sûreté	hard skills
+-LRB-	
+contrôle	hard skills
+d'accès	hard skills
+,	O
+rondes	hard skills
+,	
+gestion	hard skills
+pc	hard skills
+.	
+-RRB-	O
+.	O
+Vacations	hard skills
+à	hard skills
+amplitudes	hard skills
+horaires	hard skills
+variables	hard skills
+jour	hard skills
+et/ou	hard skills
+nuit	hard skills
+selon	hard skills
+planning	hard skills
+.	O
+Cartepro/CQP	hard skills
+ou	hard skills
+équivalence	hard skills
+obligatoire	hard skills
+.	O
+Lieu	O
+non	O
+desservi	O
+par	O
+les	O
+transports	O
+en	O
+commun	O
+.	O
+Excellente	hard skills
+Maitrise	hard skills
+du	hard skills
+français	hard skills
+-LRB-	
+lu	hard skills
+,	O
+parlé	hard skills
+,	O
+écrit	hard skills
+-RRB-	O
+Esprit	soft skills
+d'analyse	soft skills
+Excellente	soft skills
+présentation	soft skills
+Poste	hard skills
+de	hard skills
+nuit	hard skills
+en	hard skills
+12h00	hard skills
+.	O
+Contrôle	hard skills
+d'accès	hard skills
+-	O
+PL	hard skills
+-	O
+VL	hard skills
+-	O
+Piétons	hard skills
+Saisie	hard skills
+informatique	hard skills
+Accueil	hard skills
+téléphonique	hard skills
+Gestion	hard skills
+des	hard skills
+alarmes	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+502	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+agent	experience
+de	experience
+sécurité	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+CQP	experience
+APS	experience

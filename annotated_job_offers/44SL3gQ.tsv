@@ -1,0 +1,54 @@
+Plombier	position
+sanitaire	position
+cp2c	company
+-	O
+Saint-Ouen-l'Aumône	city
+-LRB-	O
+95	postal code
+-RRB-	O
+recherche	O
+plombier	position
+h/f	O
+5	experience
+année	experience
+d'expérience	experience
+minimum	experience
+.	O
+pose	hard skills
+de	hard skills
+wc	hard skills
+suspendu	hard skills
+lavabo	hard skills
+baignoire	hard skills
+robinetterie	hard skills
+receveur	hard skills
+de	hard skills
+douche	hard skills
++	hard skills
+paroi	hard skills
+,	O
+réseau	hard skills
+eau	hard skills
+froide	hard skills
+et	hard skills
+chaude	hard skills
+.	O
+travail	hard skills
+précis	hard skills
+et	hard skills
+tres	hard skills
+minutieux	hard skills
+et	hard skills
+très	hard skills
+soigné	hard skills
+debut	hard skills
+CDD	contrat_type
+voir	O
+après	O
+compétence	O
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

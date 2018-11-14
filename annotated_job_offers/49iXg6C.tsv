@@ -1,0 +1,265 @@
+SURVEILLANT	position
+DE	position
+NUIT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+FONDATION	company
+COGNACQ-JAY	company
+-	O
+Monnetier-Mornex	city
+-LRB-	O
+74	code postal
+-RRB-	O
+1	salary
+875	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Présentation	O
+de	O
+la	O
+Structure	O
+:	O
+La	O
+Maison	O
+d'Enfants	O
+de	O
+la	O
+Fondation	O
+Cognacq-Jay	O
+située	O
+en	O
+Haute	O
+Savoie	O
+à	O
+Monnetier-Mornex	O
+,	O
+répond	O
+aux	O
+besoins	O
+du	O
+territoire	O
+français	O
+dans	O
+le	O
+cadre	O
+de	O
+la	O
+protection	O
+de	O
+l'enfance	O
+,	O
+avec	O
+une	O
+population	O
+de	O
+jeunes	O
+de	O
+3	O
+à	O
+18	O
+ans	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+Mission	O
+:	O
+Assurer	hard skills
+une	hard skills
+présence	hard skills
+et	hard skills
+la	hard skills
+sécurité	hard skills
+de	hard skills
+jeunes	hard skills
+adolescents	hard skills
+mineurs	hard skills
+pris	hard skills
+en	hard skills
+charge	hard skills
+en	hard skills
+habitats	hard skills
+diffus	hard skills
+sur	hard skills
+l'agglomération	hard skills
+annemassienne	hard skills
+.	O
+Profil	O
+:	O
+-	O
+permis	hard skills
+de	hard skills
+conduire	hard skills
+obligatoire	hard skills
+-	O
+connaissance	hard skills
+du	hard skills
+dispositif	hard skills
+de	hard skills
+Surveillant	hard skills
+de	hard skills
+nuit	hard skills
+en	hard skills
+établissement	hard skills
+médico-social	hard skills
+-	O
+connaissance	hard skills
+du	hard skills
+public	hard skills
+-	
+connaissances	hard skills
+informatiques	hard skills
+-	O
+connaitre	hard skills
+les	hard skills
+règles	hard skills
+de	hard skills
+sécurités	hard skills
+-LRB-	O
+incendie	hard skills
+,	O
+maladie	hard skills
+,	O
+sortir	hard skills
+des	hard skills
+jeunes	hard skills
+d'un	hard skills
+appartement	hard skills
+sans	hard skills
+violence	hard skills
+-RRB-	O
+Compétences	
+:	O
+-	O
+pouvoir	soft skills
+travailler	soft skills
+auprès	soft skills
+de	soft skills
+jeunes	soft skills
+en	soft skills
+difficultés	soft skills
+-	
+être	soft skills
+à	soft skills
+l'écoute	soft skills
+et	soft skills
+disponible	soft skills
+-	O
+pouvoir	soft skills
+être	soft skills
+à	soft skills
+bonne	soft skills
+distante	soft skills
+du	soft skills
+public	soft skills
+accueilli	soft skills
+-	O
+être	soft skills
+disponible	soft skills
+et	soft skills
+pouvoir	soft skills
+s	soft skills
+`	soft skills
+adapter	soft skills
+rapidement	soft skills
+-	O
+savoir	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+Détail	soft skills
+:	O
+Lieu	O
+de	O
+travail	O
+:	O
+Agglomération	O
+d'Annemasse	O
+Type	O
+de	O
+contrat	O
+:	O
+contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+indéterminée	contrat_type
+Expérience	O
+:	O
+expérience	experience
+auprès	experience
+d'une	experience
+population	experience
+d'adolescents	experience
+souhaitée	experience
+Permis	experience
+:	O
+exigé	experience
+Qualification	O
+:	O
+employé	experience
+qualifié	experience
+Salaire	O
+indicatif	O
+:	O
+moyen	salary
+brut	salary
+mensuel	salary
+de	salary
+de	salary
+1875	salary
+$	salary
++	O
+prime	O
+ancienneté	O
+-LRB-	O
+convention	O
+collective	O
+du	O
+31	O
+octobre	O
+1951	O
+-RRB-	O
+Temps	O
+de	O
+travail	O
+:	O
+temps	contrat_type
+plein	contrat_type
+Conditions	O
+d'exercice	O
+:	O
+horaires	O
+de	O
+nuit	O
+-LRB-	O
+22heures	O
+à	O
+8h00	O
+-RRB-	O
+Taille	O
+de	O
+l'entreprise	O
+:	O
++	O
+100	O
+salariés	O
+Secteur	O
+d'activité	O
+:	O
+Maison	O
+d'enfants	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Langue	O
+exigée	O
+:	O
+français	hard skills

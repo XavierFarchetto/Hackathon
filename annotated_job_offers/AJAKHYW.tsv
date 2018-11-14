@@ -1,0 +1,112 @@
+Serveur	position
+-LRB-	O
+h/f	O
+-RRB-	O
+,	O
+bar	company
+à	company
+vin	company
+,	O
+3	O
+à	O
+4	O
+soirs/semaine	O
+Le	O
+Barav	O
+-	O
+Paris	city
+3e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+10	salary
+$	salary
+-	O
+11	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+URGENT	O
+!	O
+Notre	O
+Bar	company
+à	company
+Vin-Restaurant	company
+de	O
+Paris	city
+3ème	city
+recrute	O
+1	position
+serveur	position
+-LRB-	O
+h/f	O
+-RRB-	O
+à	O
+temps	contrat_type
+partiel	contrat_type
+les	hard skills
+soirs	hard skills
+-LRB-	O
+3	hard skills
+à	hard skills
+4	hard skills
+services/semaine	hard skills
+-RRB-	O
+.	O
+Etre	hard skills
+disponible	hard skills
+les	hard skills
+soirs	hard skills
+entre	hard skills
+17h	hard skills
+et	hard skills
+1h	hard skills
+Amateur	hard skills
+de	hard skills
+Vin	hard skills
+mais	hard skills
+débutant	hard skills
+acceptés	hard skills
+Anglais	hard skills
+obligatoire	hard skills
+1ere	experience
+expérience	experience
+en	experience
+restauration	experience
+traditionnelle	experience
+exigée	experience
+Proximité	O
+géographique	O
+recommandée	O
+Sourire	soft skills
+et	soft skills
+bonne	soft skills
+humeur	soft skills
+indispensables	soft skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+à	
+11	salary
+$	salary
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+restauration	experience
+traditionnelle	experience
+:	O
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

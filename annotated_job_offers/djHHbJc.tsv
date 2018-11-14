@@ -1,0 +1,306 @@
+Assistant	position
+commercial	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CONFLANDEY	company
+INDUSTRIES	company
+-	O
+Fontenay-sous-Bois	city
+-LRB-	O
+94	postal code
+-RRB-	O
+30	salary
+0	salary
+$	salary
+-	O
+40	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+la	O
+Direction	O
+Commerciale	O
+,	O
+vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+l'assistanat	hard skills
+commercial	hard skills
+de	hard skills
+vos	hard skills
+chefs	hard skills
+de	hard skills
+secteur	hard skills
+et	hard skills
+assurez	hard skills
+la	hard skills
+gestion	hard skills
+,	hard skills
+le	hard skills
+suivi	hard skills
+et	hard skills
+l'administration	hard skills
+des	hard skills
+dossiers	hard skills
+commerciaux	hard skills
+sur	hard skills
+une	hard skills
+zone	hard skills
+Europe	hard skills
+et	hard skills
+Amérique	hard skills
+du	hard skills
+Nord	hard skills
+dédiée	hard skills
+.	hard skills
+A	hard skills
+--	
+DEFINITION	hard skills
+DU	hard skills
+POSTE	hard skills
+Assurer	hard skills
+la	hard skills
+prise	hard skills
+de	hard skills
+commandes	hard skills
+téléphoniques	hard skills
+.	
+Enregistrer	hard skills
+les	hard skills
+commandes	hard skills
+,	hard skills
+contrôler	hard skills
+les	hard skills
+AR	hard skills
+et	hard skills
+les	hard skills
+factures	hard skills
+commerciales	hard skills
+en	hard skills
+tenant	hard skills
+compte	hard skills
+des	hard skills
+problématiques	hard skills
+liées	hard skills
+aux	hard skills
+spécificités	hard skills
+des	hard skills
+pays	hard skills
+.	
+S'assurer	hard skills
+de	hard skills
+la	hard skills
+cohérence	hard skills
+des	hard skills
+commandes	hard skills
+avec	hard skills
+le	hard skills
+contrat	hard skills
+commercial	hard skills
+,	O
+du	hard skills
+respect	hard skills
+des	hard skills
+délais	hard skills
+Assurer	hard skills
+au	hard skills
+quotidien	hard skills
+la	hard skills
+liaison	hard skills
+entre	hard skills
+commandes	hard skills
+clients	hard skills
+et	hard skills
+suivi	hard skills
+des	hard skills
+disponibilités	hard skills
+en	hard skills
+usines	hard skills
+,	hard skills
+assurer	hard skills
+la	hard skills
+relance	hard skills
+des	hard skills
+commandes	hard skills
+.	
+Suivre	hard skills
+l'expédition	hard skills
+des	hard skills
+commandes	hard skills
+,	hard skills
+organiser	hard skills
+le	hard skills
+transport	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+le	hard skills
+service	hard skills
+logistique	hard skills
+,	hard skills
+les	hard skills
+transitaires	hard skills
+à	hard skills
+l'étranger	hard skills
+.	
+Gérer	hard skills
+les	hard skills
+documents	hard skills
+exports	hard skills
+.	
+Suivre	hard skills
+les	hard skills
+dossiers	hard skills
+commerciaux	hard skills
+sur	hard skills
+le	hard skills
+plan	hard skills
+qualité	hard skills
+.	
+Suivi	hard skills
+des	hard skills
+réclamations	hard skills
+et	hard skills
+des	hard skills
+avoirs	hard skills
+.	
+Interlocuteur	hard skills
+-LRB-	
+trice	hard skills
+-RRB-	O
+privilégié	hard skills
+-LRB-	
+e	hard skills
+-RRB-	O
+des	hard skills
+clients	hard skills
+et	hard skills
+agents	hard skills
+commerciaux	hard skills
+.	O
+Suivi	hard skills
+et	hard skills
+relances	hard skills
+des	hard skills
+paiements	hard skills
+.	O
+B	
+--	
+COMPETENCES	O
+REQUISES	O
+De	experience
+formation	experience
+BAC	experience
++	experience
+2	experience
+,	experience
+vous	experience
+justifiez	experience
+d'une	experience
+première	experience
+expérience	experience
+réussie	experience
+en	experience
+ADV	experience
+dans	experience
+un	experience
+contexte	experience
+international	experience
+.	
+Impérativement	hard skills
+trilingue	hard skills
+français	hard skills
+/	
+anglais/espagnol	hard skills
+à	hard skills
+l'oral	hard skills
+comme	hard skills
+à	hard skills
+l'écrit	hard skills
+.	
+Vous	hard skills
+maîtrisez	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	O
+Excel	hard skills
+,	O
+Powerpoint	hard skills
+,	O
+Word	hard skills
+-RRB-	O
+.	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+polyvalente	soft skills
+avec	soft skills
+un	soft skills
+sens	soft skills
+du	soft skills
+relationnel	soft skills
+et	soft skills
+commercial	soft skills
+,	O
+et	soft skills
+un	soft skills
+goût	soft skills
+pour	soft skills
+l'international	soft skills
+.	O
+Statut	O
+assimilé	O
+cadre	O
+.	O
+Salaire	O
+annuel	O
+entre	O
+30	salary
+et	O
+40	salary
+K	salary
+$	salary
+selon	O
+expérience	O
+.	O
+Merci	O
+d'adresser	O
+votre	O
+dossier	O
+de	O
+candidature	O
+à	O
+:	O
+CONFLANDEY	O
+INDUSTRIES	O
+SAS	O
+3	O
+,	O
+rue	O
+du	O
+Château	city
+--	O
+BP	O
+21	postal code
+--	O
+Amoncourt	O
+70170	O
+PORT	O
+SUR	O
+SAONE	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type

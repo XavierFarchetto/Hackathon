@@ -1,0 +1,71 @@
+conducteur	position
+de	position
+car	position
+tourisme	position
+Carrosse	company
+Imperial	company
+-	O
+Champigny-sur-Marne	city
+-LRB-	O
+94	postal code
+-RRB-	O
+Carrosse	company
+Imperial	company
+recherche	O
+des	position
+Conducteurs	position
+de	position
+Car	position
+à	O
+temps	contrat_type
+plein	contrat_type
+pour	hard skills
+effectuer	hard skills
+des	hard skills
+services	hard skills
+occasionnels	hard skills
+.	
+Formation	O
+initiale	O
+:	O
+Expérience	experience
+1	experience
+an	experience
+sur	experience
+des	experience
+trajets	experience
+dans	experience
+Paris	experience
+,	O
+transport	hard skills
+de	hard skills
+voyageurs	hard skills
+,	
+encadrement	hard skills
+de	hard skills
+groupe	hard skills
+,	O
+sorties	hard skills
+scolaires	hard skills
+...	O
+Permis	hard skills
+D	hard skills
+/	O
+FIMO	hard skills
+/	O
+FCOS	hard skills
+et	hard skills
+carte	hard skills
+conducteur	hard skills
+à	hard skills
+jour	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	
+Temps	contrat_type
+plein	contrat_type

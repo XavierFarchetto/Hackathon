@@ -1,0 +1,335 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+scolarité	position
+H/F	O
+ISC	company
+PARIS	O
+-	O
+Paris	city
+17e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+30	salary
+0	salary
+$	salary
+-	O
+31	salary
+200	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Sous	O
+l'égide	O
+du	O
+Responsable	O
+du	O
+service	O
+de	O
+la	O
+gestion	O
+des	hard skills
+études	hard skills
+Préparation	hard skills
+de	hard skills
+la	hard skills
+rentrée	hard skills
+-	O
+Vérification	hard skills
+des	hard skills
+listes	hard skills
+d'étudiants	hard skills
+inscrits	hard skills
+dans	hard skills
+les	hard skills
+programmes	hard skills
+en	hard skills
+charge	hard skills
+,	O
+-	O
+Inscription	hard skills
+des	hard skills
+étudiants	hard skills
+dans	hard skills
+les	hard skills
+cours	hard skills
+en	hard skills
+fonction	hard skills
+de	hard skills
+leurs	hard skills
+choix	hard skills
+de	hard skills
+parcours	hard skills
+,	O
+-	
+Gestion	hard skills
+des	hard skills
+documents	hard skills
+de	hard skills
+la	hard skills
+rentrée	hard skills
+:	O
+réception	hard skills
+du	hard skills
+règlement	hard skills
+intérieur	hard skills
+signé	hard skills
+&	hard skills
+mise	hard skills
+en	hard skills
+ligne	hard skills
+des	hard skills
+documents	hard skills
+administratifs	hard skills
+,	O
+-	O
+Préparation	hard skills
+des	hard skills
+dossiers	hard skills
+étudiants	hard skills
+.	
+Suivi	hard skills
+des	hard skills
+étudiants	hard skills
+tout	hard skills
+au	hard skills
+long	hard skills
+de	hard skills
+l'année	hard skills
+-	O
+Accueil	hard skills
+et	hard skills
+traitement	hard skills
+des	hard skills
+demandes	hard skills
+des	hard skills
+étudiants	hard skills
+tout	hard skills
+au	hard skills
+long	hard skills
+de	hard skills
+leur	hard skills
+année	hard skills
+-LRB-	O
+accueil	hard skills
+téléphonique	hard skills
+,	O
+physique	hard skills
+,	O
+courriels	hard skills
+-RRB-	O
+,	O
+-	O
+Suivi	hard skills
+académique	hard skills
+individuel	O
+-LRB-	
+vérification	hard skills
+assiduité	hard skills
+,	O
+notes	hard skills
+,	O
+traitement	hard skills
+des	hard skills
+cas	hard skills
+particuliers	hard skills
+-RRB-	
+,	O
+-	O
+Délivrance	hard skills
+attestations	hard skills
+à	hard skills
+la	hard skills
+demande	hard skills
+.	
+Préparation	hard skills
+des	hard skills
+examens	hard skills
+1ère	hard skills
+session	hard skills
+et	hard skills
+rattrapages	hard skills
+-	O
+Récupération	hard skills
+des	hard skills
+sujets	hard skills
+auprès	hard skills
+des	hard skills
+enseignants	hard skills
+,	
+-	
+Convocation	hard skills
+des	hard skills
+étudiants	hard skills
+,	O
+-	
+Préparation	hard skills
+matérielle	hard skills
+-LRB-	
+copies	hard skills
+,	O
+feuilles	hard skills
+d'émargement	hard skills
+etc	
+...	O
+-RRB-	O
+.	O
+Gestion	hard skills
+post	hard skills
+examens	hard skills
+-	O
+Réception	hard skills
+et	hard skills
+saisie	hard skills
+des	hard skills
+notes	hard skills
+,	
+Préparation	hard skills
+des	hard skills
+jurys	hard skills
+de	hard skills
+fin	hard skills
+d'année	hard skills
+-	O
+Récupération	hard skills
+et	hard skills
+vérification	hard skills
+de	hard skills
+l'ensemble	hard skills
+des	hard skills
+données	hard skills
+-LRB-	O
+notes	hard skills
+,	O
+autres	hard skills
+critères	hard skills
+validation	hard skills
+année	hard skills
+,	O
+liste	hard skills
+exhaustive	hard skills
+des	hard skills
+étudiants	hard skills
+présentés	hard skills
+-RRB-	O
+,	O
+-	O
+Préparation	hard skills
+de	hard skills
+la	hard skills
+remise	hard skills
+des	hard skills
+diplômes	hard skills
+le	hard skills
+cas	hard skills
+échéant	hard skills
+et	hard skills
+participation	hard skills
+à	hard skills
+la	hard skills
+cérémonie	hard skills
+.	O
+Gestion	hard skills
+post	hard skills
+jury	hard skills
+-	O
+Diffusion	hard skills
+des	hard skills
+bulletins	hard skills
+de	hard skills
+notes	hard skills
+.	O
+Activités	hard skills
+ponctuelles	hard skills
+liées	hard skills
+aux	hard skills
+programmes	hard skills
+-	O
+Secrétariat	hard skills
+Conseils	hard skills
+de	hard skills
+discipline	hard skills
+,	O
+réunions	hard skills
+de	hard skills
+délégués	hard skills
+etc	hard skills
+...	O
+La	
+liste	
+est	
+non	
+exhaustive	O
+.	O
+Activités	hard skills
+annexes	hard skills
+En	hard skills
+fonction	hard skills
+de	hard skills
+la	hard skills
+charge	hard skills
+de	hard skills
+travail	hard skills
+et	hard skills
+de	hard skills
+l'actualité	hard skills
+du	hard skills
+service	hard skills
+,	O
+aide	hard skills
+ponctuelle	hard skills
+à	hard skills
+la	hard skills
+demande	hard skills
+du	hard skills
+Responsable	hard skills
+de	hard skills
+service	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+30	salary
+0	salary
+$	salary
+à	
+31	salary
+200	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	hard skills
+,	O
+DUT	hard skills
+,	O
+BTS	hard skills
+Expérience	O
+exigée	O
+:	O
+gestion	experience
+de	experience
+la	experience
+scolarité	experience
+:	O
+1	experience
+an	experience
+Langue	
+exigée	O
+:	O
+Anglais	hard skills

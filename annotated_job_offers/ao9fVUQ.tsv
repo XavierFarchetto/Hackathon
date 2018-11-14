@@ -1,0 +1,182 @@
+Chauffeur	position
+-LRB-	O
+s	position
+-RRB-	O
+super	position
+poids	position
+lourd	position
+-LRB-	O
+H/F	O
+-RRB-	O
+TRACTEUROP	company
+-	O
+Romainville	city
+-LRB-	O
+93	postal code
+-RRB-	O
+2	salary
+300	salary
+$	salary
+par	salary
+mois	salary
+La	O
+société	O
+TRACTEUROP	company
+recherche	O
+chauffeur	position
+-LRB-	O
+s	position
+-RRB-	O
+super	position
+poids	position
+lourd	position
+H/F	O
+pour	hard skills
+transport	hard skills
+de	hard skills
+containers	hard skills
+,	
+débutant	O
+-LRB-	O
+e	O
+-RRB-	O
+s	O
+accepté	O
+-LRB-	O
+e	O
+-RRB-	O
+s.	O
+Prise	O
+de	O
+poste	O
+à	O
+Romainville	city
+-LRB-	O
+93	postal code
+-RRB-	O
+.	O
+Permis	hard skills
+EC	hard skills
++	hard skills
+FCO	hard skills
+exigés	hard skills
+.	O
+Salaire	O
+2300	salary
+$	salary
+à	O
+2500	salary
+$	salary
+net	salary
+,	O
+frais	O
+de	O
+route	O
+inclus	O
+en	O
+fonction	O
+de	O
+l'activité	O
+RP	O
+/	O
+National	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+rapidement	O
+en	O
+Contrat	contrat_type
+à	contrat_type
+Durée	contrat_type
+Indéterminée	contrat_type
+.	O
+Compétences	O
+du	O
+poste	O
+:	O
+Contrôler	hard skills
+l'état	hard skills
+de	hard skills
+fonctionnement	hard skills
+du	hard skills
+véhicule	hard skills
+Définir	hard skills
+un	hard skills
+itinéraire	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+consignes	hard skills
+de	hard skills
+livraison	hard skills
+Organiser	hard skills
+ou	hard skills
+contrôler	hard skills
+le	hard skills
+chargement	hard skills
+des	hard skills
+marchandises	hard skills
+dans	hard skills
+le	hard skills
+véhicule	hard skills
+Réaliser	hard skills
+les	hard skills
+opérations	hard skills
+d'attelage	hard skills
+Vérifier	hard skills
+la	hard skills
+présence	hard skills
+et	hard skills
+la	hard skills
+conformité	hard skills
+des	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+et	hard skills
+de	hard skills
+transport	hard skills
+Merci	
+d'envoyer	
+votre	O
+CV	O
+.	O
+Le	O
+poste	O
+à	O
+pourvoir	O
+est	O
+situé	O
+à	O
+Romainville	city
+93	postal code
+,	O
+et	O
+les	O
+éventuels	O
+entretiens	O
+se	O
+dérouleront	O
+à	O
+Romainville	city
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+Secteur	O
+d'activité	O
+Transport/Logistique	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+2	salary
+300	salary
+$	salary
+/	O
+mois	salary

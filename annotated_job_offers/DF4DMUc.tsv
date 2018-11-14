@@ -1,0 +1,152 @@
+INVENTORISTE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CODISUD	company
+-	O
+Montpellier	city
+-LRB-	O
+34	postal code
+-RRB-	O
+19	salary
+200	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Description	O
+:	O
+Gérer	hard skills
+des	hard skills
+opérations	hard skills
+d'inventaires	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+de	hard skills
+contrôles	hard skills
+ou	hard skills
+cessions	hard skills
+de	hard skills
+magasins	hard skills
+de	hard skills
+la	hard skills
+société	hard skills
+-	O
+Faire	hard skills
+des	hard skills
+opérations	hard skills
+de	hard skills
+saisie	hard skills
+à	hard skills
+l'aide	hard skills
+de	hard skills
+terminaux	hard skills
+-	O
+S'assurer	hard skills
+de	hard skills
+la	hard skills
+fiabilité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+de	hard skills
+l'inventaire	hard skills
+-	O
+Représenter	hard skills
+la	hard skills
+société	hard skills
+auprès	hard skills
+des	hard skills
+gérants	hard skills
+-	
+Participer	hard skills
+ponctuellement	hard skills
+aux	hard skills
+opérations	hard skills
+de	hard skills
+remodling	hard skills
+en	hard skills
+magasins	hard skills
+Profil	
+du	
+candidat	
+:	O
+-	
+Tempérament	soft skills
+commercial	soft skills
+,	O
+aimant	soft skills
+le	soft skills
+contact	soft skills
+clients	soft skills
+-	
+Sens	soft skills
+de	soft skills
+la	soft skills
+gestion	soft skills
+des	soft skills
+priorités	soft skills
+et	soft skills
+de	soft skills
+l'organisation	soft skills
+-	
+Expérience	experience
+de	experience
+la	experience
+distribution	experience
+serait	experience
+en	experience
+plus	experience
+35	experience
+heures	experience
+-	
+mutuelle	O
+entreprise	O
+-	O
+prime	O
+de	O
+vacances	O
+-LRB-	O
+selon	O
+date	O
+d'entrée	O
+entreprise	O
+-RRB-	O
+-	O
+Horaires	O
+aménagés	O
+en	O
+fonction	O
+des	O
+impératifs	O
+professionnels	O
+-	O
+Prévoir	O
+nombreux	O
+déplacements	O
+-	O
+véhicule	O
+de	O
+service	O
+-	O
+frais	O
+de	O
+déplacements	O
+pris	O
+en	O
+charge	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+19	salary
+200	salary
+$	salary
+/	O
+an	salary

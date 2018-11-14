@@ -1,0 +1,283 @@
+ASSISTANT	position
+-LRB-	O
+E	position
+-RRB-	O
+APPROVISIONNEUR	position
+ACHATS	position
+INTERNATIONAUX	position
+H/F	O
+FIRST	company
+-	O
+Morangis	city
+-LRB-	O
+91	code postal
+-RRB-	O
+25	salary
+0	salary
+$	salary
+-	O
+28	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Missions	O
+:	O
+Au	O
+sein	O
+du	O
+service	O
+achats	O
+,	O
+vous	O
+aurez	O
+comme	O
+missions	O
+:	O
+-	O
+Assurer	hard skills
+le	hard skills
+suivi	hard skills
+complet	hard skills
+des	hard skills
+commandes	hard skills
+achats	hard skills
+:	O
+établissement	hard skills
+de	hard skills
+la	hard skills
+commande	hard skills
+,	O
+envoi	hard skills
+et	hard skills
+suivi	hard skills
+de	hard skills
+la	hard skills
+confirmation	hard skills
+avec	hard skills
+le	hard skills
+fournisseur	hard skills
+,	
+relance	hard skills
+et	hard skills
+maitrise	hard skills
+des	hard skills
+délai	hard skills
+de	hard skills
+livraison	hard skills
+-	O
+Coordonner	hard skills
+administrativement	hard skills
+et	hard skills
+logistiquement	hard skills
+les	hard skills
+commandes	hard skills
+en	hard skills
+interface	hard skills
+avec	hard skills
+le	hard skills
+transporteur	hard skills
+,	O
+le	hard skills
+fournisseur	hard skills
+et	hard skills
+le	hard skills
+service	hard skills
+réception	hard skills
+/	hard skills
+entrepôt	hard skills
+-	O
+Effectuer	hard skills
+la	hard skills
+facturation	hard skills
+et	hard skills
+préparer	hard skills
+les	hard skills
+réceptions	hard skills
+des	hard skills
+commandes	hard skills
+,	
+suivre	hard skills
+la	hard skills
+gestion	hard skills
+de	hard skills
+la	hard skills
+documentation	hard skills
+import	hard skills
+-	
+Effectuer	hard skills
+la	hard skills
+facturation	hard skills
+-LRB-	
+achat-vente	hard skills
+-RRB-	
+des	hard skills
+envois	hard skills
+directs	hard skills
+vers	hard skills
+les	hard skills
+filiales	hard skills
+.	O
+-	
+Suivre	hard skills
+les	hard skills
+stocks	hard skills
+et	hard skills
+les	hard skills
+ruptures	hard skills
+-	O
+Participer	hard skills
+aux	hard skills
+divers	hard skills
+projets	hard skills
+en	hard skills
+collaboration	hard skills
+avec	hard skills
+les	hard skills
+autres	hard skills
+services	hard skills
+de	hard skills
+l'entreprise	hard skills
+.	
+Profil	O
+et	O
+compétences	O
+:	O
+-	O
+Diplômé	experience
+-LRB-	O
+e	experience
+-RRB-	O
+de	experience
+BTS	experience
+Commerce	experience
+international	experience
+,	O
+achats	experience
+...	O
+-	O
+Avoir	experience
+déjà	experience
+eu	experience
+une	experience
+expérience	experience
+dans	experience
+le	experience
+domaine	experience
+-	O
+Être	soft skills
+dynamique	soft skills
+,	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+rigoureux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+-	O
+Maîtriser	hard skills
+parfaitement	hard skills
+les	hard skills
+outils	hard skills
+bureautiques	hard skills
+-LRB-	O
+Pack	hard skills
+office	hard skills
+,	O
+Excel	hard skills
+tout	hard skills
+particulièrement	hard skills
+-RRB-	O
+-	O
+Connaissance	hard skills
+des	hard skills
+systèmes	hard skills
+ERP	hard skills
+,	O
+la	hard skills
+maîtrise	hard skills
+de	hard skills
+Navision	hard skills
+Dynamics	hard skills
+est	hard skills
+un	hard skills
+plus	hard skills
+-	O
+Bilingue	hard skills
+Anglais	hard skills
+impératicement	hard skills
+,	O
+une	hard skills
+troisième	hard skills
+langue	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+Conditions	O
+:	O
+CDI	contrat_type
+-	O
+temps	O
+plein	O
+.	O
+-	O
+Lieu	O
+de	O
+travail	O
+:	O
+4	O
+rue	O
+Nicéphore	O
+Niepce	O
+-	O
+91420	code postal
+Morangis	city
+.	O
+-	O
+Rémunération	O
+brute	O
+annuelle	O
+:	O
+de	O
+25	salary
+k	salary
+$	salary
+à	O
+28	salary
+k	salary
+$	salary
+selon	O
+expériences	O
+.	O
+Vous	O
+correspondez	O
+au	O
+profil	O
+,	O
+n'hésitez	O
+pas	O
+et	O
+envoyer	O
+votre	O
+candidature	O
+-LRB-	O
+CV	O
++	O
+Lettre	O
+de	O
+motivation	O
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Langue	O
+exigée	O
+:	O
+anglais	hard skills

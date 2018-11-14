@@ -1,0 +1,68 @@
+ELAGUEUR	position
+GRIMPEUR	position
+-LRB-	O
+H/F	O
+-RRB-	O
+YOJOB	company
+Agriculture	company
+-	O
+Lourdes	city
+-LRB-	O
+65	code postal
+-RRB-	O
+CDD	contrat_type
+URGENT	O
+Vous	O
+serez	O
+en	O
+charge	O
+de	O
+:	O
+-	O
+la	hard skills
+taille	hard skills
+-	O
+l'abattage	hard skills
+-	O
+l'élagage	hard skills
+-	O
+le	hard skills
+démontage	hard skills
+d'arbres	hard skills
+matures	hard skills
+Vous	experience
+devez	experience
+impérativement	experience
+être	experience
+titulaire	experience
+du	experience
+certificat	experience
+de	experience
+spécialisation	experience
+taille	experience
+et	experience
+soins	experience
+des	experience
+arbres.La	experience
+détention	experience
+du	experience
+titre	experience
+SST	experience
+en	experience
+hauteur	experience
+serait	O
+appréciée.Vous	O
+avez	O
+au	O
+moins	O
+2	experience
+années	experience
+d'expérience	experience
+dans	experience
+ce	experience
+domaine	experience
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type

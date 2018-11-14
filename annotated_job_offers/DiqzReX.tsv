@@ -1,0 +1,132 @@
+aide	position
+menagere	position
+sous	company
+mon	company
+toit	company
+-	O
+Bondy	city
+-LRB-	O
+93	postal code
+-RRB-	O
+9,82	salary
+$	salary
+-	
+9,92	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+SOUS	company
+MON	company
+TOIT	company
+,	O
+Agence	O
+de	O
+services	O
+à	O
+la	O
+personne	O
+,	O
+acteur	O
+national	O
+majeur	O
+de	O
+l'aide	O
+à	O
+domicile	O
+,	O
+recherche	O
+une	position
+aide	position
+ménagère	position
+-LRB-	O
+h/f	O
+-RRB-	O
+.	O
+Besoin	O
+sur	O
+Bondy	city
+-LRB-	O
+93	postal code
+-RRB-	O
+Vous	hard skills
+aurez	hard skills
+en	hard skills
+charge	hard skills
+:	
+-	O
+l'entretien	hard skills
+du	hard skills
+domicile	hard skills
+-	hard skills
+l'entretien	hard skills
+du	hard skills
+linge	hard skills
+,	hard skills
+Du	hard skills
+lundi	hard skills
+au	hard skills
+samedi	hard skills
+3h	hard skills
+par	hard skills
+jours	hard skills
+,	
+Poste	O
+en	O
+CDI	contrat_type
+Temps	contrat_type
+partiel	contrat_type
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Rémunération	O
+:	O
+9.92	salary
+$	salary
+brut	salary
+/	O
+h	salary
+,	O
++	O
+10	O
+%	O
+congés	O
+payés	O
+,	O
++	O
+25	O
+%	O
+dimanches	O
+et	O
+jours	O
+fériés	O
+,	O
+indemnité	O
+transport	O
+,	O
+mutuelle	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+9,82	salary
+$	salary
+à	
+9,92	salary
+$	salary
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	O
+1	experience
+an	experience

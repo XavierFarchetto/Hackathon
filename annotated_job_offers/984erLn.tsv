@@ -1,0 +1,246 @@
+Opérateur	position
+de	position
+conditionnement	position
+COPY-TOP	company
+-	O
+Aubervilliers	city
+-LRB-	O
+93	code postal
+-RRB-	O
+15	salary
+0	salary
+$	salary
+-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Depuis	O
+40	O
+ans	O
+,	O
+COPY-TOP	company
+propose	O
+à	O
+sa	O
+clientèle	O
+de	O
+professionnels	O
+une	O
+large	O
+gamme	O
+de	O
+supports	O
+de	O
+communication	O
+-LRB-	O
+cartes	O
+de	O
+visites	O
+,	O
+flyers	O
+,	O
+affiches	O
+,	O
+dossiers	O
+,	O
+plaquettes	O
+,	O
+brochures	O
+,	O
+etc.	O
+-RRB-	O
+ainsi	O
+que	O
+des	O
+prestations	O
+graphiques	O
+sur	O
+mesure	O
+,	O
+dans	O
+le	O
+respect	O
+de	O
+la	O
+qualité	O
+et	O
+des	O
+délais	O
+.	O
+Entreprise	O
+à	O
+taille	O
+humaine	O
+,	O
+COPY-TOP	company
+rassemble	O
+180	O
+collaborateurs	O
+passionnés	O
+et	O
+dédiés	O
+aux	O
+clients	O
+,	O
+à	O
+travers	O
+un	O
+réseau	O
+de	O
+38	O
+agences	O
+sur	O
+Paris	O
+,	O
+Lille	O
+,	O
+Lyon	O
+,	O
+Marseille	O
+et	O
+Nantes	O
+ainsi	O
+qu'un	O
+atelier	O
+d'imprimerie	O
+et	O
+un	O
+studio	O
+de	O
+création	O
+.	O
+En	O
+recherche	O
+perpétuelle	O
+de	O
+nouveaux	O
+talents	O
+,	O
+COPY-TOP	company
+vous	O
+propose	O
+un	O
+poste	O
+de	O
+:	O
+OPERATEUR	position
+DE	position
+CONDITIONNEMENT	position
+-LRB-	O
+H/F	O
+-RRB-	O
+CDI	contrat_type
+,	O
+temps	O
+plein	O
+,	O
+basé	O
+à	O
+Aubervilliers	city
+Au	O
+sein	O
+de	O
+notre	O
+atelier	O
+d'imprimerie	O
+,	O
+vous	O
+aurez	O
+en	O
+charge	O
+:	O
+Le	hard skills
+conditionnement	hard skills
+et	hard skills
+l'emballage	hard skills
+de	hard skills
+tous	hard skills
+les	hard skills
+travaux	hard skills
+de	hard skills
+l'atelier	hard skills
+,	O
+en	hard skills
+respectant	hard skills
+nos	hard skills
+normes	hard skills
+de	hard skills
+qualité	hard skills
+La	hard skills
+préparation	hard skills
+des	hard skills
+expéditions	hard skills
+Le	hard skills
+suivi	hard skills
+des	hard skills
+expéditions	hard skills
+La	hard skills
+bonne	hard skills
+tenue	hard skills
+de	hard skills
+l'atelier	hard skills
+-LRB-	O
+rangement	hard skills
+et	hard skills
+propreté	hard skills
+-RRB-	
+.	O
+*	O
+De	experience
+niveau	experience
+bac	experience
+,	O
+vous	soft skills
+êtes	soft skills
+débrouillard	soft skills
+et	soft skills
+réactif	soft skills
+.	
+Manuel	soft skills
+et	soft skills
+à	soft skills
+l'aise	soft skills
+avec	soft skills
+l'outil	soft skills
+informatique	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+résistant	soft skills
+au	soft skills
+stress	soft skills
+et	soft skills
+organisé	soft skills
+pour	soft skills
+travailler	soft skills
+sur	soft skills
+de	soft skills
+fortes	soft skills
+cadences	soft skills
+,	O
+avec	soft skills
+de	soft skills
+gros	soft skills
+volumes	soft skills
+de	soft skills
+production	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+15	salary
+0	salary
+$	salary
+à	O
+30	salary
+0	salary
+$	salary
+/	O
+an	salary

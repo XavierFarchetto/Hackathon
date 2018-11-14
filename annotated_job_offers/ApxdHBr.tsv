@@ -1,0 +1,215 @@
+Maitre	position
+Nageur	position
+Sauveteur	position
+SPADIUM	company
+-	O
+Saint-Hilaire-du-Harcouët	city
+-LRB-	O
+50	postal code
+-RRB-	O
+1	salary
+650	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+SPADIUM	company
+De	O
+Saint	O
+Hilaire	O
+du	O
+Harcouët	O
+MAITRE	position
+NAGEUR	position
+SAUVETEUR	position
+H/F	O
+Au	O
+sein	O
+d'une	O
+équipe	O
+de	O
+4	O
+éducateurs	O
+,	O
+faire	hard skills
+respecter	hard skills
+le	hard skills
+règlement	hard skills
+intérieur	hard skills
+,
+le	hard skills
+P.O.S.S.	hard skills
+assurer	hard skills
+l'accueil	hard skills
+et	hard skills
+la	hard skills
+surveillance	hard skills
+des	hard skills
+différents	hard skills
+publics	hard skills
+,	O
+entretien	hard skills
+des	hard skills
+bassins	hard skills
+,	O
+encadrement	hard skills
+d'activités	hard skills
+-LRB-
+cours	hard skills
+aquagym	hard skills
+,	O
+enfants	hard skills
+,	O
+adultes	hard skills
+...	O
+-RRB-	O
+.	O
+BEESAN	experience
+	experience
+BP	experience
+JEPS	experience
+AAN	experience
+obligatoire	experience
+.	O
+1
+poste
+à
+pourvoir
+courant	O
+novembre	O
+2017	O
+Lieu	O
+de	O
+Travail	O
+:	O
+piscine	O
+Spadium	O
+:	O
+Saint	O
+Hilaire	O
+du	O
+Harcouët	O
+50600	O
+,	O
+63	O
+la	O
+reterie	O
+Type	O
+de	O
+contrat	O
+:	O
+Contrat	contrat_type
+de	contrat_type
+travail	contrat_type
+à	contrat_type
+durée	contrat_type
+indéterminée	contrat_type
+en	O
+temps	O
+plein	O
+Nature	O
+d'offre	O
+:	O
+Emploi	O
+permanent	O
+CDI	contrat_type
+Expérience	O
+:	O
+Débutant	O
+accepté	O
+Formation	O
+et	O
+connaissances	O
+:	O
+BPJEPS	experience
+AAN	experience
+/	O
+BEESAN	experience
+CAEP	experience
+MNS	experience
+/	O
+SECOURISME	experience
+/	O
+DSA	experience
+et
+carte	hard skills
+professionnelle	hard skills
+à	hard skills
+jour	hard skills
+.	O
+Connaissances	hard skills
+aquabike	hard skills
+et	hard skills
+aquagym	hard skills
+attendues	O
+Salaire	O
+indicatif	O
+:	O
+1650	salary
+brut	salary
+avec	O
+100	O
+%	O
+des	O
+cours	O
+privés	O
+-LRB-	O
+20e	O
+la	O
+01-févr	O
+h	O
+ou	O
+85	O
+les	O
+5	O
+-RRB-	O
+.	O
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35	O
+heures	O
+,	O
+travail	O
+soir	O
+et	O
+un	O
+weekend	O
+sur	O
+4	O
+.	O
+Secteur	O
+d'activité	O
+:	O
+Convention	O
+collective	O
+Nationale	O
+du	O
+SPORT	O
+.	O
+Si	O
+cette	O
+offre	O
+vous	O
+intéresse	O
+,	O
+veuillez	O
+envoyer	O
+votre	O
+CV	O
+à	O
+:	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+650	salary
+$	salary
+/	O
+mois	salary

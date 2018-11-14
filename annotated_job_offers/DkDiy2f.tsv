@@ -1,0 +1,170 @@
+Conducteur/trice	position
+accompagnateur	position
+scolaire	position
+J	company
+L	company
+INTERNATIONAL	company
+-	O
+Argenteuil	city
+-LRB-	O
+95	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Recherche	O
+sur	O
+la	O
+ville	O
+d'	O
+ARGENTEUIL	city
+et	O
+ses	O
+environs	O
+-LRB-	O
+10km	O
+-RRB-	O
+des	position
+conducteurs/trices	position
+seniors	position
+à	O
+temps	contrat_type
+partiel	contrat_type
+pour	hard skills
+assurer	hard skills
+les	hard skills
+transports	hard skills
+scolaires	hard skills
+pour	hard skills
+enfants	hard skills
+en	hard skills
+situation	hard skills
+de	hard skills
+handicap	hard skills
+.	O
+Temps	hard skills
+effectif	hard skills
+moyen	hard skills
+par	hard skills
+circuit	hard skills
+:	O
+1H00	hard skills
+-	O
+1H30	hard skills
+par	hard skills
+trajet	hard skills
+selon	hard skills
+circuit	hard skills
+-LRB-	O
+boucle	hard skills
+matin	hard skills
+-RRB-	
++	hard skills
+1H00	hard skills
+-	hard skills
+1H30	hard skills
+-LRB-	hard skills
+boucle	hard skills
+du	hard skills
+soir	hard skills
+-RRB-	
+,	O
+soit	hard skills
+approximativement	hard skills
+10	hard skills
+à	hard skills
+15h	hard skills
+/	hard skills
+semaine	hard skills
+.	O
+Idéal	O
+COMPLÉMENT	O
+DE	O
+RETRAITE	O
+car	O
+environ	O
+450	salary
+$	salary
+-LRB-	O
+mois	salary
+complet	salary
+-	O
+Vacances	O
+scolaires	O
+=	O
+non	O
+rémunérées	O
+-RRB-	O
+Véhicule	O
+de	O
+société	O
+type	O
+5	O
+à	O
+9	O
+places	O
+,	O
+fourni	O
+et	O
+entretenu	O
+par	O
+l'entreprise	O
+.	O
+Permis	hard skills
+B	hard skills
+minimum	hard skills
+de	hard skills
+5	hard skills
+ans	hard skills
++	hard skills
+le	hard skills
+permis	hard skills
+R221	hard skills
+délivré	hard skills
+par	hard skills
+un	hard skills
+médecin	hard skills
+agréé	hard skills
+-LRB-	O
+Simple	
+visite	
+médicale	
+-RRB-	
+requis	O
+.	O
+Votre	O
+candidature	O
+doit	O
+comporter	O
+:	O
+Nom	O
++	O
+Prénom	O
+Adresse	O
+complète	O
+Date	O
+de	O
+naissance	O
+situation	O
+actuelle	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Localisation	O
+du	O
+poste	O
+:	O
+Argenteuil	city
+-LRB-	O
+95	postal code
+-RRB-	O
+Langue	O
+exigée	O
+:	O
+FRANCAIS	hard skills

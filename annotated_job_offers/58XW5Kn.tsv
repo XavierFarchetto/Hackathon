@@ -1,0 +1,118 @@
+Comptable	position
+gérance	position
+IMMO	company
+CITY	company
+-	O
+Montreuil	city
+-LRB-	O
+93	code postal
+-RRB-	O
+35	salary
+0	salary
+$	salary
+-	O
+40	salary
+0	salary
+$	salary
+par	salary
+an	salary
+En	O
+tant	O
+que	O
+Comptable	position
+Gérance	position
+-LRB-	O
+h/f	O
+-RRB-	O
+vous	hard skills
+participez	hard skills
+aux	hard skills
+missions	hard skills
+suivantes	hard skills
+:	O
+Emission	hard skills
+du	hard skills
+quittancement	hard skills
+Saisie	hard skills
+et	hard skills
+paiement	hard skills
+de	hard skills
+factures	hard skills
+Etablissement	hard skills
+-	O
+des	hard skills
+comptes	hard skills
+rendus	hard skills
+de	hard skills
+gérance	hard skills
+-	
+des	hard skills
+rapprochements	hard skills
+bancaires	hard skills
+-	
+des	hard skills
+revenus	hard skills
+fonciers	hard skills
+Régularisation	hard skills
+de	hard skills
+charges	hard skills
+-LRB-	O
+lots	hard skills
+isolés	hard skills
+et	hard skills
+gérance	hard skills
+pure	hard skills
+-RRB-	O
+Indexation	hard skills
+des	hard skills
+loyers	hard skills
+Enfin	hard skills
+,	
+votre	hard skills
+rôle	hard skills
+de	hard skills
+Comptable	hard skills
+Gérance	hard skills
+-LRB-	
+h/f	O
+-RRB-	O
+vous	hard skills
+amène	hard skills
+à	hard skills
+gérer	hard skills
+la	hard skills
+remontée	hard skills
+d'honoraires	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+35	salary
+0	salary
+$	salary
+à	O
+40	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+Comptabilité	experience
+dans	experience
+l'immobilier	experience
+:	O
+10	experience
+ans	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Connaissances	hard skills
+Tethrawin	hard skills

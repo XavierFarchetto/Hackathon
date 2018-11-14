@@ -1,0 +1,43 @@
+employe	position
+-LRB-	
+e	position
+-RRB-	O
+de	position
+maison	position
+FPPCHA	company
+-	O
+Autun	city
+-LRB-	O
+71	postal code
+-RRB-	O
+H/F	O
+plein	contrat_type
+temps	contrat_type
+pour	hard skills
+ménage	hard skills
+et	hard skills
+cuisine	hard skills
+dans	hard skills
+grande	hard skills
+propriété	hard skills
+Bourgogne	O
+proche	O
+Autun	city
++	O
+possibilité	hard skills
+couple	hard skills
+pour	hard skills
+entretien	hard skills
+du	hard skills
+Domaine	hard skills
++	hard skills
+possibilité	hard skills
+logement	hard skills
++	hard skills
+possibilité	hard skills
+CDI	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

@@ -1,0 +1,150 @@
+Maitre	position
+Nageur	position
+Sauveteur	position
+Piscine	company
+Rosa	company
+Parks	company
+-	O
+Clichy-sous-Bois	city
+-LRB-	O
+93	postal code
+-RRB-	O
+2	salary
+57	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+La	company
+Piscine	company
+Rosa	company
+Parks	company
+recherche	O
+un	position
+Maître	position
+nageur	position
+sauveteur	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vos	hard skills
+missions	hard skills
+:	
+-	O
+Surveillance	hard skills
+du	hard skills
+public	hard skills
+et	hard skills
+sécurité	hard skills
+-	hard skills
+Activités	hard skills
+natation	hard skills
+scolaire	hard skills
+-	hard skills
+Activité	hard skills
+bébé	hard skills
+nageur	hard skills
+-	hard skills
+Ecole	hard skills
+de	hard skills
+natation	hard skills
+enfant	hard skills
+&	hard skills
+adulte	hard skills
+-	hard skills
+Activités	hard skills
+du	hard skills
+Club	hard skills
+Aquagym	hard skills
+,	
+aquacycling	hard skills
+et	hard skills
+aquajumping	hard skills
+Travail	hard skills
+en	hard skills
+weekend	hard skills
+01-avr	hard skills
++	hard skills
+1	hard skills
+jour	hard skills
+de	hard skills
+repos	hard skills
+fixe	hard skills
+par	hard skills
+semaine	hard skills
+.	
+-LRB-	O
+Travail	hard skills
+en	hard skills
+semaine	hard skills
+:	
+Lundi-mardi-mercredi	hard skills
+&	hard skills
+vendredi	hard skills
+demi	hard skills
+journée	hard skills
+-RRB-	
+pendant	hard skills
+la	hard skills
+période	hard skills
+scolaire	hard skills
+.	
+Titre	O
+de	O
+transport	O
+est	O
+pris	O
+en	O
+charge	O
+à	O
+50	O
+%	O
+par	O
+l'employeur	O
+Possibilité	O
+de	O
+donner	O
+des	O
+cours	O
+particuliers	O
+100	O
+%	O
+pour	O
+le	O
+MNS	O
+en	O
+supplément	O
+des	O
+heures	O
+de	O
+travail	O
+.	O
+Piscine	company
+Rosa	company
+Parks	company
+93390	postal code
+-	O
+CLICHY-SOUS-BOIS	city
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+57	salary
+$	salary
+/	
+mois	salary
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+2	salary
+57	salary
+$	salary
+/	O
+mois	salary

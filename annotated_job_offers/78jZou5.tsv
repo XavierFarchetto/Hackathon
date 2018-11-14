@@ -1,0 +1,253 @@
+Technicien	position
+d'études	position
+Assainissement	position
+Eau	position
+Potable	position
+PURE	company
+ENVIRONNEMENT	company
+-	O
+Lavelanet	city
+-LRB-	O
+9	code postal
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	O
+24	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	
+CDI	contrat_type
+PURE	company
+ENVIRONNEMENT	company
+,	O
+bureau	O
+d'études	O
+de	O
+30	O
+collaborateurs	O
+,	O
+spécialisé	O
+dans	O
+le	O
+domaine	O
+de	O
+l'eau	O
+et	O
+de	O
+l'assainissement	O
+,	O
+recherche	O
+un	position
+technicien	position
+d'études	position
+dans	position
+les	position
+domaines	position
+de	position
+l'assainissement	position
+et	position
+l'eau	position
+potable	position
+:	O
+-	O
+Installation	hard skills
+et	hard skills
+maintenance	hard skills
+des	hard skills
+appareils	hard skills
+de	hard skills
+mesures	hard skills
+sur	hard skills
+les	hard skills
+réseaux	hard skills
+d'assainissement	hard skills
+,	O
+AEP	hard skills
+et	hard skills
+milieu	hard skills
+naturel	hard skills
+Diagnostics	hard skills
+réseaux	hard skills
+AEP	hard skills
+et	hard skills
+ASS	hard skills
+-	O
+Cartographie	hard skills
+et	hard skills
+topographie	hard skills
+des	hard skills
+réseaux	hard skills
+AEP	hard skills
+et	hard skills
+ASS	hard skills
+-	O
+Campagne	hard skills
+de	hard skills
+recherche	hard skills
+de	hard skills
+fuites	hard skills
+sur	hard skills
+réseaux	hard skills
+AEP	hard skills
+-	
+Campagne	hard skills
+de	hard skills
+recherche	hard skills
+d'	hard skills
+ECP	hard skills
+sur	hard skills
+réseaux	hard skills
+ASS	hard skills
+-	O
+Interprétation	hard skills
+des	hard skills
+résultats	hard skills
+et	hard skills
+rapports	hard skills
+-	O
+enquêtes	hard skills
+de	hard skills
+branchement	hard skills
+et	hard skills
+de	hard skills
+raccordement	hard skills
+sur	hard skills
+des	hard skills
+projets	hard skills
+de	hard skills
+mise	hard skills
+en	hard skills
+séparatif	hard skills
+de	hard skills
+réseau	hard skills
+d'assainissement	hard skills
+-LRB-	O
+reconnaissance	hard skills
+terrain	hard skills
+et	hard skills
+report	hard skills
+sur	hard skills
+plan	hard skills
+-RRB-	O
+-	
+contrôles	hard skills
+de	hard skills
+conformité	hard skills
+d'installation	hard skills
+d'assainissement	hard skills
+collectif	hard skills
+et	hard skills
+non	hard skills
+collectif	hard skills
+.	
+Vous	O
+prendrez	hard skills
+également	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+prestations	hard skills
+diverses	hard skills
+de	hard skills
+reconnaissance	hard skills
+de	hard skills
+réseaux	hard skills
+et	hard skills
+de	hard skills
+relevés	hard skills
+topographiques	hard skills
+.	O
+LOCALISATION	O
+:	O
+Lavelanet	city
+-LRB-	O
+9	code postal
+-RRB-	O
+FORMATION	O
+:	O
+Bac	experience
+à	experience
+Bac	experience
+2	experience
+/	O
+3	experience
+-LRB-	O
+BTS	experience
+GEMEAU	experience
+,	O
+ou	experience
+équivalent	experience
+en	experience
+gestion	experience
+et	experience
+maîtrise	experience
+de	experience
+l'eau	experience
+-RRB-	O
+REMUNERATION	O
+:	O
+A	O
+négocier	O
+en	O
+fonction	O
+du	O
+profil	O
+et	O
+de	O
+l'expérience	O
+,	O
+Grille	O
+salaire	O
+selon	O
+convention	O
+collective	O
+des	O
+bureaux	O
+d'études	O
+Syntec	O
+3018	O
+STATUT	O
+:	O
+ETAM	O
+CDI	contrat_type
+AVANTAGES	O
+:	O
+Tickets	O
+restaurant	O
+,	O
+mutuelle	O
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+ENVOYER	O
+CANDIDATURE	O
+:	O
+PURE	company
+ENVIRONNEMENT	company
+Tecnosud	O
+440	O
+Rue	O
+James	O
+Watt	O
+66100	O
+Perpignan	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+20	salary
+0	salary
+$	salary
+à	O
+24	salary
+0	salary
+$	salary
+/	O
+an	salary

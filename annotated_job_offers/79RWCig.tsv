@@ -1,0 +1,240 @@
+ASSISTANT	position
+CHEF	position
+DE	position
+PROJET	position
+H/F	O
+ORCHESTRA	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+33	salary
+0	salary
+$	salary
+-	O
+37	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+l'équipe	O
+Projet	O
+,	O
+vous	hard skills
+participez	hard skills
+à	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+et	hard skills
+au	hard skills
+suivi	hard skills
+des	hard skills
+projets	hard skills
+clients	hard skills
+.	
+Plus	hard skills
+concrètement	hard skills
+vous	hard skills
+assistez	hard skills
+le	hard skills
+Responsable	hard skills
+Projet	hard skills
+dans	hard skills
+:	
+Le	hard skills
+suivi	hard skills
+et	hard skills
+la	hard skills
+qualité	hard skills
+des	hard skills
+implémentations	hard skills
+,	
+Le	hard skills
+paramétrage	hard skills
+de	hard skills
+la	hard skills
+plateforme	hard skills
+dans	hard skills
+le	hard skills
+contexte	hard skills
+d'un	hard skills
+client	hard skills
+,	O
+Le	hard skills
+support	hard skills
+des	hard skills
+clients	hard skills
+déjà	hard skills
+en	hard skills
+place	hard skills
+,	O
+La	hard skills
+gestion	hard skills
+des	hard skills
+évolutions	hard skills
+pour	hard skills
+des	hard skills
+clients	hard skills
+déjà	hard skills
+en	hard skills
+place	hard skills
+,	
+Les	hard skills
+spécifications	hard skills
+de	hard skills
+nouvelles	hard skills
+fonctions	hard skills
+.	O
+Vous	hard skills
+serez	hard skills
+amené	hard skills
+à	hard skills
+travailler	hard skills
+avec	hard skills
+des	hard skills
+outils	hard skills
+variés	hard skills
+tels	hard skills
+que	hard skills
+Jira	hard skills
+,	
+Eclipse	hard skills
+,	O
+IntelliJ	hard skills
+IDEA	hard skills
+,	
+Slack	hard skills
+...	O
+VOTRE	
+PROFIL	O
+:	O
+Vous	O
+disposez	experience
+d'une	experience
+formation	experience
+technique	experience
+/	O
+informatique	experience
+Bac	experience
+2	experience
+à	experience
+Bac	experience
+5	experience
+avec	experience
+un	experience
+fort	experience
+intérêt	experience
+pour	experience
+la	experience
+gestion	experience
+de	experience
+projet	experience
+.	O
+La	O
+maîtrise	experience
+de	experience
+l'anglais	experience
+est	
+un	O
+plus	O
+.	O
+Vous	soft skills
+pensez	soft skills
+avoir	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+l'analyse	soft skills
+,	
+de	soft skills
+la	soft skills
+rigueur	soft skills
+,	O
+le	soft skills
+goût	soft skills
+de	soft skills
+la	soft skills
+qualité	soft skills
+,	O
+un	soft skills
+bon	soft skills
+rédactionnel	soft skills
+,	
+et	soft skills
+vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	
+curieux	soft skills
+et	soft skills
+aimez	soft skills
+le	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+alors	
+rencontrons	
+nous	O
+.	O
+Ce	O
+poste	O
+exige	O
+une	O
+sensibilité	O
+ou	O
+une	O
+expérience	O
+sur	O
+les	O
+technologies	O
+web	O
+-LRB-	O
+html	O
+,	O
+xml	O
+,	O
+Json	O
+-RRB-	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+33	salary
+0	salary
+$	salary
+à	O
+37	salary
+0	salary
+$	salary
+/	O
+an	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Master	experience
+Expérience	experience
+exigée	
+:	O
+informatique	experience
+:	O
+1	experience
+an	experience

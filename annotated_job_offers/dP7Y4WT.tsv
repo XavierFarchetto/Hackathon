@@ -1,0 +1,107 @@
+Professeur	position
+de	position
+FLE	position
+Centre	company
+Départemental	company
+de	company
+Soutien	company
+Scolaire	company
+-	O
+Nemours	city
+-LRB-	O
+77	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+Le	company
+Centre	company
+Départemental	company
+de	company
+Soutien	company
+Scolaire	company
+recherche	O
+un	position
+enseignant	position
+en	position
+FLE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+à	O
+temps	contrat_type
+partiel	contrat_type
+.	O
+Vous	hard skills
+interviendrez	hard skills
+dans	hard skills
+le	hard skills
+cadre	hard skills
+du	hard skills
+Projet	hard skills
+de	hard skills
+Réussite	hard skills
+Éducative	hard skills
+.	O
+Vous	hard skills
+prendrez	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+groupes	hard skills
+d'enfants	hard skills
+de	hard skills
+collège	hard skills
+et	hard skills
+de	hard skills
+primaire	hard skills
+-LRB-	
+selon	hard skills
+l'horaire	hard skills
+-RRB-	
+pour	hard skills
+leur	hard skills
+apporter	hard skills
+les	hard skills
+connaissances	hard skills
+de	hard skills
+base	hard skills
+en	hard skills
+langue	hard skills
+française	hard skills
+.	O
+Les	hard skills
+interventions	hard skills
+se	hard skills
+dérouleront	hard skills
+les	hard skills
+mercredis	hard skills
+de	hard skills
+09h30	hard skills
+à	hard skills
+11h30	hard skills
+puis	hard skills
+de	hard skills
+13h00	hard skills
+à	hard skills
+14h30	hard skills
+ainsi	hard skills
+que	hard skills
+les	hard skills
+vendredis	hard skills
+de	hard skills
+16h15	hard skills
+à	hard skills
+17h45	hard skills
+.	O
+Le	O
+poste	O
+est	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type

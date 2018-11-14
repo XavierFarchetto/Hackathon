@@ -1,0 +1,87 @@
+Commis	position
+de	position
+cuisine	position
+,	O
+plongeur	O
+EL	company
+SOL	company
+COMPTOIR	company
+ESPAGNOL	company
+-	O
+Paris	city
+8e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+Cherche	O
+personnel	position
+de	position
+cuisine	position
+-LRB-	O
+H/F	O
+-RRB-	O
+avec	experience
+expérience	experience
+dans	experience
+la	experience
+restauration	experience
+:	O
+-	O
+préparation	hard skills
+des	hard skills
+plats	hard skills
+et	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+-	
+gestion	hard skills
+des	hard skills
+produits	hard skills
+-	O
+plonge	hard skills
+et	hard skills
+nettoyage	hard skills
+Du	hard skills
+lundi	hard skills
+au	hard skills
+vendredi	hard skills
+:	O
+11h	hard skills
+à	hard skills
+15h	hard skills
+et	hard skills
+de	hard skills
+19h	hard skills
+à	hard skills
+23h	hard skills
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+restauration	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+exigée	O
+:	O
+français	hard skills
+ou	O
+espagnol	hard skills

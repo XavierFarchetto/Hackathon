@@ -1,0 +1,57 @@
+Conducteur/conductrice	position
+transport	position
+scolaire	position
+MAURY	company
+TRANSPORTS	company
+-	O
+Carnac	city
+-LRB-	O
+56	code postal
+-RRB-	O
+Temps	O
+partiel	O
+,	
+CDI	contrat_type
+Nous	O
+recherchons	O
+un	position
+conducteur	position
+ou	position
+conductrice	position
+pour	hard skills
+effectuer	hard skills
+du	hard skills
+transports	hard skills
+scolaires	hard skills
+matin	hard skills
+et	hard skills
+soir	hard skills
+sur	hard skills
+le	hard skills
+secteur	hard skills
+de	hard skills
+CARNAC	hard skills
+.	O
+Contrat	
+CDI	contrat_type
+de	O
+20h00	O
+par	O
+semaine	O
+Permis	hard skills
+D	hard skills
+et	hard skills
+FIMO/FCO	hard skills
+à	hard skills
+jour	hard skills
+Poste	O
+à	O
+pourvoir	O
+rapidement	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+partiel	O
+,	O
+CDI	contrat_type

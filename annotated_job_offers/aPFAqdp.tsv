@@ -1,0 +1,225 @@
+AGENT	position
+DE	position
+PRODUCTION	position
+h/f	O
+CONFLUENT	company
+-	O
+Villeurbanne	city
+-LRB-	O
+69	postal code
+-RRB-	O
+Principales	hard skills
+missions	hard skills
+:	O
+-	
+Dans	hard skills
+le	hard skills
+respect	hard skills
+des	hard skills
+process	hard skills
+de	hard skills
+fabrication	hard skills
+,	O
+injecte	hard skills
+la	hard skills
+cire	hard skills
+dans	hard skills
+un	hard skills
+moule	hard skills
+afin	hard skills
+de	hard skills
+reproduire	hard skills
+l'empreinte	hard skills
+de	hard skills
+ce	hard skills
+dernier	hard skills
+pour	hard skills
+la	hard skills
+réalisation	hard skills
+de	hard skills
+pièces	hard skills
+en	hard skills
+séries	hard skills
+-	
+Règle	hard skills
+la	hard skills
+machine	hard skills
+à	hard skills
+chaque	hard skills
+changement	hard skills
+de	hard skills
+moule	hard skills
+afin	hard skills
+d'injecter	hard skills
+une	hard skills
+pièce	hard skills
+conforme	hard skills
+-	
+Teste	hard skills
+la	hard skills
+conformité	hard skills
+des	hard skills
+nouveaux	hard skills
+moules	hard skills
+en	hard skills
+caoutchouc	hard skills
+-	
+Extrait	hard skills
+la	hard skills
+pièce	hard skills
+en	hard skills
+cire	hard skills
+du	hard skills
+moule	hard skills
+après	hard skills
+refroidissement	hard skills
+-	
+Contrôle	hard skills
+la	hard skills
+qualité	hard skills
+et	hard skills
+la	hard skills
+conformité	hard skills
+de	hard skills
+la	hard skills
+cire	hard skills
+-	
+Maintient	hard skills
+son	hard skills
+poste	hard skills
+de	hard skills
+travail	hard skills
+propre	hard skills
+et	hard skills
+rangé	hard skills
+.	
+Compétences	O
+requises	O
+et	O
+Savoir-être	soft skills
+Une	experience
+expérience	experience
+en	experience
+industrie	experience
+de	experience
+production	experience
+sur	experience
+commandes	experience
+numériques	experience
+ou	experience
+sur	experience
+machine	experience
+est	experience
+fortement	experience
+souhaitée	experience
+,	O
+Vous	soft skills
+êtes	soft skills
+reconnu	soft skills
+pour	soft skills
+votre	soft skills
+sens	soft skills
+de	soft skills
+la	soft skills
+minutie	soft skills
+,	O
+votre	soft skills
+stabilité	soft skills
+,	
+votre	soft skills
+rigueur	soft skills
+,	
+votre	soft skills
+transparence	soft skills
+et	soft skills
+votre	soft skills
+capacité	soft skills
+de	soft skills
+contrôle	soft skills
+,	
+Compréhension	soft skills
+et	soft skills
+application	soft skills
+des	soft skills
+consignes	soft skills
+.	
+Formation	O
+:	O
+Niveau	experience
+Bac	experience
+Professionnel	experience
+dans	experience
+un	experience
+secteur	experience
+technique	experience
+-LRB-	O
+couture	experience
+,	O
+milieu	experience
+médical	experience
+,	O
+cosmétique	experience
+,	O
+prothèse	experience
+dentaire	experience
+-RRB-	O
+.	O
+Environnement	experience
+de	experience
+travail	experience
+:	O
+atelier	experience
+Horaire	
+:	O
+7h30	O
+--	O
+12h00	O
+/	O
+13h30	O
+--	O
+16h30	O
+.	O
+Fin	O
+à	O
+12h00	O
+le	O
+vendredi	O
+.	O
+Salaire	O
+,	O
+nature	O
+du	O
+contrat	O
+:	O
+Mission	O
+en	O
+CDD	contrat_type
+longue	O
+durée	O
+,	O
+Salaire	O
+de	O
+base	O
+au	O
+SMIC	salary
+sur	O
+une	O
+base	O
+de	O
+35h00	O
+évolutif	O
+,	O
+Possibilité	O
+de	O
+formation	O
+sur	O
+les	O
+postes	O
+de	O
+travail	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

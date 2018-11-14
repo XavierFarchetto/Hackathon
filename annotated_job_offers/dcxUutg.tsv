@@ -1,0 +1,307 @@
+Réceptionniste	position
+de	position
+nuit	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Odalys	company
+City	company
+-	O
+Marseille	city
+-LRB-	O
+13	postal code
+-RRB-	O
+CDI	contrat_type
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+Chef	O
+de	O
+réception	O
+,	O
+vous	hard skills
+assurez	hard skills
+le	hard skills
+bon	hard skills
+accueil	hard skills
+de	hard skills
+nuit	hard skills
+des	hard skills
+clients	hard skills
+à	hard skills
+l'hôtel	hard skills
+tout	hard skills
+au	hard skills
+long	hard skills
+de	hard skills
+leur	hard skills
+séjour	hard skills
+.	
+Vous	hard skills
+travaillez	hard skills
+4	hard skills
+nuits	hard skills
+par	hard skills
+semaine	hard skills
+.	
+MISSIONS	hard skills
+PRINCIPALES	hard skills
+:	O
+Vous	hard skills
+accueillez	hard skills
+et	hard skills
+informez	hard skills
+les	hard skills
+clients	hard skills
+se	hard skills
+présentant	hard skills
+à	hard skills
+l'accueil	hard skills
+Vous	hard skills
+traitez	hard skills
+les	hard skills
+appels	hard skills
+téléphoniques	hard skills
+Vous	hard skills
+veiller	hard skills
+au	hard skills
+confort	hard skills
+et	hard skills
+à	hard skills
+la	hard skills
+sécurité	hard skills
+des	hard skills
+clients	hard skills
+la	hard skills
+nuit	hard skills
+en	hard skills
+faisant	hard skills
+des	hard skills
+rondes	hard skills
+de	hard skills
+nuit	hard skills
+Vous	hard skills
+gérez	hard skills
+les	hard skills
+situations	hard skills
+de	hard skills
+conflit	hard skills
+Vous	hard skills
+assurez	hard skills
+le	hard skills
+back-office	hard skills
+en	hard skills
+saisissant	hard skills
+et	hard skills
+vérifiant	hard skills
+les	hard skills
+réservations	hard skills
+individuelles	hard skills
+et	hard skills
+groupes	hard skills
+,	hard skills
+les	hard skills
+statistiques	hard skills
+,	
+etc.	O
+.	O
+Gérer	hard skills
+l'overbooking	hard skills
+Effectuer	hard skills
+les	hard skills
+départs	hard skills
+clients	hard skills
+Vous	hard skills
+assurez	hard skills
+la	hard skills
+facturation	hard skills
+des	hard skills
+séjours	hard skills
+et	hard skills
+les	hard skills
+clôtures	hard skills
+journalières	hard skills
+Assurer	hard skills
+les	hard skills
+services	hard skills
+annexes	hard skills
+à	hard skills
+la	hard skills
+demande	hard skills
+des	hard skills
+clients	hard skills
+Vous	hard skills
+préparez	hard skills
+le	hard skills
+travail	hard skills
+de	hard skills
+réception	hard skills
+pour	hard skills
+la	hard skills
+journée	hard skills
+suivante	hard skills
+Vous	hard skills
+veillez	hard skills
+au	hard skills
+bon	hard skills
+déroulement	hard skills
+du	hard skills
+séjour	hard skills
+des	hard skills
+clients	hard skills
+Vous	hard skills
+préparez	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+place	hard skills
+du	hard skills
+petit-déjeuner	hard skills
+Vous	hard skills
+rendez	hard skills
+des	hard skills
+comptes	hard skills
+au	hard skills
+Chef	hard skills
+de	hard skills
+réception	hard skills
+et	hard skills
+au	hard skills
+Responsable	hard skills
+de	hard skills
+résidence	hard skills
+PROFIL	
+RECHERCHE	
+:	
+De	experience
+formation	experience
+Bac	experience
+à	experience
+Bac	experience
+2	experience
+dans	experience
+le	experience
+domaine	experience
+de	experience
+l'hôtellerie	experience
+,	O
+vous	experience
+avez	experience
+une	experience
+expérience	experience
+minimum	experience
+de	experience
+1	experience
+à	experience
+2	experience
+ans	experience
+,	
+idéalement	experience
+sur	experience
+un	experience
+poste	experience
+similaire	experience
+Vous	hard skills
+maitrisez	hard skills
+parfaitement	hard skills
+le	hard skills
+français	hard skills
+et	hard skills
+l'anglais	hard skills
+Vous	hard skills
+maitrisez	hard skills
+les	hard skills
+outils	hard skills
+informatiques	hard skills
+et	hard skills
+bureautiques	hard skills
+-LRB-	O
+Pack	hard skills
+Office	hard skills
+-RRB-	O
+Vous	soft skills
+avez	soft skills
+une	soft skills
+excellente	soft skills
+présentation	soft skills
+,	O
+un	soft skills
+bon	soft skills
+sens	soft skills
+de	soft skills
+l'organisation	soft skills
+,	O
+vous	soft skills
+faites	soft skills
+preuve	soft skills
+de	soft skills
+rigueur	soft skills
+et	soft skills
+d'implication	soft skills
+dans	soft skills
+votre	soft skills
+travail	soft skills
+CONDITIONS	
+:	O
+Type	O
+de	O
+contrat	O
+:	O
+CDI	contrat_type
+/	O
+temps	contrat_type
+partiel	contrat_type
+Temps	
+de	O
+travail	O
+:	O
+32	O
+heures	O
+par	O
+semaine	O
+Prise	O
+de	O
+poste	O
+:	O
+Dès	O
+que	O
+possible	O
+Lieu	O
+du	O
+poste	O
+:	O
+Appart	O
+'	O
+Hôtel	O
+Le	O
+Dôme	O
+--	O
+MARSEILLE	city
+-LRB-	O
+13	postal code
+-RRB-	
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Night	experience
+Auditor	experience
+:	O
+3	experience
+ans	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Français	hard skills
+anglais	hard skills

@@ -1,0 +1,246 @@
+Aide	position
+Ménager	position
+/	O
+Ménagère	position
+H/F	O
+IGNY	company
+MENAGE	company
+ET	company
+COMPAGNIE	company
+-	O
+Igny	city
+-LRB-	O
+91	code postal
+-RRB-	O
+9,76	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDI	contrat_type
+Société	company
+MÉNAGE	company
+ET	company
+COMPAGNIE	company
+:	O
+Spécialisé	O
+dans	O
+le	O
+ménage	O
+et	O
+repassage	O
+à	O
+domicile	O
+auprès	O
+de	O
+particuliers	O
+à	O
+MASSY	O
+depuis	O
+2006	O
+.	O
+Ménage	O
+&	O
+Cie	O
+";"	O
+est	O
+un	O
+réseau	O
+de	O
+15	O
+Agences	O
+en	O
+France	O
+.	O
+Nous	O
+recrutons	O
+seulement	O
+en	O
+CDI	contrat_type
+.	O
+Pour	O
+répondre	O
+à	O
+une	O
+forte	O
+demande	O
+,	O
+l'agence	company
+MÉNAGE	company
+&	company
+COMPAGNIE	company
+";"	O
+recrute	O
+uniquement	O
+en	O
+CDI	contrat_type
+des	O
+salariés	O
+expérimentés	O
+,	O
+dans	O
+le	O
+ménage	O
+et	O
+dans	O
+le	O
+repassage	O
+auprès	O
+de	O
+particulier	O
+Vous	O
+aurez	hard skills
+en	hard skills
+charge	hard skills
+:	O
+-	O
+Le	hard skills
+ménage	hard skills
+dans	hard skills
+des	hard skills
+maisons	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+-	O
+Aspirer	hard skills
+et	hard skills
+laver	hard skills
+les	hard skills
+sols	hard skills
+-	O
+Repasser	hard skills
+le	hard skills
+linge	hard skills
+-	O
+Nettoyage	hard skills
+cuisine	hard skills
+,	
+salle	hard skills
+de	hard skills
+bains	hard skills
+,	O
+WC	hard skills
+,	O
+faire	hard skills
+les	hard skills
+poussières	hard skills
+etc.	
+.	O
+.	O
+Nous	O
+vous	O
+proposons	O
+des	O
+missions	O
+dans	O
+le	O
+secteur	O
+de	O
+IGNY	city
+,	O
+SACLAY	O
+,	O
+ORSAY	O
+NOMBRE	O
+D'HEURES	O
+PAR	O
+SEMAINE	O
+:	O
+25h	O
+-LRB-	O
+de	O
+10	O
+à	O
+35h	O
+selon	O
+votre	O
+disponibilité	O
+-RRB-	O
+En	O
+travaillant	O
+avec	O
+Ménage	O
+&	O
+Compagnie	O
+";"	O
+vous	O
+travaillez	O
+prêt	O
+de	O
+chez	O
+vous	O
+avec	O
+le	O
+nombre	O
+d'heure	O
+par	O
+semaine	O
+que	O
+vous	O
+souhaitez	O
+PARTICIPATION	O
+:	O
+PRIMES	O
+,	O
+MUTUELLE	O
+,	O
+FRAIS	O
+DE	O
+TRANSPORT	O
+.	O
+Véhicule	O
+souhaité	O
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+/	O
+Repassage	experience
+:	O
+6	experience
+mois	experience
+au	experience
+moins	experience
+Langue	experience
+exigée	O
+:	O
+Français	experience
+Contact	experience
+:	O
+1	
+85	O
+41	O
+9	O
+1	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	
+9,76	salary
+$	salary
+/	O
+heure	salary
+Type	
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+9,76	salary
+$	O
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	
+1	experience
+an	experience
+Langue	O
+exigée	O
+:	O
+Français	experience

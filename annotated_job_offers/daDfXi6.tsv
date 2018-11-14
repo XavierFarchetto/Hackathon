@@ -1,0 +1,139 @@
+RECEPTIONNISTE	position
+NUIT_TPS	position
+PARTIEL	position
+Auberge	company
+jeunesse	company
+Paris	city
+18	city
+-	
+Paris	city
+18e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+CDI	contrat_type
+Hostel	company
+Paris	city
+18è	city
+recherche	O
+Réceptionniste	position
+Nuit	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Vous	hard skills
+connaissez	hard skills
+l'ambiance	hard skills
+des	hard skills
+auberges	hard skills
+de	hard skills
+jeunesse	hard skills
+et	hard skills
+vous	hard skills
+avez	hard skills
+envie	hard skills
+de	hard skills
+partager	hard skills
+une	hard skills
+expérience	hard skills
+professionnelle	hard skills
+unique	hard skills
+au	hard skills
+sein	hard skills
+d'une	hard skills
+équipe	hard skills
+jeune	hard skills
+et	hard skills
+dynamique	hard skills
+.	O
+Le	
+client	
+est	
+au	
+cœur	
+de	
+notre	
+métier	
+,	
+sa	O
+satisfaction	O
+est	O
+notre	O
+vocation	O
+.	O
+Vous	hard skills
+parlez	hard skills
+l'anglais	hard skills
+et	hard skills
+le	hard skills
+français	hard skills
+,	
+une	hard skills
+troisième	hard skills
+langue	hard skills
+sera	hard skills
+un	hard skills
+atout	hard skills
+,	
+vous	hard skills
+maîtrisez	hard skills
+l'outil	hard skills
+informatique	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+et	soft skills
+de	soft skills
+l'accueil	soft skills
+.	O
+Alors	O
+...	O
+Rejoignez	O
+nous	O
+!	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+_	O
+Temps	contrat_type
+partiel_2	contrat_type
+jours	O
+hebdo	O
+-LRB-	O
+20h	O
+-RRB-	O
+Expérience	experience
+en	experience
+réception	experience
+hostel/hotel	experience
+exigée	experience
+Disponibilité	
+:	O
+immédiate	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Réception	experience
+:	O
+2	experience
+ans	experience
+Langue	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+français	hard skills
+anglais	hard skills

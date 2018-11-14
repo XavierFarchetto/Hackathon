@@ -1,0 +1,197 @@
+CONDUCTEUR	position
+DE	position
+VOYAGEURS	position
+RESEAU	position
+ROUTIER	position
+-LRB-	O
+permis	hard skills
+D/ED	hard skills
+-RRB-	O
+AFTRAL	company
+-	O
+Bischheim	city
+-LRB-	O
+67	code postal
+-RRB-	O
+24	salary
+180	salary
+$	salary
+-	O
+25	salary
+200	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+AFTRAL	company
+recherche	O
+des	O
+professionnels	O
+du	O
+métier	O
+des	position
+transports	position
+de	position
+voyageurs/marchandises	position
+pour	
+assurer	O
+les	O
+enseignements	O
+théoriques	O
+et	O
+pratiques	O
+Donnez	O
+un	O
+nouvel	O
+élan	O
+à	O
+votre	O
+carrière	O
+en	O
+devenant	O
+FORMATEUR	O
+.	O
+Votre	hard skills
+mission	hard skills
+consistera	hard skills
+à	hard skills
+animer	hard skills
+les	hard skills
+modules	hard skills
+de	hard skills
+formation	hard skills
+théorique	hard skills
+et	hard skills
+pratique	hard skills
+de	hard skills
+FIMO	hard skills
+,	O
+FCO	hard skills
+et	hard skills
+TP	hard skills
+.	
+Vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+,	O
+souhaitez	soft skills
+partager	soft skills
+votre	soft skills
+expérience	soft skills
+et	soft skills
+former	soft skills
+les	soft skills
+professionnels	soft skills
+de	soft skills
+demain	soft skills
+,	O
+rejoignez-nous	O
+.	O
+Profil	O
+:	O
+*	O
+Titulaire	O
+des	O
+permis	hard skills
+D/ED	hard skills
++	O
+FIMO/FCO	hard skills
+avec	hard skills
+une	hard skills
+expérience	hard skills
+d'au	hard skills
+moins	hard skills
+3	hard skills
+ans	hard skills
+sur	hard skills
+les	hard skills
+5	hard skills
+dernières	hard skills
+années	hard skills
+ou	O
+titulaire	experience
+d'un	experience
+diplôme	experience
+transport	experience
+type	experience
+CAP	experience
+ou	experience
+TP	experience
+depuis	experience
+au	experience
+moins	experience
+5	experience
+ans	experience
+*	O
+Sens	soft skills
+du	soft skills
+contact	soft skills
+,	O
+désir	soft skills
+de	soft skills
+transmettre	soft skills
+son	soft skills
+savoir	soft skills
+faire	soft skills
+,	O
+capacité	soft skills
+d'adaptation	soft skills
+.	
+*	O
+Permis	hard skills
+C/EC	hard skills
+seraient	O
+un	O
+plus	O
+Contrat	O
+:	O
+*	O
+CDI	contrat_type
+*	O
+Déplacement	O
+:	O
+occasionnel	O
+*	O
+38H20/sem	O
+:	O
+lundi	O
+au	O
+vendredi	O
+*	O
+Rémunération	O
+1860	salary
+$	salary
+brut	salary
+sur	salary
+13	salary
+mois	salary
++	O
+19	O
+jours	O
+RTT	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+24	salary
+180	salary
+$	salary
+à	O
+25	salary
+200	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+transport	experience
+:	O
+3	experience
+ans	experience

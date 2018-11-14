@@ -1,0 +1,133 @@
+AIDE	position
+A	position
+DOMICILE	position
+POLYVALENT	position
+H/F	O
+LIBRE	company
+A	company
+VOUS	company
+-	O
+Orgeval	city
+-LRB-	O
+78	postal code
+-RRB-	O
+LIBRE	company
+A	company
+VOUS	company
+spécialisée	O
+depuis	O
+10	O
+ans	O
+dans	O
+le	O
+service	O
+à	O
+la	O
+personne	O
+,	O
+recherche	O
+des	position
+aides	position
+à	position
+domicile	position
+polyvalent	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+intervenir	hard skills
+au	hard skills
+domicile	hard skills
+de	hard skills
+particuliers	hard skills
+.	O
+Vous	soft skills
+êtes	soft skills
+sérieux	soft skills
+-LRB-	O
+se	soft skills
+-RRB-	O
+,	
+autonome	soft skills
+,	O
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+,	O
+vous	hard skills
+avez	hard skills
+de	hard skills
+bonnes	hard skills
+notions	hard skills
+de	hard skills
+ménage	hard skills
+et	hard skills
+de	hard skills
+repassage	hard skills
+,	
+et	experience
+de	experience
+l'expérience	experience
+dans	experience
+la	experience
+garde	experience
+d'enfants	experience
+-LRB-	
+3	experience
+à	experience
+10	experience
+ans	experience
+-RRB-	O
+,	O
+-LRB-	O
+idéalement	hard skills
+des	hard skills
+notions	hard skills
+en	hard skills
+espagnol	hard skills
+,	O
+mais	
+ça	
+n'est	
+pas	
+obligatoire	
+-RRB-	
+rejoignez-nous	O
+!	O
+Nous	O
+vous	O
+proposons	O
+:	O
+-	O
+Un	O
+CDI	contrat_type
+25H00	O
+participation	O
+aux	O
+frais	O
+de	O
+déplacement	O
+-LRB-	O
+trajets	O
+et	O
+temps	O
+de	O
+trajets	O
+payés	O
+-RRB-	O
+Moyen	O
+de	O
+locomotion	O
+souhaité	O
+en	O
+raison	O
+des	O
+zones	O
+mal	O
+desservies	O
+par	O
+les	O
+transports	O
+en	O
+commun	O

@@ -1,0 +1,94 @@
+Babysitting	position
+régulier	company
+Yoopala	company
+-	O
+Enghien-les-Bains	city
+-LRB-	O
+95	code postal
+-RRB-	O
+10	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+``	O
+L'agence	company
+Yoopala	company
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+baby-sitter	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+la	hard skills
+garde	hard skills
+de	hard skills
+2	hard skills
+enfant	hard skills
+-LRB-	
+s	hard skills
+-RRB-	O
+de	hard skills
+5	hard skills
+et	hard skills
+7	hard skills
+ans	hard skills
+.	O
+Offre	
+à	
+pourvoir	
+à	
+compter	O
+du	O
+01/09/2017	O
+au	O
+28/02/2018	O
+.	O
+Les	O
+horaires	O
+de	O
+garde	O
+sont	O
+les	O
+suivants	O
+:	O
+de	O
+16h30	O
+à	O
+19h00	O
+Du	O
+Lundi	O
+au	O
+Vendredi	O
+soit	O
+2.30	O
+heures	O
+par	O
+semaine	O
+.	O
+``	O
+Le	hard skills
+permis	hard skills
+B	hard skills
+indispensable	hard skills
+pour	hard skills
+le	hard skills
+transport	hard skills
+des	hard skills
+enfants	hard skills
+''	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+/	O
+heure	salary

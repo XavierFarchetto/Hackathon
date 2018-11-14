@@ -1,0 +1,134 @@
+Jardinier	position
+Paysagiste	position
+H/F	O
+Vert	company
+l'Objectif	company
+-	O
+Paris	city
+12e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+Notre	O
+réseau	O
+d'agences	O
+d'emploi	O
+spécialisées	O
+dans	O
+le	O
+domaine	O
+des	O
+Espaces	O
+Verts	O
+-LRB-	O
+Intérim	O
+&	O
+Recrutement	O
+-RRB-	O
+recherche	O
+des	position
+ouvriers	position
+paysagistes	position
+-LRB-	O
+h/f	O
+-RRB-	O
+sur	O
+toute	O
+l'Île-de-France	O
+.	O
+Ponctuels	soft skills
+,	O
+sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+,	O
+pour	
+chantier	
+d'entretien	O
+et	O
+création	O
+en	O
+espaces	O
+verts	O
+.	O
+Profil	O
+:	O
+-	O
+Formation	experience
+diplômante	experience
+-LRB-	O
+CAPA	experience
+,	O
+BEPA	experience
+,	O
+BAC	experience
+PRO	experience
+-RRB-	O
+.	O
+-	O
+Ou	experience
+expérience	experience
+en	experience
+entreprise	experience
+d'au	experience
+moins	experience
+6	experience
+mois	experience
+.	O
+Compétences	O
+:	O
+-	O
+Entretien	hard skills
+:	O
+tonte	hard skills
+,	
+taille	hard skills
+-LRB-	
+arbustes	hard skills
+,	O
+haies	hard skills
+...	O
+-RRB-	O
+,	O
+débroussaillage	hard skills
+,	O
+bêchage	hard skills
+,	O
+binage	hard skills
+,	O
+application	hard skills
+de	hard skills
+produits	hard skills
+phytosanitaires	hard skills
+...	O
+-	O
+Création	hard skills
+:	O
+Plantations	hard skills
+-LRB-	O
+fleurs	hard skills
+,	O
+arbustes	hard skills
+,	O
+massifs	hard skills
+...	O
+-RRB-	O
+,	O
+engazonnement	hard skills
+,	O
+arrosage	hard skills
+automatique	hard skills
+Le	hard skills
+permis	hard skills
+B	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

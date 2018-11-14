@@ -1,0 +1,331 @@
+chargé	position
+relations	position
+professionnels	position
+de	position
+santé	position
+H/F	O
+VIAMEDIS	company
+SANTE	company
+-	O
+Le	city
+Perreux-sur-Marne	city
+-LRB-	O
+94	code postal
+-RRB-	O
+18	salary
+0	salary
+$	salary
+-	O
+18	salary
+1	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Viamedis	company
+est	O
+la	O
+filiale	O
+du	O
+1er	O
+opérateur	O
+paritaire	O
+sur	O
+le	O
+marché	O
+de	O
+la	O
+santé	O
+.	O
+Viamedis	company
+Santé	company
+s	O
+'	O
+enrichit	O
+du	O
+savoir-faire	O
+et	O
+de	O
+l'expérience	O
+de	O
+ses	O
+220	O
+collaborateurs	O
+,	O
+génère	O
+29	O
+millions	O
+$	O
+de	O
+chiffres	O
+d'affaires	O
+,	O
+et	O
+permet	O
+l'accès	O
+aux	O
+soins	O
+à	O
+12	O
+millions	O
+d'assurés	O
+.	O
+80	O
+mutuelles	O
+et	O
+90	O
+0	O
+professionnels	O
+de	O
+Santé	O
+nous	O
+font	O
+quotidiennement	O
+confiance	O
+.	O
+Dispenser	O
+l'assuré	O
+d'avancer	O
+des	O
+frais	O
+de	O
+santé	O
+lorsqu'il	O
+se	O
+rend	O
+chez	O
+un	O
+professionnel	O
+de	O
+santé	O
+et	O
+ainsi	O
+faciliter	O
+l'accès	O
+aux	O
+soins	O
+est	O
+notre	O
+métier	O
+:	O
+LE	O
+TIERS	O
+PAYANT	O
+.	O
+Nous	O
+rejoindre	O
+,	O
+consiste	O
+à	O
+rejoindre	O
+une	O
+équipe	O
+dynamique	O
+qui	O
+,	O
+en	O
+très	O
+peu	O
+de	O
+temps	O
+,	O
+grâce	O
+à	O
+son	O
+implication	O
+,	O
+à	O
+son	O
+audace	O
+et	O
+à	O
+ses	O
+idées	O
+nouvelles	O
+,	O
+a	O
+permis	O
+de	O
+placer	O
+VIAMEDIS	company
+parmi	O
+les	O
+trois	O
+premières	O
+plates-formes	O
+de	O
+tiers	O
+payant	O
+du	O
+marché	O
+.	O
+Intégré	O
+-LRB-	O
+e	O
+-RRB-	O
+au	O
+service	O
+Production	O
+Tiers	O
+Payant	O
+,	O
+vos	O
+missions	O
+seront	O
+les	O
+suivantes	O
+:	O
+Traiter	hard skills
+les	hard skills
+anomalies	hard skills
+et	hard skills
+réclamations	hard skills
+émanant	hard skills
+de	hard skills
+professionnels	hard skills
+de	hard skills
+santé	hard skills
+-LRB-	
+pharmaciens	hard skills
+,	O
+opticiens	hard skills
+,	O
+dentistes	hard skills
+,	O
+hôpitaux	hard skills
+,	O
+...	O
+-RRB-	O
+sur	hard skills
+dossiers	hard skills
+et/ou	hard skills
+par	hard skills
+téléphone	hard skills
+.	
+Savoir-faire	hard skills
+:	O
+Expérience	hard skills
+dans	hard skills
+le	hard skills
+domaine	hard skills
+de	hard skills
+la	hard skills
+Santé	hard skills
+Maîtrise	hard skills
+des	hard skills
+outils	hard skills
+bureautiques	hard skills
+:	O
+Excel	hard skills
+,	O
+Word	hard skills
+niveau	hard skills
+confirmé	soft skills
+Aisance	soft skills
+téléphonique	soft skills
+Bonnes	soft skills
+qualités	soft skills
+relationnelles	soft skills
+et	soft skills
+rédactionnelles	soft skills
+Savoir-être	soft skills
+:	O
+Esprit	soft skills
+d'équipe	soft skills
+Facilitateur	soft skills
+dans	soft skills
+le	soft skills
+groupe	soft skills
+Esprit	soft skills
+de	soft skills
+synthèse	soft skills
+Adaptabilité	soft skills
+Rigoureux	soft skills
+Ponctuel	soft skills
+De	soft skills
+plus	soft skills
+,	O
+votre	soft skills
+sens	soft skills
+critique	soft skills
+et	soft skills
+du	soft skills
+service	soft skills
+vous	
+conduiront	
+à	
+apporter	O
+à	O
+nos	O
+partenaires	O
+-LRB-	O
+internes	O
+comme	O
+externes	O
+-RRB-	O
+,	O
+et	O
+à	O
+chaque	O
+étape	O
+de	O
+leurs	O
+activités	O
+,	O
+un	soft skills
+accompagnement	soft skills
+de	soft skills
+qualité	soft skills
+.	
+Vous	soft skills
+avez	soft skills
+une	soft skills
+forte	soft skills
+orientation	soft skills
+client	soft skills
+,	O
+vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+diplomate	soft skills
+et	soft skills
+pédagogue	soft skills
+.	O
+Nous	O
+n'attendons	O
+plus	O
+que	O
+vous	O
+!	O
+Merci	O
+de	O
+cliquer	O
+ou	O
+de	O
+copier-coller	O
+le	O
+lien	O
+ci-dessous	O
+pour	O
+continuer	O
+votre	O
+entretien	O
+:	O
+https://fr.scoringline.com/questionnaire/charge-de-relations-professionnels-de-sante/login	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+18	salary
+0	salary
+$	salary
+à	O
+18	salary
+1	salary
+$	salary
+/	
+an	salary

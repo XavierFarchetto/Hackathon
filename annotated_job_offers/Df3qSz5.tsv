@@ -1,0 +1,135 @@
+Standardiste	position
+-	O
+Hôtesse	position
+d'accueil	position
+Clinique	company
+Pasteur	company
+Toulouse	company
+-	O
+Toulouse	city
+-LRB-	O
+31	postal code
+-RRB-	O
+Temps	contrat_type
+partiel	contrat_type
+La	company
+Clinique	company
+Pasteur	company
+basée	O
+à	O
+TOULOUSE	city
+est	O
+à	O
+la	O
+recherche	O
+d'un	position
+ou	position
+d'une	position
+standardiste	position
+-LRB-	O
+H/F	O
+-RRB-	O
+:	O
+Ce	O
+poste	O
+est	O
+un	O
+CDI	contrat_type
+temps	contrat_type
+partiel	contrat_type
+64	O
+%	O
+avec	O
+2	O
+weekends	O
+par	O
+mois	O
+.	O
+Poste	O
+à	O
+pourvoir	O
+immédiatement	O
+Missions	O
+et	O
+objectifs	O
+du	O
+poste	O
+:	O
+-	O
+Recevoir	hard skills
+,	O
+identifier	hard skills
+et	hard skills
+orienter	hard skills
+les	hard skills
+patients	hard skills
+,	O
+les	hard skills
+usagers	hard skills
+,	
+les	hard skills
+accompagnants	hard skills
+,	O
+les	hard skills
+visiteurs	hard skills
+ou	hard skills
+les	hard skills
+communications	hard skills
+téléphoniques	hard skills
+-	O
+Coordonner	hard skills
+les	hard skills
+admissions	hard skills
+et	hard skills
+sorties	hard skills
+des	hard skills
+patients	hard skills
+-	O
+Contrôler	hard skills
+l'accès	hard skills
+des	hard skills
+usagers	hard skills
+Compétences	
+techniques	
+requises	
+/	
+savoir-faire	soft skills
+opérationnel	soft skills
+:	O
+-	O
+Formation	experience
+hôtesse	experience
+d'accueil	experience
+Qualités	experience
+professionnelles	experience
+/	O
+savoir-faire	soft skills
+relationnel	soft skills
+:	O
+-	
+Facilité	soft skills
+à	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+-	
+Disponibilité	soft skills
+-	O
+Discrétion	soft skills
+-	O
+Capacité	soft skills
+d'adaptation	soft skills
+à	soft skills
+la	soft skills
+charge	soft skills
+de	soft skills
+travail	soft skills
+Contact	soft skills
+par	soft skills
+mail	soft skills
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type

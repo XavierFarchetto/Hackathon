@@ -1,0 +1,684 @@
+technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+paie	position
+et	position
+administration	position
+du	position
+personnel	position
+union	company
+pour	company
+l'enfance	company
+-	O
+Paris	city
+-LRB-	O
+75	code postal
+-RRB-	O
+1	salary
+770	salary
+$	salary
+-	O
+2	salary
+600	salary
+$	salary
+par	salary
+mois	salary
+Au	O
+sein	O
+d'une	O
+association	O
+de	O
+protection	O
+de	O
+l'enfance	O
+en	O
+cours	O
+de	O
+restructuration	O
+-LRB-	O
+fusion	O
+partielle	O
+-RRB-	O
+,	O
+sous	O
+la	O
+responsabilité	O
+de	O
+la	O
+Directrice	O
+des	O
+Ressources	O
+Humaines	O
+,	O
+le	position
+/	O
+la	position
+Technicien	position
+-LRB-	O
+ne	position
+-RRB-	O
+Paie	position
+est	hard skills
+en	hard skills
+charge	hard skills
+de	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+paies	hard skills
+et	hard skills
+de	hard skills
+l'administration	hard skills
+du	hard skills
+personnel	hard skills
+,	
+en	hard skills
+lien	hard skills
+direct	hard skills
+avec	hard skills
+les	hard skills
+référents	hard skills
+RH	hard skills
+et	hard skills
+les	hard skills
+comptables	hard skills
+des	hard skills
+établissements	hard skills
+et	hard skills
+avec	hard skills
+l'aide	hard skills
+de	hard skills
+la	hard skills
+secrétaire	hard skills
+d'accueil	hard skills
+du	hard skills
+Siège	hard skills
+.	hard skills
+Administration	hard skills
+du	hard skills
+personnel	hard skills
+:	O
+-	O
+DPAE	hard skills
+de	hard skills
+l'établissement	hard skills
+Siège	hard skills
+et	hard skills
+la	hard skills
+gestion	hard skills
+des	hard skills
+visites	hard skills
+médicales	hard skills
+du	hard skills
+travail	hard skills
+du	hard skills
+siège	hard skills
+-LRB-	hard skills
+8	hard skills
+salariés	hard skills
+-RRB-	
+-	O
+tenue	hard skills
+des	hard skills
+dossiers	hard skills
+du	hard skills
+personnel	hard skills
+-	O
+enregistrement	hard skills
+et	hard skills
+affiliations	hard skills
+mutuelles	hard skills
+et	hard skills
+prévoyance	hard skills
+,	
+radiation	hard skills
+,	
+portabilité	hard skills
+et	hard skills
+contrôle	hard skills
+de	hard skills
+cohérence	hard skills
+-	O
+Collecte	hard skills
+les	hard skills
+certificats	hard skills
+de	hard skills
+la	hard skills
+médecine	hard skills
+du	hard skills
+travail	hard skills
+pour	hard skills
+les	hard skills
+salariés	hard skills
+des	hard skills
+établissements	hard skills
+-	O
+tenue	hard skills
+du	hard skills
+registre	hard skills
+du	hard skills
+personnel	hard skills
+-	
+délivre	hard skills
+les	hard skills
+attestations	hard skills
+à	hard skills
+la	hard skills
+demande	hard skills
+-LRB-	O
+employeur	hard skills
+,	O
+retraite	hard skills
+,	O
+...	O
+-RRB-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+Paie	hard skills
+:	O
+-	O
+Garant	hard skills
+de	hard skills
+la	hard skills
+conformité	hard skills
+de	hard skills
+la	hard skills
+paie	hard skills
+aux	hard skills
+évolutions	hard skills
+légales	hard skills
+et	hard skills
+réglementaires	hard skills
+ou	hard skills
+conventionnelles	hard skills
+,	
+et	hard skills
+paramétrage	hard skills
+avec	hard skills
+l'éditeur	hard skills
+du	hard skills
+logiciel	hard skills
+.	O
+-	O
+intégralité	hard skills
+de	hard skills
+la	hard skills
+paie	hard skills
+pour	hard skills
+le	hard skills
+personnel	hard skills
+excepté	hard skills
+celle	hard skills
+des	hard skills
+Assistants	hard skills
+Familiaux	hard skills
+gérée	hard skills
+en	hard skills
+partie	hard skills
+en	hard skills
+direct	hard skills
+par	hard skills
+les	hard skills
+services	hard skills
+d'accueil	hard skills
+familial	hard skills
+.	O
+Mensuellement	hard skills
+-	O
+saisit	hard skills
+les	hard skills
+nouvelles	hard skills
+entrées	hard skills
+de	hard skills
+personnel	hard skills
+dans	hard skills
+le	hard skills
+logiciel	hard skills
+-	O
+récupère	hard skills
+les	hard skills
+éléments	hard skills
+variables	hard skills
+de	hard skills
+paie	hard skills
+en	hard skills
+provenance	hard skills
+des	hard skills
+établissements	hard skills
+-	O
+élabore	hard skills
+les	hard skills
+bulletins	hard skills
+de	hard skills
+paie	hard skills
+du	hard skills
+personnel	hard skills
+administratif	hard skills
+et	hard skills
+éducatif	hard skills
+-	O
+supervise	hard skills
+les	hard skills
+bulletins	hard skills
+de	hard skills
+paie	hard skills
+des	hard skills
+assistants	hard skills
+familiaux	hard skills
+-	O
+r	hard skills
+écupère	hard skills
+les	hard skills
+arrêts	hard skills
+maladie	hard skills
+/	O
+accidents	hard skills
+du	hard skills
+travail	hard skills
+/	O
+maternité	hard skills
+de	hard skills
+l'ensemble	hard skills
+du	hard skills
+personnel	hard skills
+-	
+effectue	hard skills
+la	hard skills
+télé	hard skills
+déclaration	hard skills
+des	hard skills
+arrêts	hard skills
+maladie	hard skills
+/	
+accidents	hard skills
+du	hard skills
+travail	hard skills
+/	O
+maternité	hard skills
+,	
+suit	hard skills
+les	hard skills
+remboursements	hard skills
+IJ	hard skills
+CPAM	hard skills
+subrogées	hard skills
+,	
+monte	hard skills
+et	hard skills
+gère	hard skills
+es	hard skills
+dossiers	hard skills
+de	hard skills
+prévoyance	hard skills
+en	hard skills
+cas	hard skills
+de	hard skills
+longue	hard skills
+maladie	hard skills
+et	hard skills
+suit	hard skills
+les	hard skills
+remboursements	hard skills
+IJ	hard skills
+prévoyance	hard skills
+subrogées	hard skills
+,	O
+-	hard skills
+calcule	hard skills
+,	hard skills
+édite	hard skills
+et	hard skills
+vérifie	hard skills
+les	hard skills
+bulletins	hard skills
+pour	hard skills
+validation	hard skills
+de	hard skills
+la	hard skills
+DRH	hard skills
+et	hard skills
+met	hard skills
+à	hard skills
+la	hard skills
+signature	hard skills
+les	hard skills
+salaires	hard skills
+pour	hard skills
+la	hard skills
+mise	hard skills
+en	hard skills
+paiement	hard skills
+-	O
+édite	hard skills
+les	hard skills
+journaux	hard skills
+de	hard skills
+paie	hard skills
+et	hard skills
+état	hard skills
+des	hard skills
+charges	hard skills
+par	hard skills
+organisme	hard skills
+-	O
+télé-déclare	hard skills
+les	hard skills
+charges	hard skills
+sociales	hard skills
+-LRB-	O
+DSN	hard skills
+--	O
+URSSAF	hard skills
+--	O
+Pôle	hard skills
+Emploi	hard skills
+--	O
+Retraite	hard skills
+-RRB-	O
+-	O
+fait	hard skills
+le	hard skills
+transfert	hard skills
+des	hard skills
+écritures	hard skills
+en	hard skills
+comptabilité	hard skills
+des	hard skills
+salaires	hard skills
+et	hard skills
+des	hard skills
+charges	hard skills
+-	O
+télé-déclare	hard skills
+les	hard skills
+contrats	hard skills
+aidés	hard skills
+et	hard skills
+service	hard skills
+civiques	hard skills
+pour	hard skills
+récupérer	hard skills
+les	hard skills
+financements	hard skills
+-	O
+calcule	hard skills
+les	hard skills
+soldes	hard skills
+de	hard skills
+tout	hard skills
+compte	hard skills
+et	hard skills
+établit	hard skills
+les	hard skills
+documents	hard skills
+de	hard skills
+sorties	hard skills
+des	hard skills
+salariés	hard skills
+:	O
+reçu	hard skills
+pour	hard skills
+solde	hard skills
+de	hard skills
+tout	hard skills
+compte	hard skills
+,	hard skills
+attestation	hard skills
+Pôle	hard skills
+emploi	hard skills
+,	hard skills
+certificat	hard skills
+de	hard skills
+travail	hard skills
+.	O
+-	O
+gère	hard skills
+les	hard skills
+saisies	hard skills
+sur	hard skills
+salaire	hard skills
+et	hard skills
+paie	hard skills
+les	hard skills
+organismes	hard skills
+concernés	hard skills
+-	
+paie	hard skills
+la	hard skills
+taxe	hard skills
+sur	hard skills
+les	hard skills
+salaires	hard skills
+de	hard skills
+chaque	hard skills
+établissement	hard skills
+Trimestriellement	hard skills
+Paie	hard skills
+des	hard skills
+cotisations	hard skills
+Prévoyance	hard skills
+et	hard skills
+Mutuelle	hard skills
+Annuellement	hard skills
+-	
+veille	hard skills
+à	hard skills
+l'évolution	hard skills
+des	hard skills
+modes	hard skills
+de	hard skills
+déclaration	hard skills
+-LRB-	O
+DSN	hard skills
+phase	hard skills
+3	hard skills
+/	O
+DADS	hard skills
+--	O
+U	hard skills
+-RRB-	O
+-	O
+édite	hard skills
+annuellement	hard skills
+les	hard skills
+fiches	hard skills
+individuelles	hard skills
+,	
+les	hard skills
+journaux	hard skills
+détaillés	hard skills
+,	O
+grands	hard skills
+livres	hard skills
+de	hard skills
+paie	hard skills
+-	
+Edite	hard skills
+les	hard skills
+états	hard skills
+nécessaires	hard skills
+à	hard skills
+l'élaboration	hard skills
+de	hard skills
+documents	hard skills
+ou	hard skills
+tableaux	hard skills
+de	hard skills
+bords	hard skills
+tels	hard skills
+que	hard skills
+bilan	hard skills
+social	hard skills
+NIVEAU	O
+DE	O
+DIPLOME	O
+Bac	experience
++	experience
+2	experience
+/	O
+Niveau	experience
+BTS	experience
++	experience
+Spécialité	experience
+Paie	experience
+Expérience	experience
+d'au	experience
+moins	experience
+2	experience
+à	experience
+3	experience
+ans	experience
+souhaitée	experience
+dans	experience
+le	experience
+métier	experience
+de	experience
+la	experience
+paie	experience
+COMPETENCES	O
+REQUISES	O
+:	O
+Connaissance	hard skills
+du	hard skills
+Logiciel	hard skills
+Alfa	hard skills
+GRH	hard skills
+serait	hard skills
+un	hard skills
+véritable	hard skills
+atout	hard skills
+-LRB-	O
+utilisé	hard skills
+dans	hard skills
+le	hard skills
+secteur	hard skills
+associatif	hard skills
+notamment	hard skills
+-RRB-	O
+Autonomie	soft skills
+Rigueur	soft skills
+mais	soft skills
+souplesse	soft skills
+Bon	soft skills
+relationnel	soft skills
+Prise	soft skills
+d'initiative	soft skills
+STATUT	
+ET	
+REMUNERATION	O
+Contrat	O
+CDD	contrat_type
+relevant	O
+de	O
+la	O
+Convention	O
+Collective	O
+du	O
+15	O
+mars	O
+1966	O
+des	O
+Etablissements	O
+et	O
+Services	O
+pour	O
+Personnes	O
+Inadaptées	O
+et	O
+Handicapées	O
+Niveau	O
+Technicien	O
+supérieur	O
+,	O
+échelon	O
+1	O
+de	O
+la	O
+CC	O
+-LRB-	O
+Coefficient	O
+:	O
+434	O
+au	O
+minimum	O
+-RRB-	O
++	O
+Reconnaissance	O
+de	O
+l'ancienneté	O
+-LRB-	O
+en	O
+fonction	O
+du	O
+profil	O
+-RRB-	O
+Statut	O
+non	O
+cadre	O
+Prime	O
+de	O
+précarité	O
+de	O
+10	O
+%	O
+DUREE	O
+DU	O
+TRAVAIL	O
+35	O
+heures	O
+hebdomadaires	O
+Lundi	O
+au	O
+Vendredi	O
+:	O
+Horaires	O
+à	O
+préciser	O
+LIEU	O
+DE	O
+TRAVAIL	O
+53	O
+rue	O
+Réaumur	O
+--	O
+75002	code postal
+Paris	city
+-LRB-	O
+Ligne	O
+M3	O
+/	O
+M4	O
+-RRB-	O
+Excellente	O
+accessibilité	O
+du	O
+bureau	O
+en	O
+transports	O
+en	O
+commun	O
+Type	O
+d'emploi	O
+:	O
+Temps	O
+plein	O
+Salaire	O
+:	O
+1	salary
+770	salary
+$	salary
+à	O
+2	salary
+600	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+paies	experience
+:	O
+3	experience
+ans	experience

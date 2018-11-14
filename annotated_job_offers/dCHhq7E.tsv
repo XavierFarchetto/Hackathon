@@ -1,0 +1,285 @@
+Pharmacien	position
+remplaçant	position
+CENTRE	company
+DE	company
+GERONTOLOGIE	company
+ST	company
+THOMAS	company
+DE	company
+VILLENEUVE	company
+-	O
+Aix-en-Provence	city
+-LRB-	O
+13	postal code
+-RRB-	O
+4	salary
+150	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Clinique	company
+Gériatrique	O
+de	O
+114	O
+lits	O
+,	O
+située	O
+à	O
+Aix	city
+en	city
+Provence	city
+,	O
+dans	O
+un	O
+cadre	O
+privilégié	O
+,	O
+recherche	O
+1	position
+*	O
+*	O
+Pharmacien	position
+H/F	O
+afin	hard skills
+d'assurer	hard skills
+le	hard skills
+remplacement	hard skills
+de	hard skills
+son	hard skills
+pharmacien	hard skills
+gérant	hard skills
+.	O
+Remplacements	hard skills
+à	hard skills
+pourvoir	hard skills
+:	O
+21	hard skills
+au	hard skills
+24	hard skills
+novembre	hard skills
+2017	hard skills
+5	hard skills
+et	hard skills
+6	hard skills
+décembre	hard skills
+2017	hard skills
+11	hard skills
+au	hard skills
+15	hard skills
+décembre	hard skills
+2017	hard skills
+26	hard skills
+au	hard skills
+30	hard skills
+décembre	hard skills
+2017	hard skills
+Autres	hard skills
+remplacements	hard skills
+sur	hard skills
+2018	hard skills
+afin	hard skills
+d'assurer	hard skills
+le	hard skills
+remplacement	hard skills
+de	hard skills
+notre	hard skills
+pharmacien	hard skills
+gérant	hard skills
+pendant	hard skills
+ses	hard skills
+congés	hard skills
+-LRB-	O
+5	hard skills
+semaines	hard skills
+de	hard skills
+remplacement	hard skills
+/	
+an	hard skills
+-RRB-	
+Missions	hard skills
+Le	hard skills
+pharmacien	hard skills
+remplaçant	hard skills
+:	O
+gère	hard skills
+pendant	hard skills
+la	hard skills
+durée	hard skills
+de	hard skills
+son	hard skills
+remplacement	hard skills
+,	hard skills
+la	hard skills
+pharmacie	hard skills
+à	hard skills
+usage	hard skills
+intérieur	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+de	hard skills
+la	hard skills
+législation	hard skills
+";"	
+assure	hard skills
+ou	hard skills
+fait	hard skills
+assurer	hard skills
+,	hard skills
+sous	hard skills
+sa	hard skills
+responsabilité	hard skills
+,	hard skills
+l'exécution	hard skills
+des	hard skills
+prescriptions	hard skills
+médicales	hard skills
+,	
+la	hard skills
+dispensation	hard skills
+,	hard skills
+le	hard skills
+contrôle	hard skills
+des	hard skills
+médicaments	hard skills
+et	hard skills
+autres	hard skills
+produits	hard skills
+pharmaceutiques	hard skills
+,	hard skills
+la	hard skills
+garde	hard skills
+des	hard skills
+produits	hard skills
+toxiques	hard skills
+";"	hard skills
+est	hard skills
+le	hard skills
+garant	hard skills
+de	hard skills
+la	hard skills
+sécurisation	hard skills
+des	hard skills
+circuits	hard skills
+du	hard skills
+médicament	hard skills
+et	hard skills
+des	hard skills
+dispositifs	hard skills
+médicaux	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+qualité	hard skills
+,	hard skills
+de	hard skills
+la	hard skills
+continuité	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+sécurité	hard skills
+dans	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+pharmaceutique	hard skills
+du	hard skills
+patient	hard skills
+.	
+management	hard skills
+de	hard skills
+deux	hard skills
+préparatrices	hard skills
+en	hard skills
+pharmacie	hard skills
+Poste	
+à	O
+80	O
+%	O
+,	O
+avec	O
+répartition	O
+du	O
+travail	O
+LUNDI	O
+13:30	O
+-18:00	O
+,	O
+MARDI	O
+et	O
+VENDREDI	O
+09:00	O
+-18:00	O
+,	O
+MERCREDI	O
+et	O
+JEUDI	O
+14:00	O
+-18:00	O
+Statut	O
+cadre	O
+,	O
+convention	O
+collective	O
+FEHAP	O
+51	O
+Recherche	O
+Pharmacien	position
+répondant	position
+aux	O
+critères	O
+du	O
+décret	O
+n	O
+°	O
+2017-883	O
+du	O
+9	O
+mai	O
+2017	O
+-LRB-	O
+DES	O
+pharmacie	O
+hospitalière	O
+et	O
+collectivités	O
+-RRB-	O
+ou	O
+ayant	O
+une	O
+dérogation	O
+de	O
+l'ordre	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+4	salary
+150	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Doctorat	experience
+Expérience	
+exigée	O
+:	O
+PUI	experience
+:	O
+3	experience
+ans	experience

@@ -1,0 +1,206 @@
+OPERATEUR	position
+/	O
+OPERATRICE	position
+DE	position
+SAISIE	position
+-LRB-	O
+H/F	O
+-RRB-	O
+-	O
+C455	company
+CAPEB	company
+-LRB-	
+69	code postal
+-RRB-	O
+-	O
+Villeurbanne	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+800	salary
+$	salary
+par	salary
+mois	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+La	company
+CAPEB	company
+du	O
+Rhône	O
+recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+opératrice	position
+de	position
+saisie	position
+-LRB-	O
+H/F	O
+-RRB-	O
+à	O
+temps	contrat_type
+partiel	contrat_type
+pour	O
+l'un	O
+de	O
+ses	O
+adhérents	O
+,	O
+entreprise	O
+spécialisée	O
+en	O
+rénovation	O
+second	O
+œuvre	O
+.	O
+Une	experience
+expérience	experience
+dans	experience
+le	experience
+secteur	experience
+du	experience
+bâtiment	experience
+vivement	experience
+souhaitée	experience
+.	O
+Vous	hard skills
+réalisez	hard skills
+la	hard skills
+saisie	hard skills
+informatique	hard skills
+des	hard skills
+devis	hard skills
+,	O
+les	hard skills
+opérations	hard skills
+de	hard skills
+numérisation	hard skills
+de	hard skills
+documents	hard skills
+,	O
+tri	hard skills
+,	O
+classement	hard skills
+et	hard skills
+archivage	hard skills
+.	O
+Vous	hard skills
+disposez	hard skills
+d'une	hard skills
+bonne	hard skills
+maitrise	hard skills
+de	hard skills
+l'outil	hard skills
+informatique	hard skills
+et	hard skills
+d'un	hard skills
+excellent	hard skills
+niveau	hard skills
+en	hard skills
+orthographe	hard skills
+.	
+Ce	O
+poste	O
+nécessite	
+rigueur	soft skills
+,	O
+organisation	soft skills
+et	soft skills
+dynamisme	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+de	soft skills
+bonnes	soft skills
+capacités	soft skills
+d'adaptation	soft skills
+,	
+l'esprit	soft skills
+d'équipe	soft skills
+et	soft skills
+des	soft skills
+qualités	soft skills
+relationnelles	soft skills
+-LRB-	O
+contacts	soft skills
+téléphoniques	soft skills
+avec	soft skills
+les	soft skills
+clients	soft skills
+-RRB-	
+.	O
+Contrat	O
+:	O
+CDD	contrat_type
+3	contrat_type
+mois	contrat_type
+Diplôme	O
+:	O
+BAC	experience
+PRO	experience
+secrétariat	experience
+Expérience	
+:	O
+3	experience
+ans	experience
+minimum	experience
+,	O
+si	experience
+possible	experience
+dans	experience
+le	experience
+secteur	experience
+du	experience
+bâtiment	experience
+,	O
+maîtrise	hard skills
+du	hard skills
+Pack	hard skills
+Office	hard skills
+-LRB-	O
+si	hard skills
+possible	hard skills
+Winbat	hard skills
+Expert	hard skills
+-RRB-	O
+Horaires	O
+:	O
+24	O
+h	O
+Rémunération	O
+:	O
+1600	salary
+à	
+1800	salary
+$	salary
+-LRB-	O
+base	O
+35h	O
+-RRB-	O
+à	O
+négocier	O
+selon	O
+expérience	O
+et	O
+compétences	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Expérience	O
+exigée	O
+:	O
+OPERATION	experience
+DE	experience
+SAISIE	experience
+:	O
+3	experience
+ans	experience

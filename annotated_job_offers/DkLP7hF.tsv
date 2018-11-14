@@ -1,0 +1,269 @@
+Ouvrier	position
+agricole	position
+polyvalent	position
+-	O
+Betteraves	company
+-LRB-	O
+H/F	O
+-RRB-	
+FLORIMOND	company
+DESPREZ	company
+-	O
+Cappelle-en-Pévèle	city
+-LRB-	O
+59	postal code
+-RRB-	O
+Description	O
+du	O
+poste	O
+à	O
+pourvoir	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+Chargé	O
+des	O
+infrastructures	O
+hors-sol	O
+au	O
+sein	O
+du	O
+Laboratoire	O
+Betteraves	O
+et	O
+Chicorée	O
+,	O
+vous	hard skills
+assurez	hard skills
+le	hard skills
+bon	hard skills
+développement	hard skills
+des	hard skills
+plantes	hard skills
+dans	hard skills
+les	hard skills
+installations	hard skills
+-LRB-	
+serres	hard skills
+et	hard skills
+chambres	hard skills
+de	hard skills
+culture	hard skills
+-RRB-	
+et	hard skills
+garantissez	hard skills
+leur	hard skills
+bon	hard skills
+état	hard skills
+sanitaire	hard skills
+.	
+Vos	hard skills
+principales	hard skills
+missions	hard skills
+sont	hard skills
+:	hard skills
+Assurer	hard skills
+l'arrosage	hard skills
+et	hard skills
+le	hard skills
+suivi	hard skills
+quotidien	hard skills
+de	hard skills
+l'irrigation	hard skills
+";"	hard skills
+Entretenir	hard skills
+les	hard skills
+plantes	hard skills
+,	hard skills
+surveiller	hard skills
+leur	hard skills
+croissance	hard skills
+,	hard skills
+repérer	hard skills
+les	hard skills
+anomalies	hard skills
+-LRB-	
+maladies	hard skills
+,	O
+parasites	hard skills
+,	
+carences	hard skills
+ou	hard skills
+excès	hard skills
+d'engrais	hard skills
+-RRB-	
+";"	O
+Participer	hard skills
+à	hard skills
+la	hard skills
+maintenance	hard skills
+,	hard skills
+au	hard skills
+nettoyage	hard skills
+et	hard skills
+à	hard skills
+l'entretien	hard skills
+des	hard skills
+installations	hard skills
+et	hard skills
+des	hard skills
+équipements	hard skills
+";"	hard skills
+Autres	hard skills
+missions	hard skills
+liées	hard skills
+à	hard skills
+la	hard skills
+préparation	hard skills
+des	hard skills
+plantes	hard skills
+.	
+Profil	O
+recherché	O
+De	experience
+formation	experience
+Bac	experience
+pro	experience
+agricole	experience
+ou	experience
+horticole	experience
+,	O
+une	experience
+1ère	experience
+expérience	experience
+en	experience
+jardinerie	experience
+ou	experience
+pépinière	experience
+serait	experience
+un	experience
+plus	experience
+";"	O
+Candidat	soft skills
+``	O
+aux	soft skills
+mains	soft skills
+vertes	soft skills
+''	O
+,	O
+vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+de	soft skills
+l'observation	soft skills
+et	soft skills
+le	soft skills
+goût	soft skills
+du	soft skills
+jardinage	soft skills
+";"	
+Consciencieux	soft skills
+et	soft skills
+organisé	soft skills
+,	
+vous	soft skills
+êtes	soft skills
+aussi	soft skills
+adaptable	soft skills
+et	soft skills
+réactif	soft skills
+";"	O
+Sens	soft skills
+du	soft skills
+travail	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+rigueur	soft skills
+sont	soft skills
+des	soft skills
+qualités	soft skills
+indispensables	soft skills
+";"	O
+Permis	hard skills
+B.	hard skills
+Conditions	O
+CDD	contrat_type
+de	contrat_type
+6	contrat_type
+mois	contrat_type
+basé	O
+dans	O
+le	O
+Nord	O
+-LRB-	O
+59	postal code
+-RRB-	O
+à	O
+Cappelle-en-Pévèle	city
+--	O
+4	O
+à	O
+5	O
+week-end	O
+travaillés	O
+par	O
+trimestre	O
+-LRB-	O
+4h	O
+à	O
+6h	O
+par	O
+week-end	O
+-RRB-	O
+--	O
+35h	O
+annualisées	O
+Date	O
+de	O
+début	O
+de	O
+contrat	O
+:	O
+Dès	O
+que	O
+possible	O
+.	O
+Rémunération	O
+basée	O
+sur	O
+la	O
+grille	O
+conventionnelle	O
+.	O
+Si	O
+le	O
+poste	O
+vous	O
+intéresse	O
+,	O
+merci	O
+de	O
+bien	O
+vouloir	O
+nous	O
+envoyer	O
+votre	O
+CV	O
+et	O
+votre	O
+lettre	O
+de	O
+motivation	O
+sous	O
+la	O
+référence	O
+APHS2017	O
+.	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

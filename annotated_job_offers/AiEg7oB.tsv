@@ -1,0 +1,162 @@
+Infirmier	position
+de	position
+bloc	position
+CLINIQUE	company
+SAINTE	company
+MARIE	company
+-	O
+Châteaubriant	city
+-LRB-	O
+44	code postal
+-RRB-	O
+Poste	O
+à	O
+100	O
+%	O
+en	O
+CDI	contrat_type
+dans	O
+le	O
+cadre	O
+d'un	O
+poste	O
+à	O
+pourvoir	O
+.	O
+Vous	O
+intégrez	O
+un	O
+bloc	O
+opératoire	O
+de	O
+5	O
+salles	O
+où	O
+différentes	O
+spécialités	O
+sont	O
+représentées	O
+:	O
+Digestif	O
+,	O
+Orthopédie	O
+,	O
+Ophtalmologie	O
+,	O
+Vasculaire	O
+,	O
+Stomatologie	O
+,	O
+ORL	O
+,	O
+Urologie	O
+-RRB-	O
+.	O
+Des	O
+astreintes	O
+sont	O
+à	O
+prévoir	O
+au	O
+planning	O
+Vous	hard skills
+assurerez	hard skills
+la	hard skills
+prise	hard skills
+en	hard skills
+charge	hard skills
+du	hard skills
+patient	hard skills
+en	hard skills
+salle	hard skills
+d'intervention	hard skills
+ainsi	hard skills
+que	hard skills
+sa	hard skills
+sécurité	hard skills
+et	hard skills
+son	hard skills
+confort	hard skills
+en	hard skills
+exerçant	hard skills
+les	hard skills
+activités	hard skills
+de	hard skills
+circulante	hard skills
+ou	hard skills
+d'aide	hard skills
+opératoire	hard skills
+en	hard skills
+présence	hard skills
+de	hard skills
+l'opérateur	hard skills
+.	
+Vous	hard skills
+réaliserez	hard skills
+les	hard skills
+soins	hard skills
+infirmiers	hard skills
+et	hard skills
+organiserez	hard skills
+les	hard skills
+activités	hard skills
+en	hard skills
+salle	hard skills
+d'intervention	hard skills
+visant	hard skills
+au	hard skills
+bon	hard skills
+déroulement	hard skills
+de	hard skills
+l'acte	hard skills
+opératoire	hard skills
+et	hard skills
+à	hard skills
+l'accompagnement	hard skills
+du	hard skills
+patient	hard skills
+.	
+Infirmier	experience
+DE	experience
+-LRB-	O
+H/F	O
+-RRB-	O
+ayant	experience
+l'expérience	experience
+du	experience
+travail	experience
+en	experience
+bloc	experience
+opératoire	experience
+et/ou	experience
+titulaire	experience
+de	experience
+la	experience
+spécialité	experience
+IBODE	experience
+.	O
+Vous	experience
+pouvez	experience
+postulez	experience
+si	experience
+vous	experience
+n'avez	experience
+pas	experience
+d'expérience	experience
+au	experience
+bloc	experience
+opératoire	experience
+mais	experience
+avec	experience
+le	experience
+projet	experience
+professionnel	experience
+d'	experience
+y	experience
+travailler	experience
+.	
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type

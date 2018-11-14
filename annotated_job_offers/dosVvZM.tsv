@@ -1,0 +1,259 @@
+Animateurs	position
+FC	company
+Paris	company
+20	company
+-	O
+Paris	city
+20e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+12	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+Le	company
+FC	company
+Paris	company
+20	company
+est	O
+une	O
+association	O
+sportive	O
+œuvrant	O
+dans	O
+le	O
+20ème	city
+arrondissement	city
+de	city
+Paris	city
+.	O
+L'association	O
+,	O
+a	O
+pour	O
+but	O
+d'encourager	O
+les	O
+pratiques	O
+sportives	O
+féminines	O
+.	O
+Dans	O
+le	O
+cadre	O
+de	O
+son	O
+développement	O
+,	O
+l'association	O
+recherche	O
+:	O
+Des	position
+animateurs	position
+-LRB-	O
+H/F	O
+-RRB-	O
+disponibles	hard skills
+pour	hard skills
+des	hard skills
+vacations	hard skills
+sur	hard skills
+les	hard skills
+créneaux	hard skills
+suivants	hard skills
+:	O
+Mardi	hard skills
+17h30	hard skills
+à	hard skills
+19h30	hard skills
+-LRB-	
+entraînement	hard skills
+de	hard skills
+football	hard skills
+féminin	hard skills
+-RRB-	O
+Mercredi	hard skills
+13h30	hard skills
+à	hard skills
+16h30	hard skills
+-LRB-	
+entraînement	hard skills
+boxe	hard skills
+anglaise	hard skills
+-	
+diplôme	experience
+obligatoire	experience
+-RRB-	O
+Et	
+pendant	
+les	
+vacances	
+scolaires	
+de	
+la	
+Toussaint	
+du	
+23-oct	
+au	
+03-nov	
+du	
+lundi	
+au	
+vendredi	
+de	
+10h	
+à	
+17h	
+-LRB-	
+dispositif	
+sportif	
+pour	
+les	
+jeunes	
+filles	
+de	
+8	
+à	
+13	
+ans	
+-RRB-	
+Missions	O
+:	O
+La	hard skills
+personne	hard skills
+sera	hard skills
+chargée	hard skills
+,	
+sous	hard skills
+la	hard skills
+responsabilité	hard skills
+hiérarchique	hard skills
+de	hard skills
+la	hard skills
+présidente	hard skills
+,	O
+d'exercer	hard skills
+les	hard skills
+missions	hard skills
+suivantes	hard skills
+:	
+Mettre	hard skills
+en	hard skills
+œuvre	hard skills
+les	hard skills
+temps	hard skills
+d'animations	hard skills
+en	hard skills
+direction	hard skills
+des	hard skills
+jeunes	hard skills
+Etre	hard skills
+force	hard skills
+de	hard skills
+proposition	hard skills
+en	hard skills
+matière	hard skills
+d'animations	hard skills
+et	hard skills
+de	hard skills
+projets	hard skills
+Assurer	hard skills
+l'organisation	hard skills
+et	hard skills
+gérer	hard skills
+les	hard skills
+moyens	hard skills
+matériels	hard skills
+-LRB-	
+anticipation	hard skills
+,	O
+disponibilité	hard skills
+-RRB-	
+nécessaire	hard skills
+aux	hard skills
+actions	hard skills
+-LRB-	O
+réservation	hard skills
+,	O
+achat	hard skills
+-RRB-	
+qu'il	hard skills
+/	hard skills
+elle	hard skills
+met	hard skills
+en	hard skills
+place	hard skills
+Mettre	hard skills
+en	hard skills
+place	hard skills
+des	hard skills
+espaces	hard skills
+d'activités	hard skills
+en	hard skills
+conformité	hard skills
+avec	hard skills
+la	hard skills
+réglementation	hard skills
+DDCS	hard skills
+Participer	hard skills
+à	hard skills
+l'animation	hard skills
+du	hard skills
+territoire	hard skills
+et	hard skills
+favoriser	hard skills
+l'implication	hard skills
+des	hard skills
+habitants	hard skills
+Compétences	
+requises	O
+:	O
+Diplôme	experience
+BAFA	experience
+minimum	experience
+,	O
+BPJEPS	experience
+,	O
+STAPS	experience
+Expérience	experience
+dans	experience
+l'animation	experience
+Vous	soft skills
+aimez	soft skills
+travailler	soft skills
+en	soft skills
+équipe	soft skills
+et	soft skills
+transmettre	soft skills
+des	soft skills
+valeurs	soft skills
+Type	
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+12	salary
+$	salary
+/	O
+heure	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+Études	experience
+secondaires	experience
+-LRB-	O
+niveau	experience
+Bac	experience
+-RRB-	O

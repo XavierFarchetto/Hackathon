@@ -1,0 +1,198 @@
+CONDUCTEURS/TRICES	position
+DE	position
+CARS	position
+PHILIBERT	company
+CARS	company
+-	O
+Domène	city
+-LRB-	O
+38	postal code
+-RRB-	O
+1	salary
+528	salary
+$	salary
+-	
+1	salary
+529	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Dans	O
+le	O
+cadre	O
+de	O
+notre	O
+développement	O
+,	O
+Philibert	company
+Transport	O
+recherche	O
+en	O
+CDI	contrat_type
+,	O
+5	position
+conducteurs/trices	position
+de	position
+cars	position
+TEMPS	contrat_type
+PARTIEL	contrat_type
+MODULE	O
+pour	O
+son	O
+site	O
+de	O
+DOMENE	city
+-LRB-	O
+Isère	O
+-	O
+38	postal code
+-RRB-	O
+et	O
+5	position
+conducteurs/trices	position
+en	position
+TEMPS	contrat_type
+PARTIEL	contrat_type
+SCOLAIRE	O
+.	O
+Missions	hard skills
+lignes	hard skills
+régulières	hard skills
+et	hard skills
+occasionnelles	hard skills
+.	
+Profil	O
+:	O
+Permis	hard skills
+D	hard skills
+,	
+carte	hard skills
+conducteur	hard skills
+et	hard skills
+carte	hard skills
+de	hard skills
+qualification	hard skills
+en	hard skills
+cours	hard skills
+de	hard skills
+validité	hard skills
+exigés	hard skills
+Éléments	
+de	
+salaire	
+selon	O
+grille	O
+conventionnelle	O
+-LRB-	O
+salaire	O
+de	O
+base	O
+et	O
+primes	O
+liées	O
+à	O
+la	O
+conduite	O
+-RRB-	O
+,	O
+CE	O
+,	O
+Avantages	O
+sociaux	O
+-LRB-	O
+13ème	O
+mois	O
+,	O
+mutuelle	O
+obligatoire	O
+...	O
+-RRB-	O
+";"	O
+Compétences	hard skills
+Conduire	hard skills
+des	hard skills
+passagers	hard skills
+selon	hard skills
+un	hard skills
+parcours/circuit	hard skills
+prédéfini	hard skills
+Contrôler	hard skills
+les	hard skills
+titres	hard skills
+de	hard skills
+transport	hard skills
+Encaisser	hard skills
+le	hard skills
+montant	hard skills
+d'une	hard skills
+vente	hard skills
+Préparer	hard skills
+le	hard skills
+véhicule	hard skills
+,	
+repérer	hard skills
+le	hard skills
+parcours	hard skills
+et	hard skills
+prévoir	hard skills
+les	hard skills
+aléas	hard skills
+Renseigner	hard skills
+les	hard skills
+documents	hard skills
+de	hard skills
+bord	hard skills
+d'un	hard skills
+véhicule	hard skills
+Qualités	
+professionnelles	
+Gestion	soft skills
+du	soft skills
+stress	soft skills
+Rigueur	soft skills
+Réactivité	soft skills
+Permis	hard skills
+D	hard skills
+-	O
+Transport	hard skills
+de	hard skills
+personnes	hard skills
+";"	O
+Cette	hard skills
+compétence	hard skills
+est	hard skills
+indispensable	hard skills
+Qualification	hard skills
+:	O
+Ouvrier	hard skills
+qualifié	hard skills
+-LRB-	O
+P1	hard skills
+,	O
+P2	hard skills
+-RRB-	O
+Secteur	hard skills
+d'activité	hard skills
+:	O
+Transports	hard skills
+routiers	hard skills
+réguliers	hard skills
+de	hard skills
+voyageurs	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+528	salary
+$	salary
+à	
+1	salary
+529	salary
+$	salary
+/	O
+mois	salary

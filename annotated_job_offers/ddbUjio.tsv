@@ -1,0 +1,186 @@
+Aide	position
+ménagère	position
+chez	position
+des	position
+particuliers	position
+ATOUT	company
+MENAGE	company
+-	O
+Malakoff	city
+-LRB-	O
+92	postal code
+-RRB-	O
+10	salary
+$	salary
+-	
+11	salary
+$	salary
+par	salary
+heure	salary
+-	O
+Temps	contrat_type
+partiel	contrat_type
+ATOUT	company
+MENAGE	company
+entreprise	O
+de	O
+services	O
+à	O
+la	O
+personne	O
+spécialiste	O
+de	O
+l'entretien	O
+chez	O
+les	O
+particuliers	O
+depuis	O
+1996	O
+.	O
+Recherche	O
+des	position
+personnes	position
+-LRB-	O
+H/F	O
+-RRB-	O
+pour	hard skills
+intervenir	hard skills
+au	hard skills
+domicile	hard skills
+de	hard skills
+particuliers	hard skills
+.	
+Secteur	O
+à	O
+pourvoir	O
+MALAKOFF	city
+-LRB-	O
+92	postal code
+-RRB-	O
+,	O
+et	O
+COMMUNES	O
+PROCHES	O
+dans	O
+un	O
+rayon	O
+de	O
+15	O
+kms	O
+.	O
+Vous	soft skills
+êtes	soft skills
+autonome	soft skills
+,	O
+sérieux	soft skills
+et	soft skills
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+vous	soft skills
+avez	soft skills
+de	soft skills
+très	soft skills
+bonnes	soft skills
+notions	soft skills
+de	soft skills
+ménage	soft skills
+et	soft skills
+de	soft skills
+repassage	soft skills
+,	
+rejoignez	O
+nous	O
+!	O
+Véhicule	O
+souhaité	O
+mais	O
+pas	O
+obligatoire	O
+selon	O
+le	O
+secteur	O
+d'intervention	O
+.	O
+Nous	O
+vous	O
+proposons	O
+:	O
+-LRB-	O
+Temps	O
+choisi	O
+-RRB-	O
+Nous	O
+nous	O
+adaptons	O
+à	O
+votre	O
+emploi	O
+du	O
+temps	O
+et	O
+au	O
+secteur	O
+sur	O
+lequel	O
+vous	O
+souhaitez	O
+travailler	O
+Un	O
+revenu	O
+net	O
+horaire	O
+de	O
+10	O
+$	O
+tout	O
+inclus	O
+.	O
+Des	O
+missions	O
+durables	O
+dans	O
+une	O
+zone	O
+d'intervention	O
+et	O
+qui	O
+respectent	O
+vos	O
+emplois	O
+du	O
+temps	O
+.	O
+Merci	O
+d'envoyer	O
+vos	O
+CV	O
+par	O
+Mail	O
+à	O
+Mme	O
+VALLESPI	O
+Carine	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+partiel	contrat_type
+Salaire	O
+:	O
+10	salary
+$	salary
+à	O
+11	salary
+$	salary
+/	O
+heure	salary
+Expérience	O
+exigée	O
+:	O
+Ménage	experience
+:	O
+2	experience
+ans	experience

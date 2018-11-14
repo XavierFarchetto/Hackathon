@@ -1,0 +1,109 @@
+Stagiaire	position
+Assistante	position
+Recrutement	position
+H/F	O
+2	O
+mois	O
+MAX	company
+PS	company
+DRIVER	company
+-	
+Saint-Ouen	city
+-LRB-	O
+93	postal code
+-RRB-	O
+Stage	contrat_type
+PAS	company
+D'ALTERNANCE	company
+ASSISTANTE	company
+RECRUTEMENT	company
+H/F	O
+-LRB-	O
+Stagiaire	position
+2	O
+mois	O
+maximum	O
+-RRB-	O
+Nous	O
+recherchons	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+stagiaire	position
+Assistante	position
+Recrutement	position
+H/F	O
+Vous	hard skillls
+participerez	hard skillls
+à	hard skillls
+toutes	hard skillls
+les	hard skillls
+étapes	hard skillls
+du	hard skillls
+processus	hard skillls
+de	hard skillls
+recrutement	hard skillls
+:	O
+Diffusion	hard skillls
+des	hard skillls
+offres	hard skillls
+d'emploi	hard skillls
+Réalisation	hard skillls
+des	hard skillls
+entretiens	hard skillls
+Participation	hard skillls
+aux	hard skillls
+entretiens	hard skillls
+de	hard skillls
+recrutement	hard skillls
+Suivi	hard skillls
+des	hard skillls
+candidats	hard skillls
+La	hard skillls
+maîtrise	hard skillls
+du	hard skillls
+logiciel	hard skillls
+Excel	hard skillls
+est	hard skillls
+exigé	hard skillls
+Formation	
+:	O
+-	O
+BAC	experience
+/	O
+BAC	experience
++	experience
+2	experience
+/	O
+Durée	
+:	O
+2	O
+mois	O
+maximum	O
+-	O
+Débutant	O
+accepté	O
+/	O
+Lieu	O
+:	O
+Saint-ouen	city
+-LRB-	O
+93400	postal code
+-RRB-	O
+-	O
+Stage	contrat_type
+avec	O
+convention	O
+de	O
+stage	O
+obligatoire	O
+";"	O
+Gratification	O
+:	O
+minimum	O
+légale	O
+Type	O
+d'emploi	O
+:	O
+Stage	contrat_type

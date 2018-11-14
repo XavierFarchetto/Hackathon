@@ -1,0 +1,155 @@
+Conducteur/Conductrice	position
+de	position
+personnes	position
+en	position
+situation	position
+d'handicap	position
+Alcis	company
+Groupe	company
+-	O
+Villeneuve-Tolosane	city
+-LRB-	O
+31	code postal
+-RRB-	O
+9,98	salary
+$	salary
+-	O
+9,99	salary
+$	salary
+par	salary
+heure	salary
+-	O
+CDD	contrat_type
+Vous	hard skills
+prenez	hard skills
+en	hard skills
+charge	hard skills
+des	hard skills
+personnes	hard skills
+en	hard skills
+situation	hard skills
+de	hard skills
+handicap	hard skills
+";"	
+Vous	hard skills
+veillerez	hard skills
+au	hard skills
+bien-être	hard skills
+des	hard skills
+passagers	hard skills
+,	
+aux	hard skills
+respects	hard skills
+des	hard skills
+règles	hard skills
+de	hard skills
+sécurité	hard skills
+et	hard skills
+au	hard skills
+bon	hard skills
+déroulement	hard skills
+du	hard skills
+trajet	hard skills
+";"	
+Faire	hard skills
+preuve	hard skills
+de	hard skills
+bienveillance	hard skills
+.	O
+Le	experience
+brevet	experience
+de	experience
+secourisme	experience
+de	experience
+1er	experience
+secours	experience
+serait	experience
+un	experience
+plus	experience
+très	experience
+apprécié	experience
+.	O
+Votre	O
+visite	O
+médicale	O
+préfecture	O
+valide	O
+ou	O
+à	O
+passer	O
+-LRB-	O
+coût	O
+36	O
+euros	O
+à	O
+la	O
+charge	O
+du	O
+candidat	O
+-RRB-	O
+.	O
+Avoir	O
+la	O
+possibilité	O
+de	O
+laisser	O
+son	O
+véhicule	O
+professionnel	O
+au	O
+domicile	O
+.	O
+Nous	O
+recherchons	O
+dans	O
+le	O
+secteur	O
+de	O
+Villeneuve	O
+Tolosan	O
+.	O
+CDD	contrat_type
+à	O
+pourvoir	O
+le	O
+plus	O
+rapidement	O
+possible	O
+:	O
+20	O
+heures	O
+hebdomadaires	O
+,	O
+jusqu'au	O
+22	O
+décembre	O
+2017	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+9,98	salary
+$	salary
+à	O
+9,99	salary
+$	salary
+/	
+heure	salary
+Localisation	O
+du	O
+poste	O
+:	O
+Villeneuve-Tolosane	city
+-LRB-	O
+31	code postal
+-RRB-	O
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills
+D	hard skills

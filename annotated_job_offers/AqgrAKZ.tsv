@@ -1,0 +1,220 @@
+Conseiller	position
+commercial	position
+H/F	O
+MAGIC	company
+FORM	company
+-	O
+Épinay-sur-Seine	city
+-LRB-	O
+93	postal code
+-RRB-	O
+1	salary
+500	salary
+$	salary
+-	
+2	salary
+200	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+MAGIC	company
+FORM	company
+est	O
+une	O
+enseigne	O
+nationale	O
+de	O
+salle	O
+de	O
+sport	O
+qui	O
+existe	O
+depuis	O
+plus	O
+de	O
+10ans	O
+.	O
+Le	O
+concept	O
+est	O
+de	O
+proposer	O
+toutes	O
+les	O
+activités	O
+Fitness	O
+à	O
+un	O
+prix	O
+attractif	O
+.	O
+Aujourd	O
+'	O
+hui	O
+plus	O
+de	O
+85	O
+clubs	O
+sur	O
+la	O
+France	O
+avec	O
+une	O
+constante	O
+évolution	O
+.	O
+Nous	O
+recrutons	O
+pour	O
+le	O
+club	O
+de	O
+EPINAY	city
+-LRB-	O
+93	postal code
+-RRB-	O
+un	position
+conseiller	position
+commercial	position
+Homme/Femme	position
+en	O
+CDI	contrat_type
+35H	O
+.	O
+DESCRIPTION	O
+DU	O
+POSTE	O
+:	O
+En	hard skills
+tant	hard skills
+que	hard skills
+conseiller	hard skills
+commercial	hard skills
+vous	hard skills
+aurez	hard skills
+pour	hard skills
+mission	hard skills
+:	O
+-	
+L'accueil	hard skills
+client	hard skills
+,	
+le	hard skills
+conseil	hard skills
+,	O
+la	hard skills
+vente	hard skills
+des	hard skills
+différents	hard skills
+abonnements	hard skills
+.	O
+-	O
+Le	hard skills
+traitement	hard skills
+/	
+suivi	hard skills
+des	hard skills
+dossiers	hard skills
+d'inscription	hard skills
+et	hard skills
+du	hard skills
+paiement.-La	hard skills
+relation	hard skills
+client	hard skills
+et	hard skills
+garantir	hard skills
+le	hard skills
+bonne	hard skills
+tenue	hard skills
+des	hard skills
+installations	hard skills
+.	O
+COMPÉTENCES	O
+NÉCESSAIRES	O
+-	O
+Sens	soft skills
+commercial	soft skills
+-	O
+Aisance	soft skills
+relationnelle	soft skills
+-	O
+Réactivité	soft skills
+/	O
+dynamisme	soft skills
+-	O
+Bon	soft skills
+sens	soft skills
+-	
+Être	soft skills
+convaincant	soft skills
+-	O
+Rigueur/Autonomie	soft skills
+Rémunération	
+:	O
+Salaire	O
+fixe	O
++	O
+commissions	O
++	O
+primes	O
+Horaire	O
+de	O
+travail	O
+:	O
+Ouverture	O
+de	O
+club	O
+7j/7Envoyer	O
+votre	O
+CV	O
+avec	O
+PHOTO	O
+et	O
+lettre	O
+de	O
+motivation.Rejoignez	O
+notre	O
+équipe	O
+et	O
+vivez	O
+votre	O
+passion	O
+de	O
+la	O
+VENTE	O
+et	O
+le	O
+SPORT	O
+dans	O
+un	O
+cadre	O
+sportif	O
+,	O
+convivial	O
+!	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+500	salary
+$	salary
+à	O
+2	salary
+200	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	
+COMMERCIAL	experience
+/	O
+VENTE	experience
+:	O
+1	experience
+an	experience

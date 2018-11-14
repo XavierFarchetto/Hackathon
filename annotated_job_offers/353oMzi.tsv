@@ -1,0 +1,211 @@
+Commis	position
+de	position
+cuisine	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Marriott	company
+'s	company
+Village	company
+d'Ile	
+de	O
+France	O
+-	O
+Bailly-Romainvilliers	city
+-LRB-	O
+77	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Missions	O
+:	O
+Cuisiner	hard skills
+--	O
+Capable	hard skills
+de	hard skills
+préparer	hard skills
+et	hard skills
+de	hard skills
+présenter	hard skills
+des	hard skills
+menus	hard skills
+sur	hard skills
+des	hard skills
+principes	hard skills
+culinaires	hard skills
+,	
+standards	hard skills
+et	hard skills
+techniques	hard skills
+-LRB-	O
+e.g.	O
+,	O
+faire	hard skills
+griller	hard skills
+,	
+faire	hard skills
+sauter	hard skills
+,	O
+faire	hard skills
+bouillir	hard skills
+en	hard skills
+disposant	hard skills
+de	hard skills
+manière	hard skills
+décorative	hard skills
+la	hard skills
+nourriture	hard skills
+-RRB-	
+.	O
+Présentation	hard skills
+--	O
+Connaissance	hard skills
+des	hard skills
+techniques	hard skills
+et	hard skills
+des	hard skills
+équipements	hard skills
+pour	hard skills
+préparer	hard skills
+et	hard skills
+présenter	hard skills
+la	hard skills
+nourriture	hard skills
+pour	hard skills
+la	hard skills
+consommation	hard skills
+incluant	hard skills
+les	hard skills
+techniques	hard skills
+de	hard skills
+stockage	hard skills
+et	hard skills
+les	hard skills
+standards	hard skills
+d'assainissement	hard skills
+Être	hard skills
+à	hard skills
+l'aise	hard skills
+avec	hard skills
+les	hard skills
+chiffres	hard skills
+--	O
+Être	hard skills
+capable	hard skills
+d'additionner	hard skills
+,	O
+de	hard skills
+diviser	hard skills
+,	O
+de	hard skills
+soustraire	hard skills
+et	hard skills
+de	hard skills
+multiplier	hard skills
+rapidement	hard skills
+.	
+Compréhension	hard skills
+écrite	hard skills
+--	
+Comprendre	hard skills
+les	hard skills
+documents	hard skills
+mis	hard skills
+à	hard skills
+disposition	hard skills
+.	
+Ecriture	soft skills
+--	O
+Savoir	soft skills
+écrire	soft skills
+de	soft skills
+manière	soft skills
+à	soft skills
+ce	soft skills
+que	soft skills
+tout	soft skills
+le	soft skills
+monde	soft skills
+comprennent	soft skills
+.	O
+Compréhension	soft skills
+Orale	soft skills
+--	
+Savoir	soft skills
+écouter	soft skills
+et	soft skills
+comprendre	soft skills
+les	soft skills
+informations	soft skills
+et	soft skills
+les	soft skills
+idées	soft skills
+présentées	soft skills
+dans	soft skills
+une	soft skills
+conversation	soft skills
+.	
+Service	soft skills
+personnel	soft skills
+aux	soft skills
+clients	soft skills
+-	O
+Connaissance	soft skills
+des	soft skills
+principes	soft skills
+et	soft skills
+des	soft skills
+procédés	soft skills
+pour	soft skills
+fournir	soft skills
+au	soft skills
+client	soft skills
+des	soft skills
+services	soft skills
+personnalisé	soft skills
+.	O
+Cela	O
+comprend	O
+l'évaluation	O
+des	O
+besoins	O
+client	O
+,	O
+le	soft skills
+respect	soft skills
+des	soft skills
+normes	soft skills
+de	soft skills
+qualité	soft skills
+des	soft skills
+services	soft skills
+et	soft skills
+l'évaluation	soft skills
+de	soft skills
+la	soft skills
+satisfaction	soft skills
+du	soft skills
+client	soft skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+cuisine	experience
+:	O
+2	experience
+ans	experience

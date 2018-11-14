@@ -1,0 +1,229 @@
+TECHNICIEN	position
+CHEF	position
+D'EQUIPE	position
+5COM	company
+-	O
+Arles	city
+-LRB-	O
+13	postal_code
+-RRB-	O
+2	salary
+0	salary
+$	salary
+-	O
+2	salary
+300	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Société	O
+:	O
+5COM	company
+Ré	O
+fé	O
+rence	O
+de	O
+l'offre	O
+:	O
+Chef	position
+d'équipe	position
+Secteur
+d'activité	O
+:	O
+Électronique	O
+Localisation	O
+:	O
+ARLES	city
+13200	postal_code
+Type
+de	O
+contrat	O
+:	O
+CDI	contrat_type
+Dé	O
+but	O
+du	O
+contrat	O
+:	O
+30	O
+/	O
+oct-17	O
+Salaire	O
+:	O
+2000	salary
+$	salary
+à	O
+2300	salary
+$	salary
+-LRB-	O
+à	O
+négocier	O
+-RRB-	O
+Formation	O
+requise	O
+:	O
+BEP	experience
+/
+BAC	experience
+-LRB-	O
+en	experience
+électricité	experience
+ou	experience
+autre	experience
+-RRB-	O
+L'Entreprise
+5COM	company
+partenaire
+D'ENEDIS	O
+recrute	O
+:	O
+Linky	O
+est	O
+le	O
+nouveau	O
+compteur	O
+communicant	O
+d'électricité	O
+qui	O
+sera	O
+déployé	O
+dans	O
+la	O
+région	O
+d'Arles	city
+à	O
+partir	O
+d'OCTOBRE	O
+2017	O
+et	O
+jusqu'en	O
+2021	O
+.	O
+Ce	O
+projet	O
+est	O
+conduit	O
+par	O
+l'entreprise	O
+de	O
+service	O
+public	O
+de	O
+distribution	O
+d'électricité	O
+ENEDIS	O
+.	O
+La	O
+société	O
+5COM	company
+qui	O
+participe	O
+au	O
+déploiement	O
+du	O
+compteur	O
+Linky	O
+,	O
+présente	O
+à	O
+travers	O
+toute	O
+la	O
+France	O
+,	O
+recrute	O
+pour	O
+mener	O
+à	O
+bien	O
+cette	O
+mission	O
+:	O
+1	position
+CHEF	position
+D'EQUIPE	position
+Formation	O
+avant	O
+l'embauche	O
+dans	O
+le	O
+cadre	O
+d'une	O
+POEI	O
+à	O
+compter	O
+du	O
+28-août	O
+/	O
+2017	O
+.	O
+Vos	hard skills
+missions	hard skills
+:
+-	O
+Encadrer	hard skills
+et	hard skills
+gérer	hard skills
+une	hard skills
+équipe	hard skills
+-	O
+Normes	hard skills
+électriques	hard skills
+-	O
+T	hard skills
+ravailler	hard skills
+en	hard skills
+permanence	hard skills
+sur	hard skills
+le	hard skills
+terrain	hard skills
+chez	hard skills
+des	hard skills
+particuliers	hard skills
+-	O
+R	hard skills
+éaliser	hard skills
+et	hard skills
+déposer	hard skills
+des	hard skills
+branchements	hard skills
+électriques	hard skills
+-
+Reprise	hard skills
+d'anomalies	hard skills
+de	hard skills
+pose	hard skills
+et
+sens	soft skills
+de	soft skills
+la	soft skills
+qualité	soft skills
+-	O
+Gestion	soft skills
+de	soft skills
+stress	soft skills
+et	soft skills
+des	soft skills
+priorités	soft skills
+,
+réactivité	soft skills
+Envoyer
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+Gestion	experience
+D'Équipe	experience
+:	O
+2	experience
+ans	experience

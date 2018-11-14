@@ -1,0 +1,248 @@
+Assistant	position
+administratif	position
+H/F	O
+SANTÉPROS	company
+-	O
+Lyon	city
+6e	city
+-LRB-	O
+69	postal code
+-RRB-	O
+1	salary
+550	salary
+$	salary
+par	salary
+mois	salary
+Depuis	O
+plus	O
+de	O
+10	O
+ans	O
+,	O
+le	O
+groupe	O
+SANTÉPROS	company
+est	O
+le	O
+leader	O
+de	O
+la	O
+gestion	O
+de	O
+factures	O
+pour	O
+les	O
+professions	O
+de	O
+santé	O
+.	O
+Votre	soft skills
+implication	soft skills
+et	soft skills
+votre	soft skills
+volonté	soft skills
+d'intégrer	soft skills
+un	soft skills
+groupe	soft skills
+à	soft skills
+taille	soft skills
+humaine	soft skills
+,	O
+soucieux	soft skills
+de	soft skills
+développer	soft skills
+les	soft skills
+compétences	soft skills
+vous	hard skills
+permettront	hard skills
+de	hard skills
+vous	hard skills
+épanouir	hard skills
+et	hard skills
+de	hard skills
+progresser	hard skills
+.	
+Vos	hard skills
+missions	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Assistanat	hard skills
+de	hard skills
+la	hard skills
+Responsable	hard skills
+RH	hard skills
+et	hard skills
+administrative	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+Comptable	hard skills
+Accueil	hard skills
+physique	hard skills
+et	hard skills
+téléphonique	hard skills
+Gestion	hard skills
+du	hard skills
+courrier	hard skills
+Gestion	hard skills
+des	hard skills
+moyens	hard skills
+généraux	hard skills
+et	hard skills
+de	hard skills
+la	hard skills
+vie	hard skills
+courante	hard skills
+de	hard skills
+l'entreprise	hard skills
+:	hard skills
+organisation	hard skills
+d'évènements	hard skills
+,	O
+classement	hard skills
+,	
+archivage	hard skills
+Suivi	hard skills
+des	hard skills
+tableaux	hard skills
+de	hard skills
+bord	hard skills
+du	hard skills
+service	hard skills
+RH	hard skills
+Assistance	hard skills
+au	hard skills
+recrutement	hard skills
+:	
+publication	hard skills
+des	hard skills
+annonces	hard skills
+,	
+tri	hard skills
+des	hard skills
+CV	hard skills
+,	
+prise	hard skills
+de	hard skills
+RDV	hard skills
+,	
+gestion	hard skills
+des	hard skills
+plannings	hard skills
+,	
+constitution	hard skills
+des	hard skills
+dossiers	hard skills
+candidats	hard skills
+Votre	
+profil	O
+:	O
+Titulaire	experience
+d'un	experience
+DUT	experience
+ou	experience
+BTS	experience
+-LRB-	
+Assistant	experience
+de	experience
+gestion	experience
+PME-PMI	experience
+,	O
+GACO	experience
+...	O
+-RRB-	
+Excellente	hard skills
+maîtrise	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+et	hard skills
+bureautiques	hard skills
+:	O
+Word	hard skills
+,	O
+Excel	hard skills
+,	O
+Outlook	hard skills
+Bonne	hard skills
+maîtrise	hard skills
+de	hard skills
+l'orthographe	hard skills
+Bonne	soft skills
+aisance	soft skills
+au	soft skills
+téléphone	soft skills
+Qualités	soft skills
+:	O
+rigueur	soft skills
+,	O
+organisation	soft skills
+,	
+discrétion	soft skills
+Informations	soft skills
+complémentaires	soft skills
+:	
+Contrat	
+:	O
+CDI	contrat_type
+Lieu	O
+de	O
+travail	O
+:	O
+Lyon	city
+6ème	city
+Rémunération	O
+:	O
+1550	salary
+$	salary
+par	salary
+mois	salary
+Tickets	O
+restaurant	O
+,	O
+mutuelle	O
+,	O
+prime	O
+de	O
+vacances	O
+Merci	O
+de	O
+bien	O
+vouloir	O
+nous	O
+faire	O
+parvenir	O
+votre	O
+CV	O
+et	O
+lettre	O
+de	O
+motivation	O
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+1	salary
+550	salary
+$	salary
+/	O
+mois	salary
+Formation	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience

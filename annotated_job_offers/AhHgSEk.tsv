@@ -1,0 +1,218 @@
+Commercial	position
+Sédentaire	position
+H/F	O
+FRANCE	company
+BOISSONS	company
+-	O
+Lyon	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+600	salary
+$	salary
+-	O
+1	salary
+700	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+France	company
+Boissons	company
+Rhône	O
+Alpes	O
+,	O
+société	O
+de	O
+distribution	O
+de	O
+boissons	O
+et	O
+services	O
+,	O
+recherche	O
+pour	O
+son	O
+établissement	O
+de	O
+Corbas	O
+,	O
+un/une	position
+Commercial	position
+-LRB-	O
+e	position
+-RRB-	O
+sédentaire	position
+au	O
+service	O
+Grand-compte	O
+:	O
+Ses	O
+fonctions	O
+:	O
+Prise	hard skills
+de	hard skills
+commandes	hard skills
+et	hard skills
+suivi	hard skills
+du	hard skills
+portefeuille	hard skills
+clients	hard skills
+en	hard skills
+binôme	hard skills
+avec	hard skills
+un	hard skills
+commercial	hard skills
+terrain	hard skills
+Proposition	hard skills
+de	hard skills
+produits	hard skills
+et	hard skills
+services	hard skills
+Relais	hard skills
+d'information	hard skills
+auprès	hard skills
+des	hard skills
+différents	hard skills
+services	hard skills
+de	hard skills
+l'entreprise	hard skills
+Déployer	hard skills
+et	hard skills
+faire	hard skills
+respecter	hard skills
+les	hard skills
+accords	hard skills
+sur	hard skills
+les	hard skills
+clients	hard skills
+nationaux	hard skills
+Gérer	hard skills
+les	hard skills
+dysfonctionnements	hard skills
+-LRB-	
+avoirs	hard skills
+,	O
+problèmes	hard skills
+de	hard skills
+livraisons	hard skills
+,	
+...	O
+-RRB-	O
+Lieu	O
+de	O
+travail	O
+:	O
+69	code postal
+--	O
+LYON	city
+Type	O
+de	O
+contrat	O
+:	O
+Contrat	contrat_type
+à	contrat_type
+durée	contrat_type
+déterminée	contrat_type
+Nature	O
+d'offre	O
+:	O
+Contrat	O
+de	O
+travail	O
+Expérience	O
+:	O
+Bac	experience
++	experience
+2	experience
+commercial/assistante	experience
+de	experience
+direction	experience
+souhaité	experience
+Autres	O
+connaissances	O
+:	O
+Aisance	hard skills
+téléphonique	hard skills
+exigée	hard skills
+,	O
+connaissances	hard skills
+en	hard skills
+informatique	hard skills
+-LRB-	O
+Excel/Word	hard skills
+exigés	hard skills
+-RRB-	O
+,	O
+SAP	hard skills
+souhaité	hard skills
+,	O
+rigueur	soft skills
+,	O
+polyvalence	soft skills
+et	soft skills
+facilité	soft skills
+d'adaptation	soft skills
+.	O
+Ecoute	soft skills
+et	soft skills
+orientation	soft skills
+client	soft skills
+Qualification	soft skills
+:	O
+Employé	O
+Salaire	O
+indicatif	O
+:	O
+1700	salary
+$	salary
+X	salary
+12,92	salary
+mois	salary
++	
+prime	O
+variable	O
++	O
+mutuelle	O
++	O
+tickets	O
+restaurant	O
+Durée	O
+hebdomadaire	O
+de	O
+travail	O
+:	O
+35	O
+heures	O
+Secteur	O
+d'activité	O
+:	O
+Commerce	O
+de	O
+gros	O
+de	O
+boissons	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+600	salary
+$	salary
+à	
+1	salary
+700	salary
+$	salary
+/	O
+mois	salary
+Expérience	O
+exigée	O
+:	O
+télévente	experience
+:	O
+1	experience
+an	experience

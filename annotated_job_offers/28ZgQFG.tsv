@@ -1,0 +1,302 @@
+Assistante	position
+juridique	position
+FROMONT	company
+BRIENS	company
+-	O
+Lyon	city
+-LRB-	O
+69	code postal
+-RRB-	O
+1	salary
+907	salary
+$	salary
+-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Secrétaire	position
+Juridique	position
+-LRB-	O
+H/F	O
+-RRB-	O
+-LRB-	O
+1	experience
+à	experience
+3	experience
+ans	experience
+d'expérience	experience
+-RRB-	O
+Ref	
+SECJUR17	company
+FROMONT	company
+BRIENS	company
+-LRB-	O
+Paris/Lyon	city
+180	O
+avocats	O
+-RRB-	O
+,	O
+Cabinet	O
+d'avocats	O
+spécialisés	O
+et	O
+leader	O
+en	O
+droit	O
+social	O
+en	O
+France	O
+,	O
+FROMONT	company
+BRIENS	company
+accompagne	O
+les	O
+entreprises	O
+et	O
+leurs	O
+dirigeants	O
+.	O
+Partenaire	O
+de	O
+Littler	O
+Global	O
+,	O
+un	O
+des	O
+plus	O
+grands	O
+réseaux	O
+américains	O
+regroupant	O
+les	O
+cabinets	O
+internationaux	O
+les	O
+plus	O
+réputés	O
+en	O
+droit	O
+social	O
+,	O
+le	O
+cabinet	O
+poursuit	O
+son	O
+développement	O
+en	O
+renforçant	O
+ses	O
+équipes	O
+,	O
+et	O
+Recherche	O
+un	position
+-LRB-	O
+e	position
+-RRB-	O
+Secrétaire	position
+-LRB-	O
+s	position
+-RRB-	O
+Juridique	position
+H/F	O
+-LRB-	O
+1	experience
+à	experience
+3	experience
+ans	experience
+d'expérience	experience
+-RRB-	O
+Vos	O
+missions	O
+:	O
+Frappe	hard skills
+de	hard skills
+courts/longs	hard skills
+documents	hard skills
+sous	hard skills
+audio	hard skills
+,	O
+mise	hard skills
+en	hard skills
+forme	hard skills
+des	hard skills
+documents	hard skills
+,	O
+gestion	hard skills
+de	hard skills
+l'agenda	hard skills
+,	O
+placements	hard skills
+,	
+préparation	hard skills
+des	hard skills
+dossiers	hard skills
+de	hard skills
+plaidoirie	hard skills
+,	O
+suivi	hard skills
+des	hard skills
+procédures	hard skills
+,	O
+classement	hard skills
+,	
+archivage	hard skills
+,	O
+organisation	hard skills
+des	hard skills
+voyages	hard skills
+,	
+téléphone	hard skills
+.	O
+Profil	
+recherché	O
+:	O
+-	O
+Formation	experience
+BAC	experience
+2	experience
+en	experience
+assistanat	experience
+ou	experience
+1er	experience
+cycle	experience
+ESAS/ENADEP	experience
+ou	experience
+équivalent	experience
+,	O
+complété	experience
+par	experience
+1	experience
+à	experience
+3	experience
+ans	experience
+d'expérience	experience
+en	experience
+tant	experience
+que	experience
+secrétaire	experience
+juridique	experience
+en	experience
+cabinet	experience
+d'avocats	experience
+-	O
+Excellente	hard skills
+orthographe	hard skills
+,	O
+parfaite	hard skills
+maîtrise	hard skills
+des	hard skills
+outils	hard skills
+informatiques	hard skills
+-LRB-	O
+word	hard skills
+,	O
+excel	hard skills
+,	O
+powerpoint	hard skills
+-RRB-	O
+et	hard skills
+audio	hard skills
+.	O
+La	hard skills
+pratique	hard skills
+de	hard skills
+CICERON	hard skills
+serait	hard skills
+un	hard skills
+plus	hard skills
+.	
+-	O
+Vous	soft skills
+serez	soft skills
+appréciée	soft skills
+pour	soft skills
+votre	soft skills
+organisation	soft skills
+,	O
+votre	soft skills
+capacité	soft skills
+d'adaptation	soft skills
+et	soft skills
+d'anticipation	soft skills
+,	
+votre	soft skills
+fiabilité	soft skills
+,	O
+votre	soft skills
+réactivité	soft skills
+,	O
+votre	soft skills
+capacité	soft skills
+à	soft skills
+gérer	soft skills
+les	soft skills
+priorités	soft skills
+et	soft skills
+votre	soft skills
+discrétion	soft skills
+.	O
+Disponibilité	soft skills
+immédiate	soft skills
+C.D.I.	contrat_type
+temps	O
+plein	O
+-	O
+35	O
+heures	O
+hebdomadaires	O
+Poste	O
+situé	O
+à	O
+Lyon	city
+3ème	city
+Rémunération	O
+selon	O
+expérience	O
++	O
+avantages	O
+maison	O
+-LRB-	O
+participation	O
+,	O
+épargne	O
+salariale	O
+,	O
+comité	O
+d'entreprise	O
+,	O
+tickets	O
+restaurants	O
+...	O
+.	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+907	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+exigée	O
+:	O
+assistanat	experience
+juridique	experience
+droit	experience
+social	experience
+:	O
+1	experience
+an	experience

@@ -1,0 +1,292 @@
+POSEUR	position
+/	
+technicien	position
+DE	position
+POÊLES	position
+&	position
+CHEMINEES	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Maxim	company
+`	O
+home	company
+-	O
+Villeneuve-d'Ascq	city
+-LRB-	O
+59	code postal
+-RRB-	O
+1	salary
+700	salary
+$	salary
+-	O
+2	salary
+0	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDD	contrat_type
+Rattaché	O
+directement	O
+au	O
+gérant	O
+,	O
+vous	hard skills
+intervenez	hard skills
+chez	hard skills
+les	hard skills
+clients	hard skills
+pour	hard skills
+la	hard skills
+pose	hard skills
+des	hard skills
+cheminées	hard skills
+&	hard skills
+poêles	hard skills
+-LRB-	
+à	hard skills
+bois	hard skills
+et	hard skills
+granulés	hard skills
+-RRB-	O
+,	O
+sur	hard skills
+des	hard skills
+chantiers	hard skills
+en	hard skills
+neuf	hard skills
+et	hard skills
+en	hard skills
+rénovation	hard skills
+.	O
+Vous	hard skills
+aurez	hard skills
+pour	hard skills
+missions	hard skills
+de	O
+:	O
+Préparer	hard skills
+le	hard skills
+chantier	hard skills
+:	
+sécurité	hard skills
+,	O
+protection	hard skills
+des	hard skills
+biens	hard skills
+du	hard skills
+client	hard skills
+,	
+dépose	hard skills
+de	hard skills
+cheminées	hard skills
+,	O
+évacuation	hard skills
+des	hard skills
+gravats	hard skills
+.	O
+Créer	hard skills
+l'arrivée	hard skills
+d'air	hard skills
+extérieure	hard skills
+,	O
+tuber	hard skills
+un	hard skills
+conduit	hard skills
+de	hard skills
+fumée	hard skills
+existant	hard skills
+ou	hard skills
+poser	hard skills
+un	hard skills
+nouveau	hard skills
+conduit	hard skills
+de	hard skills
+fumée	hard skills
+inox	hard skills
+isolé	hard skills
+.	O
+Installer	hard skills
+et	hard skills
+raccorder	hard skills
+les	hard skills
+équipements	hard skills
+:	O
+foyer	hard skills
+,	O
+insert	hard skills
+,	O
+poêle	hard skills
+à	hard skills
+bois	hard skills
+,	O
+à	hard skills
+granulés	hard skills
+.	O
+Poser	hard skills
+l'habillage	hard skills
+et	hard skills
+selon	hard skills
+les	hard skills
+projets	hard skills
+des	hard skills
+coffrages	hard skills
+placo	hard skills
+ou	hard skills
+staff	hard skills
+Assurer	hard skills
+les	hard skills
+finitions	hard skills
+et	hard skills
+le	hard skills
+nettoyage	hard skills
+du	hard skills
+chantier	hard skills
+.	O
+Procéder	hard skills
+à	hard skills
+l'entretien	hard skills
+et	hard skills
+au	hard skills
+ramonage	hard skills
+des	hard skills
+équipements	hard skills
+.	O
+Effectuer	hard skills
+la	hard skills
+réception	hard skills
+du	hard skills
+projet	hard skills
+avec	hard skills
+le	hard skills
+client	hard skills
+et	hard skills
+réceptionner	hard skills
+le	hard skills
+règlement	hard skills
+.	
+Vous	hard skills
+justifiez	hard skills
+d'au	hard skills
+moins	hard skills
+une	hard skills
+année	hard skills
+d'expérience	hard skills
+dans	hard skills
+le	hard skills
+domaine	hard skills
+de	hard skills
+la	hard skills
+pose	hard skills
+de	hard skills
+poêles	hard skills
+/	O
+cheminées	hard skills
+.	O
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+et	soft skills
+savez	soft skills
+travailler	soft skills
+en	soft skills
+autonomie	soft skills
+et/ou	soft skills
+en	soft skills
+équipe	soft skills
+.	O
+Rigoureux	soft skills
+et	soft skills
+responsable	soft skills
+,	O
+vous	soft skills
+respectez	soft skills
+les	soft skills
+règles	soft skills
+et	soft skills
+consignes	soft skills
+de	soft skills
+sécurité	soft skills
+.	O
+Vous	soft skills
+avez	soft skills
+également	soft skills
+un	soft skills
+bon	soft skills
+relationnel	soft skills
+et	soft skills
+êtes	hard skills
+titulaire	hard skills
+du	hard skills
+permis	hard skills
+B	hard skills
+:	O
+un	O
+véhicule	O
+de	O
+fonction	O
+pourra	O
+vous	O
+être	O
+proposé	O
+.	O
+Le	O
+poste	O
+est	O
+à	O
+pourvoir	O
+en	O
+CDD	contrat_type
+avec	O
+possible	O
+reconduction	O
+en	O
+CDI	contrat_type
+,	O
+et	O
+est	O
+à	O
+pourvoir	O
+dès	O
+que	O
+possible	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDD	contrat_type
+Salaire	O
+:	O
+1	salary
+700	salary
+$	salary
+à	O
+2	salary
+0	salary
+$	salary
+/	
+mois	salary
+Expérience	O
+-LRB-	O
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+pose	experience
+de	experience
+poêles	experience
+et	experience
+cheminées	experience
+:	O
+1	experience
+an	experience
+bâtiment	experience
+et	experience
+chantier	experience
+:	O
+1	experience
+an	experience

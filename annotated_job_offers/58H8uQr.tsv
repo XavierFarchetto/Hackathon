@@ -1,0 +1,278 @@
+Prothésiste	position
+ongulaire	position
+H/F	O
+SODIA	company
+AQUITAINE	company
+ENSEIGNE	company
+LECLERC	company
+-	O
+Sainte-Eulalie	city
+-LRB-	O
+33	code postal
+-RRB-	O
+CENTRE	O
+DISTRIBUTEUR	O
+E.	company
+LECLERC	company
+Défendre	O
+le	O
+pouvoir	O
+d	O
+achat	O
+,	O
+agir	O
+pour	O
+une	O
+consommation	O
+plus	O
+juste	O
+,	O
+transparente	O
+et	O
+respectueuse	O
+de	O
+notre	O
+environnement	O
+,	O
+c	O
+est	O
+tout	O
+le	O
+sens	O
+de	O
+l	O
+engagement	O
+des	O
+entités	O
+du	O
+Mouvement	O
+E.Leclerc	O
+.	O
+Rejoignez-nous	O
+pour	O
+partager	O
+une	O
+autre	O
+vision	O
+de	O
+la	O
+distribution	O
+où	O
+le	O
+sens	O
+des	O
+responsabilités	O
+et	O
+l	O
+autonomie	O
+seront	O
+les	O
+garants	O
+de	O
+perspectives	O
+d	O
+évolution	O
+motivantes	O
+.	O
+Le	position
+prothésiste	position
+ongulaire	position
+est	O
+l'expert	O
+de	O
+la	O
+beauté	O
+des	O
+ongles	O
+!	O
+Le	position
+prothésiste	position
+ongulaire	position
+conseille	hard skills
+sa	hard skills
+clientèle	hard skills
+,	O
+très	hard skills
+majoritairement	hard skills
+féminine	hard skills
+,	O
+et	hard skills
+lui	hard skills
+propose	hard skills
+les	hard skills
+produits	hard skills
+les	hard skills
+plus	hard skills
+adaptés	hard skills
+.	O
+Il	hard skills
+maîtrise	hard skills
+les	hard skills
+techniques	hard skills
+de	hard skills
+conceptions	hard skills
+,	O
+de	hard skills
+décorations	hard skills
+et	hard skills
+de	hard skills
+pose	hard skills
+de	hard skills
+FAUX	hard skills
+ongles	hard skills
+-LRB-	O
+gel	hard skills
+UV	hard skills
+et	hard skills
+résine	hard skills
+-RRB-	O
+.	O
+La	hard skills
+prothésie	hard skills
+ongulaire	hard skills
+effectue	hard skills
+plusieurs	hard skills
+tâches	hard skills
+:	O
+Examen	hard skills
+esthétique	hard skills
+de	hard skills
+l'ongle	hard skills
+:	O
+vérifier	hard skills
+que	hard skills
+l'ongle	hard skills
+est	hard skills
+sain	hard skills
+et	hard skills
+compatible	hard skills
+avec	hard skills
+le	hard skills
+produit	hard skills
+proposé	hard skills
+.	O
+Pose	hard skills
+:	O
+la	hard skills
+pose	hard skills
+regroupe	hard skills
+deux	hard skills
+techniques	hard skills
+particulières	hard skills
+selon	hard skills
+le	hard skills
+produit	hard skills
+employé	hard skills
+-LRB-	O
+gel	hard skills
+UV	hard skills
+ou	hard skills
+résine	hard skills
+-RRB-	O
+.	O
+Elle	hard skills
+dure	hard skills
+entre	hard skills
+une	hard skills
+heure	hard skills
+et	hard skills
+une	hard skills
+heure	hard skills
+et	hard skills
+demie	hard skills
+par	hard skills
+prestation	hard skills
+demandée	hard skills
+-LRB-	O
+remplissage	hard skills
+,	O
+extension	hard skills
+,	O
+réparation	hard skills
+-RRB-	O
+.	
+Décoration	hard skills
+:	O
+application	hard skills
+de	hard skills
+vernis	hard skills
+,	O
+bijoux	hard skills
+,	O
+motifs	hard skills
+...	O
+Dépose	hard skills
+:	O
+retirer	hard skills
+la	hard skills
+prothèse	hard skills
+,	O
+par	hard skills
+limage	hard skills
+ou	hard skills
+dissolution	hard skills
+.	O
+Habilités	hard skills
+manuelles	hard skills
+:	O
+il	
+s	
+`	O
+agit	hard skills
+d'un	hard skills
+travail	hard skills
+très	hard skills
+méticuleux	hard skills
+nécessitant	hard skills
+précision	hard skills
+,	O
+patience	soft skills
+et	soft skills
+dextérité	soft skills
+.	O
+Sens	soft skills
+commercial	soft skills
+:	O
+le	position
+prothésiste	position
+ongulaire	position
+,	O
+est	hard skills
+aussi	hard skills
+un	hard skills
+commercial	hard skills
+qui	hard skills
+doit	hard skills
+vendre	hard skills
+ses	hard skills
+produits	hard skills
+et	hard skills
+ses	hard skills
+prestations	hard skills
+.	O
+Poste	O
+à	O
+pourvoir	O
+en	O
+CDI	contrat_type
+temps	O
+partiel	O
+26h	O
+.	O
+Expérience	O
+exigée	O
+de	O
+2	experience
+ans	experience
+en	experience
+prothésie	experience
+ongulaire	experience
+.	O
+Expérience	experience
+exigée	experience
+:	O
+prothésie	experience
+ongulaire	experience
+:	O
+2	experience
+ans	experience

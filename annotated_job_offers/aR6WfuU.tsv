@@ -1,0 +1,175 @@
+Assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+Polyvalent	position
+-LRB-	O
+e	position
+-RRB-	O
+H/F	O
+AQUADIM	company
+-	O
+Paris	city
+15e	city
+-LRB-	O
+75	code postal
+-RRB-	O
+30	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Au	O
+sein	O
+de	O
+notre	O
+entreprise	O
+de	O
+taille	O
+moyenne	O
+et	O
+en	O
+croissance	O
+continue	O
+,	O
+nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+d'un	position
+ou	O
+d'une	position
+assistant	position
+-LRB-	O
+e	position
+-RRB-	O
+qui	O
+travaillera	O
+en	O
+collaboration	O
+étroite	O
+avec	O
+la	O
+Direction	O
+.	O
+Le	O
+poste	O
+,	O
+bien	O
+qu'amené	O
+à	O
+évoluer	O
+selon	O
+les	O
+projets	O
+,	O
+s	O
+`	O
+articulera	O
+autour	O
+des	O
+missions	O
+suivantes	O
+:	O
+-	O
+Gestion	hard skills
+de	hard skills
+la	hard skills
+flotte	hard skills
+automobile	hard skills
+";"	O
+-	
+Etablissement	hard skills
+et	hard skills
+gestion	hard skills
+des	hard skills
+contrats	hard skills
+de	hard skills
+sous-traitance	hard skills
+";"	O
+-	O
+Participation	hard skills
+à	hard skills
+de	hard skills
+nouveaux	hard skills
+projets	hard skills
+de	hard skills
+développement	hard skills
+de	hard skills
+l'entreprise	hard skills
+";"	O
+-	O
+Rédaction	hard skills
+de	hard skills
+courriers	hard skills
+et	hard skills
+courriels	hard skills
+";"	O
+-	O
+Assurer	hard skills
+les	hard skills
+tâches	hard skills
+administratives	hard skills
+liées	hard skills
+au	hard skills
+bon	hard skills
+fonctionnement	hard skills
+de	hard skills
+l'entreprise	hard skills
+.	
+De	O
+part	O
+le	O
+dynamisme	O
+dans	O
+lequel	O
+s	O
+`	O
+inscrit	O
+AQUADIM	company
+,	O
+le	O
+poste	O
+est	O
+amené	O
+à	O
+évoluer	O
+en	O
+fonction	O
+des	O
+aspirations	O
+du	O
+ou	O
+de	O
+la	O
+candidat	O
+-LRB-	O
+e	O
+-RRB-	O
+et	O
+de	O
+ses	O
+compétences	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+30	salary
+0	salary
+$	salary
+/	O
+an	salary
+Expérience	O
+exigée	O
+:	O
+Assistanat	experience
+:	O
+2	experience
+ans	experience
+	O

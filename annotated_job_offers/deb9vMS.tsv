@@ -1,0 +1,261 @@
+Chauffeur	position
+Livreur	position
+VL	position
+-LRB-	O
+H/F	O
+-RRB-	O
+Transports	company
+Full	company
+Fast	company
+-	O
+Ducey	city
+-LRB-	O
+50	postal code
+-RRB-	O
+1	salary
+400	salary
+$	salary
+par	salary
+mois	salary
+-	O
+CDI	contrat_type
+Transports	company
+Full	company
+Fast	company
+est	O
+une	O
+entreprise	O
+réactive	O
+et	O
+dynamique	O
+dans	O
+les	O
+métiers	O
+du	O
+transport	O
+et	O
+de	O
+la	O
+logistique	O
+sur	O
+le	O
+grand	O
+ouest	O
+et	O
+la	O
+France	O
+.	O
+Avec	O
+une	O
+trentaine	O
+de	O
+collaborateurs	O
+s	O
+'	O
+épanouissant	O
+au	O
+service	O
+de	O
+nos	O
+clients	O
+,	O
+grands	O
+leaders	O
+européens	O
+de	O
+la	O
+livraison	O
+de	O
+colis	O
+aux	O
+professionnels	O
+et	O
+particuliers	O
+,	O
+Full	company
+Fast	company
+se	O
+développe	O
+et	O
+recherche	O
+un	position
+chauffeur	position
+livreur	position
+H/F	O
+véhicule	position
+léger	position
+pour	O
+le	O
+secteur	O
+rennais	O
+.	O
+Votre	hard skills
+métier	hard skills
+:	O
+Préparer	hard skills
+et	hard skills
+charger	hard skills
+les	hard skills
+marchandises	hard skills
+dans	hard skills
+le	hard skills
+véhicule	hard skills
+selon	hard skills
+le	hard skills
+plan	hard skills
+de	hard skills
+tournée	hard skills
+de	hard skills
+livraison	hard skills
+.	
+Identifier	hard skills
+le	hard skills
+trajet	hard skills
+en	hard skills
+fonction	hard skills
+des	hard skills
+consignes	hard skills
+de	hard skills
+livraison	hard skills
+.	O
+Livrer	hard skills
+les	hard skills
+colis	hard skills
+dans	hard skills
+le	hard skills
+respect	hard skills
+qualité	hard skills
+,	
+quantité	hard skills
+et	hard skills
+délais	hard skills
+.	
+Actualiser	hard skills
+les	hard skills
+données	hard skills
+de	hard skills
+suivi	hard skills
+de	hard skills
+la	hard skills
+livraison	hard skills
+ou	hard skills
+de	hard skills
+l'enlèvement	hard skills
+à	hard skills
+l'aide	hard skills
+du	hard skills
+matériel	hard skills
+fourni	hard skills
+par	hard skills
+le	hard skills
+client	hard skills
+.	O
+Entretenir	hard skills
+-LRB-	
+nettoyage	hard skills
+-RRB-	O
+le	hard skills
+véhicule	hard skills
+.	O
+Respecter	hard skills
+le	hard skills
+code	hard skills
+de	hard skills
+la	hard skills
+route	hard skills
+.	O
+Profil	O
+:	O
+Bonne	soft skills
+condition	soft skills
+physique	soft skills
+,	O
+bonne	soft skills
+présentation	soft skills
+et	soft skills
+élocution	soft skills
+.	O
+Savoir	soft skills
+être	soft skills
+,	O
+Dynamisme	soft skills
+,	
+Motivation	soft skills
+et	soft skills
+Organisation	soft skills
+.	O
+Autonomie	soft skills
+,	O
+Ponctualité	soft skills
+,	O
+Volonté	soft skills
+,	O
+Temps	contrat_type
+plein	contrat_type
+-	O
+à	O
+pourvoir	O
+immédiatement	O
+.	O
+*	O
+Salaire	O
+:	O
+taux	O
+horaire	O
+SMIC	O
++	O
+paniers	O
+repas	O
++	O
+prime	O
+mensuelle	O
+sur	O
+CA	O
+.	O
+Vous	experience
+avez	experience
+une	experience
+première	experience
+expérience	experience
+en	experience
+livraison	experience
+,	O
+vous	soft skills
+avez	soft skills
+un	soft skills
+bon	soft skills
+sens	soft skills
+du	soft skills
+contact	soft skills
+et	
+souhaitez-vous	O
+investir	O
+au	O
+sein	O
+d'une	O
+entreprise	O
+jeune	O
+et	O
+ambitieuse	O
+.	O
+Type	O
+de	O
+contrat	O
+CDI	contrat_type
+-LRB-	O
+période	O
+d'essai	O
+2	O
+mois	O
+-RRB-	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+1	salary
+400	salary
+$	salary
+/	O
+mois	salary

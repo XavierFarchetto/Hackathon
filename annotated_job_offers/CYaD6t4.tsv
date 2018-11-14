@@ -1,0 +1,298 @@
+Conseiller	position
+Financier	position
+en	position
+Crédit	position
+Immobilier	position
+H/F	O
+Empruntis	company
+L'Agence	company
+-	O
+Boulogne-Billancourt	city
+-LRB-	O
+92	postal code
+-RRB-	O
+20	salary
+0	salary
+$	salary
+-	
+60	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Empruntis	company
+l'Agence	company
+est	O
+un	O
+réseau	O
+national	O
+de	O
+courtiers	O
+en	O
+prêts	O
+immobiliers	O
+.	O
+Partenaires	O
+des	O
+banques	O
+et	O
+des	O
+établissements	O
+financiers	O
+,	O
+les	O
+agences	O
+du	O
+réseau	O
+recherchent	O
+pour	O
+leurs	O
+clients	O
+,	O
+le	O
+financement	O
+qui	O
+correspond	O
+à	O
+leur	O
+situation	O
+familiale	O
+,	O
+fiscale	O
+et	O
+patrimoniale	O
+.	O
+Rattaché	O
+-LRB-	O
+e	O
+-RRB-	O
+à	O
+l'	O
+agence	O
+locale	O
+de	O
+Boulogne-Billancourt	city
+,	O
+votre	hard skills
+mission	hard skills
+sera	hard skills
+aussi	hard skills
+bien	hard skills
+commerciale	hard skills
+que	hard skills
+technique	hard skills
+.	
+Conseiller	hard skills
+financier	hard skills
+en	hard skills
+crédit	hard skills
+H/F	hard skills
+dont	hard skills
+les	hard skills
+missions	hard skills
+sont	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Créer	hard skills
+,	
+développer	hard skills
+et	hard skills
+animer	hard skills
+votre	hard skills
+réseau	hard skills
+d'apporteurs	hard skills
+d'affaires	hard skills
+-LRB-	
+agents	hard skills
+immobiliers	hard skills
+,	O
+promoteurs	hard skills
+,	O
+notaires	hard skills
+...	O
+-RRB-	
+Rechercher	hard skills
+et	hard skills
+négocier	hard skills
+des	hard skills
+offres	hard skills
+de	hard skills
+crédits	hard skills
+auprès	hard skills
+de	hard skills
+nos	hard skills
+partenaires	hard skills
+bancaires	hard skills
+Proposer	hard skills
+à	hard skills
+vos	hard skills
+clients	hard skills
+la	hard skills
+meilleure	hard skills
+solution	hard skills
+de	hard skills
+financement	hard skills
+et	hard skills
+mener	hard skills
+jusqu'au	hard skills
+terme	hard skills
+la	hard skills
+concrétisation	hard skills
+de	hard skills
+leur	hard skills
+projet	hard skills
+Assurer	hard skills
+un	hard skills
+suivi	hard skills
+commercial	hard skills
+et	hard skills
+administratif	hard skills
+de	hard skills
+qualité	hard skills
+des	hard skills
+dossiers	hard skills
+montés	hard skills
+ainsi	hard skills
+que	hard skills
+le	hard skills
+suivi	hard skills
+de	hard skills
+la	hard skills
+relation	hard skills
+clientèle	hard skills
+Profil	
+recherché	O
+:	O
+Expérience	experience
+réussie	experience
+dans	experience
+des	experience
+fonctions	experience
+commerciales	experience
+en	experience
+milieu	experience
+financier	experience
+-LRB-	
+banque	experience
+,	O
+courtier	experience
+,	O
+assurance	experience
+,	O
+immobilier	experience
+classique	experience
+et	experience
+défiscalisation	experience
+-RRB-	O
+.	O
+Maîtriser	hard skills
+les	hard skills
+techniques	hard skills
+de	hard skills
+vente	hard skills
+.	
+Autonome	soft skills
+,	O
+dynamique	soft skills
+et	soft skills
+rigoureux	soft skills
+-LRB-	
+se	soft skills
+-RRB-	O
+,	O
+vous	soft skills
+avez	soft skills
+le	soft skills
+sens	soft skills
+du	soft skills
+service	soft skills
+client	soft skills
+et	soft skills
+un	soft skills
+excellent	soft skills
+relationnel	soft skills
+.	O
+Vous	O
+évoluerez	O
+dans	O
+un	O
+environnement	O
+porteur	O
+et	O
+innovant	O
+tout	O
+en	O
+visant	O
+une	O
+rémunération	O
+à	O
+la	O
+hauteur	O
+vos	O
+ambitions	O
+.	O
+Vous	soft skills
+aimez	soft skills
+les	soft skills
+challenges	soft skills
+,	
+vous	soft skills
+appréciez	soft skills
+d'avoir	soft skills
+des	soft skills
+objectifs	soft skills
+à	soft skills
+atteindre	soft skills
+alors	
+venez	
+rejoindre	
+notre	O
+équipe	O
+en	O
+plein	O
+développement	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+ou	O
+indépendant	O
+Type	O
+d'emploi	O
+:	
+CDI	contrat_type
+Salaire	O
+:	O
+20	salary
+0	salary
+$	salary
+à	O
+60	salary
+0	salary
+$	salary
+/	
+an	salary
+Formation	O
+-LRB-	
+s	O
+-RRB-	O
+exigée	O
+-LRB-	O
+s	O
+-RRB-	O
+:	O
+DEUG	experience
+,	O
+DUT	experience
+,	O
+BTS	experience
+Certificat	O
+ou	O
+accréditation	O
+exigés	O
+:	O
+Permis	hard skills

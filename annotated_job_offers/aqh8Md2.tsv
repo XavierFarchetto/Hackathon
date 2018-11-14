@@ -1,0 +1,202 @@
+Chauffeur	position
+livreur	position
+COLIWEST	company
+-	O
+Trignac	city
+-LRB-	O
+44	postal code
+-RRB-	O
+9,77	salary
+$	salary
+par	salary
+heure	salary
+Nous	O
+sommes	O
+à	O
+la	O
+recherche	O
+d'un	position
+Chauffeur	position
+/	O
+Livreur	position
+H/F	O
+--	O
+TRIGNAC	city
+-LRB-	O
+44	postal code
+-RRB-	O
+Sous	O
+la	O
+responsabilité	O
+du	O
+Responsable	O
+d'Exploitation	O
+,	O
+vous	O
+rejoignez	O
+notre	O
+équipe	O
+de	O
+livraison	O
+.	O
+Après	O
+votre	O
+période	O
+d'intégration	O
+,	O
+vos	hard skills
+missions	hard skills
+seront	hard skills
+les	hard skills
+suivantes	hard skills
+:	O
+Organiser	hard skills
+le	hard skills
+chargement	hard skills
+et	hard skills
+déchargement	hard skills
+des	hard skills
+marchandises	hard skills
+à	hard skills
+livrer	hard skills
+selon	hard skills
+le	hard skills
+plan	hard skills
+de	hard skills
+tournée	hard skills
+Réaliser	hard skills
+quotidiennement	hard skills
+des	hard skills
+livraisons	hard skills
+de	hard skills
+colis	hard skills
+auprès	hard skills
+d'entreprises	hard skills
+et	hard skills
+de	hard skills
+particuliers	hard skills
+Renseigner	hard skills
+et	hard skills
+valider	hard skills
+les	hard skills
+bons	hard skills
+de	hard skills
+livraisons	hard skills
+Véritable	hard skills
+professionnel	hard skills
+de	hard skills
+la	hard skills
+route	hard skills
+,	
+vous	hard skills
+êtes	hard skills
+responsable	hard skills
+de	hard skills
+l'entretien	hard skills
+de	hard skills
+votre	hard skills
+véhicule	hard skills
+et	hard skills
+de	hard skills
+l'optimisation	hard skills
+du	hard skills
+coût	hard skills
+du	hard skills
+carburant	hard skills
+.	
+En	hard skills
+tant	hard skills
+que	hard skills
+représentant	hard skills
+de	hard skills
+Coliwest	hard skills
+auprès	hard skills
+de	hard skills
+nos	hard skills
+clients	hard skills
+,	O
+vous	hard skills
+assurez	hard skills
+leur	hard skills
+satisfaction	hard skills
+!	
+Vous	soft skills
+êtes	soft skills
+dynamique	soft skills
+,	
+organisé	soft skills
+et	soft skills
+autonome	soft skills
+?	O
+Vous	soft skills
+aimez	soft skills
+le	soft skills
+contact	soft skills
+et	soft skills
+faites	soft skills
+preuve	soft skills
+d'un	soft skills
+état	soft skills
+d'esprit	soft skills
+positif	soft skills
+?	O
+Rejoignez-nous	O
+!	O
+Manutention	O
+de	O
+charges	O
+quotidiennes	O
+à	O
+prévoir	O
+:	O
+port	O
+de	O
+colis	O
+de	O
+1	O
+à	O
+30kg	O
+à	O
+raison	O
+d'une	O
+centaine	O
+de	O
+colis	O
+par	O
+tournée	O
+.	O
+Condition	O
+obligatoire	O
+:	O
+Posséder	hard skills
+le	hard skills
+permis	hard skills
+de	hard skills
+conduire	hard skills
+B	hard skills
+depuis	hard skills
+minimum	hard skills
+2	hard skills
+ans	hard skills
+.	O
+Expérience	O
+:	O
+Débutant	hard skills
+accepté	hard skills
+Permis	hard skills
+:	O
+B	hard skills
+-	O
+Véhicule	hard skills
+léger	hard skills
+Type	O
+d'emploi	O
+:	O
+Temps	contrat_type
+plein	contrat_type
+Salaire	O
+:	O
+9,77	salary
+$	salary
+/	O
+heure	salary

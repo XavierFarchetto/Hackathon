@@ -1,0 +1,56 @@
+Chauffeur	position
+livreur	position
+SARL	company
+PRECI-CAR	company
+-	O
+Carquefou	city
+-LRB-	O
+44	postal code
+-RRB-	O
+CDI	contrat_type
+Recherche	O
+chauffeur/livreur	position
+H/F	O
+CDI	contrat_type
+35h	hard skills
++	hard skills
+heures	hard skills
+supplémentaires	hard skills
+Distribution	hard skills
+le	hard skills
+matin	hard skills
++	hard skills
+collecte	hard skills
+-LRB-	
+1	hard skills
+après-midi	hard skills
+par	hard skills
+semaine	hard skills
+-RRB-	O
+Travail	hard skills
+un	hard skills
+samedi	hard skills
+matin	hard skills
+sur	hard skills
+deux	hard skills
+Poste	
+à	O
+pourvoir	O
+immédiatement	O
+pour	O
+le	O
+compte	O
+de	O
+Chronopost	O
+.	O
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Expérience	O
+exigée	O
+:	O
+livraison	experience
+:	O
+1	experience
+an	experience

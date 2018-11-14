@@ -1,0 +1,234 @@
+AGENT	position
+COMMERCIAL	position
+IMMOBILIER	position
+-LRB-	O
+H/F	O
+-RRB-	O
+AGENCE	company
+ORPI	company
+PASSY	company
+MUETTE	company
+-	O
+Paris	city
+16e	city
+-LRB-	O
+75	postal code
+-RRB-	O
+49	salary
+0	salary
+$	salary
+par	salary
+an	salary
+-	O
+CDI	contrat_type
+Vous	O
+souhaitez	O
+rejoindre	O
+le	O
+1er	O
+Réseau	O
+immobilier	O
+de	O
+France	O
+?	O
+DESCRIPTION	O
+DU	O
+POSTE	O
+Dans	O
+le	O
+cadre	O
+de	O
+vos	O
+responsabilités	O
+vous	O
+:	O
+-	O
+Contribuez	hard skills
+à	hard skills
+la	hard skills
+notoriété	hard skills
+de	hard skills
+votre	hard skills
+agence	hard skills
+par	hard skills
+vos	hard skills
+actions	hard skills
+de	hard skills
+prospection	hard skills
+sur	hard skills
+le	hard skills
+terrain	hard skills
+,	O
+-	O
+Etes	hard skills
+responsable	hard skills
+de	hard skills
+la	hard skills
+rentrée	hard skills
+de	hard skills
+nouveaux	hard skills
+mandats	hard skills
+de	hard skills
+vente	hard skills
+au	hard skills
+sein	hard skills
+de	hard skills
+l'agence	hard skills
+,	O
+-	
+Mettez	hard skills
+en	hard skills
+œuvre	hard skills
+les	hard skills
+moyens	hard skills
+de	hard skills
+communication	hard skills
+nécessaires	hard skills
+à	hard skills
+la	hard skills
+commercialisation	hard skills
+des	hard skills
+biens	hard skills
+,	O
+-	O
+Accompagnez	hard skills
+vos	hard skills
+clients	hard skills
+vendeurs	hard skills
+et	hard skills
+acquéreurs	hard skills
+jusqu'au	hard skills
+terme	hard skills
+de	hard skills
+leur	hard skills
+projet	hard skills
+immobilier	hard skills
+et	hard skills
+assurez	hard skills
+pour	hard skills
+eux	hard skills
+la	hard skills
+négociation	hard skills
+,	O
+-	O
+Participez	hard skills
+à	hard skills
+la	hard skills
+vie	hard skills
+de	hard skills
+l'agence	hard skills
+,	
+du	hard skills
+groupement	hard skills
+et	hard skills
+du	hard skills
+réseau	hard skills
+,	
+-	O
+Etes	hard skills
+garant	hard skills
+-LRB-	
+e	hard skills
+-RRB-	
+de	hard skills
+la	hard skills
+bonne	hard skills
+utilisation	hard skills
+des	hard skills
+outils	hard skills
+commerciaux	hard skills
+mis	hard skills
+à	hard skills
+votre	hard skills
+disposition	hard skills
+par	hard skills
+le	hard skills
+réseau	hard skills
+ORPI	hard skills
+.	O
+PROFIL	O
+RECHERCHÉ	O
+Pour	O
+mener	O
+à	O
+bien	O
+les	O
+missions	O
+qui	O
+vous	O
+seront	O
+confiées	O
+,	O
+vous	soft skills
+devez	soft skills
+:	O
+-	O
+Etre	soft skills
+autonome	soft skills
+,	O
+dynamique	soft skills
+,	
+organisé	soft skills
+-LRB-	O
+e	soft skills
+-RRB-	O
+et	soft skills
+disponible	soft skills
+,	O
+-	O
+Cultiver	soft skills
+un	soft skills
+goût	soft skills
+prononcé	soft skills
+du	soft skills
+terrain	soft skills
+et	soft skills
+de	soft skills
+la	soft skills
+vente	soft skills
+,	O
+-	O
+Faire	soft skills
+preuve	soft skills
+d'une	soft skills
+réelle	soft skills
+capacité	soft skills
+d'écoute	soft skills
+et	soft skills
+d'analyse	soft skills
+des	soft skills
+besoins	soft skills
+clients	soft skills
+,	O
+-	O
+Maitriser	hard skills
+les	hard skills
+outils	hard skills
+bureautiques	hard skills
+,	
+-	O
+Acquérir	hard skills
+la	hard skills
+méthode	hard skills
+de	hard skills
+vente	hard skills
+ORPI	hard skills
+et	hard skills
+l'appliquer	hard skills
+.	O
+Secteur	hard skills
+:	O
+PASSY	hard skills
+et	hard skills
+TROCADÉRO	hard skills
+Type	O
+d'emploi	O
+:	O
+CDI	contrat_type
+Salaire	O
+:	O
+49	salary
+0	salary
+$	salary
+/	O
+an	salary
